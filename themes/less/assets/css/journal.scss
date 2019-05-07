@@ -1,0 +1,74 @@
+/* Notes tile */
+.list {
+  .grid {
+    margin-top: 80px;
+    &.two {
+      display: grid;
+      grid-gap: 3rem;
+      grid: auto-flow dense / repeat(2, 1fr);
+      @media only screen and (max-width: 667px) {
+        grid: auto-flow dense / repeat(1, 1fr);
+        grid-column: 1;
+      }
+    }
+    &.three {
+      display: grid;
+      grid-gap: 3rem;
+      grid: auto-flow dense / repeat(3, 1fr);
+      @media only screen and (max-width: 667px) {
+        grid: auto-flow dense / repeat(1, 1fr);
+        grid-column: 1;
+      }
+    }
+    &.four {
+      display: grid;
+      grid-gap: 3rem;
+      grid: auto-flow dense / repeat(4, 1fr);
+      @media only screen and (max-width: 667px) {
+        grid: auto-flow dense / repeat(1, 1fr);
+        grid-column: 1;
+      }
+    }
+  }
+  .post-header {
+    text-align: left;
+    h3 {
+      text-align: left;
+      font-size: 1.2rem;
+    }
+    .category {
+      text-align: left;
+      font-family: $sans-serif;
+    }
+  }
+}
+.list.journal {
+  display: grid;
+  grid-gap: 1rem;
+  margin-top: 40px;
+  @media only screen and (min-width: 1000px) {
+    grid: auto-flow dense / repeat(2, 50%);
+
+    :nth-child(4n-1) {
+      grid-column: 2;
+    }
+
+    .post-tile, .post-header {
+      margin: 30px;
+    }
+
+    .post-header {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+  @media only screen and (max-width: 667px) {
+    img {
+      display: block;
+      width: calc(100% - 20px);
+      margin: 10px;
+    }
+  }
+}
