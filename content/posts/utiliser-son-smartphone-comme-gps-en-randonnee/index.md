@@ -1,6 +1,6 @@
 ---
 title: Utiliser son smartphone comme GPS en bikepacking
-subtitle: Saviez-vous que votre smartphone est un outil puissant ? Il suffit de télécharger une application pour utiliser son smartphone comme GPS en randonnée.
+subtitle: Merci Gaia GPS !
 seotitle: "Utiliser son smartphone comme GPS en randonnée, bikepacking et microaventures"
 date: 2019-03-09T13:13:50+01:00
 draft: false
