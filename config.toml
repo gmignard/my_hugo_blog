@@ -37,7 +37,7 @@ canonifyURLs = true
 
 [params.social]
   email = "greg@gregorymignard.com"
-  domain = ""
+  domain = "gregorymignard.com"
   instagram = "gregmignard"
   twitter = "gregmignard"
   youtube = "GregMignard"
