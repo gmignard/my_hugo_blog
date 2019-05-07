@@ -38,8 +38,9 @@ canonifyURLs = true
 [params.social]
   email = "greg@gregorymignard.com"
   domain = ""
-  instagram = "https://www.instagram.com/gregmignard/"
-  twitter = "https://twitter.com/gregmignard"
+  instagram = "gregmignard"
+  twitter = "gregmignard"
+  youtube = "GregMignard"
 
 [[menu.main]]
   name = "Journal"
@@ -48,19 +49,19 @@ canonifyURLs = true
   identifier = "journal"
   url = "/journal/"
 [[menu.main]]
-  name = "Vadrouilles"
-  title = "Vadrouilles"
+  name = "Aventures"
+  title = "Aventures"
   weight = 2
-  identifier = "vadrouilles"
-  url = "/vadrouilles/"
+  identifier = "aventures"
+  url = "/aventures/"
 [[menu.main]]
-  name = "Inspiration"
-  title = "Inspiration"
+  name = "Guides"
+  title = "Guides"
   weight = 3
-  identifier = "inspiration"
-  url = "/inspiration/"
+  identifier = "guides"
+  url = "/guides/"
 [[menu.main]]
-  name = "A propos"
+  name = "À propos"
   title = "About me"
   weight = 4
   identifier = "about"
