@@ -62,14 +62,8 @@ canonifyURLs = true
   url = "/guides/"
 [[menu.main]]
   name = "À propos"
-  title = "About me"
+  title = "Infos & Contact"
   weight = 4
-  identifier = "about"
-  url = "/about"
-[[menu.main]]
-  name = "Studio"
-  title = "Studio"
-  weight = 5
-  identifier = "studio"
-  url = "https://captainyvon.fr/"
+  identifier = "infos"
+  url = "/infos"
 
