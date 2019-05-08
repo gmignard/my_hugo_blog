@@ -66,4 +66,10 @@ canonifyURLs = true
   weight = 4
   identifier = "about"
   url = "/about"
+[[menu.main]]
+  name = "Studio"
+  title = "Studio"
+  weight = 5
+  identifier = "studio"
+  url = "https://captainyvon.fr/"
 
