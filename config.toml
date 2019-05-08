@@ -10,7 +10,7 @@ canonifyURLs = true
 
 
 [author]
-  name = "Gregory Mignard"
+  name = "Grégory Mignard"
 
 [permalinks]
   posts = "/:slug"
@@ -37,7 +37,7 @@ canonifyURLs = true
 
 [params.social]
   email = "greg@gregorymignard.com"
-  domain = "gregorymignard.com"
+  domain = "Grégory Mignard"
   instagram = "gregmignard"
   twitter = "gregmignard"
   youtube = "GregMignard"
