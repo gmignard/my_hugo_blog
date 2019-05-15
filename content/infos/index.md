@@ -10,8 +10,8 @@ resources:
 ---
 
 {{< photoset max="2" >}}
-  {{< photo src="1.jpg" alt="Watershot à Lostmarc'h" >}}
-  {{< photo src="2.jpg" alt="À bord de mon van Yvon" >}}
+  {{< photo src="infos_1.jpg" alt="Watershot à Lostmarc'h" >}}
+  {{< photo src="infos_2.jpg" alt="À bord de mon van Yvon" >}}
 {{</ photoset >}}
 
 Je suis photographe et vidéaste freelance basé dans le Finistère Nord.
