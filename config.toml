@@ -1,7 +1,7 @@
 baseURL = "https://beta.gregorymignard.com/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
-title = "Gregory Mignard"
+title = "Grégory Mignard, (Micro)aventurier et Créateur de contenu "
 theme = "less"
 RemovePathAccents = true
 timeout = 200000
