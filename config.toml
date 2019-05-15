@@ -10,7 +10,7 @@ canonifyURLs = true
 
 
 [author]
-  name = "Grégory Mignard"
+  name = "2222 Grégory Mignard"
 
 [permalinks]
   posts = "/:slug"
@@ -66,4 +66,3 @@ canonifyURLs = true
   weight = 4
   identifier = "infos"
   url = "/infos"
-
