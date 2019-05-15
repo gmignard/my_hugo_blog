@@ -13,11 +13,6 @@ resources:
   {{< photo src="1.jpg" alt="Watershot à Lostmarc'h" >}}
   {{< photo src="2.jpg" alt="À bord de mon van Yvon" >}}
 {{</ photoset >}}
-{{< photoset max="3" >}}
-  {{< photo src="3.jpg" alt="La voile, mon premier lien avec l'océan" >}}
-  {{< photo src="4.jpg" alt="Microaventure en Canoë" >}}
-  {{< photo src="5.jpg" alt="Watershot dans le Finistère Nord" >}}
-{{</ photoset >}}
 
 Je suis photographe et vidéaste freelance basé dans le Finistère Nord.
 Amoureux des grands espaces, je suis fasciné par l’océan et les activités outdoor.
