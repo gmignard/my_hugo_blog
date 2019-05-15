@@ -1,7 +1,7 @@
 ---
 title: Rétrospective 2018
 seotitle: "Rétrospective 2018"
-date: 2019-03-09T13:13:50+01:00
+date: 2019-01-07T13:13:50+01:00
 draft: false
 slug: "retrospective-2018"
 categories:
