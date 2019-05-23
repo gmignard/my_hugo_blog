@@ -67,3 +67,9 @@ hasLogo = true
   weight = 4
   identifier = "infos"
   url = "/infos"
+
+
+[[related.indices]]
+  name = "categories"
+  weight =  1 # We don't really need this, but omitting it would disable the indice.
+  includeNewer = true
