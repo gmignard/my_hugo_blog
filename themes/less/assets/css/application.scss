@@ -87,7 +87,11 @@ h1, h2, h3, h4, h5 {
   font-family: $sans-serif;
 }
 
-.date, .main_menu, footer, .title{
+.main_menu, footer, .title{
+  font-family:  $sans-serif;
+}
+
+.date {
   font-family:  $sans-serif;
   font-size: 0.8rem;
   opacity: 0.6;
