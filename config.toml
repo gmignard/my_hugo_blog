@@ -24,6 +24,7 @@ canonifyURLs = true
   tags = []
   titleFont = "Playfair Display"
   bodyFont = "Montserrat"
+hasLogo = true
 
 # heroHeader = true
 
