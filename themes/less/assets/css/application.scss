@@ -28,13 +28,14 @@ svg {
 body {
   height: 100%;
   color: $onyx;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   font-weight: 300;
   margin: 0;
   padding: 0;
   font-family:  $serif;
   text-rendering: optimizeLegibility;
   line-height: 1.58;
+  letter-spacing: .1rem;
 }
 .about {
   margin-top: 100px;
