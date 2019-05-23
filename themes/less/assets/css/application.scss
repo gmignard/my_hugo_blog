@@ -34,8 +34,7 @@ body {
   padding: 0;
   font-family:  $serif;
   text-rendering: optimizeLegibility;
-  line-height: 1.58;
-  letter-spacing: .1rem;
+  line-height: 1.52;
 }
 .about {
   margin-top: 100px;
@@ -187,6 +186,8 @@ img {
       max-width: 45rem !important;
       margin-top: 25px;
       margin-bottom: 25px;
+      letter-spacing: .1rem;
+      line-height: 1.58;
     }
   }
   .micropost:first-child {
