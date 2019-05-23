@@ -159,7 +159,6 @@ img {
 
 .main {
   width: 100%;
-  padding-bottom: 50px;
   margin: 0;
   @media only screen and (max-width: 812px) {
     > * {
@@ -175,7 +174,7 @@ img {
     }
 
     > :not(.fullwidth) {
-      max-width: 85rem;
+      max-width: 90rem;
       margin-left: auto;
       margin-right: auto;
     }
