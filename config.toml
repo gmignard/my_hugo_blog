@@ -25,9 +25,8 @@ canonifyURLs = true
   tags = []
   titleFont = "Arimo"
   bodyFont = "Open Sans"
-hasLogo = true
-
-# heroHeader = true
+  hasLogo = true
+  heroHeader = true
 
 [taxonomies]
   category = "categories"
