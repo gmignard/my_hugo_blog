@@ -15,7 +15,7 @@ resources:
 - src: "*.jpg"
 ---
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/cz2ez7vMaP0?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="720" height="auto" src="https://www.youtube.com/embed/cz2ez7vMaP0?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Cette vidéo a été tournée sans prétention ni storytelling. J'étais en vacances, je voulais me faire plaisir à faire quelques images, mais hors de question de passer mon voyage avec la caméra à la main. C'est pourquoi j'ai essayé de faire ressortir la vibe globale en une minute. Pour se faire, j'ai voyagé léger avec seulement un **[Sony A6300](https://amzn.to/2HtInYm)** comme boitier unique, le plus souvent monté avec le **[28mm f/2](https://amzn.to/2B0FrN5),** parfois le 16-50mm, surtout pour l'utiliser dans **[le caisson étanche](https://amzn.to/2AZkUZx)** que j'utilisais en plus de la **[GoPro HERO7 Black](https://amzn.to/2DzxccO)**. J'ai également pris le **[55mm f/1.8](https://amzn.to/2Tggsgb)**, mais il ne sera pas sorti du sac. Pour stabiliser tout cela, j'ai utilisé le **[Zhiyun Crane-M](https://amzn.to/2B65rqB)** et j'ai également utilisé **[des filtres ND](https://amzn.to/2RSofDY)** de la marque Gobe. Enfin, la vidéo a été monté et étalonnée avec Final Cut Pro X et la musique vient de chez [**Artlist**](http://bit.ly/ArtlistCaptainYvon) !
 
