@@ -22,8 +22,8 @@ canonifyURLs = true
 [params]
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
-  titleFont = "Montserrat"
-  bodyFont = "Roboto"
+  titleFont = "Arimo"
+  bodyFont = "Open Sans"
 hasLogo = true
 
 # heroHeader = true
