@@ -196,6 +196,18 @@ img {
       letter-spacing: .05rem;
       line-height: 1.68;
     }
+
+    hr {
+    border: 0;
+    text-align: center;
+    &::after {
+      content: "•••";
+      font-size: 2rem;
+      text-align: center;
+      width: 100%;
+   }
+}
+  
   }
   .micropost:first-child {
     .date {
