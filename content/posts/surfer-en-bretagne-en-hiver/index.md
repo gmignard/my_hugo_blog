@@ -2,7 +2,7 @@
 title: Winter Surfing Vibes
 subtitle: Surfer en Bretagne en hiver
 seotitle: "Surfer en Bretagne en hiver"
-date: 2017-11-06T13:13:50+01:00
+date: 2019-01-09T13:13:50+01:00
 draft: false
 slug: "surfer-en-bretagne-en-hiver"
 categories:
