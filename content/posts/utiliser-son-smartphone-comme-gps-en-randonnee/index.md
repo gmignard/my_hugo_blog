@@ -18,11 +18,11 @@ Saviez-vous que votre smartphone est un outil de navigation puissant, que vous a
 
 ***
 
-### Préambule
+## Préambule
 
 C'est récemment, en préparant une microaventure dans le Vercors que je me suis intéressé aux GPS de randonnées. Je lisais justement qu'il était très facile de se perdre dans cette région de France et qu'une carte IGN et un GPS étaient quasiment indispensables. Jusqu'à présent, je bricolais avec mon iPhone et Google Maps ou Gaia, mais je me disais que cette fois, ça valait peut-être enfin le coup d'investir dans un bon GPS, ça servira tout le temps par la suite. Mon choix s'est donc porté sur le [**Garmin eTrex Touch 35**](https://amzn.to/2VnN3ky), un GPS milieu de gamme qui a excellente réputation et qui semble utilisé par pas mal de randonneurs... Un choix sûr ! Quelques jours plus tard, je reçois donc mon GPS, j'installe toutes les applications nécessaires à son fonctionnement sur mon Mac, je commence par le mettre à jour, je vois pour créer des WayPoints et charger des traces .GPX... Mais quelque chose m'agace ! C'est incroyablement vieillot et compliqué comme interface ! Aussi bien côté logiciel que côté appareil ! Mince, pour un appareil à 300€, je m'attendais à quelque chose de mieux !
 
-> ### Le meilleur GPS pourrait être celui que vous possédez déjà…
+> Le meilleur GPS pourrait être celui que vous possédez déjà…
 
 C'était évident, mais je n'y avais pas pensé. Je préfère utiliser un appareil photo pour faire des images, il était donc logique d'utiliser un GPS dédié pour partir en aventures. Sauf que dans mon cas, je vois vraiment la différence entre mon iPhone et mon Sony A7RII, en revanche, quand je pose mon Garmin à côté de mon (vieil) iPhone 6s, il fait pâle figure ! Et la différence ne s'arrête pas à la qualité de l'écran, la vitesse, l'ergonomie et la facilité d'utilisation auront eu raison de mon Garmin que je renverrais quelques jours plus tard.
 
