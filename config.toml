@@ -23,10 +23,11 @@ canonifyURLs = true
 [params]
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
-  titleFont = "Arimo"
+  titleFont = "Roboto"
   bodyFont = "Open Sans"
   hasLogo = true
-  heroHeader = true
+
+#heroHeader = true
 
 [taxonomies]
   category = "categories"
