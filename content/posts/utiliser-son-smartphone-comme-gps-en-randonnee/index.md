@@ -1,6 +1,5 @@
 ---
 title: Utiliser son smartphone comme GPS en bikepacking
-subtitle: Merci Gaia GPS !
 seotitle: "Utiliser son smartphone comme GPS en randonnée, bikepacking et microaventures"
 date: 2019-03-09T13:13:50+01:00
 draft: false
@@ -15,9 +14,7 @@ resources:
 - src: "*.jpg"
 ---
 
-On avait décidé de ne pas partir bien loin. On voulait découvrir notre region d’adoption. On veut voyager différemment, plus lentement. On ferait Carnac, Quiberon, la Pointe du Raz et Crozon. Un road trip en Bretagne sud. Facile et efficace. Du mystique, du sauvage et du classique à découvrir ou approfondir.
-
-<!-- more -->
+***
 
 {{< photo src="14.jpg" alt="light through waves" >}}
 
