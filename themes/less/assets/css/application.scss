@@ -202,12 +202,12 @@ img {
     text-align: center;
     &::after {
       content: "•••";
-      font-size: 2rem;
+      font-size: 3rem;
       text-align: center;
       width: 100%;
    }
 }
-  
+
   }
   .micropost:first-child {
     .date {
