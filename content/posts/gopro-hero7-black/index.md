@@ -31,7 +31,9 @@ Si on doit ne retenir qu'une nouveauté, c'est bien celle-là et avouons-le, on 
 
 <center><iframe width="720" height="405" src="https://www.youtube.com/embed/1wKOPlUaBe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Maintenant, je rêve qu'une telle technologie arrive sur les hybrides comme mon Sony A7RII. <span style="color: #ff0000;">Les faiblesses de l'HyperSmooth</span> : Il ne sera pas possible de l'utiliser de nuit ou en basse lumière sous en conservant une bonne qualité d'image. Il est également déconseillé d'utiliser [un filtre ND](https://amzn.to/2EPHk3G) ni de régler la GoPro avec une fréquence d'images élevée (1080-240, 2.7K-120)
+Maintenant, je rêve qu'une telle technologie arrive sur les hybrides comme mon Sony A7RII.
+
+<span style="color: #ff0000;">Les faiblesses de l'HyperSmooth</span> : Il ne sera pas possible de l'utiliser de nuit ou en basse lumière sous en conservant une bonne qualité d'image. Il est également déconseillé d'utiliser [un filtre ND](https://amzn.to/2EPHk3G) ni de régler la GoPro avec une fréquence d'images élevée (1080-240, 2.7K-120)
 
 ### TimeWarp
 
