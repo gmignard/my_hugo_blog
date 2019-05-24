@@ -23,8 +23,8 @@ canonifyURLs = true
 [params]
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
-  titleFont = "Roboto"
-  bodyFont = "Open Sans"
+  titleFont = "Open Sans"
+  bodyFont = "Neuton"
   hasLogo = true
 
 #heroHeader = true
