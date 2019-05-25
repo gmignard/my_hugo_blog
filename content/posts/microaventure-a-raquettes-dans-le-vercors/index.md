@@ -91,7 +91,7 @@ Le ciel bleu se couvre brutalement et nous voici sous une neige épaisse pour la
 ## **13h00**
 
 Retour à la cabane, nous avons faim, froid et la fatigue se fait sentir. On met le réchaud en route et on se réchauffe avec un bon plat chaud.
-Deux randonneurs en ski nordique nous rejoigne le temps d'une pause dans la cabane. Nous discutons avec eux, ils sont du coin et ont déjà pas mal randonné sur les plateaux, ça donne envie de revenir dans le coin pour en explorer une autre portion.
+Deux randonneurs en ski nordique nous rejoignent le temps d'une pause dans la cabane. Nous discutons avec eux, ils sont du coin et ont déjà pas mal randonné sur les plateaux, ça donne envie de revenir dans le coin pour en explorer une autre portion.
 
 {{< photo src="cabane_end.jpg" alt="Microaventure à raquettes dans le Vercors" >}}
 
