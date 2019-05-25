@@ -70,7 +70,7 @@ Notre petite randonnée de reconnaissance se transforme finalement en ascension 
 
 ## **11h30**
 
-Le vent se fait de plus en plus fort, le sommet approche et nous découvrons enfin cette magnifique vue depuis les crêtes.
+Le vent se fait de plus en plus fort, le sommet approche et nous découvrons enfin cette magnifique vue depuis les crêtes. À chaque pas nous nous émerveillons de ce splendide décors, seul le vent froid nous motive à redescendre.
 
 {{< photo src="crete_big.jpg" alt="Microaventure à raquettes dans le Vercors" >}}
 
@@ -79,18 +79,31 @@ Le vent se fait de plus en plus fort, le sommet approche et nous découvrons enf
   {{< photo src="crete_2.jpg" alt="Microaventure à raquettes dans le Vercors" >}}
 {{</ photoset >}}
 
+Nous décidons finalement de redescendre, nous n'avions pas prévu de nourriture dans nos sacs, tout était resté à la cabane. La faim se fait sentir et il faut juste descendre pour retrouver nos vivres.
+La descente à raquettes n'est pas une mince affaire. C'est plus dur que ça en à l'air et le dénivelé est assez violent sur certaines portions. Nous tentons quelques glissades sur les fesses pour grapiller quelques dizaines de mètres, mais les difficultés sont nombreuses et nous devons contourner pas mal de portions.
+Le ciel bleu se couvre brutalement et nous voici sous une neige épaisse pour la fin de la descente.
+
 {{< photoset max="2" >}}
   {{< photo src="neige_1.jpg" alt="Microaventure à raquettes dans le Vercors" >}}
   {{< photo src="neige_2.jpg" alt="Microaventure à raquettes dans le Vercors" >}}
 {{</ photoset >}}
 
-***
+## **13h00**
+
+Retour à la cabane, nous avons faim, froid et la fatigue se fait sentir. On met le réchaud en route et on se réchauffe avec un bon plat chaud.
+Deux randonneurs en ski nordique nous rejoigne le temps d'une pause dans la cabane. Nous discutons avec eux, ils sont du coin et ont déjà pas mal randonné sur les plateaux, ça donne envie de revenir dans le coin pour en explorer une autre portion.
 
 {{< photo src="cabane_end.jpg" alt="Microaventure à raquettes dans le Vercors" >}}
 
-#### _Mes indispensables pour cette microaventure_
+Après ce repas, Jeremy apprends une bonne nouvelle qui avorte cette microaventure, il n'y aura pas de deuxième nuit dans cette cabane, mais qu'est ce que c'était cool !
 
-*   Une bonne [paire de raquettes](https://amzn.to/2UlV7pf) ! Nous les avons loués chez [Expé](https://www.expe.fr/) à Lyon avant notre départ.
-*   Des [bâtons de marche](https://amzn.to/2HODYi9), tout aussi indispensables que les raquettes.
-*   [Un réchaud](https://amzn.to/2HOjV3v)... Pour manger chaud quand il fait froid.
-*   Un appareil photo pour documenter tout cela.
+***
+
+#### Mes indispensables pour cette microaventure
+
+* Une bonne [paire de raquettes](https://amzn.to/2UlV7pf) ! Nous les avons loués chez [Expé](https://www.expe.fr/) à Lyon avant notre départ.
+* Des [bâtons de marche](https://amzn.to/2HODYi9), tout aussi indispensables que les raquettes.
+* [Un réchaud](https://amzn.to/2HOjV3v)... Pour manger chaud quand il fait froid.
+* [Un appareil photo](https://amzn.to/2HU0CDr) pour documenter tout cela.
+* Une [GoPro](https://amzn.to/2X53wLP) et son [3-Way](https://amzn.to/2X3XxqN) pour documenter face caméra.
+* Et bien évidement, des vêtements chaud et de la bonne bouffe !
