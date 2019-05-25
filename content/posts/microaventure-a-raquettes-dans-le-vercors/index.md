@@ -79,6 +79,11 @@ Le vent se fait de plus en plus fort, le sommet approche et nous découvrons enf
   {{< photo src=« crete_2.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
 {{</ photoset >}}
 
+{{< photoset max=« 2 » >}}
+  {{< photo src=« neige_1.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+  {{< photo src=« neige_2.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+{{</ photoset >}}
+
 ***
 
 {{< photo src=« cabane_end.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
