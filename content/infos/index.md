@@ -21,7 +21,10 @@ Après avoir blogué pendant près de 10 ans sur mon blog Santadenn, j'ai décid
 Défenseur du « Leave No Trace », j’utilise mes compétences de créateur de contenu pour transmettre des valeurs et une éthique durable afin d’inspirer le plus de monde possible et dénoncer certains problèmes liés à l’environnement.
 En 2016, j’ai co-fondé Captain Yvon Studio avec Jérémy Janin, un studio de production spécialisée dans la création de photo et de films d’aventure, voyage et sports outdoor.
 
-Pour des demandes de partenariats ou échanges en rapport avec ce blog ou mes réseaux sociaux, merci d'utiliser cette adresse : greg@gregorymignard.com
-Pour toutes demandes de prestations non liées au blog (reportage, réalisation de vidéo, etc...), merci de me contacter à cette adresse : studio@captainyvon.fr
+***
+
+Pour des demandes de partenariats ou échanges en rapport avec ce blog ou mes réseaux sociaux, merci d'utiliser le formulaire ci-dessous ou de m'envoyer un mail à cette adresse : [greg@gregorymignard.com](mailto:greg@gregorymignard.com)
+
+Pour toutes demandes de prestations non liées au blog (reportage, réalisation de vidéo, etc...), merci de me contacter à cette adresse : [studio@captainyvon.fr](mailto:studio@captainyvon.fr)
 
 <br style="margin: 30px">
