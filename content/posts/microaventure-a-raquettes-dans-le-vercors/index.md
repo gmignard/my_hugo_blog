@@ -29,21 +29,33 @@ Pour ma première microaventure de l'année, j'ai retrouvé Jeremy pour partir r
 
 Je jette un coup d’œil à [Gaia GPS](https://gregorymignard.com/utiliser-son-smartphone-comme-gps-en-randonnee/), nous ne sommes plus loin, encore quelques mètres à monter et nous voyons enfin la cabane dans la pénombre, seule au pied de ces immenses crêtes. La cabane semble vide, nous frappons et nous ouvrons la porte... Ouf, il n'y a personne, on a toute la place que l'on veut. Il fait froid, le poêle à bois est visiblement hors service depuis bien longtemps, nous le savions et nous nous sommes équipés en conséquence. Après un rapide tour du propriétaire, nous installons nos affaires pour dormir, nous mettons à sécher nos vêtements mouillés et nous accrochons nos vivres au plafond afin d'éviter toute tentation chez nos amis rongeurs qui, visiblement, ont pris possession des lieux.
 
+{{< photoset max=« 2 » >}}
+  {{< photo src=« cabane_1.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+  {{< photo src=« cabane_2.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+{{</ photoset >}}
+
 ## **19h30**
 
 Il fait désormais bien noir, la nuit s'est installé en même temps que cette épaisse brume qui renforce ce sentiment d'être seuls au monde à ce moment donné. Nous mettons un peu de neige à bouillir sur le réchaud afin de réhydrater nos repas lyophilisés et nous profitons de ce moment pour nous délecter de quelques produits locaux achetés sur la route. Nous prévoyons même une fondue pour le lendemain en récompense de la randonnée à venir.
+
+{{< photoset max=« 3 » >}}
+  {{< photo src=« cabane_3.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+  {{< photo src=« cabane_4.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+  {{< photo src=« cabane_5.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+{{</ photoset >}}
 
 ## **20h30**
 
 Il fait froid, nous sommes fatigués de notre semaine de travail et nous nous écroulons rapidement dans nos sacs de couchage. De toutes façon, il n'y a pas grand chose d'autre à faire et nous ne voulons pas louper le lever du soleil le lendemain.
 
 ***
-
 ## **Samedi 03h30**
 
 _**PAM ! PAM ! PAM !**_ Je sors brutalement de mon sommeil ! Je lance un "_Qu'est ce que tu fous ?_" à Jeremy qui me répond "_Bah ! Je fais fuir les souris, elles commençaient à gratter !"_.... Ok, je n'avais rien entendu et malgré nous, nous nous mettons à papoter, nous avons finalement pas si mal dormis
 
 ***
+
+{{< photo src=« cabane_end.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
 
 #### _Mes indispensables pour cette microaventure_
 
