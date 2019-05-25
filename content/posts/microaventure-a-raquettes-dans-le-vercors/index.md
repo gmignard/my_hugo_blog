@@ -81,7 +81,7 @@ Le vent se fait de plus en plus fort, le sommet approche et nous découvrons enf
 
 {{< photoset max="2" >}}
   {{< photo src="neige_1.jpg" alt="Microaventure à raquettes dans le Vercors" >}}
-  {{< photo src="neige_2.jpg"  >}}
+  {{< photo src="neige_2.jpg" alt="Microaventure à raquettes dans le Vercors" >}}
 {{</ photoset >}}
 
 ***
