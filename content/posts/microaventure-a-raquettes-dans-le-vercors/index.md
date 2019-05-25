@@ -51,7 +51,33 @@ Il fait froid, nous sommes fatigués de notre semaine de travail et nous nous é
 ***
 ## **Samedi 03h30**
 
-_**PAM ! PAM ! PAM !**_ Je sors brutalement de mon sommeil ! Je lance un "_Qu'est ce que tu fous ?_" à Jeremy qui me répond "_Bah ! Je fais fuir les souris, elles commençaient à gratter !"_.... Ok, je n'avais rien entendu et malgré nous, nous nous mettons à papoter, nous avons finalement pas si mal dormis
+_**PAM ! PAM ! PAM !**_ Je sors brutalement de mon sommeil ! Je lance un "_Qu'est ce que tu fous ?_" à Jeremy qui me répond "_Bah ! Je fais fuir les souris, elles commençaient à gratter !"_.... Ok, je n'avais rien entendu et malgré nous, nous nous mettons à papoter, nous avons finalement pas si mal dormis et nous finirons la nuit comme ça au chaud à discuter et en attendant que le jour se lève.
+
+## **08h30**
+
+Après un petit déjeuner de champions pour se remplir le ventre, voici enfin le temps de chausser les raquettes... C'est un peu pour ça que nous sommes venus ici, pour randonner et explorer ce massif qui nous est inconnu.
+La brume s'est levée et nous pouvons enfin apercevoir le Mont Aiguille ce sommet emblématique du Vercors.
+
+{{< photoset max=« 3 » >}}
+  {{< photo src=« vert_1.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+  {{< photo src=« vert_2.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+  {{< photo src=« vert_3.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+{{</ photoset >}}
+
+## **10h00**
+
+Notre petite randonnée de reconnaissance se transforme finalement en ascension des crêtes que nous nous révervions pour le lendemain. Le temps est beau, nous avons déjà fait plus de la moitié du chemin et nous sommes définitivement motivés à atteindre le sommet, tant pis pour demain, on trouvera bien un autre programme.
+
+## **11h30**
+
+Le vent se fait de plus en plus fort, le sommet approche et nous découvrons enfin cette magnifique vue depuis les crêtes.
+
+{{< photo src=« crete_big.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+
+{{< photoset max=« 2 » >}}
+  {{< photo src=« crete_1.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+  {{< photo src=« crete_2.jpg » alt=« Microaventure à raquettes dans le Vercors » >}}
+{{</ photoset >}}
 
 ***
 
