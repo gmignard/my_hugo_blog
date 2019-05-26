@@ -197,18 +197,19 @@ img {
       line-height: 1.68;
     }
 
-    hr {
-    border: 0;
-    text-align: center;
-    &::after {
-      content: "•••";
-      font-size: 3rem;
-      text-align: center;
-      width: 100%;
-   }
-}
-
   }
+
+  hr {
+  border: 0;
+  text-align: center;
+  &::after {
+    content: "•••";
+    font-size: 3rem;
+    text-align: center;
+    width: 100%;
+  }
+  }
+
   .micropost:first-child {
     .date {
       border-top: 0 !important;
