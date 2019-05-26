@@ -175,8 +175,8 @@ img {
   @media only screen and (min-width: 1000px) {
     .fullwidth, .fullwidth img {
       width: 100% !important;
-      margin-left: 0;
-      margin-right: 0;
+      margin-left: 1rem;
+      margin-right: 1rem;
     }
 
     > :not(.fullwidth) {
