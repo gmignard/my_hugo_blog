@@ -1,6 +1,7 @@
 baseURL = "https://beta.gregorymignard.com/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
+title = "Grégory Mignard"
 theme = "less"
 googleAnalytics = "UA-61295963-3"
 RemovePathAccents = true
