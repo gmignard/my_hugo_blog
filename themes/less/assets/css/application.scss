@@ -175,14 +175,14 @@ img {
   @media only screen and (min-width: 1000px) {
     .fullwidth, .fullwidth img {
       width: 100% !important;
-      margin-left: 1rem;
-      margin-right: 1rem;
+      margin-left: 0;
+      margin-right: 0;
     }
 
     > :not(.fullwidth) {
       max-width: 80rem;
-      margin-left: auto;
-      margin-right: auto;
+      margin-left: 1rem;
+      margin-right: 1rem;
     }
 
     > .vertical {
