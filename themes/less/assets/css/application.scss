@@ -155,10 +155,7 @@ img {
     display: none;
   }
   @media only screen and (min-width: 1000px) {
-    color: $white-text;
-    position: absolute;
-    top: 10px;
-    left: 10px;
+    display: none;
   }
 }
 
