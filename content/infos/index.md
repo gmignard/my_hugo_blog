@@ -15,7 +15,7 @@ resources:
 {{</ photoset >}}
 
 Salut ! Moi c'est Grégory et je suis photographe et vidéaste freelance basé dans le Finistère Nord.
-Amoureux des grands espaces, je suis fasciné par l’océan et les activités outdoor et je passe un maximum de temps dehors en microaventure ou en famille avec [Yvon](https://www.instagram.com/lifewithyvon/), mon van.
+Amoureux des grands espaces, je suis fasciné par l’océan et les activités outdoor et je passe un maximum de temps dehors en microaventure et en famille avec [Yvon](https://www.instagram.com/lifewithyvon/), mon van.
 
 Après avoir blogué pendant près de 10 ans sur mon ancien blog Santadenn, j'ai décidé de repartir de zéro en partageant ici mes créations et récits d'aventures.
 Défenseur du « _Leave No Trace_ », j’utilise mes compétences de créateur de contenu pour transmettre des valeurs et une éthique durable afin d’inspirer le plus de monde possible et dénoncer certains problèmes liés à l’environnement.
