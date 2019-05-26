@@ -211,6 +211,10 @@ img {
     }
   }
 
+  .description {
+    display: none;
+  }
+
   .micropost:first-child {
     .date {
       border-top: 0 !important;
