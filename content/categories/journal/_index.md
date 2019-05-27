@@ -1,4 +1,5 @@
 ---
 title: "Journal"
-description: "Réflexions, écologie et tranches de vie. En fait, de tout et de rien."
+seotitle: "Journal de bord - Grégory Mignard"
+description: "Réflexions, écologie et tranches de vie. Mon journal de bord, un peu de tout et de rien."
 ---
