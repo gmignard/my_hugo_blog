@@ -1,5 +1,5 @@
 ---
-title: "À Propos & Infos"
+title: "À Propos & Infos - Grégory Mignard"
 seotitle: "À Propos & Infos - Grégory Mignard"
 date: 2017-10-26T22:57:50+02:00
 draft: false
