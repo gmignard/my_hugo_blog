@@ -32,7 +32,6 @@ canonifyURLs = true
   category = "categories"
 
 [params.titles]
-
   posts = "Journal"
   categories = "Catégories"
 
@@ -42,6 +41,9 @@ canonifyURLs = true
   instagram = "gregmignard"
   twitter = "gregmignard"
   youtube = "GregMignard"
+
+[Paginate]
+  default = 10
 
 [[menu.main]]
   name = "Journal"
