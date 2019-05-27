@@ -1,4 +1,5 @@
 ---
-title: "Aventures"
-description: "Aventures, voyages, microaventures et roadtrips avec mon van Yvon."
+title: "🚐 Aventures & Van Life - Grégory Mignard"
+seotitle: "🚐 Aventures & Van Life - Grégory Mignard"
+description: "Aventures et microaventures, qui se vivent près de chez nous. Une art de vivre pour se reconnecter à la nature."
 ---
