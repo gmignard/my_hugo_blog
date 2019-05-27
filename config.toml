@@ -7,7 +7,7 @@ RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = true
-paginate = 10
+paginate = 9
 
 
 [author]
