@@ -1,5 +1,5 @@
 ---
 title: "Aventures"
-seotitle: "🚐 Aventures & Van Life - Grégory Mignard"
-description: "Aventures et microaventures, qui se vivent près de chez nous. Une art de vivre pour se reconnecter à la nature."
+seotitle: "🚐 (Micro)aventures, Van Life & Voyages - Grégory Mignard"
+description: "Aventures, microaventures, Van Life et voyages. Mon art de vivre pour se reconnecter à la nature."
 ---
