@@ -139,6 +139,20 @@ img {
   width: 100%;
 }
 
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.page-item {
+  list-style-type: none;
+  margin: 3px;
+}
+
+.page-link {
+  background-image: none;
+}
+
 /* Main wrapper */
 .wrapper {
   min-height: 100%;
