@@ -42,9 +42,6 @@ canonifyURLs = true
   twitter = "gregmignard"
   youtube = "GregMignard"
 
-[Paginate]
-  default = 10
-
 [[menu.main]]
   name = "Journal"
   title = "Journal"
