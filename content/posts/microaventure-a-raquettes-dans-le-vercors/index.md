@@ -19,8 +19,6 @@ Pour ma première microaventure de l'année, j'ai retrouvé Jeremy pour partir r
 
 {{< youtube nhmYnWDGAGc >}}
 
-<center><iframe width="720" height="405" src="https://www.youtube.com/embed/nhmYnWDGAGc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
 ***
 
 ## **Vendredi 17h30**
