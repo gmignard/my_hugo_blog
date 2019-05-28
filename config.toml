@@ -24,7 +24,7 @@ paginate = 9
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
   titleFont = "Open Sans"
-  bodyFont = "Roboto"
+  bodyFont = "Neuton"
   hasLogo = true
 
 #heroHeader = true
