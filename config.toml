@@ -1,0 +1,75 @@
+baseURL = "https://beta.gregorymignard.com/"
+languageCode = "fr"
+DefaultContentLanguage = "fr"
+theme = "less"
+googleAnalytics = "UA-61295963-3"
+RemovePathAccents = true
+timeout = 200000
+enableRobotsTXT = true
+canonifyURLs = true
+paginate = 9
+
+
+[author]
+  name = "Grégory Mignard"
+
+[permalinks]
+  posts = "/:slug"
+  categories = "/:slug"
+
+[imaging]
+  resampleFilter = "lanczos"
+
+[params]
+  sizes = [ "2048" , "1024" , "512" ]
+  tags = []
+  titleFont = "Open Sans"
+  bodyFont = "Neuton"
+  hasLogo = true
+
+#heroHeader = true
+
+[taxonomies]
+  category = "categories"
+
+[params.titles]
+  posts = "Journal"
+  categories = "Catégories"
+
+[params.social]
+  email = "greg@gregorymignard.com"
+  domain = "Grégory Mignard"
+  instagram = "gregmignard"
+  twitter = "gregmignard"
+  youtube = "GregMignard"
+
+[[menu.main]]
+  name = "Journal"
+  title = "Journal"
+  weight = 1
+  identifier = "journal"
+  url = "/journal/"
+[[menu.main]]
+  name = "Aventures"
+  title = "Aventures"
+  weight = 2
+  identifier = "aventures"
+  url = "/aventures/"
+[[menu.main]]
+  name = "Guides"
+  title = "Guides"
+  weight = 3
+  identifier = "guides"
+  url = "/guides/"
+[[menu.main]]
+  name = "À propos"
+  title = "Infos & Contact"
+  weight = 4
+  identifier = "infos"
+  url = "/infos"
+
+
+[[related.indices]]
+  name = "categories"
+  weight =  1 # We don't really need this, but omitting it would disable the indice.
+  includeNewer = true

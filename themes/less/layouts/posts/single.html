@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="main post">
+  {{ if .IsTranslated }}
+    {{ range .Translations }}
+    <p class="translation en">
+      <a href="{{ .Permalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
+    </p>
+    {{ end}}
+  {{ end }}
+  {{ partial "gallery.html" . }}
+  {{.Content}}
+  {{if .Params.gear }}
+    <p class="center t12"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
+  {{ end }}
+</div>
+{{ partial "three.html" (.Site.RegularPages.Related . ) }}
+{{ end }}
