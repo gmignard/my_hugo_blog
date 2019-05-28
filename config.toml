@@ -1,4 +1,4 @@
-baseURL = "https://beta.gregorymignard.com/"
+baseURL = "https://gregorymignard.com/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 theme = "less"
