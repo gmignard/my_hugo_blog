@@ -1,13 +1,13 @@
 ---
-title: Journée Mondiale de l'Environnement
-subtitle: Nous sommes LA SOLUTION, arrêtons de l’attendre !
-seotitle: "Journée Mondiale de l'Environnement"
-date: 2018-06-05T13:13:50+01:00
+title: Outdoor Sentinels
+subtitle: La communauté de passionnés activistes par Lafuma
+seotitle: "Outdoor Sentinels Lafuma"
+date: 2019-05-28T13:13:50+01:00
 draft: false
-slug: "journee-mondiale-de-lenvironnement"
+slug: "outdoor-sentinels"
 categories:
 - journal
-tags: ["Journée Mondiale de l'Environnement", "ecologie", "LeaveNoTrace", "Leave No trace", "environnement", "avenir"]
+tags: ["Journée Mondiale de l'Environnement", "ecologie", "LeaveNoTrace", "Leave No trace", "environnement", "avenir", "Lafuma", "Outdoor", "Outdoor sentinels", "Lafuma Outdoor Sentinels", "Outdoor Sentinel"]
 description: "Aujourd’hui, c’est la Journée Mondiale de l'Environnement, l’occasion d’attirer l’attention sur des choses qui paraissent bénignes et qui pourtant pourrissent notre planète."
 resources:
 - src: "cover.jpg"
