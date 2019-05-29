@@ -2,18 +2,20 @@
 title: Outdoor Sentinels
 subtitle: La communauté de passionnés activistes par Lafuma
 seotitle: "Outdoor Sentinels Lafuma"
-date: 2019-05-28T13:13:50+01:00
+date: 2019-06-05T13:13:50+01:00
 draft: false
 slug: "outdoor-sentinels"
 categories:
 - journal
 tags: ["Journée Mondiale de l'Environnement", "ecologie", "LeaveNoTrace", "Leave No trace", "environnement", "avenir", "Lafuma", "Outdoor", "Outdoor sentinels", "Lafuma Outdoor Sentinels", "Outdoor Sentinel"]
-description: "Aujourd’hui, c’est la Journée Mondiale de l'Environnement, l’occasion d’attirer l’attention sur des choses qui paraissent bénignes et qui pourtant pourrissent notre planète."
+description: "Outdoor Sentinels est une communauté de passionné(e)s d’outdoor qui désirent partager leurs aventures, tout en sensibilisant à la protection de ces terrains de jeu."
 resources:
 - src: "cover.jpg"
   name: "cover"
 - src: "*.jpg"
 ---
+
+https://deploy-preview-6--dazzling-pike-8ee366.netlify.com/journee-mondiale-de-lenvironnement/
 
 > "The greatest threat to our planet is the belief that someone else will save it" - Robert Swan
 
