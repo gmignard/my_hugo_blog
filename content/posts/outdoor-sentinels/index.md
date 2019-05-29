@@ -39,4 +39,4 @@ Si les déchets se retrouvent aussi dans la nature, c’est parce que trop de ge
 
 Voici en vrac et dans le désordes quelques comptes inspirants et ressources pour prolonger l'aventure et aller encore plus loin dans sa démarche :
 
-* [Take 3 for the sea](https://www.instagram.com/take3forthesea/)
+[Take 3 for the sea](https://www.instagram.com/take3forthesea/) / 
