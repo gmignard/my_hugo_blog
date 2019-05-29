@@ -17,7 +17,7 @@ resources:
 
 Avez-vous déjà surfer en Bretagne en hiver ? Ambiances froides, temps gris, mais des vagues un peu partout et bien souvent personne à l'eau. C'est ainsi qu'en cette première semaine de 2019, je me suis mis à surveiller de près Windguru qui annonçait un peu de houle pour ce premier weekend de l'année. Ni une ni deux, je contacte Martin avec qui on se calera pour ce petit shooting improvisé de la veille pour le lendemain. J'avais bien en tête quelques plans, je crois que j'avais surtout envie d'assumer la grisaille et l'ambiance monochrome de ce dimanche 6 janvier. Pendant presque 3 heures, Martin se pliera à mes exigences pendant que je le filmerais un peu sous tous les angles. Cela donne naissance à ce nouveau [#OneMinuteOutside](https://www.youtube.com/results?search_query=%23OneMinuteOutside) !
 
-<center><iframe width="720" height="405" src="https://www.youtube.com/embed/tJ5903rFx0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{{< youtube tJ5903rFx0I >}}
 
 > [#OneMinuteOutside](https://www.youtube.com/results?search_query=%23OneMinuteOutside), c'est le résumé de nos sorties en pleine nature, en 1 minute, juste pour le plaisir de l'image et des beaux moments vécus dehors.
 
