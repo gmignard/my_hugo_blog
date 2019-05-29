@@ -2,7 +2,7 @@
 title: Outdoor Sentinels
 subtitle: La communauté de passionnés activistes par Lafuma
 seotitle: "Outdoor Sentinels Lafuma"
-date: 2019-06-05T13:13:50+01:00
+date: 2019-05-28T13:13:50+01:00
 draft: false
 slug: "outdoor-sentinels"
 categories:
