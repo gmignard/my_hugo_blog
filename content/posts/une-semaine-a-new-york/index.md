@@ -16,7 +16,7 @@ resources:
 
 Un an que ces rushes trainent dans mon NAS, un an que je me dis que je dois monter cette vidéo, un an que je dois raconter cette semaine à New York, ma première fois !
 
-<center><iframe width="720" height="405" src="https://www.youtube.com/embed/-OyHBOCMAAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{{< youtube -OyHBOCMAA >}}
 
 {{< photo src="1.jpg" alt="Une semaine à New York" >}}
 

@@ -17,7 +17,7 @@ resources:
 
 Pour ma première microaventure de l'année, j'ai retrouvé Jeremy pour partir randonner à raquettes dans le Vercors. Le plan est simple, se déconnecter de tout et renouer aux sources en passant 2 jours et 2 nuits dans une cabane non gardée.
 
-<center><iframe width="720" height="405" src="https://www.youtube.com/embed/nhmYnWDGAGc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{{< youtube nhmYnWDGAGc >}}
 
 ***
 
