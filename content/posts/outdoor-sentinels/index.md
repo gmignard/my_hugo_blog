@@ -17,6 +17,10 @@ resources:
 
 Il y a deux ans, je publiais [cet article](https://gregorymignard.com/journee-mondiale-de-lenvironnement/) pour la Journée Mondiale de l'Environnement. Je profite de cette nouvelle journée mondiale pour vous parler de la communauté Outdoor Sentinels dont j'ai le plaisir de vous annoncer que j'en suis ambassadeur.
 
+***
+
+### Outdoor Sentinels
+
 > Le meilleur déchet est celui que l'on ne produit pas !
 
 Même si ce n'est pas notre déchet, nous pouvons le rammasser lors de notre balade et sensibilier notre entourage.
