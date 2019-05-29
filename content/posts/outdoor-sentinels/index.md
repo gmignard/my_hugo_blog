@@ -19,6 +19,8 @@ Il y a deux ans, je publiais [cet article](https://gregorymignard.com/journee-mo
 
 > Le meilleur déchet est celui que l'on ne produit pas !
 
+Même si ce n'est pas notre déchet, nous pouvons le rammasser lors de notre balade et sensibilier notre entourage.
+
 
 
 #### Pour aller plus loin...
