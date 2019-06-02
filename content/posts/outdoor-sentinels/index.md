@@ -20,8 +20,8 @@ Il y a deux ans, je publiais [cet article](https://gregorymignard.com/journee-mo
 ***
 
 {{< photoset max="2" >}}
-  {{< photo src="set_01-1.jpg" alt="Outdoor Sentinels Lafuma" >}}
-  {{< photo src="set_04-2.jpg" alt="Outdoor Sentinels Lafuma" >}}
+  {{< photo src="photo.jpeg" alt="Outdoor Sentinels Lafuma" >}}
+  {{< photo src="photo-2.jpeg" alt="Outdoor Sentinels Lafuma" >}}
 {{</ photoset >}}
 
 Des propositions, j’en reçois en tous genres sur ce blog. Des totalement à côté de la plaque (très souvent) et des collaborations plutôt cool. C’est ainsi que Lafuma m’a contacté il y a quelques mois en me proposant de devenir « Outdoor Sentinel », ambassadeur de leur programme environnemental.
