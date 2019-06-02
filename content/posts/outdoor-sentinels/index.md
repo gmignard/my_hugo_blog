@@ -59,4 +59,4 @@ Même si ce n'est pas notre déchet, nous pouvons le ramasser lors de notre bala
 
 Voici en vrac et dans le désordre quelques comptes inspirants et ressources pour prolonger l'aventure et aller encore plus loin dans sa démarche :
 
-[Take 3 for the sea](https://www.instagram.com/take3forthesea/) / Surfrider Foundation / Leave No Trace / Protect Our Winters
+[Take 3 for the sea](https://www.instagram.com/take3forthesea/) / [Surfrider Foundation](https://surfrider.eu) / [Leave No Trace](https://lnt.org) / [Protect Our Winters](http://www.protectourwinters.fr) / [Sea Shepherd](http://www.seashepherd.fr) / [The Sea Cleaners](https://www.theseacleaners.org) / [Un Océan de Vie](http://www.unoceandevie.com/fr/) / [Initiatives Océanes](https://www.initiativesoceanes.org)
