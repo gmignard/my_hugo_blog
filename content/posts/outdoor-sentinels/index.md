@@ -33,7 +33,7 @@ Outdoor Sentinels c’est quoi ?
 C’est le nom donné par Lafuma à la communauté de passionnés de nature qu’ils ont réunis pour promouvoir notre amour de la nature et de l’environnement auprès de chaque communauté d’ambassadeurs.
 
 Quand le mot « outdoor » est associé aux réseaux sociaux, on peut émettre quelques doutes aujourd’hui tellement les réseaux sociaux et l’influence causent de torts à notre environnement (voir [cet article](https://www.lesothers.com/outdoor-burnout-cliche-photographie) pour comprendre de quoi je parle).
-Il fut un temps où je me collais la caquette de photographe outdoor, aujourd’hui, j’ai presque honte de me présenter comme tel, tellement les dérives sont nombreuses et contraires à mon éthique.
+Il fut un temps où je me collais la casquette de photographe outdoor, aujourd’hui, j’ai presque honte de me présenter comme tel, tellement les dérives sont nombreuses et contraires à mon éthique.
 
 Je suis photographe oui, mais je suis amoureux de la nature et je n’ai pas attendu Instagram et les likes sur mes images pour aller prendre l’air. Depuis tout petit je préfère passer mon temps dehors que dedans, depuis tout petit j’ai préféré des activités *natures* (Vélo, voile, surf...), et depuis tout petit j’ai une conscience écologique, des valeurs qui m’ont été transmises par mes parents.
 
