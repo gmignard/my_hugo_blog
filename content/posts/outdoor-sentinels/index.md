@@ -19,12 +19,17 @@ Il y a deux ans, je publiais [cet article](https://gregorymignard.com/journee-mo
 
 ***
 
+{{< photoset max="2" >}}
+  {{< photo src="set_01-1.jpg" alt="Outdoor Sentinels Lafuma" >}}
+  {{< photo src="set_01-2.jpg" alt="Outdoor Sentinels Lafuma" >}}
+{{</ photoset >}}
+
 Des propositions, j’en reçois en tous genres sur ce blog. Des totalement à côté de la plaque (très souvent) et des collaborations plutôt cool. C’est ainsi que Lafuma m’a contacté il y a quelques moi en me proposant de devenir « Outdoor Sentinel », ambassadeur de leur programme environnemental.
 Après avoir échangé avec eux, c’est tout naturellement que j’ai accepté ce rôle.
 
 ### Outdoor Sentinels
 
-
+{{< photo src="crete_big.jpg" alt="Microaventure à raquettes dans le Vercors" >}}
 
 > Le meilleur déchet est celui que l'on ne produit pas !
 
