@@ -19,16 +19,21 @@ Il y a deux ans, je publiais [cet article](https://gregorymignard.com/journee-mo
 
 ***
 
+Des propositions, j’en reçois en tous genres sur ce blog. Des totalement à côté de la plaque (très souvent) et des collaborations plutôt cool. C’est ainsi que Lafuma m’a contacté il y a quelques moi en me proposant de devenir « Outdoor Sentinel », ambassadeur de leur programme environnemental.
+Après avoir échangé avec eux, c’est tout naturellement que j’ai accepté ce rôle.
+
 ### Outdoor Sentinels
+
+
 
 > Le meilleur déchet est celui que l'on ne produit pas !
 
-Même si ce n'est pas notre déchet, nous pouvons le rammasser lors de notre balade et sensibilier notre entourage.
+Même si ce n'est pas notre déchet, nous pouvons le ramasser lors de notre balade et sensibiliser notre entourage.
 
 
 
 #### Pour aller plus loin...
 
-Voici en vrac et dans le désordes quelques comptes inspirants et ressources pour prolonger l'aventure et aller encore plus loin dans sa démarche :
+Voici en vrac et dans le désordre quelques comptes inspirants et ressources pour prolonger l'aventure et aller encore plus loin dans sa démarche :
 
 [Take 3 for the sea](https://www.instagram.com/take3forthesea/) /
