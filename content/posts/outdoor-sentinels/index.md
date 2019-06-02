@@ -32,7 +32,7 @@ Après avoir échangé avec eux, c’est tout naturellement que j’ai accepté 
 Outdoor Sentinels c’est quoi ?
 C’est le nom donné par Lafuma à la communauté de passionnés de nature qu’ils ont réunis pour promouvoir notre amour de la nature et de l’environnement auprès de chaque communauté d’ambassadeurs.
 
-Quand le mot « *outdoor* » est associé aux réseaux sociaux, on peut émettre quelques doutes aujourd’hui tellement les réseaux sociaux et l’influence cause de tort à notre environnement (voir [cet article](https://www.lesothers.com/outdoor-burnout-cliche-photographie) pour comprendre de quoi je parle).
+Quand le mot « _outdoor_ » est associé aux réseaux sociaux, on peut émettre quelques doutes aujourd’hui tellement les réseaux sociaux et l’influence cause de tort à notre environnement (voir [cet article](https://www.lesothers.com/outdoor-burnout-cliche-photographie) pour comprendre de quoi je parle).
 Il fut un temps où je me collais la caquette de photographe outdoor, aujourd’hui, j’ai presque honte de me présenter comme tel, tellement les dérives sont nombreuses et contraires à mon éthique.
 
 Je suis photographe oui, mais je suis amoureux de la nature et je n’ai pas attendu Instagram et les likes sur mes images pour aller prendre l’air. Depuis tout petit je préfère passer mon temps dehors que dedans, depuis tout petit j’ai préféré des activités *natures* (Vélo, voile, surf...), et depuis tout petit j’ai une conscience écologique, des valeurs qui m’ont été transmises par mes parents.
@@ -45,7 +45,7 @@ Je suis photographe oui, mais je suis amoureux de la nature et je n’ai pas att
 Aujourd’hui, me voilà papa de deux petits aventuriers en herbe, me voilà à la tête de quelques milliers de followers qui suivent mes faits et gestes, à moi donc de montrer l’exemple.
 
 C’est un peu ça un Outdoor Sentinel ! Je passe beaucoup de temps dans la nature donc autant partager mes belles images avec de bonnes habitudes en montrant l’exemple.
-Si le minimalisme et le « *Leave No Trace* » est une évidence et un art de vivre chez moi, ce n’est visiblement pas le cas de tous à en constater les déchets que l’on peut trouver sur les plages et sentiers.
+Si le minimalisme et le « _Leave No Trace_ » est une évidence et un art de vivre chez moi, ce n’est visiblement pas le cas de tous à en constater les déchets que l’on peut trouver sur les plages et sentiers.
 
 > Le meilleur déchet est celui que l'on ne produit pas !
 
