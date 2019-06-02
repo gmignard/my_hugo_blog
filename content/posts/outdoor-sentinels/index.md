@@ -51,10 +51,12 @@ Si le minimalisme et le « *Leave No Trace* » est une évidence et un art de 
 
 {{< photo src="3.jpg" alt="Outdoor Sentinels Lafuma" >}}
 
-Même si ce n'est pas notre déchet, nous pouvons le ramasser lors de notre balade et sensibiliser notre entourage !
+Même si ce n'est pas notre déchet, nous pouvons le ramasser lors de notre balade et sensibiliser notre entourage ! Je passe beaucoup de temps sur le littoral Breton pour le photographier et profiter de la beauté de la nature et loin de moi l’idée d’avoir un discours moralisateur, je vais partager un peu plus l’envers du décors de certaines sorties et dévoiler mes solutions pour limiter les déchets et les collecter dans la nature.
+
+***
 
 ### Pour aller plus loin...
 
 Voici en vrac et dans le désordre quelques comptes inspirants et ressources pour prolonger l'aventure et aller encore plus loin dans sa démarche :
 
-[Take 3 for the sea](https://www.instagram.com/take3forthesea/) /
+[Take 3 for the sea](https://www.instagram.com/take3forthesea/) / Surfrider Foundation / Leave No Trace / Protect Our Winters
