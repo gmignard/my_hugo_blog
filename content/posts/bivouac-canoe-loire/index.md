@@ -1,6 +1,6 @@
 ---
 title: Un bivouac en canoë sur la Loire
-subtitle: Récit pendant un workshop photo aventure
+subtitle: Récit d'un workshop photo aventure
 seotitle: "Un bivouac en canoë sur la Loire"
 date: 2019-06-05T07:00:50+01:00
 draft: false
@@ -15,7 +15,7 @@ resources:
 - src: "*.jpg"
 ---
 
-Vendredi 5 avril, 9h30, je gare [Yvon](https://www.instagram.com/lifewithyvon/) sur le parking de la BioCoop, c'est ici que je dois prendre [Yannick](https://vadrouilles.co/bivouac-et-canoe/), notre covoitureur et aventurier du weekend. La route est longue pour rejoindre la Sologne, la terre de mon enfance où je retrouve mes parents le temps de déposer Coline et Marion pendant que je serais en stage photo d'aventure avec Yannick... Entre autre.
+Vendredi 5 avril, 9h30, je gare [Yvon](https://www.instagram.com/lifewithyvon/) sur le parking de la BioCoop, c'est ici que je dois récupérer [Yannick](https://vadrouilles.co/bivouac-et-canoe/), notre covoitureur et aventurier du weekend. La route est longue pour rejoindre la Sologne, la terre de mon enfance où je retrouve mes parents le temps de déposer Coline et Marion pendant que je serais en stage photo d'aventure avec Yannick... Entre autre.
 La première étape est de retrouver [Jeremy](https://djisupertramp.com/) à la gare des Aubrais et de trouver un spot sympa pour se poser en van pour la soirée et la nuit.
 
 PHOTOS
