@@ -16,10 +16,24 @@ resources:
 - src: "*.jpg"
 ---
 
+
+
+{{< photoset max="3" >}}
+  {{< photo src="8.jpg" alt="Surfers preping on the beach" >}}
+  {{< photo src="7.jpg" alt="Behing the beach" >}}
+  {{< photo src="9.jpg" alt="Surfer walking in water" >}}
+{{</ photoset >}}
+
+
 Vendredi 5 avril, 9h30, je gare [Yvon](https://www.instagram.com/lifewithyvon/) sur le parking de la BioCoop, c'est ici que je dois récupérer [Yannick](https://vadrouilles.co/bivouac-et-canoe/), notre covoitureur et aventurier du weekend. La route est longue pour rejoindre la Sologne, la terre de mon enfance où je retrouve mes parents le temps de déposer Coline et Marion pendant que je serais en stage photo d'aventure avec Yannick... Entre autre.
 La première étape est de retrouver [Jeremy](https://djisupertramp.com/) à la gare des Aubrais et de trouver un spot sympa pour se poser en van pour la soirée et la nuit.
 
-PHOTOS
+{{< photo src="1.jpg" alt="Un bivouac en canoë sur la Loire" >}}
+
+{{< photoset max="2" >}}
+  {{< photo src="2.jpg" alt="Un bivouac en canoë sur la Loire" >}}
+  {{< photo src="3.jpg" alt="Un bivouac en canoë sur la Loire" >}}
+{{</ photoset >}}
 
 Le hasard nous emmène au bord d'un étang au coeur de la forêt Orléanaise, le spot parfait pour profiter d'une belle lumière et déguster les pizzas achetées un peu plus tôt sur la route.
 
