@@ -6,6 +6,7 @@ date: 2019-06-05T06:45:50+01:00
 draft: false
 slug: "outdoor-sentinels"
 categories:
+- environnement
 - journal
 tags: ["Journée Mondiale de l'Environnement", "ecologie", "LeaveNoTrace", "Leave No trace", "environnement", "avenir", "Lafuma", "Outdoor", "Outdoor sentinels", "Lafuma Outdoor Sentinels", "Outdoor Sentinel"]
 description: "Outdoor Sentinels est une communauté de passionné(e)s d’outdoor qui désirent partager leurs aventures, tout en sensibilisant à la protection de ces terrains de jeu."
