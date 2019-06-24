@@ -23,8 +23,10 @@ paginate = 9
 [params]
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
+  
   titleFont = "Montserrat"
   bodyFont = "Poly"
+  
   hasLogo = true
 
 #heroHeader = true
