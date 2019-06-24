@@ -1,6 +1,6 @@
 ---
 title: "Grégory Mignard"
-seotitle: "Grégory Mignard - (Micro)aventures, Van Life & tranches de vie en Bretagne"
+seotitle: "Grégory Mignard - Photographe & Blog Lifestyle"
 description: "Photographe, vidéaste et blogueur basé dans le Finistère, je documente sur ce blog mes tranches de vie et (micro)aventures."
 date: 2017-10-26T22:57:50+02:00
 draft: false
