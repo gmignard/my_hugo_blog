@@ -45,10 +45,11 @@ a {
   color: $accent;
   text-decoration: underline;
   position: relative;
-  &:visited, &:hover {
-    color: $onyx;
-    text-decoration: none;
-  }
+}
+
+a:visited, a:hover {
+  color: $onyx;
+  text-decoration: none;
 }
 
 h1.large {
