@@ -41,15 +41,14 @@ body {
 }
 
 a {
-  color: #389BB1;
+  color: #4293B6;
+  webkit-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out;
   text-decoration: underline;
   position: relative;
-  text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-  background-image: linear-gradient(to top, transparent, transparent 2px, $onyx 2px, $onyx 2.5px, transparent 2.5px);
-  transition: color 0.5s, background-image 0.5s linear;
   &:visited, &:hover {
-    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-    background-image: linear-gradient(to top, transparent, transparent 2px, $onyx 2px, $onyx 2.5px, transparent 2.5px);
+    color: $onyx;
+    text-decoration: none;
   }
 }
 

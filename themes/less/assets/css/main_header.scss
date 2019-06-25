@@ -80,6 +80,8 @@
   .main_menu li {
     list-style-type: none;
     a {
+      color: $onyx;
+      text-decoration: none;
       font-size: 1.1rem;
       font-weight: normal;
     }
