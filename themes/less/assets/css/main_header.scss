@@ -23,7 +23,6 @@
     }
   }
   background-color: $white-text;
-  border-bottom: 1px solid #F1F1F1;
   padding: 20px 0px;
   width: 100%;
   margin-left: auto;
@@ -74,14 +73,17 @@
       padding: 0;
       li:not(:first-of-type)::before {
         content: "•";
-        Margin: 0 10px;
+        Margin: 0 15px;
       }
     }
   }
   .main_menu li {
     list-style-type: none;
     a {
-      text-transform: uppercase;
+      color: $onyx;
+      text-decoration: none;
+      font-size: 1.1rem;
+      font-weight: normal;
     }
   }
 }

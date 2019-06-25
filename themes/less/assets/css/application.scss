@@ -1,6 +1,7 @@
 $serif: "{{ .Site.Params.bodyFont }}", serif;
 $sans-serif: "{{ .Site.Params.titleFont }}",-apple-system, BlinkMacSystemFont, system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 $onyx: #292929;
+$accent: #019CB5;
 $white-text: #FFFFFF;
 $white-background: #F3F3F3;
 
@@ -28,7 +29,7 @@ svg {
 body {
   height: 100%;
   color: $onyx;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 300;
   margin: 0;
   padding: 0;
@@ -41,11 +42,11 @@ body {
 }
 
 a {
-  color: $onyx;
+  color: $accent;
   text-decoration: none;
   position: relative;
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-  background-image: linear-gradient(to top, transparent, transparent 2px, $onyx 2px, $onyx 2.5px, transparent 2.5px);
+  background-image: linear-gradient(to top, transparent, transparent 2px, $accent 2px, $accent 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:visited, &:hover {
     text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
@@ -119,7 +120,7 @@ footer {
 blockquote {
   font-style: italic;
   font-size: 1.8rem;
-  border-left: 3px solid rgba(0,0,0,0.3);
+  border-left: 3px solid $accent;
   padding-left: 20px;
   margin-left: -23px;
 }
@@ -208,7 +209,7 @@ img {
       margin-top: 25px;
       margin-bottom: 25px;
       letter-spacing: .02rem;
-      line-height: 1.68;
+      line-height: 1.8;
     }
 
   }

@@ -23,10 +23,10 @@ paginate = 9
 [params]
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
-  
-  titleFont = "Montserrat"
-  bodyFont = "Poly"
-  
+
+  titleFont = "Josefin Sans"
+  bodyFont = "Lora"
+
   hasLogo = true
 
 #heroHeader = true
@@ -58,8 +58,8 @@ paginate = 9
   identifier = "aventures"
   url = "/aventures/"
 [[menu.main]]
-  name = "Guides"
-  title = "Guides"
+  name = "Tips & Gear"
+  title = "Tips & Gear"
   weight = 3
   identifier = "guides"
   url = "/guides/"
