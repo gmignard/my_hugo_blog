@@ -37,13 +37,15 @@
     margin-left: 8px;
     margin-right: 8px;
     h3 {
-      color: $onyx;
       text-align: left;
       text-transform: uppercase;
       font-size: 1.4rem;
       font-weight: 700;
       font-style: normal;
       opacity: 1;
+    }
+    a {
+      color: $onyx;
     }
     .category {
       text-align: left;
