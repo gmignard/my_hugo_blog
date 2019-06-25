@@ -58,7 +58,7 @@ paginate = 9
   identifier = "aventures"
   url = "/aventures/"
 [[menu.main]]
-  name = "Guides"
+  name = "Tips & Gear"
   title = "Guides"
   weight = 3
   identifier = "guides"
