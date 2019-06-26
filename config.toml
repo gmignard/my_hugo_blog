@@ -24,8 +24,8 @@ paginate = 9
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
 
-  sansSerifFont = "Source Sans Pro"
-  titleFont = "Josefin Sans"
+  sansSerifFont = "Josefin Sans"
+  titleFont = "Crimson Text"
   bodyFont = "Lora"
 
   hasLogo = true
