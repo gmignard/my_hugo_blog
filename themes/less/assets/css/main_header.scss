@@ -102,9 +102,10 @@
     }
   }
   .main_menu li {
-    font-family:  var(--sans-serif-font);
     list-style-type: none;
     a {
+      font-family:  var(--sans-serif-font);
+      font-weight: bold;
       text-transform: normal;
     }
   }
