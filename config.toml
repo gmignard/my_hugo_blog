@@ -24,10 +24,12 @@ paginate = 9
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
 
-  titleFont = "Josefin Sans"
+  sansSerifFont = "Josefin Sans"
+  titleFont = "Crimson Text"
   bodyFont = "Lora"
 
   hasLogo = true
+  accentColor = "#019CB5"
 
 #heroHeader = true
 
@@ -69,7 +71,6 @@ paginate = 9
   weight = 4
   identifier = "infos"
   url = "/infos"
-
 
 [[related.indices]]
   name = "categories"

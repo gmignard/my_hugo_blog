@@ -1,12 +1,18 @@
-$serif: "{{ .Site.Params.bodyFont }}", serif;
-$sans-serif: "{{ .Site.Params.titleFont }}",-apple-system, BlinkMacSystemFont, system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-$onyx: #292929;
-$accent: #019CB5;
-$white-text: #FFFFFF;
-$white-background: #F3F3F3;
+:root {
+  --serif-font: "{{ .Site.Params.bodyFont }}", serif;
+  --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
+  --sans-serif-font: "{{ .Site.Params.sansSerifFont }}", sans-serif;
+  --onyx: #17181E;
+  --accent: {{ .Site.Params.accentColor }};
+  --white-text: #FAFAFA;
+  --white-background: #F3F3F3;
+  --max-width: 74rem;
+  --light-gray: rgba(0,0,0,0.3)
+}
 
-@import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.titleFont " " "+" }}');
-@import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.bodyFont " " "+" }}:400,400i,600');
+@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
+@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.bodyFont " " "+" }}:400,400i,600');
+@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.sansSerifFont " " "+" }}');
 @import "helpers";
 @import "form";
 @import "main_header";
@@ -22,35 +28,45 @@ html {
   padding: 0;
 }
 
+hr {
+  border: 0;
+  text-align: center;
+  &::after {
+    content: "•••";
+    font-size: 2rem;
+    text-align: center;
+    color: var(--onyx);
+    width: 100%;
+  }
+}
+
 svg {
-  fill: $onyx;
+  fill: var(--onyx);
 }
 
 body {
   height: 100%;
-  color: $onyx;
+  color: var(--onyx);
   font-size: 1.1rem;
   font-weight: 300;
   margin: 0;
   padding: 0;
-  font-family:  $serif;
+  font-family:  var(--serif-font);
   text-rendering: optimizeLegibility;
-  line-height: 1.52;
-}
-.about {
-  margin-top: 100px;
+  line-height: 1.62;
 }
 
 a {
-  color: $accent;
+  color: var(--accent);
   text-decoration: none;
   position: relative;
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-  background-image: linear-gradient(to top, transparent, transparent 2px, $accent 2px, $accent 2.5px, transparent 2.5px);
+  background-image: linear-gradient(to top, transparent, transparent 2px, var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
-  &:visited, &:hover {
+  &:hover {
+    color: var(--accent);
     text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-    background-image: linear-gradient(to top, transparent, transparent 2px, $onyx 2px, $onyx 2.5px, transparent 2.5px);
+    background-image: linear-gradient(to top, transparent, transparent 2px, var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
   }
 }
 
@@ -61,11 +77,13 @@ h1 {
   font-size: 2.8rem;
 }
 h2, h1.medium {
-  font-size: 2.8rem;
-  font-weight: 700;
+  font-size: 2.9rem;
+  font-weight: normal;
+  text-transform: capitalize;
 }
 h3 {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
+  text-transform: capitalize;
 }
 h4 {
   font-size: 1.6rem;
@@ -76,24 +94,22 @@ h5 {
 }
 .post h2 {
   font-size: 1.6rem;
+  text-transform: normal;
   margin: 20px 0;
 }
 
 h1, h2, h3, h4, h5 {
   margin: 0;
   text-align: center;
-  font-weight: 400;
-  font-family: $sans-serif;
+  font-weight: normal;
+  font-family: var(--title-font);
+}
+.title {
+  font-family: var(--title-font);
 }
 
-.main_menu, footer, .title{
-  font-family:  $sans-serif;
-}
-
-.date {
-  font-family:  $sans-serif;
-  font-size: 0.8rem;
-  color: #e4e4e4;
+.date, .main_menu, footer{
+  font-family:  var(--sans-serif-font);
 }
 
 header {
@@ -105,22 +121,23 @@ footer {
   text-align: center;
   position: relative;
   height: 50px;
-  background-color: $onyx;
-  color: $white-text;
+  background-color: var(--onyx);
+  color: var(--white-text);
   line-height: 50px;
   clear:both;
   a, a:visited, a:hover {
-    color: $white-text;
+    color: var(--white-text);
     padding-bottom: 2px;
-    text-shadow: -1px -1px 0 $onyx, 1px -1px 0 $onyx, -1px 1px 0 $onyx, 1px 1px 0 $onyx;
+    text-shadow: -1px -1px 0 var(--onyx), 1px -1px 0 var(--onyx), -1px 1px 0 var(--onyx), 1px 1px 0 var(--onyx);
     background-image: linear-gradient(to top, transparent, transparent 2px, #f8f8f8 2px, #f8f8f8 2.5px, transparent 2.5px);
   }
 }
 
 blockquote {
+  font-family: var(--title-font);
   font-style: italic;
-  font-size: 1.8rem;
-  border-left: 3px solid $accent;
+  font-size: 1.6rem;
+  border-left: 3px solid var(--accent);
   padding-left: 20px;
   margin-left: -23px;
 }
@@ -140,20 +157,6 @@ img {
   width: 100%;
 }
 
-.pagination {
-  display: flex;
-  justify-content: center;
-}
-
-.page-item {
-  list-style-type: none;
-  margin: 3px;
-}
-
-.page-link {
-  background-image: none;
-}
-
 /* Main wrapper */
 .wrapper {
   min-height: 100%;
@@ -170,7 +173,7 @@ img {
     display: none;
   }
   @media only screen and (min-width: 1000px) {
-    color: $white-text;
+    color: var(--white-text);
     position: absolute;
     top: 10px;
     left: 10px;
@@ -178,16 +181,26 @@ img {
 }
 
 .main {
+
   width: 100%;
-  padding-bottom: 20px;
+  padding-bottom: 50px;
+
   margin: 0;
+
   @media only screen and (max-width: 812px) {
+    &:not(.post) {
+      padding-top: 6rem;
+    }
     > * {
       margin-left: 1rem;
       margin-right: 1rem;
     }
   }
-  @media only screen and (min-width: 1000px) {
+  @media only screen and (min-width: 812px) {
+    &:not(.post) {
+      padding-top: 8rem;
+    }
+
     .fullwidth, .fullwidth img {
       width: 100% !important;
       margin-left: 0;
@@ -195,7 +208,7 @@ img {
     }
 
     > :not(.fullwidth) {
-      max-width: 80rem;
+      max-width: var(--max-width);
       margin-left: auto;
       margin-right: auto;
     }
@@ -208,24 +221,8 @@ img {
       max-width: 45rem !important;
       margin-top: 25px;
       margin-bottom: 25px;
-      letter-spacing: .02rem;
-      line-height: 1.8;
-    }
-
-  }
-
-  hr {
-  border: 0;
-  text-align: center;
-  &::after {
-    content: "•••";
-    font-size: 3rem;
-    text-align: center;
-    color: $onyx;
-    width: 100%;
     }
   }
-
   .micropost:first-child {
     .date {
       border-top: 0 !important;
