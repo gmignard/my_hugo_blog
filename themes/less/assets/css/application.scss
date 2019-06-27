@@ -132,6 +132,7 @@ footer {
 }
 
 blockquote {
+  font-family: var(--title-font);
   font-style: italic;
   border-left: 3px solid var(--accent);
   padding-left: 20px;
