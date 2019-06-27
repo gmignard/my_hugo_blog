@@ -93,14 +93,14 @@ h5 {
 }
 .post h2 {
   font-size: 1.6rem;
-  text-transform: uppercase;
+  text-transform: normal;
   margin: 20px 0;
 }
 
 h1, h2, h3, h4, h5 {
   margin: 0;
   text-align: center;
-  font-weight: 400;
+  font-weight: normal;
   font-family: var(--title-font);
 }
 .title {
@@ -134,6 +134,7 @@ footer {
 blockquote {
   font-family: var(--title-font);
   font-style: italic;
+  font-size: 1.6rem;
   border-left: 3px solid var(--accent);
   padding-left: 20px;
   margin-left: -23px;
