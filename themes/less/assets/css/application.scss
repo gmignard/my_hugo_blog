@@ -2,7 +2,7 @@
   --serif-font: "{{ .Site.Params.bodyFont }}", serif;
   --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
   --sans-serif-font: "{{ .Site.Params.sansSerifFont }}", sans-serif;
-  --onyx: #313638;
+  --onyx: #17181E;
   --accent: {{ .Site.Params.accentColor }};
   --white-text: #FAFAFA;
   --white-background: #F3F3F3;
@@ -46,7 +46,7 @@ svg {
 body {
   height: 100%;
   color: var(--onyx);
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 300;
   margin: 0;
   padding: 0;
