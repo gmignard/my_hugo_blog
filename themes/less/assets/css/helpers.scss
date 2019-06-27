@@ -12,13 +12,14 @@
 }
 
 .category {
-  font-size: 0.9rem;
-  font-weight: 700;
-  text-transform: uppercase;
+  font-family:  var(--sans-serif-font);
+  font-size: 1rem;
+  font-weight: normal;
+  text-transform: capitalize;
   letter-spacing: 0.05em;
-  color: var(--light-gray);
+  color: var(--accent);
   a {
-    color: var(--light-gray);
+    color: var(--accent);
   }
   a:hover { color: var(--onyx); }
   padding-bottom: 1rem;
@@ -69,4 +70,3 @@
 .t67 {
   font-size: 6.7rem;
 }
-
