@@ -1,7 +1,7 @@
 :root {
   --serif-font: "{{ .Site.Params.bodyFont }}", serif;
   --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
-  --sans-serif-font: "{{ .Site.Params.sansSerifFont }}", -apple-system, BlinkMacSystemFont ,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --sans-serif-font: "{{ .Site.Params.sansSerifFont }}", sans-serif;
   --onyx: #313638;
   --accent: {{ .Site.Params.accentColor }};
   --white-text: #FAFAFA;
