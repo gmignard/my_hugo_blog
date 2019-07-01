@@ -42,12 +42,9 @@ Côté cuisine, nos ustensiles varient un peu en fonction des saisons et de nos 
 
 Pour nos besoins les plus primaires (disons cela comme ça), nous avons une petite [pelle pliante](https://amzn.to/2FLBvSO) qui nous permet d'enterrer ces fameux besoins et de laisser l'endroit aussi propre, voir plus propre qu'avant notre passage. Nous avions déjà cette pelle avant le van, mais je pense qu'une petite [pelle de jardinage](https://amzn.to/2J06SLq) fait l'affaire, les puristes pourront sinon utiliser [les pelles](https://amzn.to/2FHYs9q) faites pour ça. Pour ceux que ça interesse, [une petite vidéo](https://youtu.be/ZaOKKzpCjgA) récap' pour les bonnes pratiques :-)
 
+Et pour éviter d'aller faire ça dans le noir, pensez à avoir une [lampe frontale](https://amzn.to/2RO6aUl) ! Chez nous, tout le monde a sa petite lampe, ça permet d'y voir plus clair au fond d'un placard comme d'aller se trouver un petit coin pipi tranquille dans le noir.
 
-Lampes frontales
-
-cartes ou
-Cales
-
+Enfin, pour en finir avec nos accessoires indispensables, nous avons toujours [une paire de cales](https://amzn.to/2FGYiiz) dans le coffre afin de dormir bien droit, même sur un spot défoncé et nous ne partons jamais sans une carte ou un GPS. Nous utilisons personnelement un mix de Google Maps et Waze en plus de Park4Night, super pratique avec CarPlay.
 
 ***
 
