@@ -20,7 +20,9 @@ Voilà bientôt deux ans que nous roulons en famille à bord d'[Yvon](https://in
 
 Pour introduire cette nouvelle rubrique, je commence par présenter une liste non exhaustive d'accessoires qui sont totalement devenus indispensables dans notre pratique du van et quelques autres qui améliorent notre confort de vie à bord d'Yvon.
 
-## Les indispensables
+***
+
+## **Les indispensables**
 
 
 Balayette
@@ -30,7 +32,9 @@ Bouilloire
 Pelle caca
 Lampes frontales
 
-## Ceux qui améliorent notre confort
+***
+
+## **Ceux qui améliorent notre confort**
 
 BBq
 Sur matelas
