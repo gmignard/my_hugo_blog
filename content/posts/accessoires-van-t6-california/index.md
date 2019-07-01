@@ -50,9 +50,17 @@ Enfin, pour en finir avec nos accessoires indispensables, nous avons toujours [u
 
 ## **Ceux qui améliorent notre confort**
 
+Bon, maintenant que les indispensables sont présentés, voici quelques petits trucs en plus qui améliorent notre confort.
+
+Le premier auquel on pense, c'est bien le sur-matelas. Je me demande si je n'aurai pas du le mettre dans les indispensables tellement le confort du lit du bas est mauvais dans un Calif ! Avec un sur-matelas et/ou matelas folder, c'est un défaut vite gommé. Etant donné le prix prohibitif du matelas VW, nous avons trouvé notre sur-matelas et le matelas MP3 chez [Marcododo](http://marcododo.fr/), un vanlifer qui produit ses propres matelas ! Le top du top pour un prix très raisonnable !
+
+![La Douche - Les accessoires indispensables pour un VW T6 California](douche.jpg)
+
+Yvon est équipé d'une petite douche directement dans le coffre, nous avons donc profité du hayon pour fabriquer un rideau de douche aimanté sur-mesure, nous offrant ainsi un peu d'intimité pendant notre toilette. Coût de l'opération ? [10€ d'aimants](https://amzn.to/2FLMzzk) et deux [rideaux de douche à 7€](https://www.ikea.com/fr/fr/p/doftklint-rideau-de-douche-multicolore-70322177/) que l'on a cousu ensembles pour cette cabine sur-mesure. Vu que c'est toujours de l'eau froide, on a également une [douche solaire](https://amzn.to/2J0gJRA) si le fond de l'air est frais pour une douche froide.
+
 BBq
 Hamac
-Sur matelas
+
 Douche solaire
 Rideau douche
 Tapis
