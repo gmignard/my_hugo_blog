@@ -8,8 +8,8 @@ slug: "accessoires-van-t6-california"
 categories:
 - vanlife
 - guides
-tags: ["Bivouac", "Canoë", "Loire", "Destination H2o", "Campement", "Aventure", "microaventure", "Captain Yvon", "France"]
-description: "Récit d'une' microaventure et behind the scene d'un workshop photo aventure sur les bords de Loire en canoë autour d'un bivouac avec Captain Yvon Studio."
+tags: ["Accessoires indispensables en van" "VW T6", "T6", "VW", "VW California", "Accessoires", "Van", "Van Life", "VW T6 California", "Conseils"]
+description: "Après 2 années d'expérience, je dévoile les accessoires qui sont devenus indispensables pour ma pratique du Van avec un VW T6 Califnoria."
 resources:
 - src: "cover.jpg"
   name: "cover"
