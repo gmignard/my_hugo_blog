@@ -30,9 +30,13 @@ Quand on part un peu plus longtemps qu'un weekend, il nous arrive parfois d'emme
 
 Dans le même genre, nous utilisons régulièrement une cordelette de style [paracorde](https://amzn.to/2YnV7nu) ou drisse (pour les voileux) qui nous permet de bricoler un fil à linge à l'extérieur, voir parfois même à l'intérieur du van. Pensez à laisser quelques pinces à linge par la même occasion dans le van, ça évite de devoir courrir après ses slips ou torchons !
 
+La gestion de l'eau est très importante en Van. Dans notre California, nous avons une réserve de 30 litres que nous utilisons pour la cuisine, vaisselle et toilette, JAMAIS pour boire ! Nous utilisons donc des gourdes, la [Klean Kanteen 800ml](https://amzn.to/2YoJblr) est parfaite pour notre quotidien, car elle loge parfaitement dans l'emplacement réfrigéré du cockpit du van. En réserve, nous utilisons deux jerricans de 10 litres chacuns, [un pour l'eau potable](https://amzn.to/2J0F3CJ) et [l'autre en réserve](https://amzn.to/2YodHvz) et pour le transfert d'eau entre un point d'eau et la réserve du van.
+
+> ProTip : Nous essayons de remplir régulièrement le jerrican de réserve pour faire des appoints réguliers plutôt que d'aller sur les aires de camping-cars où on paye généralement pour 100 litres d'eau d'un coup, beaucoup trop pour nos besoins en van.
+
+Côté cuisine, 
 
 
-Jerricans
 Bouilloire
 Pelle caca
 Lampes frontales
