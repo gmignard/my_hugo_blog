@@ -40,6 +40,11 @@ Côté cuisine, nos ustensiles varient un peu en fonction des saisons et de nos 
 
 > En van, chaque chose a sa place et chaque place a sa chose !
 
+{{< photoset max="2" >}}
+  {{< photo src="place.jpg" alt="Les accessoires indispensables pour un VW T6 California" >}}
+  {{< photo src="place2.jpg" alt="Les accessoires indispensables pour un VW T6 California" >}}
+{{</ photoset >}}
+
 Pour nos besoins les plus primaires (disons cela comme ça), nous avons une petite [pelle pliante](https://amzn.to/2FLBvSO) qui nous permet d'enterrer ces fameux besoins et de laisser l'endroit aussi propre, voir plus propre qu'avant notre passage. Nous avions déjà cette pelle avant le van, mais je pense qu'une petite [pelle de jardinage](https://amzn.to/2J06SLq) fait l'affaire, les puristes pourront sinon utiliser [les pelles](https://amzn.to/2FHYs9q) faites pour ça. Pour ceux que ça interesse, [une petite vidéo](https://youtu.be/ZaOKKzpCjgA) récap' pour les bonnes pratiques :-)
 
 Et pour éviter d'aller faire ça dans le noir, pensez à avoir une [lampe frontale](https://amzn.to/2RO6aUl) ! Chez nous, tout le monde a sa petite lampe, ça permet d'y voir plus clair au fond d'un placard comme d'aller se trouver un petit coin pipi tranquille dans le noir.
@@ -52,16 +57,12 @@ Enfin, pour en finir avec nos accessoires indispensables, nous avons toujours [u
 
 Bon, maintenant que les indispensables sont présentés, voici quelques petits trucs en plus qui améliorent notre confort.
 
-Le premier auquel on pense, c'est bien le sur-matelas. Je me demande si je n'aurai pas du le mettre dans les indispensables tellement le confort du lit du bas est mauvais dans un Calif ! Avec un sur-matelas et/ou matelas folder, c'est un défaut vite gommé. Etant donné le prix prohibitif du matelas VW, nous avons trouvé notre sur-matelas et le matelas MP3 chez [Marcododo](http://marcododo.fr/), un vanlifer qui produit ses propres matelas ! Le top du top pour un prix très raisonnable !
+Le premier auquel on pense, c'est bien le sur-matelas. Je me demande si je n'aurai pas du le mettre dans les indispensables tellement le confort du lit du bas est mauvais dans un Calif ! Avec un sur-matelas et/ou matelas folder, c'est un défaut vite gommé. Etant donné le prix prohibitif du matelas VW, nous avons trouvé notre sur-matelas et le matelas MP3 chez [Marcododo](http://marcododo.fr/), un vanlifer qui produit ses propres matelas ! Le top du top pour un prix très raisonnable (housse et drap housse inclus)!
 
 ![La Douche - Les accessoires indispensables pour un VW T6 California](douche.jpg)
 
 Yvon est équipé d'une petite douche directement dans le coffre, nous avons donc profité du hayon pour fabriquer un rideau de douche aimanté sur-mesure, nous offrant ainsi un peu d'intimité pendant notre toilette. Coût de l'opération ? [10€ d'aimants](https://amzn.to/2FLMzzk) et deux [rideaux de douche à 7€](https://www.ikea.com/fr/fr/p/doftklint-rideau-de-douche-multicolore-70322177/) que l'on a cousu ensembles pour cette cabine sur-mesure. Vu que c'est toujours de l'eau froide, on a également une [douche solaire](https://amzn.to/2J0gJRA) si le fond de l'air est frais pour une douche froide.
 
-BBq
-Hamac
+Nous nous sommes également offert un petit [BBQ de camping](https://amzn.to/2FKVeSL) au gaz qui nous permet de griller ce que l'on veut ou de l'utiliser comme cuisine d'extérieur si besoin. La vie en van se passe bien souvent dehors et si on peut cuisiner dehors, alors tant mieux, on peut également profiter de [notre hamac](https://www.decathlon.fr/hamac-basic-1-personne-bleu-id_8330395.html) pendant que ça cuit :-)
 
-Douche solaire
-Rideau douche
-Tapis
-Porte vélo
+Enfin, nous avons mis un petit tapis au sol de la cellule pour faciliter le nettoyage et rendre le sol un peu moins froid. Le prochain achat sera très probablement un porte-vélo, sans doute un [Thule](https://amzn.to/2LsjnkE) à fixer sur l'attelage et nous permettre ainsi de voyager avec nos vélos ou une malle d'extérieur.
