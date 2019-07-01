@@ -36,7 +36,7 @@ La gestion de l'eau est très importante en Van. Dans notre California, nous avo
 
 Côté cuisine, nos ustensiles varient un peu en fonction des saisons et de nos besoins, mais on a toujours [une bouilloire](https://amzn.to/2XhlbiC) à disposition. Nous l'utilisons plusieurs fois par jour pour faire chauffer l'eau de la vaisselle ou de la toilette (eh oui, pas d'eau chaude à bord d'Yvon), ou tout simplement pour se faire une bonne tasse de café fumante. Dans notre tiroir de cuisine, nous avons toujours un bon couteau et un briquet si jamais le piezzo de la cuisine nous lâche ou pour n'importe quel autre besoin.
 
-À bord, nous rangeons nos vêtements dans des [Packing Cubes](https://amzn.to/2xm93Cv). On a un peu tout essayés, à chaque fois le bordel s'invitait dans nos placard, mais depuis qu'on a optés pour cette solution, tout reste bien organisé, même après un freinage un peu brutal. De la même manière, nous utilisons des caisses en plastique dans le coffre et des boites dans les placard de la cuisine afin d'organiser tout cela et de s'y retrouver facilement.
+À bord, nous rangeons nos vêtements dans des [Packing Cubes](https://amzn.to/2xm93Cv). On a à peu près tout essayé, à chaque fois le bordel s'invitait dans nos placard, mais depuis qu'on a optés pour cette solution, tout reste bien organisé, même après un freinage un peu brutal. De la même manière, nous utilisons des caisses en plastique dans le coffre et des boites dans les placard de la cuisine afin d'organiser tout cela et de s'y retrouver facilement.
 
 > En van, chaque chose a sa place et chaque place a sa chose !
 
