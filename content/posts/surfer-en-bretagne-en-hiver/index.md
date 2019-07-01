@@ -6,7 +6,7 @@ date: 2019-01-09T13:13:50+01:00
 draft: false
 slug: "surfer-en-bretagne-en-hiver"
 categories:
-- vidéo
+- films
 - journal
 tags: ["Surf", "Bretagne", "Finistère", "Finistère Nord", "Martin Letourneur", "Surfer", "Surfeur", "Hiver", "Coldwater", "Reef"]
 description: "Surfer en Bretagne en hiver est vraiment une autre façon de pratiquer le surf. Tout a beau être plus froid, on profite surtout de vagues vierges en solo."

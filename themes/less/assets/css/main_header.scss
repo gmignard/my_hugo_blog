@@ -60,7 +60,7 @@
     font-size: 1.6rem;
     display: flex;
     justify-content: flex-start;
-    a img { width: inherit; height: 50px; margin-bottom: -12px; color: var(--onyx);}
+    a img { width: inherit; height: 50px; margin-bottom: -8px; color: var(--onyx);}
     @media only screen and (min-width: 812px) {
       margin-top: 5px;
       top: 12px;
@@ -105,7 +105,7 @@
     list-style-type: none;
     a {
       font-family:  var(--sans-serif-font);
-      font-weight: bold;
+      font-weight: normal;
       font-size: 1rem;
       text-transform: normal;
     }
@@ -114,7 +114,7 @@
 .post-img {
   width: 100%;
   margin: 0 auto;
-  height: 38rem;
+  height: 46rem;
 }
 .post-title {
   max-width: 58rem;
