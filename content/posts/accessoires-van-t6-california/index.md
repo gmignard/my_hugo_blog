@@ -25,21 +25,30 @@ Pour introduire cette nouvelle rubrique, je commence par présenter une liste no
 ## **Les indispensables**
 
 Commençons par le roi des accessoires, celui que tout vanlifer qui se respecte se doit de posseder, celui dont l'absence se fait vite sentir, j'ai nommé... [La balayette](https://amzn.to/2Xk7mVL) ! Un van, ce n'est pas très grand, ça se salit vite, mais ça se nettoie vite également... Si on possède cette fameuse balayette. Le van étant autant un espace de vie qu'un moyen de transport, nous faisons attention à bien le garder propre, pour notre confort quotidien.
+
 Quand on part un peu plus longtemps qu'un weekend, il nous arrive parfois d'emmener avec nous notre [Dyson V8](https://amzn.to/2YuE8A4) sans son tube, juste avec une petite brosse pour aspirer les miettes que Coline, 3 ans et demi, a l'habitude de semer un peu partout pendant les repas. C'est luxueux, mais nous avons la place et même de quoi le recharger si besoin.
 
+Dans le même genre, nous utilisons régulièrement une cordelette de style [paracorde](https://amzn.to/2YnV7nu) ou drisse (pour les voileux) qui nous permet de bricoler un fil à linge à l'extérieur, voir parfois même à l'intérieur du van. Pensez à laisser quelques pinces à linge par la même occasion dans le van, ça évite de devoir courrir après ses slips ou torchons !
 
 
-Cordelette
+
 Jerricans
 Bouilloire
 Pelle caca
 Lampes frontales
+un bon couteau ou pince multi
+briquet
+gourdes et Jerricans
+cartes ou
+Cales
+
 
 ***
 
 ## **Ceux qui améliorent notre confort**
 
 BBq
+Hamac
 Sur matelas
 Douche solaire
 Rideau douche
