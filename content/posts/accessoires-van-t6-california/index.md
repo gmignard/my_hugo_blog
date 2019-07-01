@@ -16,7 +16,7 @@ resources:
 - src: "*.jpg"
 ---
 
-Voilà bientôt deux ans que nous roulons en famille à bord d'[Yvon](https://instagram.com/lifewithyvon/), notre VW T6 Califnoria. Jusqu'à présent, je n'ai pas vraiment parlé de [Van Life](https://gregorymignard.com/vanlife/) sur ce blog et pourtant, je crois que j'ai 1000 idées dé récits et conseils à documenter. Mais je crois que pour parler de ce sujet, j'avais le besoin de me sentir légitime et au bout de deux ans, je pense avoir le recul nécessaire pour parler librement de Van Life et commencer à partager quelques récits et conseils.
+Voilà bientôt deux ans que nous roulons en famille à bord d'[Yvon](https://instagram.com/lifewithyvon/), notre VW T6 California. Jusqu'à présent, je n'ai pas vraiment parlé de [Van Life](https://gregorymignard.com/vanlife/) sur ce blog et pourtant, je pense que j'ai 1000 idées dé récits et conseils à documenter. Mais je crois que pour parler de ce sujet, j'avais le besoin de me sentir légitime et au bout de deux ans, je pense avoir le recul nécessaire pour parler librement de Van Life et commencer à partager quelques récits et conseils.
 
 Pour introduire cette nouvelle rubrique, je commence par présenter une liste non exhaustive d'accessoires qui sont totalement devenus indispensables dans notre pratique du van et quelques autres qui améliorent notre confort de vie à bord d'Yvon.
 
