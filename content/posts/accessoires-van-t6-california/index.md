@@ -34,15 +34,13 @@ La gestion de l'eau est très importante en Van. Dans notre California, nous avo
 
 > ProTip : Nous essayons de remplir régulièrement le jerrican de réserve pour faire des appoints réguliers plutôt que d'aller sur les aires de camping-cars où on paye généralement pour 100 litres d'eau d'un coup, beaucoup trop pour nos besoins en van.
 
-Côté cuisine, 
+Côté cuisine, nos ustensiles varient un peu en fonction des saisons et de nos besoins, mais on a toujours [une bouilloire](https://amzn.to/2XhlbiC) à disposition. Nous l'utilisons plusieurs fois par jour pour faire chauffer l'eau de la vaisselle ou de la toilette (eh oui, pas d'eau chaude à bord d'Yvon), ou tout simplement pour se faire une bonne tasse de café fumante. Dans notre tiroir de cuisine, nous avons toujours un bon couteau et un briquet si jamais le piezzo de la cuisine nous lâche ou pour n'importe quel autre besoin.
 
 
-Bouilloire
+
 Pelle caca
 Lampes frontales
-un bon couteau ou pince multi
-briquet
-gourdes et Jerricans
+
 cartes ou
 Cales
 
