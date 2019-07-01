@@ -12,6 +12,10 @@
   padding-bottom: 40px;
   grid: auto-flow dense / repeat(4, 1fr);
   grid-column: 4;
+  a {
+    color: $onyx;
+    font-weight: normal;
+  }
   @media only screen and (max-width: 812px) {
     grid: auto-flow dense / repeat(2, 1fr);
     grid-column: 2;
