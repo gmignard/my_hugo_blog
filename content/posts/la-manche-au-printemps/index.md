@@ -18,7 +18,7 @@ resources:
 
 En mai dernier, je me suis rendu dans la Manche avec [Jeremy](https://djisupertramp.com) dans le cadre de notre [dernier tournage](https://cestbeaulamanche.com/video-manche-retour-essentiel/) commissionné par Latitude Manche. Ce n'est donc pas une balade personnelle que je vais raconter aujourd'hui, mais des rencontres et découvertes organisés pour les besoins de cette nouvelle vidéo promotionnelle.
 
-{{< youtube MsS7fgSAQz0 >}}
+<div>{{< youtube MsS7fgSAQz0 >}}</div>
 
 ***
 
