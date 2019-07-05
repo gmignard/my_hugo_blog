@@ -47,4 +47,6 @@ Norbert Nicolet s’installe à Annoville en 2015 et fonde la ferme ô VR dans l
 
 Pendant plus de deux heures nous partagerons avec lui sa passion et philosophie de vie, une belle rencontre comme on les aime.
 
-Chaque semaine,
+## Vendredi, 20h00
+
+Après cette première belle recontre, nous 
