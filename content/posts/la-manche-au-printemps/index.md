@@ -51,4 +51,15 @@ Pendant plus de deux heures nous partagerons avec lui sa passion et philosophie 
 
 ## Samedi, 06h30
 
-Le rapide coup d'oeil à travers les vitres du van nous confirme que l'on a bien fait d'annuler les plans sunrise, il a plu toute la nuit et le ciel est chargé de nuages. La journée s'annonce chargée, nous avons beaucoup à faire avec Céline aujourd'hui.
+Le rapide coup d'oeil à travers les vitres du van nous confirme que l'on a bien fait d'annuler les plans sunrise, il a plu toute la nuit et le ciel est chargé de nuages. La journée s'annonce chargée, nous avons beaucoup à faire avec Céline aujourd'hui. On profite de ce petit répit pour mettre un peu d'ordre dans le van et se faire un bon petit déjeuner pour affronter cette longue journée.
+
+## 10h00
+
+Nous retrouvons Céline, son mari et ses enfants aux cabanes de Gouville, un endroit emblématique de La Manche. Le soleil est enfin de retour et nous nous amusons à faire courir les enfants et poser les parents pour nos besoins. Rien de tel que des sourires pour se mettre dans le bain et installer cette complicité qui nous accompagnera jusqu'à la fin du tournage.
+
+{{< photoset max="2" >}}
+  {{< photo src="gouville1.jpg" alt="Normandie - La Manche au printemps" >}}
+  {{< photo src="gouville2.jpg" alt="Normandie - La Manche au printemps" >}}
+{{</ photoset >}}
+
+## 11h30
