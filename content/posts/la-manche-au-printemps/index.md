@@ -7,6 +7,7 @@ draft: false
 slug: "la-manche-au-printemps"
 categories:
 - normandie
+- vanlife
 - aventures
 tags: ["La Manche", "Manche Tourisme", "Captain Yvon Studio", "Tournage", "Tourisme", "Cabane", "Famille", "Vacances", "Normandie"]
 description: "Découvrez les coulisess de mon tournage « Et si on revenait à l'essentiel ? » dans la Manche avec Captain Yvon Studio"
@@ -70,7 +71,7 @@ Nous décidons d'aller manger sur la côte un peu plus au nord et nous profitons
 
 ## 15h00
 
-Nous avons rendez-vous avec le propriétaire de la cabane Wooden où nous passerons la soirée et où la famille de Céline dormira. Quant à nous, nous dormirons toujours dans le van à côté de la cabane.
+Nous avons rendez-vous avec le propriétaire de la [cabane Wooden](https://www.gites-de-france-manche.com/location-vacances-Gite-a-Bretteville-sur-ay-Manche-50G855.html) où nous passerons la soirée et où la famille de Céline dormira. Quant à nous, nous dormirons toujours dans le van à côté de la cabane.
 Une fois les instructions prises, nous nous rendons au club de char à voile juste à côté pour la suite du tournage. Jeremy et moi embarquons dans un bi-place pour filmer pendant que les autres s'amuseront comme des fous.
 
 {{< photoset max="2" >}}
@@ -94,7 +95,29 @@ Après avoir mangé le sable et rammassé quelques coups de soleil, nous voici d
 
 ## Minuit
 
-Qu'on se le dise,
+Qu'on se le dise, on ne se fait pas prier pour aller nous coucher, nous sommes tout simplement rincés. L'idée de devoir se lever à 5h30 ne nous emballe pas des masses, mais qu'importe, les images de yoga au sunrise devraient être sympa.... Bonne nuit !
 
+***
+
+## Dimanche, 06h00
+
+Nous voici sur la dune aux premiers rayons du soleil. La nuit a beau avoir été courte, l'air frais et iodé nous réveille rapidement et nous sommes en forme pour la suite de la journée. Retour à la cabane pour le petit déjeuner et le ménage, notre route reprends sur la côte avec la famille de Céline.
+
+## Midi
+
+Dernière étape pour nos figurants préférés, le restaurant [La Cale](https://www.facebook.com/pages/category/Gastropub/La-Cale-Blainville-Sur-Mer-179173062138408/) à Blainville-Sur-Mer.
+
+{{< photo src="lacale.jpg" alt="Normandie - La Manche au printemps" >}}
+
+Un cadre et un concept interessant qui nous laissera un sentiment de déception, la première fois depuis notre arrivée. Presque 2 heures pour être servis, c'est dommage, surtout pour un plat aussi simple que des moules frittes qui étaient très bonnes en passant ! C'est avec un peu de retard sur notre planning que nous quiterons notre joyeuse famille pour continuer la route seuls vers le Cotentin.
+Sur notre route, nous nous arrêterons à Siouville, la plage incontournable pour les surfeurs où j'irai faire quelques images malgré la toute petite taille des vagues.
+
+## 18h00
+
+Nous voici à Goury, nous prévoyons d'y passer la nuit, nous profitons de la fin de journée pour nettoyer et ranger le van et nous occuper du backup des images. On en profite également pour s'offrir un petit apéro avec vue à l'heure dorée sur le raz Blanchard.
+
+![Normandie - La Manche au printemps](goury.jpg)
+
+Après un bon repas accompagné d'une bonne [playlist de Folk](https://open.spotify.com/playlist/7lnA9foui6Pf0ubcHjHv4Y), nous nous endormons paisiblement à la lueur du phare qui veillera sur nous pendant la nuit.
 
 {{< photo class="fullwidth" src="full.jpg" alt="Normandie - La Manche au printemps" >}}
