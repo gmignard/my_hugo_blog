@@ -71,5 +71,30 @@ Nous décidons d'aller manger sur la côte un peu plus au nord et nous profitons
 ## 15h00
 
 Nous avons rendez-vous avec le propriétaire de la cabane Wooden où nous passerons la soirée et où la famille de Céline dormira. Quant à nous, nous dormirons toujours dans le van à côté de la cabane.
+Une fois les instructions prises, nous nous rendons au club de char à voile juste à côté pour la suite du tournage. Jeremy et moi embarquons dans un bi-place pour filmer pendant que les autres s'amuseront comme des fous.
+
+{{< photoset max="2" >}}
+  {{< photo src="char1.jpg" alt="Normandie - La Manche au printemps" >}}
+  {{< photo src="char2.jpg" alt="Normandie - La Manche au printemps" >}}
+{{</ photoset >}}
+
+{{< photo src="char3.jpg" alt="Normandie - La Manche au printemps" >}}
+
+## 19h30
+
+Après avoir mangé le sable et rammassé quelques coups de soleil, nous voici de retour à la cabane pour la soirée et la nuit. Apéro en terrasse, des images de cerf-volant au coucher du soleil, nous profitons d'un repas tardif et bien mérité après cette journée bien remplie.
+
+{{< photo src="sunset1.jpg" alt="Normandie - La Manche au printemps" >}}
+
+{{< photoset max="3" >}}
+  {{< photo src="sunset2.jpg" alt="Normandie - La Manche au printemps" >}}
+  {{< photo src="sunset3.jpg" alt="Normandie - La Manche au printemps" >}}
+  {{< photo src="sunset4.jpg" alt="Normandie - La Manche au printemps" >}}
+{{</ photoset >}}
+
+## Minuit
+
+Qu'on se le dise, 
+
 
 {{< photo class="fullwidth" src="full.jpg" alt="Normandie - La Manche au printemps" >}}
