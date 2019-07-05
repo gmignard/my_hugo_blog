@@ -140,6 +140,12 @@ Notre première grasse matinée du tournage ! Aujourd'hui, nous devrions un peu 
   {{< photo src="dubosc2.jpg" alt="Normandie - La Manche au printemps" >}}
 {{</ photoset >}}
 
-Tout aussi passionnante et passionnée, Stéphanie est notre seconde belle rencontre après Norbert. Cette ancienne Parisienne s'est installée à son compte dans l'elevage de moutons de prés salés. 
+Tout aussi passionnante et passionnée, Stéphanie est notre seconde belle rencontre après Norbert. Cette ancienne Parisienne s'est installée à son compte dans l'elevage de moutons de prés salés.
+
+## 14h00
+
+Après une pause repas sur les hauteurs de Granville, nous avons rendez-vous au [chantier naval Duboscq](https://www.chantier-naval-duboscq.fr/) pour filmer nos dernières images du tournage.
+
+***
 
 Cette histoire s'arrête là, mais d'ici quelques jours, je retourne dans la Manche avec Jeremy pour la suite de nos tournages... Rendez-vous à la rentrée sur le blog pour les récits :-)
