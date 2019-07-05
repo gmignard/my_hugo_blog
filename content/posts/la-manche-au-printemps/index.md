@@ -95,7 +95,7 @@ Après avoir mangé le sable et rammassé quelques coups de soleil, nous voici d
 
 ## Minuit
 
-Qu'on se le dise, on ne se fait pas prier pour aller nous coucher, nous sommes tout simplement rincés. L'idée de devoir se lever à 5h30 ne nous emballe pas des masses, mais qu'importe, les images de yoga au sunrise devraient être sympa.... Bonne nuit !
+On ne se fait pas prier pour aller nous coucher, nous sommes tout simplement rincés. L'idée de devoir se lever à 5h30 ne nous emballe pas des masses, mais qu'importe, les images de yoga au sunrise devraient être sympa.... Bonne nuit !
 
 ***
 
@@ -121,3 +121,25 @@ Nous voici à Goury, nous prévoyons d'y passer la nuit, nous profitons de la fi
 Après un bon repas accompagné d'une bonne [playlist de Folk](https://open.spotify.com/playlist/7lnA9foui6Pf0ubcHjHv4Y), nous nous endormons paisiblement à la lueur du phare qui veillera sur nous pendant la nuit.
 
 {{< photo class="fullwidth" src="full.jpg" alt="Normandie - La Manche au printemps" >}}
+
+***
+
+## Lundi,  08h00
+
+Notre première grasse matinée du tournage ! Aujourd'hui, nous devrions un peu moins courir après le temps, car nous sommes attendus pour la fin de matinée chez Stéphanie Maubé de chez [La Cotentine Moderne](http://www.lacotentinemoderne.fr/). Nous en profitons pour descendre tranquillement vers notre destination en faisant un petit détour par la Baie d'Ecalgain où on adore passer à chaque fois que l'on vient dans le coin.
+
+{{< photo src="ecalgrain.jpg" alt="Normandie - La Manche au printemps" >}}
+
+{{< photoset max="2" >}}
+  {{< photo src="maube1.jpg" alt="Normandie - La Manche au printemps" >}}
+  {{< photo src="maube2.jpg" alt="Normandie - La Manche au printemps" >}}
+{{</ photoset >}}
+
+{{< photoset max="2" >}}
+  {{< photo src="dubosc1.jpg" alt="Normandie - La Manche au printemps" >}}
+  {{< photo src="dubosc2.jpg" alt="Normandie - La Manche au printemps" >}}
+{{</ photoset >}}
+
+Tout aussi passionnante et passionnée, Stéphanie est notre seconde belle rencontre après Norbert. Cette ancienne Parisienne s'est installée à son compte dans l'elevage de moutons de prés salés. 
+
+Cette histoire s'arrête là, mais d'ici quelques jours, je retourne dans la Manche avec Jeremy pour la suite de nos tournages... Rendez-vous à la rentrée sur le blog pour les récits :-)
