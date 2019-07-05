@@ -67,3 +67,9 @@ Nous retrouvons Céline, son mari et ses enfants aux cabanes de Gouville, un end
 Nous décidons d'aller manger sur la côte un peu plus au nord et nous profitons de passer dans la Lande de Lessay pour nous y arrêter et faire quelques images.
 
 {{< photo src="lessay.jpg" alt="Normandie - La Manche au printemps" >}}
+
+## 15h00
+
+Nous avons rendez-vous avec le propriétaire de la cabane Wooden où nous passerons la soirée et où la famille de Céline dormira. Quant à nous, nous dormirons toujours dans le van à côté de la cabane.
+
+{{< photo class="fullwidth" src="full.jpg" alt="Normandie - La Manche au printemps" >}}
