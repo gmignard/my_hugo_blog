@@ -35,13 +35,16 @@ Nous commençons à réfléchir au Plan B avant notre première rencontre, Norbe
   {{< photo src="ovr_vert_3.jpg" alt="Normandie - La Manche au printemps" >}}
 {{</ photoset >}}
 
-{{< photoset max="2" >}}
+{{< photoset max="3" >}}
   {{< photo src="ferme2.jpg" alt="Normandie - La Manche au printemps" >}}
   {{< photo src="ferme3.jpg" alt="Normandie - La Manche au printemps" >}}
+  {{< photo src="ferme4.jpg" alt="Normandie - La Manche au printemps" >}}
 {{</ photoset >}}
 
-Sans concession, ce jeune paysan n’utilise aucun engrais, produit chimique ni même une quelconque préparation bio.
-Norbert Nicolet est paysan. En 2015, il s’installe à Annoville, dans la Manche et fonde la ferme ô VR. A quelques encablures de la mer, le jeune homme, passionné de semences biologiques, libres de droit et reproductibles, cultive chaque année plus de 750 variétés de fleurs, légumes et céréales.
-Norbert, aidé par Pierre Letellier, réalise ses propres semis et les fait pousser selon les grands principes de la permaculture et en respect avec le calendrier biodynamique. Ainsi, les salades grandissent sur des buttes et des planches de perma où elles côtoient fenouils et blettes multicolores. Car les déchets de l’une des espèces font le bonheur des autres.
-Sans concession, le jeune paysan n’utilise aucun engrais, produit chimique ni même une quelconque préparation bio. Sur les 2,5 hectares cultivés en maraîchage, les légumes font à peu près ce qu’ils veulent et Norbert se plaît à raconter “qu’un légume qui a du goût, c’est un légume qui en chie.”
-Chaque semaine, il vend ses légumes certifiés bio sur les marchés de Granville et d’Hauteville-sur-Mer ainsi qu’à des chefs normands et parisiens.
+> Ce jeune paysan n’utilise aucun engrais, produit chimique ni même une quelconque préparation bio.
+
+Norbert Nicolet s’installe à Annoville en 2015 et fonde la ferme ô VR dans la Manche. Passionné de semences biologiques, libres de droit et reproductibles, il cultive chaque année plus de 750 variétés de fleurs, légumes et céréales en les faisant pousser selon les principes de la permaculture. Norbert vend chaque semaine ses légumes certifiés bio sur les marchés de Granville et d’Hauteville-sur-Mer ainsi qu’à des chefs normands et parisiens.
+
+Pendant plus de deux heures nous partagerons avec lui sa passion et philosophie de vie, une belle rencontre comme on les aime.
+
+Chaque semaine,
