@@ -7,7 +7,7 @@ draft: false
 slug: "la-manche-au-printemps"
 categories:
 - films
-- journal
+- aventures
 tags: ["La Manche", "Manche Tourisme", "Captain Yvon Studio", "Tournage", "Tourisme", "Cabane", "Famille", "Vacances"]
 description: "Découvrez les coulisess de mon tournage « Et si on revenait à l'essentiel ? » dans la Manche avec Captain Yvon Studio"
 resources:
@@ -45,8 +45,10 @@ Nous commençons à réfléchir au Plan B avant notre première rencontre, Norbe
 
 Norbert Nicolet s’installe à Annoville en 2015 et fonde la ferme ô VR dans la Manche. Passionné de semences biologiques, libres de droit et reproductibles, il cultive chaque année plus de 750 variétés de fleurs, légumes et céréales en les faisant pousser selon les principes de la permaculture. Norbert vend chaque semaine ses légumes certifiés bio sur les marchés de Granville et d’Hauteville-sur-Mer ainsi qu’à des chefs normands et parisiens.
 
-Pendant plus de deux heures nous partagerons avec lui sa passion et philosophie de vie, une belle rencontre comme on les aime.
+Pendant plus de deux heures nous partagerons avec lui sa passion et philosophie de vie, une belle rencontre comme on les aime. Après cette étape, nous cherchons un endroit où dormir en van, puis après le repas, nous nous calons pour le lendemain matin avec [Céline et sa famille](https://www.mercipourlechocolat.fr/), nos figurants pour les prochaines 24h.
 
-## Vendredi, 20h00
+***
 
-Après cette première belle recontre, nous 
+## Samedi, 06h30
+
+Le rapide coup d'oeil à travers les vitres du van nous confirme que l'on a bien fait d'annuler les plans sunrise, il a plu toute la nuit et le ciel est chargé de nuages. La journée s'annonce chargée, nous avons beaucoup à faire avec Céline aujourd'hui.
