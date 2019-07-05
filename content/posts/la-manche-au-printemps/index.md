@@ -2,7 +2,7 @@
 title: Mon printemps dans la Manche
 subtitle: Dans les coulisses d'un tournage avec Captain Yvon Studio
 seotitle: "Normandie - La Manche au printemps"
-date: 2019-07-05T08:30:50+01:00
+date: 2019-07-05T06:30:50+01:00
 draft: false
 slug: "la-manche-au-printemps"
 categories:
