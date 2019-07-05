@@ -6,9 +6,9 @@ date: 2019-07-05T06:30:50+01:00
 draft: false
 slug: "la-manche-au-printemps"
 categories:
-- films
+- normandie
 - aventures
-tags: ["La Manche", "Manche Tourisme", "Captain Yvon Studio", "Tournage", "Tourisme", "Cabane", "Famille", "Vacances"]
+tags: ["La Manche", "Manche Tourisme", "Captain Yvon Studio", "Tournage", "Tourisme", "Cabane", "Famille", "Vacances", "Normandie"]
 description: "Découvrez les coulisess de mon tournage « Et si on revenait à l'essentiel ? » dans la Manche avec Captain Yvon Studio"
 resources:
 - src: "cover.jpg"
@@ -94,7 +94,7 @@ Après avoir mangé le sable et rammassé quelques coups de soleil, nous voici d
 
 ## Minuit
 
-Qu'on se le dise, 
+Qu'on se le dise,
 
 
 {{< photo class="fullwidth" src="full.jpg" alt="Normandie - La Manche au printemps" >}}
