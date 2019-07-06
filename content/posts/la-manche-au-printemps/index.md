@@ -116,7 +116,7 @@ Sur notre route, nous nous arrêterons à Siouville, la plage incontournable pou
 
 Nous voici à Goury, nous prévoyons d'y passer la nuit, nous profitons de la fin de journée pour nettoyer et ranger le van et nous occuper du backup des images. On en profite également pour s'offrir un petit apéro avec vue à l'heure dorée sur le raz Blanchard.
 
-![Normandie - La Manche au printemps](goury.jpg)
+{{< photo class="vertical" src="goury.jpg" alt="Normandie - La Manche au printemps" >}}
 
 Après un bon repas accompagné d'une bonne [playlist de Folk](https://open.spotify.com/playlist/7lnA9foui6Pf0ubcHjHv4Y), nous nous endormons paisiblement à la lueur du phare qui veillera sur nous pendant la nuit.
 
