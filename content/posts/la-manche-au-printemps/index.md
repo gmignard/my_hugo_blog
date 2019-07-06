@@ -146,6 +146,8 @@ Tout aussi passionnante et passionnée, Stéphanie est notre seconde belle renco
 
 Après une pause repas sur les hauteurs de Granville, nous avons rendez-vous au [chantier naval Duboscq](https://www.chantier-naval-duboscq.fr/) pour filmer nos dernières images du tournage.
 
+*Images additionnelles : Jeremy Janin pour [Captain Yvon Studio](https://captainyvon.fr)*
+
 ***
 
 Cette histoire s'arrête là, mais d'ici quelques jours, je retourne dans la Manche avec Jeremy pour la suite de nos tournages... Rendez-vous à la rentrée sur le blog pour les récits :-)
