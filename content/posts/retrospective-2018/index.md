@@ -16,6 +16,8 @@ resources:
 
 Une page se tourne, nous voici déjà en 2019, j'ai toujours l'impression que les années filent de plus en plus vite, peut-être l'age ? Afin de tourner convenablement cette page, [petite rétrospective en vidéo de 2018](https://youtu.be/9llB4ImBS_o) pour se tourner vers de nouveaux projets en 2019 !
 
+<div>{{< youtube 9llB4ImBS_o >}}</div>
+
 ### Janvier 2018 - Reportage en Normandie (1/3)
 
 J'ai commencé l'année dans [mon van Yvon](https://www.instagram.com/lifewithyvon/) pour me rendre plusieurs jours sur un reportage pour les Gîtes de France Normandie. Des conditions très difficiles et humide, il était vraiment très compliqué de faire des images, mais c'est aussi ça le métier de photographe, on a pas toujours les bonnes conditions, surtout en hiver.

@@ -18,7 +18,7 @@ resources:
 
 Ceux qui me suivent sur les réseaux sociaux savent que je me suis rendu quelques jours en Bosnie début septembre. Mais à part quelques photos partagées sur Instagram et Facebook, je n'ai pas pris le temps d'expliquer pourquoi et comment je suis allé rejoindre le mouvement «[_Save The Blue Heart of Europe_](http://www.balkanrivers.net/)_»_.
 
-{{< youtube bWYA3XKGtA0 >}}
+<div>{{< youtube bWYA3XKGtA0 >}}</div>
 
 Cette histoire demande à revenir un peu en arrière... Avril 2014, [Jeremy](http://djisupertramp.com/) et moi étions en train de lancer un nouveau projet, un blog outdoor que nous avons baptisés _Captain Yvon_ ! On a écrit quelques articles, moins d'une dizaine avant de se rentre compte que l'on faisait fausse route... Nous ne voulions pas d'un énième blog, nous ne voulions pas nous enfermé face à un écran pour raconter les histoires des autres, nous voulions vivre et raconter NOS histoires ! On a donc laissé tomber pour continuer chacun de notre côté sur nos blogs respectifs ! Mais quand même, cette idée de faire un projet tous les deux est tenace et nous cherchons un truc à nous mettre sous la dent. Comme nous sommes tous les deux photographes et que grâce à Jeremy je suis également devenu vidéaste, nous nous sommes mis à documenter les histoires que nous vivons dans la nature. C'est ainsi qu'est née l'[Association Captain Yvon](http://captainyvon.fr/) !
 
