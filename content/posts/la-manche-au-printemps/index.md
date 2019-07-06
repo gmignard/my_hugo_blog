@@ -17,7 +17,7 @@ resources:
 - src: "*.jpg"
 ---
 
-En mai dernier, je me suis rendu dans la Manche avec [Jeremy](https://djisupertramp.com) dans le cadre de notre [dernier tournage](https://cestbeaulamanche.com/video-manche-retour-essentiel/) commissionné par Latitude Manche. Ce n'est donc pas une balade personnelle que je vais raconter aujourd'hui, mais des rencontres et découvertes organisés pour les besoins de cette nouvelle vidéo promotionnelle.
+En mai dernier, je me suis rendu dans la Manche avec [Jeremy](https://djisupertramp.com) dans le cadre de notre [dernier tournage](https://cestbeaulamanche.com/video-manche-retour-essentiel/) commissionné par Latitude Manche. Ce n'est donc pas une balade personnelle que je vais raconter aujourd'hui, mais des rencontres et découvertes organisées pour les besoins de cette nouvelle vidéo promotionnelle.
 
 <div>{{< youtube MsS7fgSAQz0 >}}</div>
 
@@ -109,7 +109,7 @@ Dernière étape pour nos figurants préférés, le restaurant [La Cale](https:/
 
 {{< photo src="lacale.jpg" alt="Normandie - La Manche au printemps" >}}
 
-Un cadre et un concept interessant qui nous laissera un sentiment de déception, la première fois depuis notre arrivée. Presque 2 heures pour être servis, c'est dommage, surtout pour un plat aussi simple que des moules frittes qui étaient très bonnes en passant ! C'est avec un peu de retard sur notre planning que nous quiterons notre joyeuse famille pour continuer la route seuls vers le Cotentin.
+Un cadre et un concept interessant qui nous laissera un sentiment de déception, la première fois depuis notre arrivée. Presque 2 heures pour être servis, c'est dommage, surtout pour un plat aussi simple que des moules frites qui étaient très bonnes en passant ! C'est avec un peu de retard sur notre planning que nous quiterons notre joyeuse famille pour continuer la route seuls vers le Cotentin.
 Sur notre route, nous nous arrêterons à Siouville, la plage incontournable pour les surfeurs où j'irai faire quelques images malgré la toute petite taille des vagues.
 
 ## 18h00
