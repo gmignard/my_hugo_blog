@@ -45,7 +45,7 @@ C'est avec un pincement au coeur que nous prenons la décision de nous séparer 
 
 Dernière révision et vidange boite auto : Aout 2019.
 Pneumatiques remplacés récemment, excellent état.
-Notre van a été entretenu régulièrement dans le réseau Volkswagen (factures à l'appui)
+Notre van a été entretenu régulièrement dans le réseau Volkswagen (factures à l'appui).
 
 ### Galerie
 
