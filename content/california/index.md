@@ -10,22 +10,19 @@ resources:
   name: "cover"
 ---
 
+{{< photo src="calif_1.jpg" alt="W T6 California Coast à vendre" >}}
+
 # VW T6 California Coast
 ### À vendre - Disponible de suite
 
-**Kilométrage** : 59500km / **Mise en circulation** : 29 Mars 2017
-
-{{< photoset max="2" >}}
-  {{< photo src="infos_1.jpg" alt="Watershot à Lostmarc'h" >}}
-  {{< photo src="infos_2.jpg" alt="À bord de mon van Yvon" >}}
-{{</ photoset >}}
-
 ### Caractéristiques
 
-* Modèle : California Coast 2.0 TDI 150ch
-* Motorisation : Diesel
-* Boite : Auto DSG7
-* Peinture métalisée Gris Indium
+* **Modèle** : California Coast 2.0 TDI 150ch
+* **Motorisation** : Diesel
+* **Boite** : Auto DSG7
+* **Peinture métalisée** : Gris Indium
+* **Mise en circulation** : 29 Mars 2017
+* **Kilométrage** : 59500km
 
 ### Options
 
@@ -47,10 +44,17 @@ Notre van a été entretenu régulièrement dans le réseau Volkswagen (factures
 
 ### Galerie
 
+{{< photoset max="2" >}}
+  {{< photo src="infos_1.jpg" alt="Watershot à Lostmarc'h" >}}
+  {{< photo src="infos_2.jpg" alt="À bord de mon van Yvon" >}}
+{{</ photoset >}}
+
 ***
 
 # Prix : 48500€
 
-Pour des demandes de partenariats ou échanges en rapport avec ce blog ou mes réseaux sociaux, merci d'utiliser le formulaire ci-dessous ou de m'envoyer un mail à cette adresse : [greg@gregorymignard.com](mailto:greg@gregorymignard.com)
+***
+
+Pour toute question ou demande d'informations supplémentaires, merci d'utiliser le formulaire ci-dessous ou de m'envoyer un mail à cette adresse : [greg@gregorymignard.com](mailto:greg@gregorymignard.com)
 
 <br style="margin: 30px">
