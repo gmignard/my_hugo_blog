@@ -15,6 +15,8 @@ resources:
 # VW T6 California Coast
 ### À vendre - Disponible de suite
 
+***
+
 ### Caractéristiques
 
 * **Modèle** : California Coast 2.0 TDI 150ch
@@ -51,7 +53,7 @@ Notre van a été entretenu régulièrement dans le réseau Volkswagen (factures
 
 ***
 
-# Prix : 48500€
+# Prix : 48 500€
 
 ***
 
