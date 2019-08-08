@@ -25,10 +25,19 @@ resources:
 * Modèle : California Coast 2.0 TDI 150ch
 * Motorisation : Diesel
 * Boite : Auto DSG7
+* Peinture métalisée Gris Indium
 
 ### Options
 
-
+* Store extérieur
+* Système Discover Media Plus GPS
+* Pack lumière et visibilité (allumage automatique des feux)
+* Préparation attelage
+* Rétroviseur dégivrant et rabattable électriquement
+* Caméra de recul
+* Interface téléphone portable confort et contrôle vocal
+* Matelas et sur-matelas confort sur mesure
+* Draps housse sur mesure
 
 ### Entretien
 
