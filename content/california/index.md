@@ -15,6 +15,8 @@ resources:
 # VW T6 California Coast
 ### À vendre - Disponible de suite
 
+C'est avec un pincement au coeur que nous prenons la décision de nous séparer de notre van adoré. Pendant 2 ans, nous en avons profité et pris le plus grand soin. Mais voilà, la famille s'agrandit et l'envie de passer à autre chose pour de nouvelles aventures... L'occasion pour ce California de trouver de nouveaux propriétaires sympathiques qui pourront continuer l'aventure et prendre autant de plaisir qu'on a pu en avoir avec lui.
+
 ***
 
 ### Caractéristiques
