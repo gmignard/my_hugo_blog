@@ -57,6 +57,17 @@ Notre van a été entretenu régulièrement dans le réseau Volkswagen (factures
   {{< photo src="yvon_4.jpg" alt="W T6 California Coast à vendre" >}}
 {{</ photoset >}}
 
+{{< photoset max="2" >}}
+  {{< photo src="yvon_5.jpg" alt="W T6 California Coast à vendre" >}}
+  {{< photo src="yvon_6.jpg" alt="W T6 California Coast à vendre" >}}
+{{</ photoset >}}
+
+{{< photoset max="3" >}}
+  {{< photo src="yvon_7.jpg" alt="W T6 California Coast à vendre" >}}
+  {{< photo src="yvon_8.jpg" alt="W T6 California Coast à vendre" >}}
+  {{< photo src="yvon_9.jpg" alt="W T6 California Coast à vendre" >}}
+{{</ photoset >}}
+
 ***
 
 # Prix : 48 500€
