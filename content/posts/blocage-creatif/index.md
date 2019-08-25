@@ -34,4 +34,4 @@ Cette simple sortie semble très simple, c'est normal, elle l'est !
 
 {{< photo src="single2.jpg" alt="Comment sortir d'un blocage créatif ?" >}}
 
-{{< photo src="single3.jpg" alt="Comment sortir d'un blocage créatif ?" >}}
+{{< photo class="vertical" src="single3.jpg" alt="Comment sortir d'un blocage créatif ?" >}}
