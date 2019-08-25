@@ -25,9 +25,13 @@ Une heure plus tard, après avoir vu le soleil se lever, je suis sorti de l'eau 
 Cette simple sortie semble très simple, c'est normal, elle l'est !
 
 
-{{< photo src="1.jpg" alt="Un bivouac en canoë sur la Loire" >}}
+{{< photo src="single1.jpg" alt="Comment sortir d'un blocage créatif ?" >}}
 
 {{< photoset max="2" >}}
-  {{< photo src="2.jpg" alt="Un bivouac en canoë sur la Loire" >}}
-  {{< photo src="3.jpg" alt="Un bivouac en canoë sur la Loire" >}}
+  {{< photo src="half1.jpg" alt="Comment sortir d'un blocage créatif ?" >}}
+  {{< photo src="half2.jpg" alt="Comment sortir d'un blocage créatif ?" >}}
 {{</ photoset >}}
+
+{{< photo src="single2.jpg" alt="Comment sortir d'un blocage créatif ?" >}}
+
+{{< photo src="single3.jpg" alt="Comment sortir d'un blocage créatif ?" >}}
