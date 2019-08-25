@@ -47,7 +47,7 @@ Le problème ne s'est pas réglé en quelques jours après l'avoir identifié, j
 
 Dans cet échec, j'avais la chance d'avoir un ami avec qui échanger et essayer de trouver des solutions pour nous tirer mutuellement vers le haut et sortir de cette mauvaise passe. Je pense que c'est une force et depuis que je traite le sujet du blocage créatif lors de mes workshops photo, je me rends compte ô combien ce sujet fait écho auprès des participants qui se sentent souvent bien seuls à vivre cette difficulté !
 
-> 1ère solution : Ne pas avoir peur d'en parler !
+> 1er réflexe : Ne pas avoir peur d'en parler !
 
 Notre premier réflexe a été de nous retourner contre le matos et les logiciels... Une énorme erreur ! Nous pensions trouver la réponse de ce côté ce qui n'est évidement pas une solution, mais allez savoir pourquoi, nous nous sommes encore un peu plus enfoncé dans le problème.
 
@@ -56,4 +56,30 @@ Notre premier réflexe a été de nous retourner contre le matos et les logiciel
   {{< photo src="single2.jpg" alt="Comment sortir d'un blocage créatif ?" >}}
 {{</ photoset >}}
 
+Comme l'origine du problème venait de la mauvaise influence d'Instagram, nous avons eu la logique inverse en voulant faire des images hors de la tendance en essayer de tout contrôler. Nous voulions fonctionner en série photo, en storytelling (ce qui est une excellente chose, mais toutes les images n'ont pas forcément une histoire) et tout en projets.
+
+Nous avons donc investit dans quelques accessoires, nous nous posions la question de savoir si nous avions les bons boitiers et objectifs, nous avons même totalement quittés Lightroom pour nous lancer dans l'utilisation de [Capture One Pro](https://www.captureone.com/fr-FR/products/pro), un outil autrement plus pro et précis que cet outil d'amateur qu'est Lightroom (vous sentez l'ironie dans cette phrase ?) :-)
+
+> 2ème réflexe : Ne pas voir une solution à travers le matériel et les logiciels.
+
+Capture One a beau être un excellent logiciel, effectivement plus puissant que Lightroom, on a surtout réussis à enfoncer le clou un peu plus profond avec une perte totale de repères dans notre workflow. Cela ne facilite pas les choses quand il s'agit de sortir d'un blocage créatif !
+
+Nous voici au début de l'été 2017, quelques mois ce sont écoulés depuis nos tentatives de sortir de ce blocage, mais rien y fait, nous sommes déçus de chaque image que nous produisons...
+
 {{< photo class="vertical" src="single3.jpg" alt="Comment sortir d'un blocage créatif ?" >}}
+
+Les vacances arrivent enfin, je prends le temps de me reposer et de lever le pied en me déconnectant de tout pendant quelques temps. Et là... L'envie de photographier est revenue comme une évidence, je savais ce que je voulais faire, je voulais revenir aux bases, revenir à ce que je faisais il y a quelques années, la technique et l'expérience en plus.
+
+> 3ème réflexe : BACK TO BASICS !!!
+
+Voilà comment je me suis retrouvé à patauger avec mon caisson et mes palmes pour immortaliser ce lever de soleil tout ce qu'il y a de plus banal, mais qui m'aura permis de me retrouver et retrouver la confiance en mois que j'avais perdu sur mon chemin quelques mois plus tôt.
+
+La solution n'était pas bien loin, trop simple pour y croire !
+
+Je ne sais pas si ça sera la solution adapté à tous, mais depuis que j'ose en parler, je me rends compte que je suis loin d'être un cas isolé et que nous avons tous nos faiblesses à un moment donné de notre *carrière* de photographe !
+
+Je n'aurai finalement pas quitté [Instagram](https://www.instagram.com/gregmignard/) ni Lightroom, mais j'ai désormais le recul nécessaire pour faire la part des choses et continuer mon propre chemin... Jusqu'à la nouvelle difficulté que j'ai rencontré cette année en frôlant le burn-out photo, mais cela fera l'objet d'un prochain article.
+
+**SPOILER** : J'ai également trouvé la solution à ce problème :-)
+
+Pssss. Pour aller avec le lecture de cet article, je recommande de passer dans ces oreilles l'excellent titre « *[Cold Little Heart](https://open.spotify.com/track/0qprlw0jfsW4H9cG0FFE0Z?si=L0Z5ogxsRx6o30U_PSQQRA)* » de Michael Kiwanuka.
