@@ -7,8 +7,8 @@ draft: false
 slug: "blocage-creatif"
 categories:
 - journal
-tags: ["Accessoires indispensables en van", "VW T6", "T6", "VW", "VW California", "Accessoires", "Van", "Van Life", "VW T6 California", "Conseils"]
-description: "Après 2 années d'expérience, je dévoile les accessoires qui sont devenus indispensables pour ma pratique du Van avec un VW T6 Califnoria."
+tags: ["blocage créatif", "Conseils"]
+description: "Il est facile de parler de ses succès, mais il est très difficile d’évoquer ses difficultés. Voici comment je suis sorti de mon blocage créatif."
 resources:
 - src: "cover.jpg"
   name: "cover"
