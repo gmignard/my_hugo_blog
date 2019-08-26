@@ -72,7 +72,7 @@ Les vacances arrivent enfin, je prends le temps de me reposer et de lever le pie
 
 > 3ème réflexe : BACK TO BASICS !!!
 
-Voilà comment je me suis retrouvé à patauger avec mon caisson et mes palmes pour immortaliser ce lever de soleil tout ce qu'il y a de plus banal, mais qui m'aura permis de me retrouver et retrouver la confiance en mois que j'avais perdu sur mon chemin quelques mois plus tôt.
+Voilà comment je me suis retrouvé à patauger avec mon caisson et mes palmes pour immortaliser ce lever de soleil tout ce qu'il y a de plus banal, mais qui m'aura permis de me retrouver et retrouver la confiance en moi que j'avais perdu sur mon chemin quelques mois plus tôt.
 
 La solution n'était pas bien loin, trop simple pour y croire !
 
