@@ -2,7 +2,7 @@
 title: Mon blocage créatif
 subtitle: Comment j'en suis arrivé là et comment j'en suis sorti ?
 seotitle: "Comment sortir d'un blocage créatif ?"
-date: 2019-08-26T07:00:50+01:00
+date: 2019-08-26T06:00:50+01:00
 draft: false
 slug: "blocage-creatif"
 categories:
