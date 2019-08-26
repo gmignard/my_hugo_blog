@@ -82,4 +82,4 @@ Je n'aurai finalement pas quitté [Instagram](https://www.instagram.com/gregmign
 
 **SPOILER** : J'ai également trouvé la solution à ce problème :-)
 
-Pssss. Pour aller avec le lecture de cet article, je recommande de passer dans ces oreilles l'excellent titre « *[Cold Little Heart](https://open.spotify.com/track/0qprlw0jfsW4H9cG0FFE0Z?si=L0Z5ogxsRx6o30U_PSQQRA)* » de Michael Kiwanuka.
+Pssss. Pour aller avec la lecture de cet article, je recommande de passer dans ces oreilles l'excellent titre « *[Cold Little Heart](https://open.spotify.com/track/0qprlw0jfsW4H9cG0FFE0Z?si=L0Z5ogxsRx6o30U_PSQQRA)* » de Michael Kiwanuka.
