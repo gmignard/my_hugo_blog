@@ -2,7 +2,7 @@
 title: Mon blocage créatif
 subtitle: Comment j'en suis arrivé là et comment j'en suis sorti ?
 seotitle: "Comment sortir d'un blocage créatif ?"
-date: 2019-08-25T07:00:50+01:00
+date: 2019-08-26T07:00:50+01:00
 draft: false
 slug: "blocage-creatif"
 categories:
@@ -17,7 +17,7 @@ resources:
 
 Je crois que c'est la première fois que je vais parler d'échec, pourquoi est-il si difficile de les accepter ? Et pourtant, à se confier aux autres, il n'est pas rare de rencontrer des personnes qui vivent ces mêmes échecs, avec plus ou moins de difficultés.
 
-> Il est facile de parler de ses succès, mais il est très difficile d'évoquer ses difficultés.
+> Il est facile de parler de ses succès, mais il est compliqué d'évoquer ses difficultés.
 
 Il y a un an, à quelques jours près, je sortais enfin  d'un blocage créatif depuis plusieurs mois. Ce matin là, je me suis levé vers 5h00, j'ai glissé mon A6300 et mon caisson dans mon sac à dos et j'ai attrapé ma combinaison et ma paire de palmes pour me rendre sur la plage du petit Minou.
 
@@ -30,7 +30,7 @@ Mais pourquoi j'en suis arrivé là ? Pourquoi je n'étais plus capable de faire
 
 ### Les causes du blocage
 
-Je pense qu'il faut revenir en arrière jusqu'au courant de l'année 2017, je ne sais pas trop exactement, je ne me suis pas rendu compte rapidement de ce blocage.
+Je pense qu'il faut revenir en arrière jusqu'au courant de l'année 2017, je ne sais pas trop quand exactement, je ne me suis pas rendu compte rapidement de ce blocage.
 
 {{< photoset max="2" >}}
   {{< photo src="half1.jpg" alt="Comment sortir d'un blocage créatif ?" >}}
@@ -56,7 +56,7 @@ Notre premier réflexe a été de nous retourner contre le matos et les logiciel
   {{< photo src="single2.jpg" alt="Comment sortir d'un blocage créatif ?" >}}
 {{</ photoset >}}
 
-Comme l'origine du problème venait de la mauvaise influence d'Instagram, nous avons eu la logique inverse en voulant faire des images hors de la tendance en essayer de tout contrôler. Nous voulions fonctionner en série photo, en storytelling (ce qui est une excellente chose, mais toutes les images n'ont pas forcément une histoire) et tout en projets.
+Comme l'origine du problème venait de la mauvaise influence d'Instagram, nous avons eu la logique inverse en voulant faire des images hors de la tendance en essayant de tout contrôler. Nous voulions fonctionner en série photo, en storytelling (ce qui est une excellente chose, mais toutes les images n'ont pas forcément une histoire) et tout en projets.
 
 Nous avons donc investit dans quelques accessoires, nous nous posions la question de savoir si nous avions les bons boitiers et objectifs, nous avons même totalement quittés Lightroom pour nous lancer dans l'utilisation de [Capture One Pro](https://www.captureone.com/fr-FR/products/pro), un outil autrement plus pro et précis que cet outil d'amateur qu'est Lightroom (vous sentez l'ironie dans cette phrase ?) :-)
 
