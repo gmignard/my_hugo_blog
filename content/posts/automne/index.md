@@ -16,7 +16,7 @@ resources:
 - src: "*.jpg"
 ---
 
-En mai dernier, je me suis rendu dans la Manche avec [Jeremy](https://djisupertramp.com) dans le cadre de notre [dernier tournage](https://cestbeaulamanche.com/video-manche-retour-essentiel/) commissionné par Latitude Manche. Ce n'est donc pas une balade personnelle que je vais raconter aujourd'hui, mais des rencontres et découvertes organisées pour les besoins de cette nouvelle vidéo promotionnelle.
+Automne 2018, je retrouve [Jeremy](https://djisupertramp.com) à l'aéroport de Lyon qui est venu me chercher avec un van loué pour notre périple : Aller nous isoler dans la montagne pour nous ressourcer et capturer ces ambiances et couleurs que l'on aime tant. Avant de vous raconter tout ça en détail, voici la vidéo de cette aventure.
 
 <div>{{< youtube MsS7fgSAQz0 >}}</div>
 
