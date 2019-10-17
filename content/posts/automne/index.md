@@ -1,7 +1,7 @@
 ---
-title: Mon ode à l'automne
-subtitle: Les coulisses d'un tournage avec Captain Yvon Studio
-seotitle: "Normandie - La Manche au printemps"
+title: Roadtrip d'automne
+subtitle: 5 jours sur les routes des Hautes Alpes
+seotitle: "Hautes Alpes - Roadtrip d'automne"
 date: 2019-10-02T05:30:50+01:00
 draft: false
 slug: "automne"
@@ -16,7 +16,7 @@ resources:
 - src: "*.jpg"
 ---
 
-Automne 2018, je retrouve [Jeremy](https://djisupertramp.com) à l'aéroport de Lyon qui est venu me chercher avec un van loué pour notre périple : Aller nous isoler dans la montagne pour nous ressourcer et capturer ces ambiances et couleurs que l'on aime tant. Avant de vous raconter tout ça en détail, voici la vidéo de cette aventure.
+Automne 2018, je retrouve [Jeremy](https://djisupertramp.com) à l'aéroport de Lyon qui est venu me chercher avec un van loué pour notre périple : Aller nous isoler dans la montagne pour nous ressourcer et capturer ces ambiances et couleurs que l'on aime tant. Avant de vous raconter tout ça en détail, voici la vidéo de ce roadtrip.
 
 <div>{{< youtube MsS7fgSAQz0 >}}</div>
 
