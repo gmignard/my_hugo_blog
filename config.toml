@@ -29,7 +29,7 @@ paginate = 9
   bodyFont = "Lora"
 
   hasLogo = true
-  accentColor = "#019CB5"
+  accentColor = "#0f77bd"
 
 #heroHeader = true
 
