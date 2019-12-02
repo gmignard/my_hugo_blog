@@ -45,7 +45,6 @@ paginate = 9
   domain = "Grégory Mignard"
   instagram = "gregmignard"
   twitter = "gregmignard"
-  vimeo = "captainyvon"
 
 [[menu.main]]
   name = "Journal"
