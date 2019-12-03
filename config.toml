@@ -65,6 +65,12 @@ paginate = 9
   weight = 3
   identifier = "infos"
   url = "/infos"
+[[menu.main]]
+  name = "Studio"
+  title = "Captain Yvon Studio"
+  weight = 4
+  identifier = "studio"
+  url = "https://captainyvon.fr/"
 
 [[related.indices]]
   name = "categories"
