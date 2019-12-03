@@ -45,7 +45,7 @@ paginate = 9
   domain = "Grégory Mignard"
   instagram = "gregmignard"
   twitter = "gregmignard"
-  vimeo = "gregmignard"
+  vimeo = "captainyvon"
 
 [[menu.main]]
   name = "Journal"
@@ -54,21 +54,15 @@ paginate = 9
   identifier = "journal"
   url = "/journal/"
 [[menu.main]]
-  name = "Aventures"
-  title = "Aventures"
+  name = "Films"
+  title = "Films"
   weight = 2
-  identifier = "aventures"
-  url = "/aventures/"
-[[menu.main]]
-  name = "Tips & Gear"
-  title = "Tips & Gear"
-  weight = 3
-  identifier = "guides"
-  url = "/guides/"
+  identifier = "Films"
+  url = "/films/"
 [[menu.main]]
   name = "À propos"
   title = "Infos & Contact"
-  weight = 4
+  weight = 3
   identifier = "infos"
   url = "/infos"
 
