@@ -7,7 +7,7 @@ draft: false
 slug: "microaventure-a-raquettes-dans-le-vercors"
 categories:
 - microaventure
-- aventures
+- journal
 tags: ["Cabane", "Raquette", "Hiver", "Vercors", "Randonnée", "aventure", "microaventure", "neige", "bivouac"]
 description: "Récit d'une microaventure à raquette dans le Vercors en hiver en passant la nuit dans une cabane non gardée. "
 resources:

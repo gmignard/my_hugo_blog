@@ -5,8 +5,8 @@ date: 2017-06-19T13:13:50+01:00
 draft: false
 slug: "new-york-vu-a-travers-mon-pixter"
 categories:
-- voyage
-- aventures
+- voyages
+- journal
 tags: ["iPhone", "Photo", "Pixter", "New York", "Objectif", "Voyage",]
 description: "Test des objectifs Pixter pendant un voyage à New York"
 resources:
