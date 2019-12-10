@@ -15,7 +15,7 @@ resources:
   {{< photo src="infos_2.jpg" alt="À bord de mon van Yvon" >}}
 {{</ photoset >}}
 
-Salut ! Moi c'est Grégory et je suis photographe et vidéaste freelance basé dans le Finistère Nord.
+Salut ! Moi c'est Grégory et je suis photographe et vidéaste basé dans le Finistère Nord.
 Amoureux des grands espaces, je suis fasciné par l’océan et je passe un maximum de temps dans l'eau ou dehors en microaventure et en famille avec [Yvon](https://www.instagram.com/lifewithyvon/), mon van.
 
 Après avoir blogué pendant près de 10 ans sur  Santadenn, mon ancien blog, j'ai décidé de repartir de zéro en partageant ici mes créations, conseils et récits d'aventures.
