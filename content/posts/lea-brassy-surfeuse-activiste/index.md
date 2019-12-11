@@ -27,11 +27,6 @@ J’espère qu’elle vous plaira, de notre côté on en est fiers et il nous ta
 
 {{< photo src="lea.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
 
-{{< photoset max="3" >}}
-  {{< photo src="3_1.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
-  {{< photo src="3_2.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
-  {{< photo src="3_3.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
-{{</ photoset >}}
 
 <div>
 {{< vimeo 371653768 >}}
@@ -49,6 +44,12 @@ J’espère qu’elle vous plaira, de notre côté on en est fiers et il nous ta
 {{< photoset max="2" >}}
   {{< photo src="underwater.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
   {{< photo src="beach.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
+{{</ photoset >}}
+
+{{< photoset max="3" >}}
+  {{< photo src="3_1.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
+  {{< photo src="3_2.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
+  {{< photo src="3_3.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
 {{</ photoset >}}
 
 ***
