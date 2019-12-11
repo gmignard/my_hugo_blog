@@ -22,31 +22,29 @@ Depuis que j'ai co-fondé [Captain Yvon Studio](https://captainyvon.fr/) en 2016
   {{< photo src="barrel.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
 {{</ photoset >}}
 
-Mais qu'elle n'a pas été notre surprise quand ils nous ont proposé de réaliser un portrait sur [Léa Brassy]http://leabrassy.com/, une surfeuse, apnéiste et activiste originaire du département. Inutile de préciser que l'on a pas hésiter longtemps pour se mettre au travail et réaliser ce portrait que vous pouvez découvrir juste ici.
-
-<div>
-{{< vimeo 371653768 >}}
-</div>
-
-Léa est une fille humble, passionnée et passionnante. On connait son nom depuis longtemps et l’idée de faire un projet avec elle nous trottait dans la tête depuis longtemps. On ne savait pas comment exactement, mais clairement on en parlait entre nous. Alors quand l’opportunité s’est présentée, on savait que c’était l’occasion à ne pas rater. Fin octobre, on est donc partis quelques jours dans la Manche où on a retrouvé Léa pour ce tournage.
-
-Même si les conditions de surf n’étaient pas idéales, on était survoltés à l’idée de donner le meilleur de nous même dans le temps imparti dans le but de réaliser un portrait à la hauteur des attentes de Latitude Manche, mais surtout des nôtres. On se fixait la barre un peu haute mais on était motivés et d’attaques.
-
-On est donc partis pour 3 jours de vanlife tous les 3, à rencontrer des locaux pour nous aider à avoir les bonnes conditions de surf et les meilleures opportunités pour notre film. On s’est vite décidé à filmer ce projet dans le Cotentin, notre coin préféré dans le département, pour ses paysages bruts et sauvages et la quiétude qui y règne. Les éléments étaient déchainés et mère nature nous a offert un sacré spectacle.
-
-J’espère qu’elle vous plaira, de notre côté on en est fiers et il nous tarde de voir de quoi demain sera fait pour remettre ça un jour peut-être ?
-
-J’espère qu’elle vous plaira, de notre côté on en est fiers et il nous tarde de voir de quoi demain sera fait pour remettre ça un jour peut-être ?
-
 {{< photoset max="2" >}}
   {{< photo src="watershot.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
   {{< photo src="lea_water.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
 {{</ photoset >}}
 
+Mais qu'elle n'a pas été notre surprise quand ils nous ont proposé de réaliser un portrait sur [Léa Brassy](http://leabrassy.com/), une surfeuse, apnéiste et activiste originaire du département. Inutile de préciser que l'on a pas hésiter longtemps pour se mettre au travail et réaliser ce portrait que vous pouvez découvrir juste ici.
+
+<div>
+{{< vimeo 371653768 >}}
+</div>
+
+Léa ne nous était pas inconnue, nous suivions de très près ses aventures et valeurs qu'elle partage à sa communauté. Nous avions même l'envie de lui proposer un jour un projet, comme quoi, le hasard fait plutôt bien les choses, le destin s'est chargé de nous placer sur son chemin... Ou inversement !
+
+Nous n'avions pas beaucoup de temps pour réaliser ce portrait, mais nous savions que c'était l'occasion à ne pas rater, nous savions que nous pouvions faire ce que l'on aime depuis toujours chez Captain Yvon, alors nous avons mis toutes les chances de notre côté pour réaliser le meilleur travail possible malgré le timing serré et des contraintes météo.
+
 {{< photoset max="2" >}}
   {{< photo src="underwater.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
   {{< photo src="beach.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
 {{</ photoset >}}
+
+C'est ainsi que nous avons embarqué pour 3 jours en van à écumer les spots du Cotentin qui nous assurent les meilleurs spots et décors de surf. Nous avons également eu le soutien de quelques locaux qui nous prouve une fois de plus que ce département regorge de trésors et d'histoires inspirantes. Une raison de plus pour revenir ?
+
+***
 
 {{< photoset max="3" >}}
   {{< photo src="3_1.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
@@ -54,13 +52,11 @@ J’espère qu’elle vous plaira, de notre côté on en est fiers et il nous ta
   {{< photo src="3_3.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
 {{</ photoset >}}
 
-***
-
 ### Matériel utilisé
 
 * Boitiers : Sony A7SII, [Sony A7RII](https://amzn.to/34dvyHM) et deux [Sony A6300](https://amzn.to/2qKAXbM).
 * Objectifs : [Sony 10-18 f/4](https://amzn.to/35bP0pM), [Sony 28mm f/2](https://amzn.to/36pmZet), [Sony 55mm f1.8](https://amzn.to/35b7RB3) et [Sony 70-200mm f/4](https://amzn.to/34bMTAV).
-* Stabilisation : [Un trépied](https://amzn.to/2E5dG7c), [un monopod](https://amzn.to/36gMxdM) en guise de perche et deux [Dji Ronin-SC](https://amzn.to/34dfINg).
-* Drone :
-* Son : Micro Rode NTG4+ et enregistreur ZOOM H4n Pro.
-* Watershot :
+* Stabilisation : Deux [Dji Ronin-SC](https://amzn.to/34dfINg).
+* Drone : Un bon vieux [Dji Mavic Pro](https://amzn.to/2t060kr).
+* Son : Micro [Rode NTG4+](https://amzn.to/2PyTpfU) et enregistreur [ZOOM H4n Pro](https://amzn.to/35aufKY).
+* Watershot : Une [combinaison bien chaude](https://www.ataoride.com/29-combinaison-homme#/epaisseur-5_4_3mm), une [paire de palmes](https://amzn.to/2t7Yfcp) et un [caisson étanche](https://seafrogs.com.hk/collections/a6xxx-salted-line/products/seafrogs-60m-195ft-waterproof-housing-for-sony-a6xxx-series-salted-line-with-pistol-grip-6-dry-dome-port-white).
