@@ -15,7 +15,18 @@ resources:
 - src: "*.jpg"
 ---
 
-Comme vous le savez sûrement, j’ai co-fondé Captain Yvon Studio avec mon compère de toujours, Greg. Notre but est de donner envie de sortir en pleine nature, la protéger et y vivre des expériences uniques. Nous nous sommes toujours sentis proches de ces valeurs alors quand Latitude Manche, avec qui nous collaborons depuis plusieurs années, nous a proposé de réaliser un portrait de Léa Brassy, surfeuse, apnéiste et activiste… Il ne nous a pas fallu longtemps pour accepter ce projet de film. La vidéo est à voir en fin d’article.
+Depuis que j'ai co-fondé [Captain Yvon Studio](https://captainyvon.fr/) en 2016 avec Jeremy, notre but a toujours été d'inspirer en documentant et racontant les belles histoires proches de la nature. Nos valeurs et la tendance actuelle du climat nous incite à être actif à notre manière en crééant des films et images qui puissent déclencher des actions chez d'autres personnes. Cet ADN, nous l'intégrons dans chacun de nos projets, c'est également le cas avec les projets de notre client Latitude Manche qui nous fait confiance depuis quelques années maintenant.
+
+{{< photoset max="2" >}}
+  {{< photo src="lea.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
+  {{< photo src="barrel.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
+{{</ photoset >}}
+
+Mais qu'elle n'a pas été notre surprise quand ils nous ont proposé de réaliser un portrait sur [Léa Brassy]http://leabrassy.com/, une surfeuse, apnéiste et activiste originaire du département. Inutile de préciser que l'on a pas hésiter longtemps pour se mettre au travail et réaliser ce portrait que vous pouvez découvrir juste ici.
+
+<div>
+{{< vimeo 371653768 >}}
+</div>
 
 Léa est une fille humble, passionnée et passionnante. On connait son nom depuis longtemps et l’idée de faire un projet avec elle nous trottait dans la tête depuis longtemps. On ne savait pas comment exactement, mais clairement on en parlait entre nous. Alors quand l’opportunité s’est présentée, on savait que c’était l’occasion à ne pas rater. Fin octobre, on est donc partis quelques jours dans la Manche où on a retrouvé Léa pour ce tournage.
 
@@ -25,21 +36,12 @@ On est donc partis pour 3 jours de vanlife tous les 3, à rencontrer des locaux 
 
 J’espère qu’elle vous plaira, de notre côté on en est fiers et il nous tarde de voir de quoi demain sera fait pour remettre ça un jour peut-être ?
 
-{{< photo src="lea.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
-
-
-<div>
-{{< vimeo 371653768 >}}
-</div>
-
 J’espère qu’elle vous plaira, de notre côté on en est fiers et il nous tarde de voir de quoi demain sera fait pour remettre ça un jour peut-être ?
 
 {{< photoset max="2" >}}
   {{< photo src="watershot.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
   {{< photo src="lea_water.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
 {{</ photoset >}}
-
-{{< photo src="barrel.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
 
 {{< photoset max="2" >}}
   {{< photo src="underwater.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
