@@ -15,20 +15,13 @@ resources:
 - src: "*.jpg"
 ---
 
-Je crois que c'est la première fois que je vais parler d'échec, pourquoi est-il si difficile de les accepter ? Et pourtant, à se confier aux autres, il n'est pas rare de rencontrer des personnes qui vivent ces mêmes échecs, avec plus ou moins de difficultés.
+Pas de musique mais du beau son. Pas de ralentis que de la vitesse pure. Montez le volume de vos écouteurs ou enceintes et embarquez avec Ambroise Hébert pour 40 secondes de descente sur un secret spot Normand.
 
 <div>
 {{< vimeo 370095571 >}}
 </div>
 
-Il y a un an, à quelques jours près, je sortais enfin  d'un blocage créatif depuis plusieurs mois. Ce matin là, je me suis levé vers 5h00, j'ai glissé mon A6300 et mon caisson dans mon sac à dos et j'ai attrapé ma combinaison et ma paire de palmes pour me rendre sur la plage du petit Minou.
 
-Mon objectif était simple, je voulais retrouver la confiance en moi, me prouver que j'étais encore capable de créer des images sympa.
-Une heure plus tard, après avoir vu le soleil se lever, je suis sorti de l'eau et je suis rentré chez moi satisfait ! Le peu que j'avais pu voir sur le petit écran me comblait déjà de bonheur, je n'ai pas pu m'empêcher de partager cette joie avec [Jeremy](https://djisupertramp.com) qui vivait également cet échec à cette période.
-
-Cette simple sortie semble très simple, c'est normal, elle l'est !
-
-Mais pourquoi j'en suis arrivé là ? Pourquoi je n'étais plus capable de faire quelque chose qui semble si simple ?
 
 ### Fiche technique
 
