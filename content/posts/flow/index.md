@@ -21,7 +21,11 @@ Pas de musique mais du beau son. Pas de ralentis que de la vitesse pure. Montez 
 {{< vimeo 370095571 >}}
 </div>
 
+Cette vidéo a été tournée un peu totalement par hasard lors d'un tournage commandé par l'agence [Latitude Manche](https://latitude-manche.fr/) chez [Captain Yvon Studio](https://captainyvon.fr/). Cette commande autour du tourisme et du sport dans le département de la Manche nous a fait rencontrer Ambroise Hébert, un pilote enduro local qui a su se faire un nom sur la scène internationnale. Ambroise est un éternel amoureux de sa région qui s'est notament fait connaitre avec [son run à Valparaiso](https://youtu.be/9x37p8ubZwc) au Chili.
 
+<div>
+{{< instagram B0oFcTEl-Qu hidecaption >}}
+</div>
 
 ### Fiche technique
 
