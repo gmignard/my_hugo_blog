@@ -27,7 +27,7 @@ Depuis que j'ai co-fondé [Captain Yvon Studio](https://captainyvon.fr/) en 2016
   {{< photo src="lea_water.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
 {{</ photoset >}}
 
-Mais qu'elle n'a pas été notre surprise quand ils nous ont proposé de réaliser un portrait sur [Léa Brassy](http://leabrassy.com/), une surfeuse, apnéiste et activiste originaire du département. Inutile de préciser que l'on a pas hésiter longtemps pour se mettre au travail et réaliser ce portrait que vous pouvez découvrir juste ici.
+Mais qu'elle n'a pas été notre surprise quand ils nous ont proposé de réaliser un portrait sur [Léa Brassy](http://leabrassy.com/), une surfeuse, apnéiste et activiste originaire du département. Inutile de préciser que l'on a pas hésité longtemps pour se mettre au travail et réaliser ce portrait que vous pouvez découvrir juste ici.
 
 <div>
 {{< vimeo 371653768 >}}
