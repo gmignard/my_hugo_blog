@@ -52,6 +52,8 @@ C'est ainsi que nous avons embarqué pour 3 jours en van à écumer les spots du
   {{< photo src="3_3.jpg" alt="Portrait - Léa Brassy, surfeuse, apnéiste et activiste" >}}
 {{</ photoset >}}
 
+***
+
 ### Matériel utilisé
 
 * Boitiers : Sony A7SII, [Sony A7RII](https://amzn.to/34dvyHM) et deux [Sony A6300](https://amzn.to/2qKAXbM).
