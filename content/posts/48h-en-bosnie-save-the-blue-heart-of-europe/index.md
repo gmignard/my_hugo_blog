@@ -7,7 +7,7 @@ draft: false
 slug: "48h-en-bosnie-save-the-blue-heart-of-europe"
 categories:
 - environnement
-- aventures
+- journal
 tags: ["Patagonia", "Change Makers", "Bosnie", "Una", "Save The Blue Heart of Europe", "aventure", "Ecologie", "environnement"]
 description: "Je me suis rendu quelques jours en Bosnie début septembre. pour rejoindre le mouvement «Save The Blue Heart of Europe ». Je vous raconte tout ça en vidéo !"
 resources:
