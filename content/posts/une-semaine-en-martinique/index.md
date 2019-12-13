@@ -7,7 +7,7 @@ draft: false
 slug: "une-semaine-en-martinique"
 categories:
 - voyage
-- aventures
+- journal
 tags: ["Voyage", "Famille", "Martinique", "Antilles", "Hiver", "Vidéo", "Tourisme", "Une semaine en Martinique"]
 description: "Une semaine en Martinique en hiver, rien de tel pour affronter le reste de l'hiver jusqu'au printemps. Une semaine de vacances en vidéo !"
 resources:
