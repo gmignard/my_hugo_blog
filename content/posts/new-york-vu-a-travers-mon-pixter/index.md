@@ -6,7 +6,7 @@ draft: false
 slug: "new-york-vu-a-travers-mon-pixter"
 categories:
 - voyage
-- aventures
+- journal
 tags: ["iPhone", "Photo", "Pixter", "New York", "Objectif", "Voyage",]
 description: "Test des objectifs Pixter pendant un voyage à New York"
 resources:
