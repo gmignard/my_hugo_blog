@@ -7,6 +7,7 @@ draft: false
 slug: "vlog-surf-matinal-a-crozon"
 categories:
 - films
+- projets
 tags: ["vlog", "surf", "crozon", "bretagne", "video", "watershot", "lostmarch",]
 description: "Posez-vous confortablement, montez le son et laissez-moi vous accompagner dans l'eau pour cette petite session watershot en surf ! Pour ce simple Vlog, je suis allé à l'eau avec ma paire de palmes pour profiter de petites vagues avec mon ami Xavier"
 resources:
