@@ -7,7 +7,7 @@ draft: false
 slug: "bivouac-canoe-loire"
 categories:
 - microaventure
-- journal
+- projets
 tags: ["Bivouac", "Canoë", "Loire", "Destination H2o", "Campement", "Aventure", "microaventure", "Captain Yvon", "France"]
 description: "Récit d'une' microaventure et behind the scene d'un workshop photo aventure sur les bords de Loire en canoë autour d'un bivouac avec Captain Yvon Studio."
 resources:

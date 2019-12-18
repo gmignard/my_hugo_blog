@@ -54,11 +54,11 @@ paginate = 9
   identifier = "journal"
   url = "/journal/"
 [[menu.main]]
-  name = "Films"
-  title = "Films"
+  name = "Projets"
+  title = "Films, Reportages & Microaventures"
   weight = 2
-  identifier = "Films"
-  url = "/films/"
+  identifier = "Projets"
+  url = "/projets/"
 [[menu.main]]
   name = "À propos"
   title = "Infos & Contact"
