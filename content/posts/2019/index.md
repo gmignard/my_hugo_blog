@@ -2,7 +2,7 @@
 title: 2019 en images
 subtitle: Les moments forts de l’année 
 seotitle: "Comment sortir d'un blocage créatif ?"
-date: 2019-11-26T07:00:50+01:00
+date: 2019-12-23T08:00:50+01:00
 draft: false
 slug: "2019"
 categories:
