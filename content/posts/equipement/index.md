@@ -34,4 +34,16 @@ Cette vidéo a d'ailleurs été exclusivement filmée avec l'a6300 en question e
 
 Mais ce setup était un peu bancale, jouer avec deux marques n'était pas évident et devenant peu à peu vidéaste, il a fallu prendre une décision... Je quitterais totalement Nikon pour Sony à l'été 2017 !
 
+> Janvier 2020, me voilà chez Fuji 🤔 ! Que s'est-il passé ?
+
+J'étais plutôt content de mon setup Sony, mais il me manquait un petit quelque chose sans trop savoir l'expliquer. La question d'un remplacement de boitier commençait à se poser, sans urgence, mais l'interrogation a vite laissé la place au doute. 
+Si Sony était un choix évident en photo et vidéo en 2017, aujourd'hui, la plupart des marques proposent des features super interessantes et il est désormais facile d'y trouver son compte. 
+
+Voulant améliorer les performances en vidéo, retrouver une belle science couleur qui me manquait depuis Nikon et avoir un peu plus de choix optiques tout en conservant un boitier compact, léger et compatible avec un caisson étanche, mon choix s'est donc porté sur un [Fujifilm X-T3](https://www.digit-photo.com/FUJI-X-T3-Boitier-Nu-Noir-rFUJIXT3BK.html?dpa_id=23).
+
+***
+
 ## Mon équipement en 2020
+
+{{< photo src="gear.jpg" alt="Mon équipement photo et vidéo chez Fujifilm" >}}
+
