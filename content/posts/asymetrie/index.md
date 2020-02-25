@@ -2,7 +2,7 @@
 title: Asymétrie
 subtitle: Un film avec Camille Prigent de la Maison Rivages
 seotitle: "Asymétrie - Un film avec Camille Prigent de la Maison Rivages"
-date: 2020-02-24T07:00:50+01:00
+date: 2020-02-25T07:00:50+01:00
 draft: false
 slug: "asymetrie"
 categories:
@@ -16,7 +16,11 @@ resources:
 - src: "*.jpg"
 ---
 
-Mercredi matin, 9h00 ! Je me réveille seul au monde dans mon van sur la côte nord. Je reprends le volant et me dirige vers l'atelier [Maison Rivages](http://maison-rivages.com) où j'ai convenu de retrouver Camille.
+Mercredi matin, 9 h ! Je me réveille seul au monde dans mon van sur la côte nord. Je reprends le volant et me dirige vers l’atelier [Maison Rivages](http://maison-rivages.com) où j’ai convenu de retrouver Camille.
+
+Autour d’une tasse de café fumante, nous discutons de tout et de rien, Camille me fait visiter son atelier dans lequel il n’allait pas tarder à lancer les machines. Cela fait quelques mois que j’ai envie de couvrir un sujet sur son travail et univers, on devait juste se caler un moment. Du coup, je provoque un peu le destin et lui propose mon idée sur laquelle il rebondit direct... Nous voici lancés dans un tournage totalement improvisé à la dernière minute !
+
+Cela donnera « Asymétrie ».
 
 <div>
 {{< youtube e6PATCB1yTk >}}
@@ -42,6 +46,6 @@ Mercredi matin, 9h00 ! Je me réveille seul au monde dans mon van sur la côte n
 
 ### Matériel utilisé
 
-* Boitier : Sony A7SII, [Sony A7RII](https://amzn.to/34dvyHM) et deux [Sony A6300](https://amzn.to/2qKAXbM).
-* Objectifs : [Sony 10-18 f/4](https://amzn.to/35bP0pM), [Sony 28mm f/2](https://amzn.to/36pmZet), [Sony 55mm f1.8](https://amzn.to/35b7RB3) et [Sony 70-200mm f/4](https://amzn.to/34bMTAV).
-* Stabilisation : [Un Dji Ronin-SC](https://amzn.to/34dfINg)et [un monopod](https://amzn.to/36gMxdM).
+* Boitier : [Fuji X-T3](https://www.digit-photo.com/FUJI-X-T3-Boitier-Nu-Noir-rFUJIXT3BK.html?dpa_id=23).
+* Objectifs : [ Fuji XF 23mm f/1.4 ](https://www.digit-photo.com/FUJI-XF-23mm-f-1-4-R-rFUJI11508.html?dpa_id=23) et [Fuji XF 100-400mm](https://www.digit-photo.com/FUJI-XF-100-400mm-f-4-5-5-6-R-LM-OIS-WR-Noir-rFUJI16501109.html?dpa_id=23).
+* Stabilisation : [Un Dji Ronin-SC](https://www.digit-photo.com/DJI-Ronin-SC-Stabilisateur-rDJIRONINSC.html?dpa_id=23)et [un monopod](https://amzn.to/36gMxdM).
