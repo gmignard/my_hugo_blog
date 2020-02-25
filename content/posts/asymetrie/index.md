@@ -1,16 +1,15 @@
 ---
 title: Asymétrie
-subtitle: Ambroise Hébert ne fait pas dans le détail sur un secret spot normand
-seotitle: "Flow - Ambroise Hébert sur un secret spot Normand"
+subtitle: Un film avec Camille Prigent de la Maison Rivages
+seotitle: "Asymétrie - Un film avec Camille Prigent de la Maison Rivages"
 date: 2020-02-24T07:00:50+01:00
 draft: false
 slug: "asymetrie"
 categories:
 - films
 - projets
-- vanlife
-tags: ["ambroise hebert", "vtt", "enduro", "dh", "descente", "downhill", "cherbourg", "normandie", "manche"]
-description: "Pas de musique mais du beau son. Pas de ralentis que de la vitesse pure. Ambroise Hébert ne fait pas dans le détail sur un secret spot normand."
+tags: ["Camille Prigent", "Rivages", "Maison Rivages", "Wax de surf", "Wax", "Surf", "Finistère", "Menuiserie", "Design", "Bretagne", "Artisan", "Artisanat", "Bois"]
+description: "Retour sur une journée de tournage qui donnera naissance à « Asymétrie », un film improvisé de dernière minute avec Camille Prigent de la Maison Rivages."
 resources:
 - src: "cover.jpg"
   name: "cover"
