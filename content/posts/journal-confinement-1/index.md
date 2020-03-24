@@ -1,7 +1,7 @@
 ---
 title: S’adapter
 subtitle: Journal de bord d’un confiné - Semaine #1
-seotitle: "S’adapter - Journal de bord d’un confiné - Semaine #1"
+seotitle: "S’adapter - Journal de bord d’un confiné - Semaine 1"
 date: 2020-03-24T07:00:50+01:00
 draft: false
 slug: "journal-confinement-1"
