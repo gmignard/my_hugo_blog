@@ -7,8 +7,8 @@ draft: false
 slug: "journal-confinement-1"
 categories:
 - journal
-tags: ["What's in my bag", "Equipement", "Fuji", "Fujifilm", "X-T3"]
-description: "Pourquoi j'ai quitté Sony et Nikon ? Découvrez mon équipement photo et vidéo chez Fujifilm et tout ce qu'il y a dans mon sac photo en 2020."
+tags: ["Covid19", "Confinement", "Journal", "Pandémie", "Coronavirus"]
+description: "Journal de bord d’un confiné pendant la pandémie COVID-19. Découvrez comment nous nous organisons durant cette période à la maison."
 resources:
 - src: "cover.jpg"
   name: "cover"
