@@ -25,7 +25,7 @@ paginate = 9
   tags = []
 
   sansSerifFont = "Josefin Sans"
-  titleFont = "Convergence"
+  titleFont = "Montserrat"
   bodyFont = "Lora"
 
   hasLogo = true
