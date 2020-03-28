@@ -240,10 +240,17 @@ img {
       font-size: 1.6rem;
       text-transform: capitalize;
       a {
-          border: 0;
-          text-decoration: none;
-          color: var(--onyx);
-          text-shadow: none;
+        color: var(--accent);
+        text-decoration: none;
+        position: relative;
+        text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+        background-image: linear-gradient(to top, transparent, transparent 2px, var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
+        transition: color 0.5s, background-image 0.5s linear;
+          &:hover {
+            color: var(--accent);
+            text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+            background-image: linear-gradient(to top, transparent, transparent 2px, var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
+          }
         }
       }
     }
