@@ -25,7 +25,7 @@ paginate = 9
   tags = []
 
   sansSerifFont = "Josefin Sans"
-  titleFont = "Vollkorn"
+  titleFont = "Playfair Display"
   bodyFont = "IBM Plex Serif"
 
   hasLogo = true
