@@ -231,11 +231,15 @@ img {
   }
 
   .micropost {
-    .h1 {
+     h1 {
       text-align: left;
       font-size: 1.6rem;
       text-transform: capitalize;
       }
+      a {
+       text-color: var(--onyx);
+       text-decoration: none;
+       }
     }
 
   .micropost {
@@ -259,7 +263,7 @@ img {
     p { margin: 10px 0 20px 0;}
     a {
       font-style: normal;
-      font-weight: 600;
+      font-weight: normal;
     }
   }
 }
