@@ -2,6 +2,7 @@
   <div class="main">
     <div class="list microposts">
       <div class="micropost">
+        {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} {{ with .Title }} - {{ . }}{{ end }}
         <span class="date">{{ dateFormat "January 02, 2006" .Date }}</span>
         {{ .Content }}
       </div>
