@@ -225,7 +225,7 @@ img {
     }
   }
   .micropost:first-child {
-    .date {
+    h1 {
       border-top: 0 !important;
     }
   }
@@ -233,8 +233,13 @@ img {
   .micropost {
      h1 {
       border-top: 1px solid rgba(0,0,0,0.1);
+      display: block;
+      color: rgba(0,0,0,0.3);
+      padding-bottom: 1rem;
+      padding-top: 2rem;
       text-align: left;
       font-size: 1.6rem;
+      text-decoration: none;
       margin-bottom: 30px;
       text-transform: capitalize;
       a {
