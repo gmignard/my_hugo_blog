@@ -1,5 +1,5 @@
 ---
-date: 2020-03-22 07:03:03 +0200
+date: 2020-03-28 07:03:03 +0200
 title: On s’organise
 seotitle: "On s’organise - Grégory Mignard"
 resources:
@@ -14,9 +14,9 @@ Je profite généralement de la sieste matinale de Martin pour partager quelques
 
 Le point positif de ce confinement, c’est que nous arrivons à passer plus de temps en cuisine sans être rattrapés par le temps. D’ailleurs, cette semaine, nous n’avons pas eu à mettre les pieds dehors pour un ravitaillement, ça se fera la semaine prochaine. Même le pain nous le faisons, je me suis même dit que ça serait sympa de partager chaque semaine un petit savoir, une astuce, un plan confinement, donc cette semaine, je commence avec la recette de mon pain au sarrasin !
 
-{{< photo src="cover.jpg" alt="Pain maison à la farine de sarrasin">}}
+***
 
-### Pain maison à la farine de sarrasin
+{{< photo src="cover.jpg" alt="Pain maison à la farine de sarrasin">}}
 
 1. Mélangez 25 g de levure boulangère avec 300 ml d’eau tiède.
 2. Dans un grand saladier ou bol de pétrissage (si vous avez, ajoutez un peu de farine de blé jusqu’à avoir une sorte de texture pâteuse.
