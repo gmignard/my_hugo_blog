@@ -238,12 +238,10 @@ img {
       padding-top: 2rem;
       text-align: left;
       font-size: 1.6rem;
-      font-weight: 600;
       text-transform: capitalize;
-      text-decoration: none;
       a {
+          text-decoration:none;
           color: var(--onyx);
-          text-decoration: none;
           text-shadow: none;
         }
       }
