@@ -168,7 +168,6 @@ img {
   font-weight: 100;
   font-size: 0.8rem;
   text-align: center;
-  text-transform: uppercase;
 }
 .site-title {
   @media only screen and (max-width: 667px) {
@@ -241,7 +240,8 @@ img {
       font-size: 1.6rem;
       text-transform: capitalize;
       a {
-          text-decoration:none;
+          border: 0;
+          text-decoration: none;
           color: var(--onyx);
           text-shadow: none;
         }
