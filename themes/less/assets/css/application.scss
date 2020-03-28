@@ -2,7 +2,7 @@
   --serif-font: "{{ .Site.Params.bodyFont }}", serif;
   --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
   --sans-serif-font: "{{ .Site.Params.sansSerifFont }}", sans-serif;
-  --onyx: #17181E;
+  --onyx: #323232;
   --accent: {{ .Site.Params.accentColor }};
   --white-text: #FAFAFA;
   --white-background: #F3F3F3;
@@ -80,11 +80,9 @@ h1 {
 h2, h1.medium {
   font-size: 2.9rem;
   font-weight: normal;
-  text-transform: capitalize;
 }
 h3 {
   font-size: 1.6rem;
-  text-transform: capitalize;
 }
 h4 {
   font-size: 1.6rem;
@@ -101,7 +99,20 @@ h5 {
 
 h1, h2, h3, h4, h5 {
   margin: 0;
+  font-weight: normal;
+  font-family: var(--title-font);
+}
+
+h1, h2, {
+  margin: 0;
   text-align: center;
+  font-weight: normal;
+  font-family: var(--title-font);
+}
+
+h3, h4, h5 {
+  margin-bottom: 20px;
+  text-align: left;
   font-weight: normal;
   font-family: var(--title-font);
 }
