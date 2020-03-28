@@ -25,8 +25,8 @@ paginate = 9
   tags = []
 
   sansSerifFont = "Josefin Sans"
-  titleFont = "Convergence"
-  bodyFont = "Lora"
+  titleFont = "Playfair Display"
+  bodyFont = "IBM Plex Serif"
 
   hasLogo = true
   accentColor = "#285D74"
@@ -48,11 +48,11 @@ paginate = 9
   youtube = "gregmignard"
 
 [[menu.main]]
-  name = "Journal"
-  title = "Journal"
+  name = "Home"
+  title = "Aventures, voyages & Van Life"
   weight = 1
-  identifier = "journal"
-  url = "/journal/"
+  identifier = "home"
+  url = "/"
 [[menu.main]]
   name = "Projets"
   title = "Films, Reportages & Microaventures"
@@ -60,17 +60,17 @@ paginate = 9
   identifier = "Projets"
   url = "/projets/"
 [[menu.main]]
+  name = "Journal"
+  title = "Microposts"
+  weight = 3
+  identifier = "microposts"
+  url = "/microposts"
+[[menu.main]]
   name = "À propos"
   title = "Infos & Contact"
-  weight = 3
+  weight = 4
   identifier = "infos"
   url = "/infos"
-[[menu.main]]
-  name = "Studio"
-  title = "Captain Yvon Studio"
-  weight = 4
-  identifier = "studio"
-  url = "https://captainyvon.fr/"
 
 [[related.indices]]
   name = "categories"
