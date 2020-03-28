@@ -99,23 +99,11 @@ h5 {
 
 h1, h2, h3, h4, h5 {
   margin: 0;
-  font-weight: normal;
-  font-family: var(--title-font);
-}
-
-h1, h2, {
-  margin: 0;
   text-align: center;
   font-weight: normal;
   font-family: var(--title-font);
 }
 
-h3, h4, h5 {
-  margin-bottom: 20px;
-  text-align: left;
-  font-weight: normal;
-  font-family: var(--title-font);
-}
 .title {
   font-family: var(--title-font);
 }
