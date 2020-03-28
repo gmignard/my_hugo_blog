@@ -26,7 +26,7 @@ paginate = 9
 
   sansSerifFont = "Josefin Sans"
   titleFont = "Montserrat"
-  bodyFont = "Lora"
+  bodyFont = "Zilla Slab"
 
   hasLogo = true
   accentColor = "#285D74"
