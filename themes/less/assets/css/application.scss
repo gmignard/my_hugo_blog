@@ -80,9 +80,11 @@ h1 {
 h2, h1.medium {
   font-size: 2.9rem;
   font-weight: normal;
+  text-transform: capitalize;
 }
 h3 {
   font-size: 1.6rem;
+  text-transform: capitalize;
 }
 h4 {
   font-size: 1.6rem;
@@ -103,7 +105,6 @@ h1, h2, h3, h4, h5 {
   font-weight: normal;
   font-family: var(--title-font);
 }
-
 .title {
   font-family: var(--title-font);
 }
@@ -228,6 +229,15 @@ img {
       border-top: 0 !important;
     }
   }
+
+  .micropost {
+    .h1 {
+      text-align: left;
+      font-size: 1.6rem;
+      text-transform: capitalize;
+      }
+    }
+
   .micropost {
     .date {
       text-align: left;
