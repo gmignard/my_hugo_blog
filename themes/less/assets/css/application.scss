@@ -232,14 +232,17 @@ img {
 
   .micropost {
      h1 {
+      border-top: 1px solid rgba(0,0,0,0.1);
       text-align: left;
       font-size: 1.6rem;
+      margin-bottom: 30px;
       text-transform: capitalize;
-      }
       a {
-       text-color: var(--onyx);
-       text-decoration: none;
-       }
+          color: var(--onyx);
+          text-shadow: none;
+          font-weight: normal;
+        }
+      }
     }
 
   .micropost {
