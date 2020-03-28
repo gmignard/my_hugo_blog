@@ -48,35 +48,23 @@ paginate = 9
   youtube = "gregmignard"
 
 [[menu.main]]
-  name = "Blog"
-  title = "Blog"
+  name = "Home"
+  title = "Home"
   weight = 1
-  identifier = "journal"
-  url = "/journal/"
+  identifier = "Home"
+  url = "/"
 [[menu.main]]
-  name = "Projets"
-  title = "Films, Reportages & Microaventures"
-  weight = 2
-  identifier = "Projets"
-  url = "/projets/"
-[[menu.main]]
-  name = "Logs"
+  name = "Journal"
   title = "Microposts"
-  weight = 4
+  weight = 2
   identifier = "microposts"
   url = "/microposts"
 [[menu.main]]
   name = "À propos"
   title = "Infos & Contact"
-  weight = 4
+  weight = 3
   identifier = "infos"
   url = "/infos"
-[[menu.main]]
-  name = "Studio"
-  title = "Captain Yvon Studio"
-  weight = 5
-  identifier = "studio"
-  url = "https://captainyvon.fr/"
 
 [[related.indices]]
   name = "categories"
