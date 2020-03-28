@@ -1,6 +1,7 @@
 ---
 date: 2020-03-22 07:03:03 +0200
 title: S’adapter
+seotitle: "S'adapter - Grégory Mignard"
 resources:
 - src: "*.jpg"
 ---
