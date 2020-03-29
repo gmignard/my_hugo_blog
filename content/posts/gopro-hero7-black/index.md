@@ -7,7 +7,7 @@ draft: false
 slug: "gopro-hero7-black"
 categories:
 - gear
-- journal
+- stories
 tags: ["GoPro HERO7 Black", "GoPro HERO7", "HERO7 Black", "HERO7", "GoPro", "Réglages", "Tuto", "Vidéo", "Photo"]
 description: "J'ai décidé de condenser dans cet article toutes les informations et meilleurs réglages pour profiter à fond de vos nouvelles GoPro HERO7 Black !"
 resources:

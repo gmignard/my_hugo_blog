@@ -7,7 +7,7 @@ draft: false
 slug: "la-manche-au-printemps"
 categories:
 - vanlife
-- journal
+- stories
 tags: ["La Manche", "Manche Tourisme", "Captain Yvon Studio", "Tournage", "Tourisme", "Cabane", "Famille", "Vacances", "Normandie"]
 description: "Découvrez les coulisess de mon tournage « Et si on revenait à l'essentiel ? » dans la Manche avec Captain Yvon Studio"
 resources:

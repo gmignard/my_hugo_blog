@@ -7,7 +7,7 @@ draft: false
 slug: "sac-pour-new-york"
 categories:
 - voyage
-- journal
+- stories
 tags: ["sac à dos", "backpacking", "voyage", "voyager", "New York"]
 description: "Quels sont les indispensables à glisser dans son sac à dos pour un voyage à New York ?"
 resources:

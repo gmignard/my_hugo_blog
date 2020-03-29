@@ -6,7 +6,7 @@ draft: false
 slug: "une-semaine-a-new-york"
 categories:
 - voyage
-- journal
+- stories
 tags: ["NYC", "New York", "New York City", "Une semaine à New York", "Voyage", "Vidéo", "Tourisme"]
 description: "Comment résumer une semaine à New York ? Eh bien en visitant quelques classiques pour s'imprégner de la culture New Yorkaise, voici le résultat en vidéo !"
 resources:

@@ -8,7 +8,7 @@ slug: "accessoires-van-t6-california"
 categories:
 - vanlife
 - gear
-- journal
+- stories
 tags: ["Accessoires indispensables en van", "VW T6", "T6", "VW", "VW California", "Accessoires", "Van", "Van Life", "VW T6 California", "Conseils"]
 description: "Après 2 années d'expérience, je dévoile les accessoires qui sont devenus indispensables pour ma pratique du Van avec un VW T6 Califnoria."
 resources:
