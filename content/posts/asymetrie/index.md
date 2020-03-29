@@ -7,7 +7,6 @@ draft: false
 slug: "asymetrie"
 categories:
 - films
-- projets
 tags: ["Camille Prigent", "Rivages", "Maison Rivages", "Wax de surf", "Wax", "Surf", "Finistère", "Menuiserie", "Design", "Bretagne", "Artisan", "Artisanat", "Bois"]
 description: "Retour sur une journée de tournage qui donnera naissance à « Asymétrie », un film improvisé à la dernière minute avec Camille Prigent de la Maison Rivages."
 resources:

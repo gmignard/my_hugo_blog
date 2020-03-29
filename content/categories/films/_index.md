@@ -1,5 +1,5 @@
 ---
 title: "Films"
-seotitle: "Films & Productions - Grégory Mignard"
+seotitle: "Films, reportages & microaventures - Grégory Mignard"
 description: "Productions et réalisations."
 ---

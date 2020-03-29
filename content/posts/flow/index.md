@@ -7,7 +7,6 @@ draft: false
 slug: "flow"
 categories:
 - films
-- projets
 tags: ["ambroise hebert", "vtt", "enduro", "dh", "descente", "downhill", "cherbourg", "normandie", "manche"]
 description: "Pas de musique mais du beau son. Pas de ralentis que de la vitesse pure. Ambroise Hébert ne fait pas dans le détail sur un secret spot normand."
 resources:
