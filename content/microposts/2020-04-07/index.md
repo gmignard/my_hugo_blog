@@ -20,7 +20,7 @@ Après un SAV de trop avec mon MacBook Pro, je pris la décision de le vendre et
 
 ***
 
-### Mon usage de l’iPad à ce jour
+#### Mon usage de l’iPad à ce jour
 
 {{< photo src="apps.jpg" alt="Un an avec l’iPad Pro">}}
 
