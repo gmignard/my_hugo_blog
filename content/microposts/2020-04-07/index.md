@@ -1,5 +1,5 @@
 ---
-date : 2020-04-07 10:02:03 +0200
+date: 2020-04-07 10:02:03 +0200
 title: Un an avec l’iPad Pro
 seotitle: "Un an avec l’iPad Pro - Grégory Mignard"
 resources:
