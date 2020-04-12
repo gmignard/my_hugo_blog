@@ -8,7 +8,7 @@ resources:
 
 Quand tout ce bazar de confinement a commencé, mon premier réflexe a été de me créer un projet dans l’excellent [Things](https://culturedcode.com/things/) et d’y noter tout ce que j’avais tendance à repousser depuis trop longtemps. Entretien du jardin et de la maison, organisation d’un backup, nettoyer les vélos, bricoler, lire, etc... La liste était longue et je l’alimente encore aujourd’hui !
 
-> « Pourquoi faire aujourd’hui quand on peut le remettre au lendemain ? » — Ma voisine
+> « Pourquoi faire aujourd’hui quand on peut remettre au lendemain ? » — Ma voisine
 
 Seulement, à force de me dépêcher de tout faire les premiers jours, je me suis rendu compte que du temps… On en avait ! J’ai beau télétravailler, j’ai deux enfants à m’occuper, mais le simple de fait d’être confiné à un seul endroit nous fait gagner un temps précieux. J’ai donc appris à ralentir, mes journées restent animées, mais désormais, je prends mon temps et j’étale sur le long terme.
 
