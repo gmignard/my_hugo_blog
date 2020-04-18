@@ -1,7 +1,7 @@
 ---
 date: 2020-04-19 10:02:03 +0200
-title: Sur pause - Partie 1 : Mon Cargo Bike
-seotitle: "Sur pause - Partie 1 : Mon Cargo Bike / Reise & Müller Packster 60 - Grégory Mignard"
+title: Sur pause. Partie 1, Mon Cargo Bike
+seotitle: "Sur pause. Partie 1, Mon Cargo Bike / Reise & Müller Packster 60 - Grégory Mignard"
 resources:
 - src: "*.jpg"
 ---
