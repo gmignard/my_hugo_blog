@@ -1,5 +1,5 @@
 ---
-date: 2020-04-24 16:30:03 +0200
+date: 2020-04-24 16:50:03 +0200
 title: Sur pause. Partie 2 - Mon Gravel Bike
 seotitle: "Sur pause. Partie 1 — Mon Gravel Bike Triban RC 520 — Grégory Mignard"
 resources:
