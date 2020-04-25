@@ -225,15 +225,13 @@ img {
     }
   }
   .micropost:first-child {
-    h1 {
+    .date {
       border-top: 0 !important;
     }
   }
 
   .micropost {
      h1 {
-      border-top: 1px solid rgba(0,0,0,0.1);
-      display: block;
       padding-bottom: 1rem;
       padding-top: 2rem;
       text-align: center;
