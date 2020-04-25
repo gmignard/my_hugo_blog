@@ -225,13 +225,14 @@ img {
     }
   }
   .micropost:first-child {
-    .date {
+    h1 {
       border-top: 0 !important;
     }
   }
 
   .micropost {
      h1 {
+      border-top: 1px solid rgba(0,0,0,0.1);
       display: block;
       padding-bottom: 1rem;
       padding-top: 2rem;
@@ -270,7 +271,8 @@ img {
       padding-top: 2rem;
       margin-left: 35px;
       margin-right: 35px;
-      }
+    }
+    margin: 30px auto;
     p { margin: 10px 0 20px 0;
       margin-left: 35px;
       margin-right: 35px;
@@ -280,3 +282,4 @@ img {
       font-weight: normal;
     }
   }
+}
