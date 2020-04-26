@@ -227,6 +227,7 @@ img {
   .micropost:first-child {
     .date {
       border-top: 0 !important;
+      padding-top: 0 !important;
     }
   }
 
@@ -264,7 +265,8 @@ img {
       border-top: 1px solid rgba(0,0,0,0.1);
       display: block;
       color: rgba(0,0,0,0.3);
-      padding-top: 2.5rem;
+      padding-top: 3.5rem;
+      margin-bottom: -10px;
       margin-left: 35px;
       margin-right: 35px;
     }
