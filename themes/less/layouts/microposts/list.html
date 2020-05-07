@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class="main">
     <div class="list microposts">
-      {{ range (.Paginator 50).Pages }}
+      {{ range (.Paginator 2).Pages }}
         <div class="micropost">
             <span class="date">{{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
             <h1><a href="{{ .Permalink }}" >{{ with .Title }} {{ . }}{{ end }}</a></h1>
