@@ -30,7 +30,7 @@ Si la qualité d’image n’est pas des meilleures, c’est largement compensé
 
 {{< photo src="cover.jpg" alt="Mes 5 chaînes YouTube favorites">}}
 
-Inmist Media House est un studio créatif basé à Chilliwack en Colombie-Britannique. Cette équipe créative orchestrée par [RJ Bruni](https://www.instagram.com/rjbruni/) est vite devenu une des mes principales sources d’inspiration en vidéo.
+Inmist Media House est un studio créatif basé à Chilliwack en Colombie-Britannique. Cette équipe créative orchestrée par [RJ Bruni](https://www.instagram.com/rjbruni/) est vite devenue une des mes principales sources d’inspiration en vidéo.
 
 On y retrouve de belles productions documentaires, mais aussi quelques vieux Vlogs dans un style propre à eux et plus récemment, la série [Field Tapes](https://inmistmediahouse.com/field-tapes/) est juste extraordinaire.
 
