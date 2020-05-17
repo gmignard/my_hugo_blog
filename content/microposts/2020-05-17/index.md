@@ -13,8 +13,8 @@ Heureusement, tout cela est pour l’instant derrière nous, en croisant les doi
 Pour un premier weekend déconfinés, nous voulions partir tous les 4 avec le van pour sortir un peu du périmètre de la maison et renouer avec la nature. Pour éviter de tenter le diable et de se retrouver avec du monde sur la côte, nous avons choisi d’aller dormir dans les Monts d’Arrée sur les rives du lac du Drennec.
 
 {{< photoset always="2" >}}
-{{< photo src="drennec_1.jpg" alt="Revoir la mer">}}
-{{< photo src="drennec_2.jpg" alt="Revoir la mer">}}
+{{< photo src="drennec_1.jpeg" alt="Revoir la mer">}}
+{{< photo src="drennec_2.jpeg" alt="Revoir la mer">}}
 {{</ photoset >}}
 
 La famille [Vadrouilles](https://vadrouilles.co) nous rejoindra pour un petit apéro au soleil couchant, que c’est bon de retrouver un peu de vie sociale.
@@ -22,8 +22,8 @@ La famille [Vadrouilles](https://vadrouilles.co) nous rejoindra pour un petit ap
 {{< photo src="cover.jpg" alt="Revoir la mer">}}
 
 {{< photoset always="2" >}}
-{{< photo src="mer_1.jpg" alt="Revoir la mer">}}
-{{< photo src="mer_2.jpg" alt="Revoir la mer">}}
+{{< photo src="mer_1.jpeg" alt="Revoir la mer">}}
+{{< photo src="mer_2.jpeg" alt="Revoir la mer">}}
 {{</ photoset >}}
 
 Deuxième jour... Place à la mer et nous voici sur la côte en baie de Morlaix à profiter de l’air iodé avec un magnifique soleil. Nous sommes de nouveau rejoints par Yannick et sa famille avec qui nous passerons une nouvelle journée à se balader et à boire un peu de vin pour fêter le premier anniversaire de Martin.
