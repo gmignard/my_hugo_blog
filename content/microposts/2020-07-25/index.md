@@ -6,7 +6,7 @@ resources:
 - src: "*.jpg"
 ---
 
-Depuis que [je suis passé à du matériel Fujifilm en début d’année](https://gregorymignard.com/equipement/), je n’ai pas eu beaucoup d’occasion de l’enfermer dans un caisson pour me mettre à l’eau. Cependant, je me suis vite rendu compte qu’il me manquait un objectif grand-angle pour couvrir certains besoins aquatiques. Je pensais pouvoir faire sans, mais dû me rendre à l’évidence et investir dans l’excellent [Fuji XF 10-24mm f/4.0 R OIS](https://www.digit-photo.com/FUJI-XF-10-24mm-f-4-0-R-OIS-rFUJI11509.html?dpa_id=23).
+Depuis que [je suis passé à du matériel Fujifilm en début d’année](https://gregorymignard.com/equipement/), je n’ai pas eu beaucoup d’occasion de l’enfermer dans un caisson pour me mettre à l’eau. Cependant, je me suis vite rendu compte qu’il me manquait un objectif grand-angle pour couvrir certains besoins aquatiques. Je pensais pouvoir faire sans, mais j’ai dû me rendre à l’évidence et investir dans l’excellent [Fuji XF 10-24mm f/4.0 R OIS](https://www.digit-photo.com/FUJI-XF-10-24mm-f-4-0-R-OIS-rFUJI11509.html?dpa_id=23).
 
 {{< photo src="cover.jpeg" alt="Moments salés">}}
 
