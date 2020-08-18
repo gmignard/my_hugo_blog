@@ -67,7 +67,7 @@ En ce cinquième jour, nous décidons de quitter Yves et Rozenn afin de poursuiv
 
 ## Jour 6
 
-Les prévisions météo ne sont pas super optimistes pour la journée, mais nous tentons notre chance avec une ascension du Puy Mary au lever du jour. L’avantage de le faire à cette heure là, c’est que même en plein mois d’aout, il n’y a pas la foule au sommet et nous pouvons pleinement profiter de la vue de ce plus grand volcan d’Europe qui culmine à 1787 mètres. Il sera à peine 8 h quand nous serons prêts à repartir et la journée s’offre est encore loin d’être terminée. 
+Les prévisions météo ne sont pas super optimistes pour la journée, mais nous tentons notre chance avec une ascension du Puy Mary au lever du jour. L’avantage de le faire à cette heure là, c’est que même en plein mois d’aout, il n’y a pas la foule au sommet et nous pouvons pleinement profiter de la vue de ce plus grand volcan d’Europe qui culmine à 1787 mètres. Il sera à peine 8 h quand nous serons prêts à repartir et la journée s’offre est encore loin d’être terminée.
 
 {{< photo src="mary1.JPG" alt="Arvernes">}}
 
@@ -92,5 +92,5 @@ Il est temps de prendre la route du retour, nous repartons ressourcés et inspir
 
 ***
 
-#### Marion & Greg
-#### *[@lifewithyvon](https://www.instagram.com/lifewithyvon/) & [@gregmignard](https://www.instagram.com/gregmignard/)*
+##### Marion & Greg
+##### *[@lifewithyvon](https://www.instagram.com/lifewithyvon/) & [@gregmignard](https://www.instagram.com/gregmignard/)*
