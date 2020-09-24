@@ -188,6 +188,20 @@ img {
 
   margin: 0;
 
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    align-content: flex-start;
+    li {
+      height: 40vh;
+      flex-grow: 1;
+      outline: 2px solid #fff;
+      position: relative;
+      background-size: 100%;
+    }
+  }
+
   @media only screen and (max-width: 812px) {
     &:not(.post) {
       padding-top: 6rem;

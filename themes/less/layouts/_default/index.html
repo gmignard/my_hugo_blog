@@ -1,9 +1,9 @@
 {{ define "main" }}
   <div class="main">
     {{ with .Resources.ByType "image" }}
-	    <div class="Image">
+	    <ul class="grid">
 	      {{ range . }}
-		      <img src="{{ .RelPermalink }}">
+		      <li style="background-image: url('{{ .RelPermalink }}')">
 	      {{ end }}
 	    </div>
     {{ end }}
