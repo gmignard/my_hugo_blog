@@ -4,7 +4,7 @@
       {{ range . }}
         <li>
         {{ $resized := .Resize "x100" }}
-          <img width="{{ .Width }}" height="{{ .Height }}" class="lazyload" src="{{ $resized.Permalink }}" data-src="{{ .Permalink }}" {{ with .Get "alt" }}alt="{{ . }}"{{ end }} data-action="zoom">
+          <img width="{{ .Width }}" height="{{ .Height }}" class="lazyload" src="{{ $resized.Permalink }}" data-src="{{ .Permalink }}" data-action="zoom">
         </li>
       {{ end }}
     </ul>
