@@ -2,8 +2,11 @@
   {{ with .Resources.ByType "image" }}
     <ul class="grid">
       {{ range . }}
-        <li style="background-image: url('{{ .RelPermalink }}')">
+        <li>
+        {{ $resized := .Resize "x100" }}
+          <img width="{{ .Width }}" height="{{ .Height }}" class="lazyload" src="{{ $resized.Permalink }}" data-src="{{ .Permalink }}" {{ with .Get "alt" }}alt="{{ . }}"{{ end }} data-action="zoom">
+        </li>
       {{ end }}
-    </div>
+    </ul>
   {{ end }}
 {{ end }}
