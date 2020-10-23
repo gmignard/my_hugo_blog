@@ -16,8 +16,8 @@ resources:
 {{< vimeo 463093392 >}}
 </div>
 
-🏄 Client: Camille Prigent, Maison Rivages⠀
-🎞 Production: Captain Yvon Studio⠀
+🏄 Client: Camille Prigent, Maison Rivages  
+🎞 Production: Captain Yvon Studio  
 🎥 DOP: Grégory Mignard
 
 ***
@@ -28,8 +28,8 @@ resources:
 {{< vimeo 371653768 >}}
 </div>
 
-🏄 Surfeuse: Léa Brassy⠀
-🎞 Production: Captain Yvon Studio⠀
+🏄 Surfeuse: Léa Brassy  
+🎞 Production: Captain Yvon Studio  
 🎥 DOP: Grégory Mignard & Jeremy Janin
 
 ***
@@ -40,8 +40,8 @@ resources:
 {{< vimeo 370095571 >}}
 </div>
 
-🚴 Rider: Ambroise Hébert
-🎞 Production: Captain Yvon Studio⠀
+🚴 Rider: Ambroise Hébert  
+🎞 Production: Captain Yvon Studio  
 🎥 DOP: Grégory Mignard & Jeremy Janin
 
 ***
@@ -52,7 +52,7 @@ resources:
 {{< vimeo 322470826 >}}
 </div>
 
-🎞 Production: Captain Yvon Studio⠀
+🎞 Production: Captain Yvon Studio  
 🎥 DOP: Grégory Mignard & Jeremy Janin
 
 ***
@@ -63,8 +63,6 @@ resources:
 {{< vimeo 322001624 >}}
 </div>
 
-🚣 Kayakiste: Nathalie Jaffres
-🎞 Production: Captain Yvon Studio⠀
+🚣 Kayakiste: Nathalie Jaffres  
+🎞 Production: Captain Yvon Studio  
 🎥 DOP: Grégory Mignard & Jeremy Janin
-
-***
