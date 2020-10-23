@@ -49,10 +49,10 @@ paginate = 12
 
 
 [[menu.main]]
-  name = "Photos"
-  title = "Photos"
+  name = "Stills"
+  title = "Stills"
   weight = 1
-  identifier = "photos"
+  identifier = "stills"
   url = "/"
 [[menu.main]]
   name = "Films"
