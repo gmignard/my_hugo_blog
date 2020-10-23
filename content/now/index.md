@@ -10,11 +10,9 @@ resources:
   name: "cover"
 ---
 
-{{< photo src="infos_1.jpg" alt="Watershot" >}}
-
 {{< photoset max="2" >}}
+  {{< photo src="infos_1.jpg" alt="Watershot" >}}
   {{< photo src="infos_2.jpg" alt="Tournage de documentaire" >}}
-  {{< photo src="infos_3.jpg" alt="En watershot avec Léa Brassy" >}}
 {{</ photoset >}}
 
 Salut ! Moi c'est Grégory et je suis photographe et vidéaste basé dans le Finistère Nord.
