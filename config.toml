@@ -48,11 +48,11 @@ paginate = 9
   youtube = "gregmignard"
 
 [[menu.main]]
-  name = "Stories"
+  name = "Journal"
   title = "Aventures, voyages & Van Life"
   weight = 1
-  identifier = "stories"
-  url = "/stories/"
+  identifier = "journal"
+  url = "/posts/"
 [[menu.main]]
   name = "Films"
   title = "Films, Reportages & Microaventures"
@@ -66,11 +66,11 @@ paginate = 9
   identifier = "microposts"
   url = "/microposts"
 [[menu.main]]
-  name = "À propos"
+  name = "Now"
   title = "Infos & Contact"
   weight = 4
-  identifier = "infos"
-  url = "/infos"
+  identifier = "now"
+  url = "/now"
 
 [[related.indices]]
   name = "categories"
