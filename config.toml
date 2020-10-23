@@ -7,7 +7,7 @@ RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = true
-paginate = 9
+paginate = 12
 
 
 [author]
@@ -49,10 +49,10 @@ paginate = 9
 
 
 [[menu.main]]
-  name = "Wall"
+  name = "Photos"
   title = "Photos"
   weight = 1
-  identifier = "wall"
+  identifier = "photos"
   url = "/"
 [[menu.main]]
   name = "Films"
@@ -62,7 +62,7 @@ paginate = 9
   url = "/films/"
 [[menu.main]]
   name = "Journal"
-  title = "Aventures, voyages & Van Life"
+  title = "Aventures, behind the scens & matériel"
   weight = 3
   identifier = "journal"
   url = "/posts/"
