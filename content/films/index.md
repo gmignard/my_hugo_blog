@@ -17,7 +17,7 @@ resources:
 </div>
 
 <center>
-🏄 Client: Camille Prigent, Maison Rivages  
+🏄 Surfeur: Camille Prigent, Maison Rivages  
 🎞 Production: Captain Yvon Studio  
 🎥 DOP: Grégory Mignard
 </center>
