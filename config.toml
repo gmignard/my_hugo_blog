@@ -59,7 +59,7 @@ paginate = 12
   title = "Films & Documentaires"
   weight = 2
   identifier = "Films"
-  url = "/films/"
+  url = "/films"
 [[menu.main]]
   name = "Journal"
   title = "Aventures, behind the scens & matériel"
