@@ -1,7 +1,7 @@
 ---
-title: "À Propos & Infos - Grégory Mignard"
-seotitle: "À Propos & Infos - Grégory Mignard"
-date: 2017-10-26T22:57:50+02:00
+title: "Now - Grégory Mignard"
+seotitle: "Now - Grégory Mignard"
+date: 2020-10-22T22:57:50+02:00
 draft: false
 type: "about"
 resources:
@@ -10,9 +10,11 @@ resources:
   name: "cover"
 ---
 
+{{< photo src="infos_1.jpg" alt="Watershot" >}}
+
 {{< photoset max="2" >}}
-  {{< photo src="infos_1.jpg" alt="Watershot à Lostmarc'h" >}}
-  {{< photo src="infos_2.jpg" alt="À bord de mon van Yvon" >}}
+  {{< photo src="infos_2.jpg" alt="Tournage de documentaire" >}}
+  {{< photo src="infos_3.jpg" alt="En watershot avec Léa Brassy" >}}
 {{</ photoset >}}
 
 Salut ! Moi c'est Grégory et je suis photographe et vidéaste basé dans le Finistère Nord.
@@ -25,8 +27,30 @@ En 2016, j’ai co-fondé [Captain Yvon Studio](https://captainyvon.fr) avec Jé
 
 ***
 
-Pour des demandes de partenariats ou échanges en rapport avec ce blog ou mes réseaux sociaux, merci d'utiliser le formulaire ci-dessous ou de m'envoyer un mail à cette adresse : [greg@gregorymignard.com](mailto:greg@gregorymignard.com)
+Pour les demandes de prestations (reportage, réalisation de vidéo, etc...), de partenariats ou tout simplement pour papoter, merci de m'envoyer un mail à cette adresse : [greg@gregorymignard.com](mailto:greg@gregorymignard.com).
 
-Pour toutes demandes de prestations non liées au blog (reportage, réalisation de vidéo, etc...), merci de me contacter à cette adresse : [studio@captainyvon.fr](mailto:studio@captainyvon.fr)
+***
 
-<br style="margin: 30px">
+*C’est la version 2020.10.22 de cette page Now. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
+
+############################################
+
+For the past 7 years, I’ve worked closely with TWOTHIRDS as part of their Ambassador Programme, providing written and visual stories centred around our mutual love for the ocean and the ongoing task of protecting both the ocean and our environment.
+
+I live in Newquay, Cornwall with my family and divide my free time between the trails and the ocean.
+
+Cela fait quelques semaines que je fais du surf de façon régulière, enfin disons que j’apprends à faire du surf de façon régulière. J’étais bien dans ma combi 3/2 jusque cette semaine. Là, je suis enrhumé. J’ai donc commandé des chaussons et une combi 5/4. C’est assez passionant comme sport. Je pense que mes yeux se sont habitués à l’eau salée dedans. Mon nez aussi, ca permet de bien déboucher. Même si parfois l’eau ne ressort que une heure plus tard.
+
+Cela fait trois mois que je n’avais pas utilisé mon Fuji XT-3. Je l’ai donc revendu. Il me reste le 23mm f2.0, si il t’intéresse, ping moi sur les Twitter. J’ai investi dans un peu de matos argentique et je ne vais pas reprendre de numérique pour le moment. Un iPhone X suffira pour la partie numérique.
+
+Mon matos actuel:
+
+Leica m6 avec un Summarit-m 35mm f2.5
+Nikonos V avec son 35mm f.2
+J’ai envie de faire des photos à l’eau d’où le “besoin” de ce Nikonos. J’en ai deux en fait mais un n’a pas encore toutes ses pièces et je compte les tester pour voir. Si tu te demandes à quoi cela ressemble, va voir @meganshootsfilm ou cette video de Brooks Sterling pour mieux comprendre.
+
+Pour la photo argentique, j’en parle dans cet article mais le leica m6 me faisait rêver depuis des années. Je pense être venu au Fuji x100 à cause de ce boîtier et du côté nostalgique qu’il comblait pour moi.
+
+Je me lasse de Instagram énormément. J’adore les rencontres que j’y fais mais le format me déplait, encore plus quand je découvre comme mon feed est moche en mode dark… Je pense à recréer soit des stories sur Exposure, le dépoussiérer, ou simplement poster des stories photos ici. Comme j’aime avoir mon propre site avec son flux RSS, j’aimerais posséder ce lieu où je poste des photos aussi, j’ai tenté ca ici. Si vous avez un avis, hésitez pas.
+
+Voilà voilà.
