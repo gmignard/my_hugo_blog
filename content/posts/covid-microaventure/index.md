@@ -1,8 +1,15 @@
 ---
-date: 2020-04-05 10:02:03 +0200
 title: L’aventure au fond du jardin
+subtitle: Une dose d'aventure en plein confinement
 seotitle: "L’aventure au fond du jardin - Grégory Mignard"
+date: 2020-04-05 10:02:03 +0200
+slug: "covid-microaventure"
+categories:
+- Microaventure
+description: "Récit d'une petite aventure au fond du jardin."
 resources:
+- src: "cover.jpg"
+  name: "cover"
 - src: "*.jpg"
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: 2020-07-25 16:30:00 +0200
 title: Moments salés avec le Fuji XF 10-24mm f/4.0 R OIS
 seotitle: "Moments salés avec le Fuji XF 10-24mm f/4.0 R OIS — Grégory Mignard"
+date: 2020-07-25 16:30:00 +0200
+slug: "fuji-xf-1024"
+categories:
+- Equipement
 resources:
+- src: "cover.jpg"
+  name: "cover"
 - src: "*.jpg"
 ---
 
