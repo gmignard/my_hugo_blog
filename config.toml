@@ -45,26 +45,27 @@ paginate = 9
   domain = "Grégory Mignard"
   instagram = "gregmignard"
   twitter = "gregmignard"
-  youtube = "gregmignard"
+  vimeo = "captainyvon"
+
 
 [[menu.main]]
-  name = "Journal"
-  title = "Aventures, voyages & Van Life"
+  name = "Wall"
+  title = "Photos"
   weight = 1
-  identifier = "journal"
-  url = "/posts/"
+  identifier = "wall"
+  url = "/"
 [[menu.main]]
   name = "Films"
-  title = "Films, Reportages & Microaventures"
+  title = "Films & Documentaires"
   weight = 2
   identifier = "Films"
   url = "/films/"
 [[menu.main]]
   name = "Journal"
-  title = "Microposts"
+  title = "Aventures, voyages & Van Life"
   weight = 3
-  identifier = "microposts"
-  url = "/microposts"
+  identifier = "journal"
+  url = "/posts/"
 [[menu.main]]
   name = "Now"
   title = "Infos & Contact"
