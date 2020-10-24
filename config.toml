@@ -60,7 +60,7 @@ paginate = 12
   url = "/films"
 [[menu.main]]
   name = "Journal"
-  title = "Aventures, behind the scens & matériel"
+  title = "Aventures, behind the scenes & matériel"
   weight = 3
   identifier = "journal"
   url = "/posts/"
