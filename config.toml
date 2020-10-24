@@ -45,12 +45,10 @@ paginate = 12
   domain = "Grégory Mignard"
   instagram = "gregmignard"
   twitter = "gregmignard"
-  vimeo = "captainyvon"
-
 
 [[menu.main]]
   name = "Stills"
-  title = "Stills"
+  title = "Portfolio"
   weight = 1
   identifier = "stills"
   url = "/"
