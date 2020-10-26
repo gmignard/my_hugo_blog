@@ -8,15 +8,6 @@
 	position: relative;
 	align-content: flex-start;
 
-	&:after {
-    content: "";
-    display: block;
-    flex-grow: 10;
-		outline: 2px solid #fff;
-		position: relative;
-
-  }
-
 	.item {
 		height: 40vh;
 		flex-grow: 1;
