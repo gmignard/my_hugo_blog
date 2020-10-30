@@ -13,7 +13,7 @@
     <script src="https://assets.digitalclimatestrike.net/widget.js" async></script>
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
     {{ $.Scratch.Set "jslibs" slice }}
-    {{ $libs := slice "js/lazysizes.min.js" "js/medium-zoom.min.js" "js/lazyload.min.js" "js/main.js" }}
+    {{ $libs := slice "js/medium-zoom.min.js" "js/lazyload.min.js" "js/main.js" }}
     {{ range $libs }}
       {{ $.Scratch.Add "jslibs" (resources.Get . ) }}
     {{ end }}
