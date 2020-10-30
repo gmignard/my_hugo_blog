@@ -3,14 +3,10 @@
      <div class="grid">
        {{ range . }}
   {{ $lqipw := default "20x" }}
-  {{ $smallw := default "800x" }}
-  {{ $largew := default "1500x" }}
 
   {{/* resize the src image to the given sizes */}}
 
   {{ $lqip := .Resize $lqipw }}
-  {{ $small := .Resize $smallw }}
-  {{ $large := .Resize $largew }}
 
   {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
   {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
@@ -21,8 +17,6 @@
         class="lazyload"
         data-action="zoom"
         data-zoom-src="{{ .RelPermalink}}"
-        data-sizes="auto"
-        data-srcset='{{ .RelPermalink }} 1000w'
         data-src="{{ .RelPermalink }}"
         width="{{ .Width }}" height="{{ .Height }}">
     </picture>
