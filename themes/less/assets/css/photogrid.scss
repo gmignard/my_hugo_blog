@@ -1,4 +1,9 @@
 .grid {
+  @media only screen and (min-width: 812px) {
+    max-width: var(--max-width);
+    margin-left: auto;
+    margin-right: auto;
+  }
 	padding-top: 2rem;
 	padding-bottom: 3rem;
 	margin: 0 auto;
