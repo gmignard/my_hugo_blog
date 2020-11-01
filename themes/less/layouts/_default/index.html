@@ -7,18 +7,11 @@
   {{/* resize the src image to the given sizes */}}
 
   {{ $lqip := .Resize $lqipw }}
-
-  {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
-  {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
-
-    <picture class="item" style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
-      <img
-        loading="lazy"
-        class="lazyload"
+    <picture class="item">
+      <img class="lazyload"
         data-action="zoom"
-        data-zoom-src="{{ .RelPermalink}}"
-        data-src="{{ .RelPermalink }}"
-        src="{{ $lqip.RelPermalink }}">
+        data-src="{{ .Permalink }}"
+        src="{{ $lqip.Permalink }}">
     </picture>
        {{ end }}
      </div>
