@@ -6,7 +6,6 @@
     <img class="lazyload" 
          src="{{ $resized.Permalink }}" 
          data-src="{{ $original.Permalink }}" 
-         width="{{ $original.Width }}" height="{{ $original.Height }}"
          {{ with .Get "alt" }}alt="{{ . }}"{{ end }} data-action="zoom">
   {{ end }}
 </figure>
