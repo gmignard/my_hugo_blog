@@ -1,0 +1,35 @@
+.medium-zoom-image--opened { object-fit: contain; }
+.grid {
+  @media only screen and (max-width: 812px) {
+    width: 100%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+	padding-top: 2rem;
+	padding-bottom: 3rem;
+	margin: 0 auto;
+  max-width: 85%;
+	display: flex;
+	flex-wrap: wrap;
+	position: relative;
+	align-content: flex-start;
+
+	.item {
+		height: 40vh;
+		flex-grow: 1;
+		outline: 2px solid #fff;
+		position: relative;
+		background-size: 100%;
+
+		img {
+			max-height: 100%;
+			min-width: 100%;
+			min-height: 100%;
+			width: auto;
+			object-fit: cover;
+			display: block;
+		}
+	}
+}
+
+

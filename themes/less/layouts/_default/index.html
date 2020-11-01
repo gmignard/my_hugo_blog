@@ -1,11 +1,19 @@
 {{ define "main" }}
-  <div class="main">
-    <div class="list journal">
-    {{ $paginator := (.Paginate (where .Site.RegularPages "Type" "posts") 9) }}
-    {{ range $index, $post := $paginator.Pages }}
-      {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
-    {{ end }}
-    </div>
-    {{ template "_internal/pagination.html" . }}
-  </div>
+  {{ with .Resources.ByType "image" }}
+     <div class="grid">
+       {{ range . }}
+  {{ $lqipw := default "20x" }}
+
+  {{/* resize the src image to the given sizes */}}
+
+  {{ $lqip := .Resize $lqipw }}
+    <picture class="item">
+      <img class="lazyload"
+        data-action="zoom"
+        data-src="{{ .Permalink }}"
+        src="{{ $lqip.Permalink }}">
+    </picture>
+       {{ end }}
+     </div>
+   {{ end }}
 {{ end }}

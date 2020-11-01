@@ -1,8 +1,16 @@
 ---
-date: 2020-04-07 10:02:03 +0200
 title: Un an avec l’iPad Pro
+subtitle: Retour d'expérience d'une année avec la tablette d'Apple
 seotitle: "Un an avec l’iPad Pro - Grégory Mignard"
+date: 2020-04-07 10:02:03 +0200
+slug: "un-an-avec-ipad-pro"
+categories:
+- Gear
+tags: ["Apple", "iPad", "iPadOS", "iPad Pro", "Photographe", "Vidéaste"]
+description: "Retour d'expérience d'une année avec la tablette d'Apple, comment je l'utilise dans mon quotidien et pour travailler."
 resources:
+- src: "cover.jpg"
+  name: "cover"
 - src: "*.jpg"
 ---
 

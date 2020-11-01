@@ -7,7 +7,7 @@ RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = true
-paginate = 9
+paginate = 12
 
 
 [author]
@@ -29,9 +29,9 @@ paginate = 9
   bodyFont = "IBM Plex Serif"
 
   hasLogo = true
-  accentColor = "#285D74"
+  accentColor = "#B75636"
 
-#heroHeader = true
+#heroHeader = false
 
 [taxonomies]
   category = "categories"
@@ -45,32 +45,31 @@ paginate = 9
   domain = "Grégory Mignard"
   instagram = "gregmignard"
   twitter = "gregmignard"
-  youtube = "gregmignard"
 
 [[menu.main]]
-  name = "Stories"
-  title = "Aventures, voyages & Van Life"
+  name = "Stills"
+  title = "Portfolio"
   weight = 1
-  identifier = "stories"
-  url = "/stories/"
+  identifier = "stills"
+  url = "/"
 [[menu.main]]
   name = "Films"
-  title = "Films, Reportages & Microaventures"
+  title = "Films & Documentaires"
   weight = 2
   identifier = "Films"
-  url = "/films/"
+  url = "/films"
 [[menu.main]]
   name = "Journal"
-  title = "Microposts"
+  title = "Aventures, behind the scenes & matériel"
   weight = 3
-  identifier = "microposts"
-  url = "/microposts"
+  identifier = "journal"
+  url = "/posts/"
 [[menu.main]]
-  name = "À propos"
+  name = "Now"
   title = "Infos & Contact"
   weight = 4
-  identifier = "infos"
-  url = "/infos"
+  identifier = "now"
+  url = "/now"
 
 [[related.indices]]
   name = "categories"
