@@ -17,7 +17,7 @@ resources:
 
 Salut ! Moi c’est Grégory et je vis dans le Finistère Nord avec ma famille.
 
-Allez savoir pourquoi, mais je suis attiré par la mer depuis mon plus jeune âge. Voile, bodyboard, kitesurf, surf… Mon truc du moment, c’est juste d’aller à l’eau avec mon appareil et une paire de palmes. J’ai accepté de ne jamais être un bon surfeur et partager des sessions photo avec des gens qui savent y faire me procurent énormément de bonnes sensations. Ça me donne même envie de me mettre au bodysurf et j’y travaille actuellement avec la conception d’une ou deux handplanes pour le plaisir.
+Allez savoir pourquoi, mais je suis attiré par la mer depuis mon plus jeune âge. Voile, bodyboard, kitesurf, surf… Mon truc du moment, c’est juste d’aller à l’eau avec mon appareil et une paire de palmes. J’ai accepté de ne jamais être un bon surfeur et partager des sessions photo avec des gens qui savent y faire me procure énormément de bonnes sensations. Ça me donne même envie de me mettre au bodysurf et j’y travaille actuellement avec la conception d’une ou deux handplanes pour le plaisir.
 
 Ça va faire maintenant 3 ans que je traine en van avec ma famille ou par moment en mode *studio mobile* pour réaliser quelques projets vidéos. J’aime beaucoup cette façon minimaliste de voyager et de se connecter à la nature. Mes enfants aussi adorent et c’est toujours un plaisir d’organiser une petite virée à quelques kilomètres de la maison comme un projet de voyage un peu plus loin.
 
