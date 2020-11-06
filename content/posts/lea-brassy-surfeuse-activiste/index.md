@@ -6,7 +6,7 @@ date: 2019-12-11T07:00:50+01:00
 draft: false
 slug: "lea-brassy-surfeuse-activiste"
 categories:
-- Studio
+- BehindTheScene
 tags: ["Léa Brassy", "Manche", "Normandie", "Portrait", "Surf", "Patagonia", "Environnement", "Apnée", "Chasse sous-marine"]
 description: "Portrait de Léa Brassy, surfeuse, apnésite, activiste et ambassadrice Patagonia, retournant sur ses terres d'origine dans la Manche."
 resources:

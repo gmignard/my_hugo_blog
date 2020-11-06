@@ -5,7 +5,7 @@ date: 2019-01-07T13:13:50+01:00
 draft: false
 slug: "retrospective-2018"
 categories:
-- stories
+- Stories
 tags: ["2018", "showreel", "journal", "rétrospective"]
 description: "Une page se tourne, nous voici déjà en 2019 et afin de tourner convenablement cette page, petite rétrospective de cette année 2018 !"
 resources:
