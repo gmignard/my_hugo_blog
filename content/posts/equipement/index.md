@@ -6,8 +6,7 @@ date: 2020-02-16T07:00:50+01:00
 draft: false
 slug: "equipement"
 categories:
-- gear
-- stories
+- Gear
 tags: ["What's in my bag", "Equipement", "Fuji", "Fujifilm", "X-T3"]
 description: "Pourquoi j'ai quitté Sony et Nikon ? Découvrez mon équipement photo et vidéo chez Fujifilm et tout ce qu'il y a dans mon sac photo en 2020."
 resources:

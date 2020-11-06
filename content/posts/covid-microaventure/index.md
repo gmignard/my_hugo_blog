@@ -5,7 +5,8 @@ seotitle: "L’aventure au fond du jardin - Grégory Mignard"
 date: 2020-04-05 10:02:03 +0200
 slug: "covid-microaventure"
 categories:
-- Microaventure
+- Stories
+- Destinations
 description: "Récit d'une petite aventure au fond du jardin."
 resources:
 - src: "cover.jpg"

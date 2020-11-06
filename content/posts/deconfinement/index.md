@@ -4,7 +4,7 @@ seotitle: "Le déconfinement de Captain Yvon — Grégory Mignard"
 date: 2020-06-06 09:30:00 +0200
 slug: "deconfinement"
 categories:
-- Studio
+- BehindTheScene
 resources:
 - src: "cover.jpg"
   name: "cover"
