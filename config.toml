@@ -59,10 +59,10 @@ paginate = 12
   identifier = "Films"
   url = "/films"
 [[menu.main]]
-  name = "Journal"
-  title = "Aventures, behind the scenes & matériel"
+  name = "Blog"
+  title = "Récits & Technique"
   weight = 3
-  identifier = "journal"
+  identifier = "blog"
   url = "/posts/"
 [[menu.main]]
   name = "Now"
