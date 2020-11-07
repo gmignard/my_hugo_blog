@@ -5,8 +5,7 @@ seotitle: "Arvernes, journal de bord d’un roadtrip en Auvergne — Grégory Mi
 date: 2020-08-18 09:00:00 +0200
 slug: "arvernes"
 categories:
-- Vanlife
-- Stories
+- destinations
 tags: ["Auvergne", "Van", "VanLife", "Cantal", "Puy de Dôme", "Journal de bord", "Voyage", "Tourisme", "Microaventure", "Microaventures", "Explore Local", "France"]
 description: "Journal de bord d’un roadtrip de 6 jours en Auvergne avec un Van entre le Massif du Sancy et les volcans du Cantal."
 resources:
