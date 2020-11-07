@@ -4,7 +4,7 @@ seotitle: "Moments salés avec le Fuji XF 10-24mm f/4.0 R OIS — Grégory Migna
 date: 2020-07-25 16:30:00 +0200
 slug: "fuji-xf-1024"
 categories:
-- Gear
+- gear
 resources:
 - src: "cover.jpg"
   name: "cover"
@@ -16,10 +16,6 @@ Depuis que [je suis passé à du matériel Fujifilm en début d’année](https:
 {{< photo src="cover.jpeg" alt="Moments salés">}}
 
 Ce 10-24mm n’est pas mon objectif favori, mais je dois avouer qu’il me rends bien des services quand je suis à l’eau. Pouvoir aller d’un grand-angle à une focale équivalente au 35mm en plein format, c’est quand même super appréciable quand on doit composer avec des conditions et sujets en mouvement.
-
-<div align="center">
-{{< instagram CC_Rltiiv2m hidecaption >}}
-</div>
 
 Que ce soit pour la polyvalence à la surface ou le grand-angle quasiment nécéssaire sous l’eau, je ne regrette en aucun cas cet achat, mais il ne remplacera jamais mes deux objectifs favoris, les excellents [Fuji XF 23mm f/1.4 R](https://www.digit-photo.com/FUJI-XF-23mm-f-1-4-R-rFUJI11508.html?dpa_id=23) et [Fuji XF 56mm f/1.2 R](https://www.digit-photo.com/FUJI-XF-56mm-f-1-2-R-Noir-rFUJI11510.html?dpa_id=23) qui savent également faire [des merveilles en watershot](https://www.instagram.com/p/B7puqf9gzrU/), mais dans un autre style.
 
