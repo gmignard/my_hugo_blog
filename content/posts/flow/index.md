@@ -6,7 +6,7 @@ date: 2019-11-26T07:00:50+01:00
 draft: false
 slug: "flow"
 categories:
-- Studio
+- stories
 tags: ["ambroise hebert", "vtt", "enduro", "dh", "descente", "downhill", "cherbourg", "normandie", "manche"]
 description: "Pas de musique mais du beau son. Pas de ralentis que de la vitesse pure. Ambroise Hébert ne fait pas dans le détail sur un secret spot normand."
 resources:
@@ -23,13 +23,7 @@ Pas de musique mais du beau son. Pas de ralentis que de la vitesse pure. Montez 
 
 Cette vidéo a été tournée un peu totalement par hasard lors d'un tournage commandé par l'agence [Latitude Manche](https://latitude-manche.fr/) chez [Captain Yvon Studio](https://captainyvon.fr/). Cette commande autour du tourisme et du sport dans le département de la Manche nous a fait rencontrer Ambroise Hébert, un pilote enduro local qui a su se faire un nom sur la scène internationnale. Ambroise est un éternel amoureux de sa région qui s'est notamment fait connaitre avec [son run à Valparaiso](https://youtu.be/9x37p8ubZwc) au Chili.
 
-Nous avons donc commencé à filmer Ambroise sur le littoral par une belle météo et nous avons très sympathisé et senti le potentiel du gars. Malheureusement, lors de cette première session, il fera une bien mauvaise chute et s'ouvrira le menton sur un pavé de granit.
-
-<div align="center">
-{{< instagram B0oFcTEl-Qu hidecaption >}}
-</div>
-
-Suite à cette mésaventure, nous avons continué le tournage, mais nous avions également prévu de nous revoir sur un secret spot afin d'enrichir nos rushes. Nous avons finalement passé pas mal de temps dans cette forêt, ce qui donnera naissance à Flow, ce court film 100% raw.
+Nous avons donc commencé à filmer Ambroise sur le littoral par une belle météo et nous avons très sympathisé et senti le potentiel du gars. Malheureusement, lors de cette première session, [il fera une bien mauvaise chute](https://www.instagram.com/p/B0oFcTEl-Qu/) et s'ouvrira le menton sur un pavé de granit. Suite à cette mésaventure, nous avons continué le tournage, mais nous avions également prévu de nous revoir sur un secret spot afin d'enrichir nos rushes. Nous avons finalement passé pas mal de temps dans cette forêt, ce qui donnera naissance à Flow, ce court film 100% raw.
 
 ***
 
