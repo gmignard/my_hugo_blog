@@ -1,5 +1,5 @@
 ---
 title: "Stories"
-seotitle: "Récits & réflexions - Grégory Mignard"
-description: "Voyages, aventures et réflexions"
+seotitle: "Récits, Behind the Scene & réflexions - Grégory Mignard"
+description: "Quelques récits ou réflexion autour de mon approche personnelle ou professionnelle"
 ---
