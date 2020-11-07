@@ -6,7 +6,8 @@ date: 2019-10-22T05:30:50+01:00
 draft: false
 slug: "automne"
 categories:
-- destinations
+- vanlife
+- stories
 tags: ["Alpes", "Van Life", "Captain Yvon Studio", "Tournage", "Tourisme", "Cabane", "Famille", "Vacances", "Hautes Alpes"]
 description: "Partons nous isoler dans la montagne pour nous ressourcer et capturer ces ambiances et couleurs que l'on aime tant"
 resources:

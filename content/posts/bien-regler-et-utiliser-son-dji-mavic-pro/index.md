@@ -5,8 +5,8 @@ date: 2018-03-26T13:13:50+01:00
 draft: false
 slug: "bien-regler-et-utiliser-son-dji-mavic-pro"
 categories:
-- technique
 - gear
+- stories
 tags: ["Tuto", "Mavic", "Mavic Pro", "Dji", "Dji Mavic", "Dji Mavic Pro", "Réglages", "Régler", "Drone"]
 description: "Mes conseils et mon expérience pour régler et piloter le DJI Mavic Pro. Un drone ultra compact, facile à transporter dans un sac en randonnée et en voyage."
 resources:
