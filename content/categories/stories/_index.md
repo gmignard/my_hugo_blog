@@ -1,5 +1,5 @@
 ---
 title: "Stories"
-seotitle: "Récits - Grégory Mignard"
+seotitle: "Récits & réflexions - Grégory Mignard"
 description: "Voyages, aventures et réflexions"
 ---
