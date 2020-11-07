@@ -5,8 +5,8 @@ date: 2019-03-09T13:13:50+01:00
 draft: false
 slug: "utiliser-son-smartphone-comme-gps-en-randonnee"
 categories:
+- technique
 - gear
-- stories
 tags: ["GPS", "gaia", "smartphone", "iphone", "application", "aventure", "randonnée", "microaventure", "bikepacking"]
 description: "Saviez-vous que votre smartphone est un outil puissant ? Il suffit de télécharger une application pour utiliser son smartphone comme GPS en randonnée."
 resources:
