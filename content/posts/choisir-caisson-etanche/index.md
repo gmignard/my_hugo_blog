@@ -15,11 +15,12 @@ resources:
 - src: "*.jpg"
 ---
 
-Voilà quelques années maintenant que pratique la photo dans l’eau.
+De plus en plus passionné par la pratique de la photo dans l’eau, j’ai décidé de partager mon expérience et mon apprentissage dans une série d’articles sur le blog afin d’aider ceux qui cherchent des réponses ou par simple curiosité.  
+Dans ce premier article, je présente 5 solutions qui permettent de réaliser des prises de vues dans l’eau, des solutions que j’ai presque toutes testées.
 
 ***
 
-### 1 - Une GoPro
+## 1 — Une GoPro
 
 Sans aucun doute la première solution qui nous vient à l’esprit et très probablement une des solutions les plus adaptées lorsque l’on veut essayer ou s’initier à la pratique. La reine des actions cams reste [la GoPro](https://amzn.to/2JWFvow) et sa quantité d’accessoires.
 
@@ -34,7 +35,7 @@ Mais honnêtement, avec un peu de pratique et quelques accessoires comme [un dô
 
 ***
 
-### 2 - Son smartphone
+## 2 — Son smartphone
 
 La seconde solution idéale pour débuter sans se prendre la tête consiste à utiliser ce que l’on a toujours dans sa poche… Son smartphone !  
 Il existe de nombreuses solutions pour enfermer son smartphone dans un caisson étanche, mais une des plus reconnue et fiable est chez Aquatech avec leur [AxisGo](https://aquatech.net/collections/axisgo).
@@ -45,15 +46,33 @@ Les qualités photo des smartphones les plus récents ne sont plus à prouver et
 
 ***
 
-### 3 - Les housses étanches
+## 3 — Les housses étanches
+
+Bien avant que les GoPro n’existent, c’est la solution que j’avais choisi pour mettre mon vieux D50 dedans et aller à l’eau. J’avais opté à l’époque pour un modèle de [housse Ewa-Marine](https://amzn.to/2JW3Ria) qui fonctionnait très bien et parce qu’il n’y avait pas beaucoup de choix dans le domaine à l’époque.  
+Maintenant, l’offre s’est améliorée et en plus de la gamme Ewa-Marine, je recommande les housses [Outex](https://outex.com/) qui se sont taillé une solide réputation.
+
+Pour de la pratique occasionnelle avec son équipement habituel, c’est très probablement la meilleure solution avec un entretien limité et simplifié.
 
 ***
 
-### 4 - Les caissons étanches
+## 4 — Les caissons étanches
+
+Aquatech, Ikelite, SPL… Les marques de caissons étanches ne manquent pas et proposent toutes d’excellents produits adaptés à une pratique régulière de la prise d’image aquatique.  
+C’est personnellement la solution que j’ai choisie depuis quelques années maintenant afin d’utiliser [mon équipement habituel](https://gregorymignard.com/equipement/) dans l’eau.
+
+{{< photoset always="2" >}}
+{{< photo src="caisson_1.jpg" alt="Quelle(s) solution(s) en watershot ?">}}
+{{< photo src="caisson_2.jpg" alt="Quelle(s) solution(s) en watershot ?">}}
+{{</ photoset >}}
+
+C’est une solution robuste, mais vite onéreuse et qui va demander un minimum d’entretien, sous peine de voir son précieux équipement prendre l’eau salée, et, croyez-moi, c’est la dernière chose que vous souhaitez pour votre matériel.
+
+J’ai beau être très méticuleux avec mon matériel, j’ai toujours cette petite crainte d’un joint mal placé ou mal lubrifié et les premières minutes à l’eau sont souvent synonymes de grande attention envers mon équipement.  
+À l’inverse, c’est cette solution qui me satisfait le plus pour réaliser des photos et vidéos en ayant accès à toute la puissance de mon Fuji X-T3 et à ses réglages.
 
 ***
 
-### 5 - La solution Vintage
+## 5 — La solution Vintage
 
 La solution que l’on oublie tout le temps. Et pourtant, chez les amateurs de photographie argentique, il y a de belles pépites à trouver comme cet iconique Nikonos V. Perso j’en rêve depuis longtemps et je pense que je m’en trouverai un prochainement ! C’est un peu plus capricieux et cela demande un entretien méticuleux, mais le plaisir et le charme de la pellicule opèrent avec magie dans l’eau.
 
@@ -63,8 +82,8 @@ La solution que l’on oublie tout le temps. Et pourtant, chez les amateurs de p
 {{</ photoset >}}
 
 Il n’y a qu’à voir ce que peut faire [Megan Barret](https://www.instagram.com/meganshootsfilm/) ou encore [Brooks Sterling](https://saltwater-magazine.com/articles//lens-brooks-sterling) pour se faire une idée.  
-Le choix n’est pas seulement limité à la gamme Nikonos, on trouve aussi d’excellents compacts argentique étanches comme le [Nikon L35 AWAF](https://www.collection-appareils.fr/x/html/appareil-12763-Nikon_L35%20AWAF.html).
+Le choix n’est pas seulement limité à la gamme Nikonos, on trouve aussi d’excellents compacts argentique étanches comme le [Nikon L35 AWAF](https://www.collection-appareils.fr/x/html/appareil-12763-Nikon_L35%20AWAF.html).
 
 ***
 
-Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !
+Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !
