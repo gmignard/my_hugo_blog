@@ -26,7 +26,7 @@ paginate = 12
 
   sansSerifFont = "Josefin Sans"
   titleFont = "Fjalla One"
-  bodyFont = "Lato"
+  bodyFont = "Open Sans"
 
   hasLogo = true
   accentColor = "#B75636"
