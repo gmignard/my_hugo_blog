@@ -25,7 +25,7 @@ paginate = 12
   tags = []
 
   sansSerifFont = "Josefin Sans"
-  titleFont = "Raleway"
+  titleFont = "Domine"
   bodyFont = "Nunito Sans"
 
   hasLogo = true
