@@ -14,9 +14,13 @@ resources:
 - src: "*.jpg"
 ---
 
-Depuis quelques temps, mon frigo héberge quelques péloches. Ça fait bien longtemps qu’il en a vu, depuis pas loin de 10 ans je pense. 
+Depuis quelques temps, mon frigo héberge quelques péloches. Ça fait bien longtemps qu’il en a vu, depuis pas loin de 10 ans je pense.
 
 À l’époque, on croisait encore des hipsters en fixie dans la rue et il y avait un gros engouement pour la photo argentique à base d’appareil vintage et de pellicules exotiques comme les Lomo.
+
+***
+
+![De la péloche dans le frigo !](severaldayslater.jpg)
 
 {{< photo src="cover.jpg" alt="De la péloche dans le frigo !">}}
 
