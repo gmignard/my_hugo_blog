@@ -14,8 +14,9 @@ resources:
 - src: "*.jpg"
 ---
 
+> Un everyday carry ou every-day carry désigne l'ensemble des objets que l'on porte en permanence sur soi.
 
-{{< photo src="cover.jpg" alt="Everyday Carry" >}}
+{{< photo src="edc.jpg" alt="Everyday Carry" >}}
 
 ***
 
