@@ -73,7 +73,7 @@ J’ai également retrouvé le plaisir d’aller à l’eau plus régulièrement
 
 ### Demain…
 
-On en aura appris des choses cette année ! Nous ne sommes pas grand-chose face au minuscule virus qui nous bouscule en ce moment, mais ça aura le mérite de nous ouvrir les yeux sur la fragilité du monde qui nous entour. Difficile de se projeter pour l’instant, mais je sais que demain, nous allons continuer à vivre au jour le jour, renforcer notre consommation et nos projets en local et faire de notre mieux pour être de meilleurs êtres humains chaque jour.  
+On en aura appris des choses cette année ! Nous ne sommes pas grand-chose face au minuscule virus qui nous bouscule en ce moment, mais ça aura le mérite de nous ouvrir les yeux sur la fragilité du monde qui nous entoure. Difficile de se projeter pour l’instant, mais je sais que demain, nous allons continuer à vivre au jour le jour, renforcer notre consommation et nos projets en local et faire de notre mieux pour être de meilleurs êtres humains chaque jour.  
 J’ai d’ailleurs une super nouvelle à annoncer, mais il faudra attendre 2021 pour en parler 🤫
 
 À très vite, joyeuses fêtes et prenez soin de vous !
