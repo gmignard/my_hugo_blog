@@ -37,9 +37,6 @@ Seuls au monde, nous nous mettons à l’eau, j’essaye de rassurer Yannick pou
 Aujourd'hui, le changement climatique est l'une des préoccupations principales dans le monde.⁠ Nous devons et nous pouvons agir tous ensemble face au danger que représente le réchauffement climatique pour la planète. ⁠Si j'ai toujours essayé de "faire ma part" pour lutter contre le réchauffement climatique, je profite de cette année 2021 pour faire mon entrée dans le collectif [1% for the Planet](https://www.onepercentfortheplanet.fr/) ! ⁠
 ⁠
 À compter de cette année, je m'engage à reverser au moins 1% de mon chiffre d'affaire au profite d'associations environnementales. ⁠J'ai beau être une petite entreprise, il n'y a pas de petit don quand il s'agit de contribuer à la lutte contre le réchauffement climatique et à la préservation de l'environnement.⁠ Cette démarche rejoint et complète les actions que je peux déjà mener dans mon quotidien ou au travers du collectif #outdoorsentinels dont je suis ambassadeur chez [Lafuma](https://www.lafuma.com/fr/outdoor-sentinels).⁠
-⁠
-> Films, Photos, Prints...⁠
-> 1% de chaque vente transformé en dons.⁠
 
 Et tous mes meilleurs voeux à toutes et tous pour 2021 !⁠
 
