@@ -28,7 +28,7 @@ Ce 1er janvier 2021 commencera de la plus belle des façons, en allant à l’e
 {{< photo src="vert_2.jpg" alt="Bonjour 2021">}}
 {{</ photoset >}}
 
-Seuls au monde, nous nous mettons à l’eau, j’essaye de rassurer Yannick pour qui c’était son baptême de watershot. Ça faisait des mois que j’avais promis de l’emmener avec moi, nous y voilà enfin. Ce petit vent de nord-est nous glace, mais voir les premières lueurs du soleil nous caresser le visage, ou ce qu’il en reste au rythme des vagues nous fait du bien. Une fois les 36 poses de son Nikonos V bouclées, nous ressortons de l’eau pour nous changer rapidement. Nos orteils sont totalement blancs et congelés, pour reprendre une punchline de Yannick à ce moment précis « *on pourrait marcher sur des Legos qu’on ne sentirait rien !* ». C’est exactement ça, on se change rapidement avant de rentrer chacun de notre côté, le chauffage à fond dans la voiture.
+Seuls au monde, nous nous mettons à l’eau, j’essaye de rassurer Yannick pour qui c’était son baptême de watershot. Ça faisait des mois que j’avais promis de l’emmener avec moi, nous y voilà enfin. Ce petit vent de nord-est nous glace, mais voir les premières lueurs du soleil nous caresser le visage, ou ce qu’il en reste au rythme des vagues nous fait du bien. Une fois les 36 poses de son Nikonos V bouclées, nous ressortons de l’eau pour nous changer rapidement. Nos orteils sont totalement blancs et congelés, pour reprendre une punchline de Yannick à ce moment précis « on pourrait marcher sur des Legos qu’on ne sentirait rien ! ». C’est exactement ça, on se change rapidement avant de rentrer chacun de notre côté, le chauffage à fond dans la voiture.
 
 ***
 
