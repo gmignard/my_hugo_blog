@@ -32,6 +32,8 @@ Seuls au monde, nous nous mettons à l’eau, j’essaye de rassurer Yannick pou
 
 ***
 
+### Ma résolution de 2021 !
+
 {{< photo src="1pcftp.jpg" alt="Bonjour 2021">}}
 
 Aujourd'hui, le changement climatique est l'une des préoccupations principales dans le monde.⁠ Nous devons et nous pouvons agir tous ensemble face au danger que représente le réchauffement climatique pour la planète. ⁠Si j'ai toujours essayé de "faire ma part" pour lutter contre le réchauffement climatique, je profite de cette année 2021 pour faire mon entrée dans le collectif [1% for the Planet](https://www.onepercentfortheplanet.fr/) ! ⁠
