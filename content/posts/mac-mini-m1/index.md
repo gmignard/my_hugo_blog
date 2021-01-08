@@ -1,7 +1,7 @@
 ---
-title: Le Mac mini M1 pour le montage vidéo
+title: Mac mini M1 et montage vidéo
 subtitle: Retour d'expérience après quelques semaines d'utilisation de la puce magique !
-seotitle: "Utiliser un Mac mini M1 (2020) pour le montage vidéo -- Grégory Mignard"
+seotitle: "Utiliser un Mac mini M1 (2020) pour le montage vidéo — Grégory Mignard"
 date: 2021-01-08 09:00:00 +0200
 slug: "mac-mini-m1"
 categories:
@@ -22,10 +22,15 @@ Depuis quelques années, j’ai compris l’importance d’une machine un peu pl
 
 Utilisateur de Macintosh depuis plus de 15 ans, je crois avoir essayé toute la famille de Mac… Sauf le Pro évidemment ! Ces dernières années, j’ai pris conscience de l’importance d’une machine fixe, surtout depuis que j’ai [l’iPad Pro](https://gregorymignard.com/un-an-avec-ipad-pro/) pour la mobilité et la grande majorité de mes besoins.
 
-## Mon setup Mac mini M1 2020 pour le montage vidéo
+## Mon setup Mac mini M1 2020
 
 Il y a encore quelques semaines, je tournais sur un Mac mini mid-2018 légèrement boosté. J’avais toujours repoussé l’achat d’un eGPU même si parfois, Final Cut manquait un poil de fluidité sur certains projets. Mais travaillant actuellement sur un gros projet de documentaire, je me suis finalement résigné à commander un eGPU quand [Apple a annoncé cette série de Mac équipés de la nouvelle puce M1](https://www.apple.com/fr/newsroom/2020/11/apple-unleashes-m1/). Changer de Mac n’était pas du tout envisagé, mais un jour après cette annonce, j’ai pris conscience du potentiel de la puce et j’ai commandé un Mac mini M1 avec 16 Go de Ram en option.  
 Quand je vois les performances de mon iPad Pro 2019, même en montage vidéo, je me suis dit que si Apple arrive à proposer la même chose sur un Mac mini, ça peut valoir le coup. J’avoue qu’à ce moment-là, il n’y avait pas encore de tests, aucun retour et c’était purement spéculatif comme achat. Étant donné que je devais investir pour faire durer mon ancien Mac mini, alors pourquoi ne pas miser sur la technologie la plus récente ?
+
+{{< photoset max="2" >}}
+  {{< photo src="m1_1.jpg" alt="Le Mac mini M1 pour le montage vidéo" >}}
+  {{< photo src="m1_2.jpg" alt="Le Mac mini M1 pour le montage vidéo" >}}
+{{</ photoset >}}
 
 J’ai attendu quelques jours avant de recevoir mon Mac mini et pendant ce laps de temps, de nombreux tests et vidéos m’ont conforté dans ce choix. Tout le monde est unanime, cette puce M1 fait de la magie ! Toutes mes connaissances sur le hardware semblent s’effondrer, comment 8 ou 16 Go de Ram peuvent suffire ? Comment Apple a réussi ce tour de magie ? Je fais confiance à mon expérience de l’iPad qui me prouve que l’on peut être petit et puissant en attendant de déballer ce Mac mini M1.
 
@@ -37,9 +42,9 @@ J’ai attendu quelques jours avant de recevoir mon Mac mini et pendant ce laps 
 * [Souris Logitech M720 Triathlon](https://amzn.to/38nA4IX)
 * [Casque Beyerdynamic DT770 PRO 80 Ohm](https://amzn.to/3s2Krd7)
 
-## Mon expérience avec le Mac mini M1 2020 pour le montage vidéo
+***
 
-
+## Mon expérience avec le Mac mini M1 2020
 
 Après plusieurs semaines d’utilisation, je suis ra-vi. Pour mon workflow, je n’édite pas mes projets directement depuis le SSD interne. J’ai un NAS avec l’ensemble de mes données personnelles dedans, pour le côté pro j’ai un SSD d’archives par projet dans lequel je stock mes rushes. Je monte mes vidéos depuis le SSD SanDisk Extreme 1To (qui est aussi mon disque de terrain) et y copie les rushes dont j’ai besoin pour chaque projet. Quand j’ai fini, je copie mes fichiers projet et exports dans le dossier d’archives comme ça je peux tout retrouver facilement. Editer depuis le SSD Extreme me permet de ne pas saturer le disque interne de mon Mac Mini pour le montage vidéo.
 
