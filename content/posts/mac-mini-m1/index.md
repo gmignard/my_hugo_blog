@@ -1,5 +1,5 @@
 ---
-title: Mac mini M1 et montage vidéo
+title: Mac mini M1 & montage vidéo
 subtitle: Retour d'expérience après quelques semaines d'utilisation de la puce magique !
 seotitle: "Utiliser un Mac mini M1 (2020) pour le montage vidéo — Grégory Mignard"
 date: 2021-01-08 09:00:00 +0200
@@ -44,15 +44,15 @@ J’ai attendu quelques jours avant de recevoir mon Mac mini et pendant ce laps 
 
 ***
 
-## Mon expérience avec le Mac mini M1 2020
+## Mon expérience et mon usage du Mac Mini M1
 
-Après plusieurs semaines d’utilisation, je suis ra-vi. Pour mon workflow, je n’édite pas mes projets directement depuis le SSD interne. J’ai un NAS avec l’ensemble de mes données personnelles dedans, pour le côté pro j’ai un SSD d’archives par projet dans lequel je stock mes rushes. Je monte mes vidéos depuis le SSD SanDisk Extreme 1To (qui est aussi mon disque de terrain) et y copie les rushes dont j’ai besoin pour chaque projet. Quand j’ai fini, je copie mes fichiers projet et exports dans le dossier d’archives comme ça je peux tout retrouver facilement. Editer depuis le SSD Extreme me permet de ne pas saturer le disque interne de mon Mac Mini pour le montage vidéo.
+Si j’ai eu quelques soucis de compatibilité avec [le plug-in FilmConvert](https://www.filmconvert.com/) les premiers jours, une mise à jour rapide de l’éditeur est venue combler cette seule zone d’ombre. Les autres applications que j’utilise comme Lightroom CC, Affinity Photo, Safari ou encore Spark étaient déjà à jour ou compatibles avec Rosetta 2. Le seul outil que je n’ai jamais réussi à faire fonctionner est l’utilitaire de synchronisation Google Drive, mais comme j’utilise de plus en plus iCloud Drive ou l’interface web de Google Drive, ce n’est finalement pas un souci dans mon cas.
 
-Ma config tourne encore mieux que l’iMac, je peux éditer et lire mes projets 4K dans Final Cut Pro X à pleine résolution et en choisissant la qualité de prévisualisation la plus élevée de manière fluide, sans que ça ne rame ou plante. J’édite des images en 4K 10bits de mon Panasonic S1 et du Fuji XT-3 de Greg pour nos projets communs, ainsi que les fichiers 10bits du Mavic 2 Pro. Tout ça avec des effets de colorimétrie appliqués dessus, comme Filmconvert par exemple. Tout est fluide et terriblement efficace. Un vrai gain de rapidité et de confort d’utilisation. Je n’ai aucun bug lié à l’eGPU comme on peut lire parfois sur internet. Je ne suis pas un expert des benchmarks comme on peut en trouver partout sur YouTube. Mais de mon expérience, ce setup est plus agréable à utiliser que mon iMac puisque je ne subis aucun ralentissement dans mon workflow et c’est bien ça que j’attendais.
+Après quelques semaines d’utilisation et deux projets vidéos réalisés avec cette puce M1, je suis totalement comblé. C’était clairement le bon choix, je me demande même si 8 Go de RAM n’auraient finalement pas suffi ? Au moins, je suis normalement tranquille pour quelques années. Tout est fluide, instantané et rapide. Le projet eGPU est désormais obsolète. J’édite des images en 4K 10 bits provenant de mon Fuji X-T3 ainsi que du Panasonic S1 de Jeremy. Rien ne rame, rien ne plante, tout fonctionne à merveille.  
+Si mon stockage interne ne fait que 256 Go, ce n’est pas un souci, car je l’utilise pour macOS et mes applications. Il y a quelques fichiers de passage, mais mes archives sont stockées sur [un NAS](https://amzn.to/2XlLeYr). Quand je monte une vidéo, j’utilise [un SSD SanDisk Extreme 1 To](https://amzn.to/3oqWvTt) qui me sert également de disque de terrain avec l’iPad Pro. Une fois le projet terminé, je le stocke soit sur le NAS, soit sur un [SSD uniquement destiné à l’archivage](https://amzn.to/2MKEZLT) du projet en question. C’est ce que je fais généralement pour les projets professionnels, les projets et archives personnelles étant stockés sur le NAS.
 
-Question performance, les 32Go de ram sont un vrai gain en performance et couplé à l’i7 et à l’eGPU, je ne rencontre aucun ralentissement même en étant sur FCPX avec Lightroom, Photoshop et Chrome allumé. Je suis d’ailleurs en train de switcher vers Safari petit à petit, sur les conseils avisés de Greg, pour la partie internet.
-
-C’est article est déjà assez long et je pense qu’il couvre une bonne partie de ma config. J’ai hâte de peaufiner les derniers détails comme la chaise, la déco etc… mais ça prend forme et d’un point de vue config, ça ne bougera pas. Toutefois, si vous avez des questions, n’hésitez pas.
+Ce workflow est ultra fonctionnel, je suis vraiment content des performances et du choix du Mac Mini, une machine qui se fait oublier sur mon bureau et que je n’entends jamais. À se demander s’il y a vraiment des ventilateurs là-dedans ? Si je devais trouver deux petits défauts, ça serait sa couleur (plus de gris sidéral au catalogue) et le retrait inexpliqué de deux ports Thunderbolt même si cela ne me fait pas défaut.  
+Voilà pour ce retour d’expérience du Mac mini M1 pour le montage vidéo, si vous avez des questions, n’hésitez pas.
 
 ***
 
