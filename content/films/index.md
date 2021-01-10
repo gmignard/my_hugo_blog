@@ -10,6 +10,20 @@ resources:
   name: "cover"
 ---
 
+### Outline Ep.001 - Dehors !
+
+<div>
+{{< youtube PbDizRll11Q >}}
+</div>
+
+<center>
+🙎🏻‍♂️ Starring: Yves Quéré  
+🎞 Production: Captain Yvon Studio  
+🎥 DOP: Grégory Mignard
+</center>
+
+***
+
 ### Asymétrie
 
 <div>
