@@ -2,7 +2,7 @@
 title: Outline Ep. 001 - Dehors !
 subtitle: L’importance d’aller traîner dehors.
 seotitle: "Outline Ep. 001 - Dehors ! -- Grégory Mignard"
-date: 2021-01-09 13:30:00 +0200
+date: 2021-01-10 14:00:00 +0200
 slug: "outline-ep001"
 categories:
 - stories
