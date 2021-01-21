@@ -2,7 +2,7 @@
 title: Olympus XA
 subtitle: Un incroyable Point & Shoot télémétrique de poche
 seotitle: "Olympus XA, un Point & Shoot télémétrique de poche — Grégory Mignard"
-date: 2021-01-21 09:30:00 +0200
+date: 2021-01-21 13:30:00 +0200
 slug: "olympus-xa"
 categories:
 - analog
@@ -20,32 +20,27 @@ Au détour d'un repas chez Yannick, nous parlions photo comme souvent quand il m
 
 > L'Olympus XA est un appareil légendaire conçu en 1979 par le tout aussi légendaire Yoshihisa Maitani. Un extraordinaire télémétrique de poche avec son fantastique objectif Zuiko 35mm f/2.8, qui peut facilement rivaliser avec la plupart des réflex argentiques.
 
+{{< photo src="lionel.jpg" alt="Olympus XA, un Point & Shoot télémétrique de poche" >}}
+
 Pour être tout à fait honnête, si je parle de Point & Shoot dans le titre, ce n'est pas tout à fait vrai, car il n'a rien d'automatique. La mise au point est manuelle et il fonctionne en priorité ouverture. Mais il est simple, il consomme très peu d'énergie (alimenté avec 2 piles LR44), il est très robuste, son optique est absolument géniale et surtout, il tient dans la poche.  
 J'ai beau adorer mon Nikon FM2, mais impossible de rivaliser avec la taille du XA et c'est vraiment ce qui m'a séduit. J'ai toujours rêvé de l'appareil de poche sans jamais réellement trouver l'élu. Je crois bien que ce petit Olympus a tout pour l'être, je ne sors désormais [jamais sans](https://gregorymignard.com/everydaycarry/).
 
-Vocation du XA
-
 {{< photo class="fullwidth" src="full.jpg" alt="Olympus XA, un Point & Shoot télémétrique de poche" >}}
 
-Ses défauts
-
-{{< photo src="file.jpg" alt="Entrée indiquée" >}}
-
-{{< photoset always="2" >}}
-{{< photo src="file.jpg" alt="Entrée indiquée">}}
-{{< photo src="file.jpg" alt="Entrée indiquée">}}
-{{</ photoset >}}
+Cet appareil n'a pas la vocation d'en remplacer un autre dans mon cas. 
 
 {{< photoset max="3" >}}
-  {{< photo src="file.jpg" alt="Entrée indiquée" >}}
-  {{< photo src="file.jpg" alt="Entrée indiquée" >}}
-  {{< photo src="file.jpg" alt="Entrée indiquée" >}}
+  {{< photo src="conquet.jpg" alt="Olympus XA, un Point & Shoot télémétrique de poche" >}}
+  {{< photo src="yves.jpg" alt="Olympus XA, un Point & Shoot télémétrique de poche" >}}
+  {{< photo src="phare.jpg" alt="Olympus XA, un Point & Shoot télémétrique de poche" >}}
 {{</ photoset >}}
 
-{{< photo class="vertical" src="file.jpg" alt="Entrée indiquée" >}}
+{{< photoset always="2" >}}
+{{< photo src="dossen_1.jpg" alt="Olympus XA, un Point & Shoot télémétrique de poche">}}
+{{< photo src="dossen_2.jpg" alt="Olympus XA, un Point & Shoot télémétrique de poche">}}
+{{</ photoset >}}
 
-
-
+Ses défauts
 
 ***
 
