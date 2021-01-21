@@ -28,7 +28,7 @@ Le XA est également le compagnon idéal quand je suis en tournage. Je filme sou
 
 {{< photo class="fullwidth" src="full.jpg" alt="Olympus XA, un Point & Shoot télémétrique de poche" >}}
 
-> Yoshihisa Maitani a souhaité créer un appareil aussi petit que possible qui puisse être rapidement fonctionnel tout en offrant la meilleure qualité d'image possible. C'est ainsi qu'il a imaginé cet Olympus XA, un appareil qui puisse être toujours transporté sur sois, même dans une petite poche.
+> Yoshihisa Maitani a souhaité créer un appareil aussi petit que possible qui puisse être rapidement fonctionnel tout en offrant la meilleure qualité d'image possible. C'est ainsi qu'il a imaginé cet Olympus XA, un appareil qui puisse être toujours transporté sur soi, même dans une petite poche.
 
 J’ai beau encenser cet appareil, n’allez pas croire qu’il est sans défaut. Son premier défaut est l’inconfort de sa visée télémétrique. Sans doute un peu vieille, le faible contraste dans le viseur rend la tâche parfois difficile, surtout en faibles conditions de lumières. Si je ne me trompe pas, le XA était et reste toujours le plus petit appareil photo télémétrique jamais mis sur le marché. En revanche, il est facile de contourner le souci en se mettant en hyperfocale. À f/5.6 et avec une mise au point à 3m, on obtient un sujet net entre 3m et l’infini, mon mode favori en Point & Shoot.  
 L’autre petit défaut que j’ai pu constater est lié à sa plus grande qualité, sa compacité. Il est tellement compact que j’ai tendance à le glisser un peu n’importe où, ce qui peut parfois le faire tomber comme c’est arrivé sur ma première pellicule. Il a beau être robuste, le capot du film s'est très légèrement entre-ouvert et j’ai eu une fuite de lumière sur quelques poses.
