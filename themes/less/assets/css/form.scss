@@ -52,15 +52,12 @@ textarea {
   height: 60px;
 }
 
-.button {
-  background-color: #4CAF50;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
+button {
+  max-width: 200px;
+  padding: 1em 1em;
+  color: rgba(0, 0, 0, 0.80); /* rgba supported */
+  border: none rgba(0, 0, 0, 0);  /*IE9 + everything else*/
+  background-color: #E6E6E6;
   text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
+  border-radius: 2px;
 }
