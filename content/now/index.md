@@ -29,8 +29,6 @@ Je travaille en vidéo avec du [matériel Fujifilm](https://gregorymignard.com/e
 
 Pour les demandes de prestations (reportage, réalisation de vidéo, etc.), de partenariats ou tout simplement pour papoter, merci de m’envoyer un mail à cette adresse : [greg@gregorymignard.com](mailto:greg@gregorymignard.com).
 
-{{< photo class="vertical" src="1ftp.png" alt="1% for the Planet" >}}
-
 ***
 
 *C’est la version 2021.01.07 de cette page Now. Si tu veux en savoir plus sur la page /now, [vas donc voir par ici](https://nownownow.com/about).*
