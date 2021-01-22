@@ -46,6 +46,10 @@ paginate = 12
   instagram = "gregmignard"
   twitter = "gregmignard"
 
+[params.tinyletter]
+  username = "captainyvon"
+  title = "Outline, la lettre"
+  description = "Si tu aimes ce que j’écris ici, alors je t’invite à t’abonner à Outline, ma newsletter 📝."
 [[menu.main]]
   name = "Stills"
   title = "Portfolio"

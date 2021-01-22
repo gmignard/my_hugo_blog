@@ -1,0 +1,14 @@
+{{ if .Site.Params.tinyletter.username }}
+<form
+  style="max-width: 57rem!important;margin: auto;margin-bottom: 60px;background-color: #F3F3F3;border:1px solid #F3F3F3;padding:24px;text-align:center;"
+  action="https://tinyletter.com/{{ .Site.Params.tinyletter.username }}" method="post" target="popupwindow"
+  onsubmit="window.open('https://tinyletter.com/{{ .Site.Params.tinyletter.username }}', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+  <p><label for="tlemail">
+      <h3>{{ .Site.Params.tinyletter.title }}</h3>
+      </br>
+      {{ .Site.Params.tinyletter.description }}
+    </label></p>
+  <p><input type="text" style="width:320px" name="email" id="tlemail" /></p><input type="hidden" value="1"
+    name="embed" /><input class="button" type="submit" value="S'abonner" />
+</form>
+{{ end }}
