@@ -29,8 +29,8 @@ Je travaille en vidéo avec du [matériel Fujifilm](https://gregorymignard.com/e
 
 Pour les demandes de prestations (reportage, réalisation de vidéo, etc.), de partenariats ou tout simplement pour papoter, merci de m’envoyer un mail à cette adresse : [greg@gregorymignard.com](mailto:greg@gregorymignard.com).
 
-{{< photo class="vertical" src="1ftp.png" alt="1% for the Planet" >}}
-
 ***
 
 *C’est la version 2021.01.07 de cette page Now. Si tu veux en savoir plus sur la page /now, [vas donc voir par ici](https://nownownow.com/about).*
+
+<form style="max-width: 57rem!important; background-color: #F3F3F3;border:1px solid #F3F3F3;padding:24px;text-align:center;" action="https://tinyletter.com/captainyvon" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/captainyvon', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail"><h3>Outline, la lettre</h3></br>Si tu aimes ce que j’écris ici, alors je t’invite à t’abonner à Outline, la newsletter que j’écris.</label></p><p><input type="text" style="width:320px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input class="button" type="submit" value="S'abonner" /></form>
