@@ -64,3 +64,5 @@ Pour commencer, je conseille les filtres [ND PolarPro (ND8, 16 et 32)](https://a
 *   **SuperPhoto** : Je ne pense pas être la cible non plus de cette fonction, car je shoote en flat + raw, mais disons que cette fonction "_HDR intelligent_" permet de donner un peu de peps à vos photos ! Je pense que la cible est grand publie !
 
 Voilà, vous savez tout de mes réglages, n'hésitez pas à échanger dans les commentaires pour enrichir le sujet et partager vos propres astuces !
+
+<form style="max-width: 57rem!important; background-color: #F3F3F3;border:1px solid #F3F3F3;padding:24px;text-align:center;" action="https://tinyletter.com/captainyvon" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/captainyvon', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail"><h3>Outline, la lettre</h3></br>Si tu aimes ce que j’écris ici, alors je t’invite à t’abonner à Outline, ma newsletter 📝.</label></p><p><input type="text" style="width:320px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input class="button" type="submit" value="S'abonner" /></form>
