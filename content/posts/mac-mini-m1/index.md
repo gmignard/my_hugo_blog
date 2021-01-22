@@ -61,3 +61,5 @@ Voilà pour ce retour d’expérience du Mac mini M1 pour le montage vidéo, si 
 ***
 
 <center>Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !</center>
+
+<form style="max-width: 57rem!important; background-color: #F3F3F3;border:1px solid #F3F3F3;padding:24px;text-align:center;" action="https://tinyletter.com/captainyvon" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/captainyvon', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail"><h3>Outline, la lettre</h3></br>Si tu aimes ce que j’écris ici, alors je t’invite à t’abonner à Outline, ma newsletter 📝.</label></p><p><input type="text" style="width:320px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input class="button" type="submit" value="S'abonner" /></form>
