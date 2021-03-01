@@ -5,7 +5,7 @@ seotitle: "Pourquoi je fais des photos ? (Et des vidéos) — Grégory Mignard"
 date: 2021-03-01 13:30:00 +0200
 slug: "pourquoi-je-fais-des-photos"
 categories:
-- journal
+- stories
 resources:
 - src: "cover.jpg"
   name: "cover"
