@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
     closeEl: false,
     captionEl: false,
     arrowEl: false,
+    clickToCloseNonZoomable: true,
     barsSize: { top: 44, bottom: 44, left: 44, right: 44 }
   });
 })
