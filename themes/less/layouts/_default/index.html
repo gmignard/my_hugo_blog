@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ with .Resources.ByType "image" }}
-     <div class="grid">
+      <div data-pswp class="grid">
        {{ range . }}
   {{ $lqipw := default "20x" }}
 
@@ -11,6 +11,7 @@
       <img class="lazyload"
         data-action="zoom"
         data-src="{{ .Permalink }}"
+        data-zoom-src="{{ .Permalink }}"
         src="{{ $lqip.Permalink }}">
     </picture>
        {{ end }}

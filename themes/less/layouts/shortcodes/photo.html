@@ -3,9 +3,10 @@
   {{ $original := $media.GetMatch (.Get "src") }}
   {{ if $original }}
     {{ $resized := $original.Resize "x100" }}
-    <img class="lazyload" 
-         src="{{ $resized.Permalink }}" 
-         data-src="{{ $original.Permalink }}" 
+    <img class="lazyload"
+         src="{{ $resized.Permalink }}"
+         data-src="{{ $original.Permalink }}"
+         data-zoom-src="{{ $original.Permalink }}"
          {{ with .Get "alt" }}alt="{{ . }}"{{ end }} data-action="zoom">
   {{ end }}
 </figure>
