@@ -18,7 +18,7 @@ resources:
 Je ne sais pas besoin combien de temps je rêvais de posséder cet appareil. J’aime son look, j’aime son histoire, j’aime sa technologie des années 80 qui perdure encore aujourd’hui.  
 J’ai toujours eu vent de cette gamme, mais le déclic a opéré quand j’ai vu pour la première fois cette vidéo de Brooks Sterling, un artiste passionné de surf et de photographie argentique.
 
-<di>{{< vimeo 143235433 >}}</div>
+<div>{{< vimeo 143235433 >}}</div>
 
 J’ai adoré cette vision basée sur l’esthétisme et non pas sur la technique. Cette dimension artistique et poétique de la photographie m’a profondément touché et dès lors, j’ai toujours eu envie de sortir de mes mégapixels pour m’essayer à la magie du grain et des imperfections dans la photo de surf.
 
