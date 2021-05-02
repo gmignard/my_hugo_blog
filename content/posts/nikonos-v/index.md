@@ -18,7 +18,7 @@ resources:
 Je ne sais pas besoin combien de temps je rêvais de posséder cet appareil. J’aime son look, j’aime son histoire, j’aime sa technologie des années 80 qui perdure encore aujourd’hui.  
 J’ai toujours eu vent de cette gamme, mais le déclic a opéré quand j’ai vu pour la première fois cette vidéo de Brooks Sterling, un artiste passionné de surf et de photographie argentique.
 
-{{< vimeo 143235433 >}}
+<di>{{< vimeo 143235433 >}}</div>
 
 J’ai adoré cette vision basée sur l’esthétisme et non pas sur la technique. Cette dimension artistique et poétique de la photographie m’a profondément touché et dès lors, j’ai toujours eu envie de sortir de mes mégapixels pour m’essayer à la magie du grain et des imperfections dans la photo de surf.
 
@@ -49,7 +49,7 @@ Pour l’entretien, c’est pareil, beaucoup moins de choses que sur un caisson 
 {{</ photoset >}}
 
 Dans l’eau, c’est un régal à utiliser, son viseur est très confortable et affiche la vitesse d’obturation ainsi que des alertes de sur- ou sous-exposition. Comme le viseur ne voit pas à travers l’objectif, je me suis fait avoir avec quelques gouttes sur l’objectif. J’ai mes astuces pour corriger ça le prochain coup.    
-L’objectif 35mm f/2.5 est également incroyable. Avec ses deux molettes latérales, il est très aisé de changer rapidement son ouverture ainsi que la zone focus à utiliser. Finalement, le plus compliqué est d’estimer la zone focus avec une grande ouverture. 
+L’objectif 35mm f/2.5 est également incroyable. Avec ses deux molettes latérales, il est très aisé de changer rapidement son ouverture ainsi que la zone focus à utiliser. Finalement, le plus compliqué est d’estimer la zone focus avec une grande ouverture.
 
 Bref, je ne vais pas rentrer dans la fiche technique, on la trouve aisément sur internet, je voulais surtout parler de ressenti à chaud après deux pellicules shootées dans les vagues.  
 Je suis tout simplement conquis par cet appareil, j’en rêvais depuis longtemps et j’ai vraiment hâte de travailler toute une série argentique sur le surf… À suivre…
