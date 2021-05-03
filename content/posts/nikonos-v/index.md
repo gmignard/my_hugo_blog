@@ -30,7 +30,7 @@ J’ai adoré cette vision basée sur l’esthétisme et non pas sur la techniqu
 {{< photo src="martin_2.jpg" alt="Nikonos V">}}
 {{</ photoset >}}
 
-J’ai récemment eu la chance de mettre la main sur un Nikonos V à un prix défiant toute concurrence, c’était l’occasion rêvée pour me lancer et enfin tester quelque chose de différent à l’eau.
+J’ai récemment eu la chance de mettre la main sur un Nikonos V à un prix défiant toute concurrence, c’était l’occasion rêvée pour me lancer et enfin tester quelque chose de différent à l’eau. Généralement, on [en trouve sur eBay](https://ebay.us/FO93MX) dans des prix allant de 300 à 500€.
 
 > Parmi les modèles les plus populaires et recherchés jusqu’à aujourd’hui, on trouve le Nikonos V. Lancé en 1984 (mon année de naissance), le Nikonos V est étanche jusqu’à 50 m. Nikon arrêtera sa production en 2001, laissant derrière lui une gamme d’appareils très populaire auprès des photographes sous-marins.
 
