@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="links">
+  <div  class=" ">
+    {{ range .Site.Data.links}}
+    <a href={{ .url }} target="_blank" class="link-block">
+      <span class="link-title">{{ .title }}</span>
+      {{ with .subtitle }}
+      <span class="link-subtitle"> {{ . }}</span>
+      {{ end }}
+    </a>
+    {{ end }}
+
+    {{ range first (sub 5 (len .Site.Data.links)) (where .Site.RegularPages ".Params.favorite" true) }}
+    <a href={{ .RelPermalink }} class="link-block">
+      <span class="link-title">{{ .Title }}</span>
+      {{ with .Params.subtitle }}
+        <span class="link-subtitle"> {{ . }}</span>
+      {{ else }}
+        {{ .Summary | truncate 60 }}
+      {{ end }}
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

@@ -5,6 +5,7 @@ seotitle: "Mon équipement photo et vidéo chez Fujifilm"
 date: 2020-02-16T07:00:50+01:00
 draft: false
 slug: "equipement"
+favorite: true
 categories:
 - gear
 tags: ["What's in my bag", "Equipement", "Fuji", "Fujifilm", "X-T3"]
