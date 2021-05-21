@@ -471,11 +471,9 @@ img {
 
 /* LINKS */
 
-
-
 .links {
     padding-top: 80px;
-    max-width: 65%;
+    max-width: 40rem;
     text-align: center;
     margin: auto;
 }
@@ -490,7 +488,7 @@ a.link-block {
 
 span.link-title {
     display: block;
-    text-transform: uppercase;
+    font-family: var(--title-font);
 }
 
 span.link-subtitle {
