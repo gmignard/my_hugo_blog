@@ -471,22 +471,29 @@ img {
 
 /* LINKS */
 
+
+
 .links {
-    max-width: 60%;
+    padding-top: 80px;
+    max-width: 65%;
     text-align: center;
     margin: auto;
 }
 
 a.link-block {
+    display: block;
+    margin-bottom: 30px;
     background-color: #F3F3F3;
     padding: 40px;
     color: var(--onyx);
 }
 
 span.link-title {
+    display: block;
     text-transform: uppercase;
 }
 
 span.link-subtitle {
-    text-decoration: underline;
+    display: block;
+    font-style: italic;
 }
