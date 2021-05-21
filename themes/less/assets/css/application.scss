@@ -468,3 +468,25 @@ img {
 .pswp__ui {
   @apply hidden;
 }
+
+/* LINKS */
+
+.links {
+    max-width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+a.link-block {
+    background-color: #F3F3F3;
+    padding: 40px;
+    color: var(--onyx);
+}
+
+span.link-title {
+    text-transform: uppercase;
+}
+
+span.link-subtitle {
+    text-decoration: underline;
+}
