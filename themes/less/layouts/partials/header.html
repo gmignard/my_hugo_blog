@@ -1,4 +1,21 @@
 {{ block "header" . }}
+{{ if .Params.minimalHeader }}
+    <header class="minimal_header">
+      <div class="wrapped">
+      <span class="title">
+        <a href="/">
+          {{ if .Site.Params.hasLogo }}
+            <img src="/logo.svg" />
+          {{ else }}
+            {{ .Site.Title }}
+          {{ end }}
+        </a>
+      </span>
+
+      {{ partial "social_icons" . }}
+      </div>
+    </header>
+{{ else }}
     <header class="main_header">
       <div class="wrapped">
       <span class="title">
@@ -22,4 +39,5 @@
       {{ partial "social_icons" . }}
       </div>
     </header>
+{{ end }}
 {{ end }}

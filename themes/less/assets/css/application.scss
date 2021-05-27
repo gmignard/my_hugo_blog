@@ -116,6 +116,12 @@ header {
   text-align: center;
 }
 
+.minimal_header img {
+    max-height: 65px;
+    margin-top: 65px;
+    margin-bottom: 20px;
+}
+
 footer {
   padding: 50px;
   text-align: center;
@@ -470,7 +476,7 @@ img {
 /* LINKS */
 
 .links {
-    padding-top: 80px;
+    padding-top: 35px;
     max-width: 45rem;
     text-align: center;
     margin: auto;
@@ -481,7 +487,8 @@ a.link-block {
     margin-bottom: 30px;
     background-color: #F3F3F3;
     padding: 40px;
-    text-decoration: none;	
+    text-decoration: none;
+    background-image: none;
     color: var(--onyx);
 }
 
