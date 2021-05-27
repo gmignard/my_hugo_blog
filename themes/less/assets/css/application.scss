@@ -116,15 +116,17 @@ header {
   text-align: center;
 }
 
-.minimal_header a.img {
+.minimal_header img {
     max-height: 65px;
     margin-top: 65px;
     margin-bottom: 20px;
+    a {	
     background-image: none;
-    text-decoration: none;	
+    text-decoration: none;
+      }
 }
 
-.minimal_header a.social {
+.minimal_header social {
     background-image: none;
     text-decoration: none;	
 }
