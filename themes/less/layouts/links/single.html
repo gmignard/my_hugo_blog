@@ -1,4 +1,13 @@
 {{ define "main" }}
+
+<a href="/">
+          {{ if .Site.Params.hasLogo }}
+            <img src="/logo.svg" />
+          {{ else }}
+            {{ .Site.Title }}
+          {{ end }}
+        </a>
+
 <div class="links">
   <div  class=" ">
     {{ range .Site.Data.links}}
