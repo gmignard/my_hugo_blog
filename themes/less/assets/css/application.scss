@@ -116,19 +116,21 @@ header {
   text-align: center;
 }
 
-.minimal_header img {
+.minimal_header {
+  img {
     max-height: 65px;
     margin-top: 65px;
     margin-bottom: 20px;
-    a {	
+    }
+  a {
     background-image: none;
     text-decoration: none;
-      }
-}
+  }
 
-.minimal_header social {
+  .social {
     background-image: none;
-    text-decoration: none;	
+    text-decoration: none;
+  }
 }
 
 footer {
