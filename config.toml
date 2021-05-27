@@ -43,8 +43,8 @@ paginate = 12
 [params.social]
   email = "greg@gregorymignard.com"
   domain = "Grégory Mignard"
-  instagram = "gregmignard"
   twitter = "gregmignard"
+  instagram = "gregmignard"
   youtube = "captainyvon"
 
 [params.tinyletter]
