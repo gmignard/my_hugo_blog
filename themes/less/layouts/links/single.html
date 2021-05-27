@@ -1,5 +1,19 @@
-{{ define "main" }}
-kjljlkjl
+{{ block "header" . }}
+    <header class="main_header">
+      <div class="wrapped">
+      <span class="title">
+        <a href="/">
+          {{ if .Site.Params.hasLogo }}
+            <img src="/logo.svg" />
+          {{ else }}
+            {{ .Site.Title }}
+          {{ end }}
+        </a>
+      </span>
+
+      {{ partial "social_icons" . }}
+      </div>
+    </header>
 <div class="links">
   <div  class=" ">
     {{ range .Site.Data.links}}
@@ -23,4 +37,6 @@ kjljlkjl
     {{ end }}
   </div>
 </div>
+{{ end }}
+
 {{ end }}
