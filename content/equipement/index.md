@@ -16,11 +16,18 @@ Voici mon matériel photo et vidéo basé autour du Panasonic S1, pour filmer me
 
 ### 📸 DSLR
 
+> Mon choix s'est porté sur un équipement léger et polyvalent, qui puisse aussi bien répondre à des besoins photo que vidéo.
+
+* Fujifilm X-T3
+* Fuji XF 10-24mm f/4
+
 ### 🎥 Filmmaking
 
 ### 🎞️ Argentique
 
 ### ⚙️ Accessoires
+
+* Caisson étanche
 
 ### 🎒 Sacs
 
