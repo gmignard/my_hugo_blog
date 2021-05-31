@@ -25,14 +25,14 @@ Je possède également le [Fuji XF 10-24mm f/4 OIS WR](https://www.digit-photo.c
 
 Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient également son principal défaut quand il s'agit de filmer à main levée. C'est pourquoi j'ai imaginé un Setup RIG adapté à mon usage qui me permet de passer d'un petit appareil photo à un setup vidéo ultra versatile. Voici une liste des éléments qui composent ce setup : 
 
-* [Cage SmallRig 2228 pour X-T3](https://www.digit-photo.com/SMALLRIG-2228-Cage-pour-Fuji-X-T3-rSMALLRIGD154561.html?dpa_id=23)
-* [Poignée latérale SmallRig 2093](https://www.digit-photo.com/SMALLRIG-2093-Poignee-Laterale-Universelle-en-Bois-rSMALLRIGD149261.html)
-* Rods
-* Baseplate
+* [Cage pour X-T3 - SmallRig 2228](https://www.digit-photo.com/SMALLRIG-2228-Cage-pour-Fuji-X-T3-rSMALLRIGD154561.html?dpa_id=23)
+* [Poignée latérale - SmallRig 2093](https://www.digit-photo.com/SMALLRIG-2093-Poignee-Laterale-Universelle-en-Bois-rSMALLRIGD149261.html?dpa_id=23)
+* [Poignée NATO - SmallRig 1955](https://www.digit-photo.com/SMALLRIG-1955-Poignee-Nato-rSMALLRIGD152811.html?dpa_id=23)
+* [Rods de 22.5cm en carbone - SmallRig 1690](https://amzn.to/3c1cFi7)
+* [Base Plate - SmallRig 1674](https://amzn.to/3vE9sN1)
 * Plaque Tilta
 * Follow Focus
 * Micro
-* Poignée dessus
 * Batterie
 * Ecran de monitoring
 
