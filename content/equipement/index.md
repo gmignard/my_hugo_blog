@@ -55,15 +55,18 @@ Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient �
 
 ### 🎞️ Argentique
 
-Depuis la fin 2020, je retrouve les joies de [la photographie argentique](https://gregorymignard.com/analog/). Pas loin de la totalité de ma pratique photo personnelle se fait désormais sur pellicule. Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23). Il m'arrive parfois de charger un peu de noir & blanc ([400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23)) ou de la [Gold 200](https://www.digit-photo.com/KODAK-Gold-200-135-36-Poses-X3-rKODAK41880806.html?dpa_id=23).  
+{{< photoset always="2" >}}
+{{< photo src="portra400.jpg" alt="Equipement">}}
+{{< photo src="nikonosv.jpg" alt="Equipement">}}
+{{</ photoset >}}
+
+Depuis la fin 2020, je retrouve les joies de [la photographie argentique](https://gregorymignard.com/analog/). Pas loin de la totalité de ma pratique photo personnelle se fait désormais sur pellicule. Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23). Il m'arrive parfois de charger un peu de noir & blanc ([400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23)) ou de la [Gold 200](https://www.digit-photo.com/KODAK-Gold-200-135-36-Poses-X3-rKODAK41880806.html?dpa_id=23). J'envoi mes négatifs à développer et scanner chez [Mori Film Lab](https://morifilmlab.com/), il m'arrive parfois de numériser par moi-même avec mon DSLR et le plugin [Negative Lab Pro](https://www.negativelabpro.com/).  
 Quant aux appareils, voici ceux que j'utilise :
 
 * [Olympus XA](https://ebay.us/PvYGR2) - (Lire [ma review](https://gregorymignard.com/olympus-xa/))
 * [Nikon Fm2](https://ebay.us/d5ANCb)
 * [Nikonos V](https://ebay.us/p47TEI) - (Lire [ma review](https://gregorymignard.com/nikonos-v/))
 * [Fuji GW690iii](https://ebay.us/MWYxD3)
-
-J'envoi mes négatifs à développer et scanner chez [Mori Film Lab](https://morifilmlab.com/), il m'arrive parfois de numériser par moi-même avec mon DSLR et le plugin [Negative Lab Pro](https://www.negativelabpro.com/).
 
 ***
 
