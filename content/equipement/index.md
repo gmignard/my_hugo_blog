@@ -23,17 +23,20 @@ Voici mon matériel photo et vidéo basé autour du Panasonic S1, pour filmer me
 
 ### 🎥 Filmmaking
 
+
+
+
+
+### ⚙️ Accessoires
+
 {{< photoset always="2" >}}
 {{< photo src="filmmaking_1.jpg" alt="Equipement">}}
 {{< photo src="filmmaking_2.jpg" alt="Equipement">}}
 {{</ photoset >}}
 
-### 🎞️ Argentique
-
-### ⚙️ Accessoires
-
 * Caisson étanche
 
-### 🎒 Sacs
+### 🎞️ Argentique
 
-### 🖥️ Editing
+
+### 🖥️ Studio
