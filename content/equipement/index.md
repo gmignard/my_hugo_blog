@@ -45,7 +45,7 @@ Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient �
 {{< photo src="filmmaking_2.jpg" alt="Equipement">}}
 {{</ photoset >}}
 
-* Caisson étanche : 
+Depuis toutes ces années de pratique photo et vidéo, j'ai accumulé beaucoup d'accessoires
 
 ***
 
