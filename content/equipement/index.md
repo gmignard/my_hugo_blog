@@ -10,22 +10,31 @@ resources:
   name: "cover"
 ---
 
-Voici mon matériel photo et vidéo basé autour du Panasonic S1, pour filmer mes projets Captain Yvon, comme mes projets persos. Du voyage, du documentaire comme de l’outdoor, c’est le setup qui me convient.  Après 6 ans sur la gamme Alpha, j’ai quitté Sony pour le Panasonic S1, et je n’ai aucun regret. Je n’ai jamais autant pris de plaisir qu’avec cette config lors de mes tournages. Certes le poids est non négligeable mais on l’oublie vite compte tenu de toutes les qualités que ce setup comporte.
+***
+
+> D'une sortie photo dans les vagues Finistérienne au tournage d'un documentaire, voici le matériel qui m'accompagne.
 
 ***
 
 ### 📸 DSLR
 
-> Mon choix s'est porté sur un équipement léger et polyvalent, qui puisse aussi bien répondre à des besoins photo que vidéo.
-
-* Fujifilm X-T3
-* Fuji XF 10-24mm f/4
+Mon choix s'est porté sur le **Fujifilm X-T3** pour ses perfomances aussi bien en photo qu'en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 4K 10 bits, il n'a rien à envier à certaines caméras professionnelles et excelle en photographie. Dans la très grande majorité des cas, il est accompagné de l'excellent [Fuji XF 23mm f/1.4 R](https://www.digit-photo.com/FUJI-XF-23mm-f-1-4-R-rFUJI11508.html?dpa_id=23), mon objectif à (presque) tout faire.  
+Je possède également le [Fuji XF 10-24mm f/4 OIS WR](https://www.digit-photo.com/FUJI-XF-10-24mm-f-4-0-R-OIS-WR-rFUJI16666791.html?dpa_id=23) qui me sert plutôt dans le caisson étanche avec le dôme, le [Fuji XF 56mm f/1.2 R](https://www.digit-photo.com/FUJI-XF-56mm-f-1-2-R-Noir-rFUJI11510.html?dpa_id=23) et son incroyable piqué et le [100-400mm f/4.5-5.6 R LM OIS WR](https://www.digit-photo.com/FUJI-XF-100-400mm-f-4-5-5-6-R-LM-OIS-WR-Noir-rFUJI16501109.html?dpa_id=23) pour certaines images.
 
 ### 🎥 Filmmaking
 
+Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient également son principal défaut quand il s'agit de filmer à main levée. C'est pourquoi j'ai imaginé un Setup RIG adapté à mon usage qui me permet de passer d'un petit appareil photo à un setup vidéo ultra versatile. Voici une liste des éléments qui composent ce setup : 
 
-
-
+* [Cage SmallRig 2228 pour X-T3](https://www.digit-photo.com/SMALLRIG-2228-Cage-pour-Fuji-X-T3-rSMALLRIGD154561.html?dpa_id=23)
+* [Poignée latérale SmallRig 2093](https://www.digit-photo.com/SMALLRIG-2093-Poignee-Laterale-Universelle-en-Bois-rSMALLRIGD149261.html)
+* Rods
+* Baseplate
+* Plaque Tilta
+* Follow Focus
+* Micro
+* Poignée dessus
+* Batterie
+* Ecran de monitoring
 
 ### ⚙️ Accessoires
 
@@ -34,7 +43,7 @@ Voici mon matériel photo et vidéo basé autour du Panasonic S1, pour filmer me
 {{< photo src="filmmaking_2.jpg" alt="Equipement">}}
 {{</ photoset >}}
 
-* Caisson étanche
+* Caisson étanche : 
 
 ### 🎞️ Argentique
 
