@@ -30,11 +30,11 @@ Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient �
 * [Poignée NATO - SmallRig 1955](https://www.digit-photo.com/SMALLRIG-1955-Poignee-Nato-rSMALLRIGD152811.html?dpa_id=23)
 * [Rods de 22.5cm en carbone - SmallRig 1690](https://amzn.to/3c1cFi7)
 * [Base Plate - SmallRig 1674](https://amzn.to/3vE9sN1)
-* Plaque Tilta
-* Follow Focus
-* Micro
-* Batterie
-* Ecran de monitoring
+* [Tilta V-Mount Battery Plate](https://amzn.to/3c3SX5c)
+* [Batterie V-Mount V95 Compact](https://amzn.to/3fQdvz6)
+* [Follow Focus Edelkrone FocusONE](https://store-fr.edelkrone-eu.com/products/focusone)
+* [Micro RØDE VideoMic NTG](https://www.digit-photo.com/RODE-Microphone-VideoMic-NTG-Noir-rRODER100315.html?dpa_id=23) + [RØDE Softy](https://www.digit-photo.com/RODE-Protection-Micro-Anti-Vent-rRODER100317.html?dpa_id=23)
+* [Ecran de monitoring Desview R5](https://amzn.to/3ySNg3I)
 
 ### ⚙️ Accessoires
 
