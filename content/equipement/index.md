@@ -67,3 +67,5 @@ Quant aux appareils, voici ceux que j'utilise :
 ***
 
 ### 🖥️ Studio
+
+J'utilise un [Mac mini M1](https://gregorymignard.com/mac-mini-m1/) avec Final Cut Pro X pour le montage vidéo ainsi qu'avec Lightroom CC pour le post-traitement photo. En complément et en mobilité, j'utilise un [iPad Pro 11](https://amzn.to/3vEf0am) avec un [Apple Pencil](https://amzn.to/3i64VPK) et le [Logitech Folio Touch](https://amzn.to/3fC2wKV).
