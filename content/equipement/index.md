@@ -18,8 +18,10 @@ resources:
 
 ### 📸 DSLR
 
-Mon choix s'est porté sur le **Fujifilm X-T3** pour ses perfomances aussi bien en photo qu'en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 4K 10 bits, il n'a rien à envier à certaines caméras professionnelles et excelle en photographie. Dans la très grande majorité des cas, il est accompagné de l'excellent [Fuji XF 23mm f/1.4 R](https://www.digit-photo.com/FUJI-XF-23mm-f-1-4-R-rFUJI11508.html?dpa_id=23), mon objectif à (presque) tout faire.  
+Mon choix s'est porté sur le [Fujifilm X-T3](https://www.digit-photo.com/FUJI-X-T3-Boitier-Nu-Noir-rFUJIXT3BK.html?dpa_id=23) pour ses perfomances aussi bien en photo qu'en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 4K 10 bits, il n'a rien à envier à certaines caméras professionnelles et excelle en photographie. Dans la très grande majorité des cas, il est accompagné de l'excellent [Fuji XF 23mm f/1.4 R](https://www.digit-photo.com/FUJI-XF-23mm-f-1-4-R-rFUJI11508.html?dpa_id=23), mon objectif à (presque) tout faire.  
 Je possède également le [Fuji XF 10-24mm f/4 OIS WR](https://www.digit-photo.com/FUJI-XF-10-24mm-f-4-0-R-OIS-WR-rFUJI16666791.html?dpa_id=23) qui me sert plutôt dans le caisson étanche avec le dôme, le [Fuji XF 56mm f/1.2 R](https://www.digit-photo.com/FUJI-XF-56mm-f-1-2-R-Noir-rFUJI11510.html?dpa_id=23) et son incroyable piqué et le [100-400mm f/4.5-5.6 R LM OIS WR](https://www.digit-photo.com/FUJI-XF-100-400mm-f-4-5-5-6-R-LM-OIS-WR-Noir-rFUJI16501109.html?dpa_id=23) pour certaines images.
+
+***
 
 ### 🎥 Filmmaking
 
@@ -35,6 +37,10 @@ Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient �
 * [Follow Focus Edelkrone FocusONE](https://store-fr.edelkrone-eu.com/products/focusone)
 * [Micro RØDE VideoMic NTG](https://www.digit-photo.com/RODE-Microphone-VideoMic-NTG-Noir-rRODER100315.html?dpa_id=23) + [RØDE Softy](https://www.digit-photo.com/RODE-Protection-Micro-Anti-Vent-rRODER100317.html?dpa_id=23)
 * [Ecran de monitoring Desview R5](https://amzn.to/3ySNg3I)
+* [Filtres ND Hoya Pro](https://www.digit-photo.com/Filtres-vissants-aFA0032/Hoya/+choixMarque-821%7C?dpa_id=23)
+* [Filtres de diffusion CineBloom 10%](https://www.shopmoment.com/filters/diffusion-filters)
+
+***
 
 ### ⚙️ Accessoires
 
@@ -45,7 +51,18 @@ Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient �
 
 * Caisson étanche : 
 
+***
+
 ### 🎞️ Argentique
 
+Depuis la fin 2020, je retrouve les joies de [la photographie argentique](https://gregorymignard.com/analog/). Pas loin de la totalité de ma pratique photo personnelle se fait désormais sur pellicule. Parmi mes films favoris, on retrouve de la Portra 800 et de la Ektar 100, mais également très souvent de la Portra 400. Il m'arrive parfois de charger un peu de noir & blanc (TriX 400 ou HP5+) ou de la Kodak Gold 200.  
+Quant aux appareils, voici ceux que j'utilise :
+
+* [Olympus XA](https://ebay.us/PvYGR2) - (Lire [ma review](https://gregorymignard.com/olympus-xa/))
+* [Nikon Fm2](https://ebay.us/d5ANCb)
+* [Nikonos V](https://ebay.us/p47TEI) - (Lire [ma review](https://gregorymignard.com/nikonos-v/))
+* [Fuji GW690iii](https://ebay.us/MWYxD3)
+
+***
 
 ### 🖥️ Studio
