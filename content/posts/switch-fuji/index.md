@@ -1,11 +1,10 @@
 ---
-title: Mon équipement photo et vidéo
+title: Mon swicth de Sony vers Fujifilm
 subtitle: What's in my bag - Edition 2020
-seotitle: "Mon équipement photo et vidéo chez Fujifilm"
+seotitle: "Mon swicth de Sony vers Fujifilm"
 date: 2020-02-16T07:00:50+01:00
 draft: false
-slug: "equipement"
-favorite: true
+slug: "switch-fuji"
 categories:
 - gear
 tags: ["What's in my bag", "Equipement", "Fuji", "Fujifilm", "X-T3"]
