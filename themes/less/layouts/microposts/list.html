@@ -1,9 +1,12 @@
 {{ define "main" }}
   <div class="main">
-    <div class="list journal">
-      {{ $paginator := (.Paginate (where .Site.RegularPages "Type" "posts") 12) }}
-      {{ range $index, $post := $paginator.Pages }}
-        {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
+    <div class="list microposts">
+      {{ range (.Paginator 6).Pages }}
+        <div class="micropost">
+            <span class="date">{{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
+            <h1><a href="{{ .Permalink }}" >{{ with .Title }} {{ . }}{{ end }}</a></h1>
+          {{ .Content }}
+        </div>
       {{ end }}
     </div>
     {{ template "_internal/pagination.html" . }}
