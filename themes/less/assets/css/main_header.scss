@@ -60,7 +60,7 @@
     font-size: 1.6rem;
     display: flex;
     justify-content: flex-start;
-    a img { width: inherit; height: 50px; margin-bottom: -8px; color: var(--onyx);}
+    a img { width: inherit; height: 100px; margin-bottom: -8px; color: var(--onyx);}
     @media only screen and (min-width: 812px) {
       margin-top: 5px;
       top: 12px;
@@ -106,8 +106,8 @@
     a {
       font-family:  var(--sans-serif-font);
       font-weight: normal;
-      font-size: 1rem;
-      text-transform: normal;
+      font-size: 0.98rem;
+      text-transform: uppercase;
     }
   }
 }
