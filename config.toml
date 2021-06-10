@@ -29,7 +29,7 @@ paginate = 12
   bodyFont = "Nunito Sans"
 
   hasLogo = true
-  accentColor = "#F6572D"
+  accentColor = "#0A2E43"
 
 #heroHeader = false
 
