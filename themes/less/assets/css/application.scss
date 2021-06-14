@@ -65,7 +65,7 @@ a {
 }
 
 a:hover {
-  border-bottom-color: #4A85A7;
+  border-bottom-color: var(--accent);
 }
 
 h1.large {
