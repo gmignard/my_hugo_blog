@@ -28,7 +28,7 @@ En 2016, j'ai co-fondé [Captain Yvon Studio](https://captainyvon.fr) avec [Jér
 
 Totalement amoureux de la vidéo, j'ai passé beaucoup de temps à peaufiner [mon setup](https://gregorymignard.com/equipement/) pour obtenir quelque chose de versatile et performant. Je ne suis pas dans la course au matériel dernier cri, je préfère vraiment optimiser ce setup pour avoir quelque chose qui correspond à mes besoins tout en prenant du plaisir à l'utiliser.  
 J'ai plus récemment repris le chemin de [l’argentique](https://gregorymignard.com/analog/) pour la photo et le format me plait vraiment. J'ai retrouvé mon vieux Nikon FM2 que j'ai rapidement complété d'un petit point & shoot [Olympus XA](https://gregorymignard.com/olympus-xa/) que j’emmène partout avec moi. Pour le moyen format, j'ai chiné un magnifique Fuji GW690iii et pour combler ma passion de l'océan, j'ai craqué pour un un [Nikonos V](https://gregorymignard.com/nikonos-v/), un boitier que je convoitais depuis très longtemps.  
-Je les utilise essentiellement avec de la Portra 400, Portra 800 et de la Ektar 100. Je viens aussi de m’offrir une caméra Super 8, la Beaulieu 4008 ZMII que je compte utiliser avec de la Kodak Vision 3 50D en priorité. Je me suis même récemment offert une caméra Super 8, une Canon 312XL-S que je compte utiliser avec de la Kodak Vision 3 50D.
+Je les utilise essentiellement avec de la Portra 400, Portra 800 et de la Ektar 100. Je me suis même récemment offert une caméra Super 8, une Canon 312XL-S que je compte utiliser avec de la Kodak Vision 3 50D.
 
 ***
 
