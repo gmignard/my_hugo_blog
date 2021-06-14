@@ -1,4 +1,8 @@
 <footer class="t09">
-  © {{ now.Format "2006"}} {{ $.Site.Params.social.domain }}</br>
-  <a href="mailto:{{ $.Site.Params.social.email }}">CONTACT</a> • <a href="https://captainyvon.fr/">CAPTAIN YVON STUDIO</a>
+  <div class="footer-left">
+       © {{ now.Format "2006"}} {{ $.Site.Params.social.domain }}
+    </div>
+    <div class="footer-right">
+        <a href="mailto:{{ $.Site.Params.social.email }}">CONTACT</a> • <a href="https://captainyvon.fr/">CAPTAIN YVON STUDIO</a>
+    </div>
 </footer>
