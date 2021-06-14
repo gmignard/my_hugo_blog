@@ -134,9 +134,9 @@ header {
 }
 
 footer {
+  display: flex;
+  flex-direction: row;	
   padding: 50px;
-  text-align: center;
-  position: relative;
   background-image: url(waves.png);
   background-color: var(--onyx);
   color: var(--white-text);
@@ -148,6 +148,14 @@ footer {
     text-shadow: -1px -1px 0 var(--onyx), 1px -1px 0 var(--onyx), -1px 1px 0 var(--onyx), 1px 1px 0 var(--onyx);
     background-image: linear-gradient(to top, transparent, transparent 2px, #f8f8f8 2px, #f8f8f8 2.5px, transparent 2.5px);
   }
+}
+
+.footer-left {
+    width: 75%;
+}
+
+.footer-right {
+    width: 25%;
 }
 
 blockquote {
