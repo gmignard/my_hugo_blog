@@ -135,7 +135,6 @@ header {
 
 footer {
   display: flex;
-  flex-direction: row;	
   padding: 50px;
   background-image: url(waves.png);
   background-color: var(--onyx);
@@ -149,6 +148,10 @@ footer {
     background-image: linear-gradient(to top, transparent, transparent 2px, #f8f8f8 2px, #f8f8f8 2.5px, transparent 2.5px);
   }
 }
+
+.footer-columns {
+    max-width: max-width: 74rem;
+}	
 
 .footer-left {
     width: 75%;
