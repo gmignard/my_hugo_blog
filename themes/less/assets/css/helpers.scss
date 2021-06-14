@@ -5,6 +5,7 @@
 .no-decoration {
   text-decoration: none;
   background-image: none !important;
+  border-bottom: none;
 }
 
 .italic {
@@ -20,6 +21,7 @@
   color: var(--accent);
   a {
     color: var(--accent);
+    border-bottom: none;
   }
   a:hover { color: var(--onyx); }
   padding-bottom: 1rem;

@@ -59,15 +59,13 @@ body {
 }
 
 a {
-  color: var(--accent);
+  color: inherit;
   text-decoration: none;
-  position: relative;
-  background-image: linear-gradient(to top, transparent, transparent 2px, var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
-  transition: color 0.5s, background-image 0.5s linear;
-  &:hover {
-    color: var(--accent);
-    background-image: linear-gradient(to top, transparent, transparent 2px, var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
-  }
+  border-bottom: 2px solid #e4e4e4;
+}
+
+a:hover {
+  border-bottom-color: var(--accent);
 }
 
 h1.large {
@@ -125,11 +123,13 @@ header {
   a {
     background-image: none;
     text-decoration: none;
+    border-bottom: none;
   }
 
   .social {
     background-image: none;
     text-decoration: none;
+    border-bottom: none;	  
   }
 }
 
@@ -147,6 +147,7 @@ footer {
     padding-bottom: 2px;
     text-shadow: -1px -1px 0 var(--onyx), 1px -1px 0 var(--onyx), -1px 1px 0 var(--onyx), 1px 1px 0 var(--onyx);
     background-image: linear-gradient(to top, transparent, transparent 2px, #f8f8f8 2px, #f8f8f8 2.5px, transparent 2.5px);
+    border-bottom: none;  
   }
 }
 
@@ -154,7 +155,7 @@ blockquote {
   font-family: var(--title-font);
   font-style: italic;
   font-size: 1.6rem;
-  border-left: 3px solid var(--accent);
+  border-left: 4px solid var(--accent);
   padding-left: 20px;
   margin-left: -23px;
 }
@@ -501,6 +502,7 @@ a.link-block {
     text-decoration: none;
     background-image: none;
     color: var(--onyx);
+    border-bottom: none;	
 }
 
 span.link-title {

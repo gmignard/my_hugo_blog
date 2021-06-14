@@ -18,12 +18,13 @@
     .category {
       text-transform: capitalize;
       text-align: left;
+      border-bottom: none;
     }
     h3.title {
       text-align: left;
       font-size: 1.9rem;
-      a { color: var(--onyx); }
-      a:hover { color: var(--accent); }
+      a { color: var(--onyx); border-bottom: none; }
+      a:hover { color: var(--accent); border-bottom: none; }
     }
     h5 {
       text-align: left;
@@ -31,8 +32,8 @@
     }
     .category {
       color: var(--accent);
-      a { color: var(--accent); }
-      a:hover { color: var(--onyx); }
+      a { color: var(--accent); border-bottom: none; }
+      a:hover { color: var(--onyx); border-bottom: none; }
       text-align: left;
       font-family: var(--sans-serif-font);
       font-weight: normal;
