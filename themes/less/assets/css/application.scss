@@ -59,15 +59,13 @@ body {
 }
 
 a {
-  color: var(--accent);
+  color: inherit;
   text-decoration: none;
-  position: relative;
-  background-image: linear-gradient(to top, transparent, transparent 2px, var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
-  transition: color 0.5s, background-image 0.5s linear;
-  &:hover {
-    color: var(--accent);
-    background-image: linear-gradient(to top, transparent, transparent 2px, var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
-  }
+  border-bottom: 2px solid #4A85A7;
+}
+
+a:hover {
+  border-bottom-color: var(--accent);
 }
 
 h1.large {
