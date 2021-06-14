@@ -147,6 +147,7 @@ footer {
     padding-bottom: 2px;
     text-shadow: -1px -1px 0 var(--onyx), 1px -1px 0 var(--onyx), -1px 1px 0 var(--onyx), 1px 1px 0 var(--onyx);
     background-image: linear-gradient(to top, transparent, transparent 2px, #f8f8f8 2px, #f8f8f8 2.5px, transparent 2.5px);
+    border-bottom: none;  
   }
 }
 
@@ -154,7 +155,7 @@ blockquote {
   font-family: var(--title-font);
   font-style: italic;
   font-size: 1.6rem;
-  border-left: 3px solid var(--accent);
+  border-left: 4px solid var(--accent);
   padding-left: 20px;
   margin-left: -23px;
 }
@@ -501,6 +502,7 @@ a.link-block {
     text-decoration: none;
     background-image: none;
     color: var(--onyx);
+    border-bottom: none;	
 }
 
 span.link-title {
