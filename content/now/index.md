@@ -11,8 +11,8 @@ resources:
 ---
 
 {{< photoset max="2" >}}
-  {{< photo src="bts_aqua.jpg" alt="Watershot" >}}
-  {{< photo src="bts_sunrise.jpg" alt="Portrait" >}}
+  {{< photo src="now_1.jpg" alt="Ocean" >}}
+  {{< photo src="now_2.jpg" alt="Watershot" >}}
 {{</ photoset >}}
 
 Salut ! Moi c’est Grégory et je vis dans le Finistère Nord avec ma famille.
