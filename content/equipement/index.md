@@ -45,13 +45,16 @@ Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient �
 {{< photo src="nikonosv.jpg" alt="Equipement">}}
 {{</ photoset >}}
 
-Depuis la fin 2020, je retrouve les joies de [la photographie argentique](https://gregorymignard.com/analog/). Pas loin de la totalité de ma pratique photo personnelle se fait désormais sur pellicule. Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23). Il m'arrive parfois de charger un peu de noir & blanc ([400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23)) ou de la [Gold 200](https://www.digit-photo.com/KODAK-Gold-200-135-36-Poses-X3-rKODAK41880806.html?dpa_id=23). J'envoi mes négatifs à développer et scanner chez [Mori Film Lab](https://morifilmlab.com/), il m'arrive parfois de numériser par moi-même avec mon DSLR et le plugin [Negative Lab Pro](https://www.negativelabpro.com/).  
-Quant aux appareils, voici ceux que j'utilise :
+Depuis la fin 2020, je retrouve les joies de [la photographie argentique](https://gregorymignard.com/analog/). Pas loin de la totalité de ma pratique photo personnelle se fait désormais sur pellicule. Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23). Il m'arrive parfois de charger un peu de noir & blanc ([400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23)) ou de la [Gold 200](https://www.digit-photo.com/KODAK-Gold-200-135-36-Poses-X3-rKODAK41880806.html?dpa_id=23). J'envoi mes négatifs à développer et scanner chez [Mori Film Lab](https://morifilmlab.com/), il m'arrive parfois de numériser par moi-même avec mon DSLR et le plugin [Negative Lab Pro](https://www.negativelabpro.com/).
+
+Je shoote ces films avec les appareils suivants :
 
 * [Olympus XA](https://ebay.us/PvYGR2) - (Lien vers [ma review](https://gregorymignard.com/olympus-xa/) sur le blog)
 * [Nikon Fm2](https://ebay.us/d5ANCb)
 * [Nikonos V](https://ebay.us/p47TEI) - (Lien vers [ma review](https://gregorymignard.com/nikonos-v/) sur le blog)
 * [Fuji GW690iii](https://ebay.us/MWYxD3)
+
+J'ai également complété cette collection argentique par une caméra Super 8 [Canon 312 XL-S](https://ebay.us/fliAe8) que j'utilise de manière occasionnelle avec des bandes de [Kodak Vision 3 50D](https://www.digit-photo.com/KODAK-Film-Vision3-50D-8mm-pour-Camera-Super-8-rKODAKKS850D.html?dpa_id=23).
 
 ***
 
@@ -59,4 +62,5 @@ Quant aux appareils, voici ceux que j'utilise :
 
 {{< photo src="studio.jpg" alt="Studio">}}
 
-J'utilise un [Mac mini M1](https://gregorymignard.com/mac-mini-m1/) avec Final Cut Pro X pour le montage vidéo ainsi qu'avec Lightroom CC pour le post-traitement photo. En complément et en mobilité, j'utilise un [iPad Pro 11](https://amzn.to/3vEf0am) avec un [Apple Pencil](https://amzn.to/3i64VPK) et le [Logitech Folio Touch](https://amzn.to/3fC2wKV).
+J'utilise un [Mac mini M1](https://gregorymignard.com/mac-mini-m1/) avec Final Cut Pro X pour le montage vidéo ainsi qu'avec Lightroom CC pour le post-traitement photo. En complément et en mobilité, j'utilise un [iPad Pro 11](https://amzn.to/3vEf0am) avec un [Apple Pencil](https://amzn.to/3i64VPK) et le [Logitech Folio Touch](https://amzn.to/3fC2wKV).  
+Pour la partie stockage, j'utilise le Cloud Adobe pour mes photos, un [NAS Synology](https://amzn.to/3vq2daS) pour y stocker mes projets vidéo et des SSD [SanDisk Extreme](https://amzn.to/2TuXt6n) pour les déplacements et l'éditing avec FCPX.
