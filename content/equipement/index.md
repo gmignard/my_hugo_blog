@@ -12,14 +12,14 @@ resources:
 
 ***
 
-### 📸 DSLR
+### DSLR
 
 Mon choix s'est porté sur le [Fujifilm X-T3](https://www.digit-photo.com/FUJI-X-T3-Boitier-Nu-Noir-rFUJIXT3BK.html?dpa_id=23) pour ses perfomances aussi bien en photo qu'en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 4K 10 bits, il n'a rien à envier à certaines caméras professionnelles et excelle en photographie. Dans la très grande majorité des cas, il est accompagné de l'excellent [Fuji XF 23mm f/1.4 R](https://www.digit-photo.com/FUJI-XF-23mm-f-1-4-R-rFUJI11508.html?dpa_id=23), mon objectif à (presque) tout faire.  
 Je possède également le [Fuji XF 10-24mm f/4 OIS WR](https://www.digit-photo.com/FUJI-XF-10-24mm-f-4-0-R-OIS-WR-rFUJI16666791.html?dpa_id=23) qui me sert plutôt dans le caisson étanche avec le dôme, le [Fuji XF 56mm f/1.2 R](https://www.digit-photo.com/FUJI-XF-56mm-f-1-2-R-Noir-rFUJI11510.html?dpa_id=23) et son incroyable piqué et le [100-400mm f/4.5-5.6 R LM OIS WR](https://www.digit-photo.com/FUJI-XF-100-400mm-f-4-5-5-6-R-LM-OIS-WR-Noir-rFUJI16501109.html?dpa_id=23) pour certaines images.
 
 ***
 
-### 🎥 Filmmaking
+### Filmmaking
 
 Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient également son principal défaut quand il s'agit de filmer à main levée. C'est pourquoi j'ai imaginé un Setup RIG adapté à mon usage qui me permet de passer d'un petit appareil photo à un setup vidéo ultra versatile. Voici une liste des éléments qui composent ce setup : 
 
@@ -38,18 +38,7 @@ Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient �
 
 ***
 
-### ⚙️ Accessoires
-
-{{< photoset always="2" >}}
-{{< photo src="filmmaking_1.jpg" alt="Equipement">}}
-{{< photo src="filmmaking_2.jpg" alt="Equipement">}}
-{{</ photoset >}}
-
-Depuis toutes ces années de pratique photo et vidéo, j'ai accumulé beaucoup d'accessoires
-
-***
-
-### 🎞️ Argentique
+### Argentique
 
 {{< photoset always="2" >}}
 {{< photo src="portra400.jpg" alt="Equipement">}}
@@ -59,13 +48,15 @@ Depuis toutes ces années de pratique photo et vidéo, j'ai accumulé beaucoup d
 Depuis la fin 2020, je retrouve les joies de [la photographie argentique](https://gregorymignard.com/analog/). Pas loin de la totalité de ma pratique photo personnelle se fait désormais sur pellicule. Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23). Il m'arrive parfois de charger un peu de noir & blanc ([400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23)) ou de la [Gold 200](https://www.digit-photo.com/KODAK-Gold-200-135-36-Poses-X3-rKODAK41880806.html?dpa_id=23). J'envoi mes négatifs à développer et scanner chez [Mori Film Lab](https://morifilmlab.com/), il m'arrive parfois de numériser par moi-même avec mon DSLR et le plugin [Negative Lab Pro](https://www.negativelabpro.com/).  
 Quant aux appareils, voici ceux que j'utilise :
 
-* [Olympus XA](https://ebay.us/PvYGR2) - (Lire [ma review](https://gregorymignard.com/olympus-xa/))
+* [Olympus XA](https://ebay.us/PvYGR2) - (Lien vers [ma review](https://gregorymignard.com/olympus-xa/) sur le blog)
 * [Nikon Fm2](https://ebay.us/d5ANCb)
-* [Nikonos V](https://ebay.us/p47TEI) - (Lire [ma review](https://gregorymignard.com/nikonos-v/))
+* [Nikonos V](https://ebay.us/p47TEI) - (Lien vers [ma review](https://gregorymignard.com/nikonos-v/) sur le blog)
 * [Fuji GW690iii](https://ebay.us/MWYxD3)
 
 ***
 
-### 🖥️ Studio
+### Studio
+
+{{< photo src="studio.jpg" alt="Studio">}}
 
 J'utilise un [Mac mini M1](https://gregorymignard.com/mac-mini-m1/) avec Final Cut Pro X pour le montage vidéo ainsi qu'avec Lightroom CC pour le post-traitement photo. En complément et en mobilité, j'utilise un [iPad Pro 11](https://amzn.to/3vEf0am) avec un [Apple Pencil](https://amzn.to/3i64VPK) et le [Logitech Folio Touch](https://amzn.to/3fC2wKV).
