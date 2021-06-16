@@ -1,4 +1,4 @@
-baseURL = "https://gregorymignard.com/"
+baseURL = "https://jeremyjanin.com/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 theme = "less"
@@ -11,7 +11,7 @@ paginate = 12
 
 
 [author]
-  name = "Grégory Mignard"
+  name = "Jeremy Janin"
 
 [permalinks]
   posts = "/:slug"
@@ -41,10 +41,10 @@ paginate = 12
   categories = "Catégories"
 
 [params.social]
-  email = "greg@gregorymignard.com"
-  domain = "Grégory Mignard"
-  twitter = "gregmignard"
-  instagram = "gregmignard"
+  email = "jeremy@captainyvon.fr"
+  domain = "Jeremy Janin"
+  twitter = "jeremyjanin"
+  instagram = "jeremy.janin"
   youtube = "captainyvon"
 
 [params.tinyletter]
