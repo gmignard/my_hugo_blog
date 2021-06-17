@@ -24,12 +24,12 @@ paginate = 12
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
 
-  sansSerifFont = "Josefin Sans"
-  titleFont = "Domine"
-  bodyFont = "Nunito Sans"
+  sansSerifFont = "Open Sans"
+  titleFont = "Merriweather"
+  bodyFont = "Open Sans"
 
   hasLogo = true
-  accentColor = "#4A85A7"
+  accentColor = "#3e7a5c"
 
 #heroHeader = false
 
@@ -50,27 +50,27 @@ paginate = 12
 [params.tinyletter]
   username = "captainyvon"
   title = "Outline, la lettre"
-  description = "Si tu aimes ce que j’écris ici, alors je t’invite à t’abonner à Outline, ma newsletter 📝."
+  description = "Si tu aimes ce que j’écris ici, alors je t’invite à t’abonner à notre newsletter Captain Yvon 'Outline'. "
 [[menu.main]]
-  name = "Stills"
+  name = "Home"
   title = "Portfolio"
   weight = 1
-  identifier = "stills"
+  identifier = "portfolio"
   url = "/"
 [[menu.main]]
-  name = "Films"
+  name = "Projets"
   title = "Films & Documentaires"
   weight = 2
-  identifier = "Films"
-  url = "/films"
+  identifier = "Projets"
+  url = "/projets"
 [[menu.main]]
   name = "Blog"
-  title = "Récits & Technique"
+  title = "Blog"
   weight = 3
   identifier = "blog"
   url = "/posts/"
 [[menu.main]]
-  name = "Now"
+  name = "À Propos"
   title = "Infos & Contact"
   weight = 4
   identifier = "now"
