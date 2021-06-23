@@ -14,14 +14,14 @@ resources:
 
 ### DSLR
 
-Mon choix s'est porté sur le [Fujifilm X-T3](https://www.digit-photo.com/FUJI-X-T3-Boitier-Nu-Noir-rFUJIXT3BK.html?dpa_id=23) pour ses perfomances aussi bien en photo qu'en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 4K 10 bits, il n'a rien à envier à certaines caméras professionnelles et excelle en photographie. Dans la très grande majorité des cas, il est accompagné de l'excellent [Fuji XF 23mm f/1.4 R](https://www.digit-photo.com/FUJI-XF-23mm-f-1-4-R-rFUJI11508.html?dpa_id=23), mon objectif à (presque) tout faire.  
+Mon choix s'est porté sur le [Fujifilm X-T3](https://www.digit-photo.com/FUJI-X-T3-Boitier-Nu-Noir-rFUJIXT3BK.html?dpa_id=23) pour ses performances aussi bien en photo qu'en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 4K 10 bits, il n'a rien à envier à certaines caméras professionnelles et excelle en photographie. Dans la très grande majorité des cas, il est accompagné de l'excellent [Fuji XF 23mm f/1.4 R](https://www.digit-photo.com/FUJI-XF-23mm-f-1-4-R-rFUJI11508.html?dpa_id=23), mon objectif à (presque) tout faire.  
 Je possède également le [Fuji XF 10-24mm f/4 OIS WR](https://www.digit-photo.com/FUJI-XF-10-24mm-f-4-0-R-OIS-WR-rFUJI16666791.html?dpa_id=23) qui me sert plutôt dans le caisson étanche avec le dôme, le [Fuji XF 56mm f/1.2 R](https://www.digit-photo.com/FUJI-XF-56mm-f-1-2-R-Noir-rFUJI11510.html?dpa_id=23) et son incroyable piqué et le [100-400mm f/4.5-5.6 R LM OIS WR](https://www.digit-photo.com/FUJI-XF-100-400mm-f-4-5-5-6-R-LM-OIS-WR-Noir-rFUJI16501109.html?dpa_id=23) pour certaines images.
 
 ***
 
 ### Filmmaking
 
-Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient également son principal défaut quand il s'agit de filmer à main levée. C'est pourquoi j'ai imaginé un Setup RIG adapté à mon usage qui me permet de passer d'un petit appareil photo à un setup vidéo ultra versatile. Voici une liste des éléments qui composent ce setup : 
+Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient également son principal défaut quand il s'agit de filmer à main levée. C'est pourquoi j'ai imaginé un Setup RIG adapté à mon usage qui me permet de passer d'un petit appareil photo à un setup vidéo ultra versatile. Voici une liste des éléments qui composent ce setup :
 
 * [Cage pour X-T3 - SmallRig 2228](https://www.digit-photo.com/SMALLRIG-2228-Cage-pour-Fuji-X-T3-rSMALLRIGD154561.html?dpa_id=23)
 * [Poignée latérale - SmallRig 2093](https://www.digit-photo.com/SMALLRIG-2093-Poignee-Laterale-Universelle-en-Bois-rSMALLRIGD149261.html?dpa_id=23)
@@ -54,7 +54,7 @@ Je shoote ces films avec les appareils suivants :
 * [Nikonos V](https://ebay.us/p47TEI) - (Lien vers [ma review](https://gregorymignard.com/nikonos-v/) sur le blog)
 * [Fuji GW690iii](https://ebay.us/MWYxD3)
 
-J'ai également complété cette collection argentique par une caméra Super 8 [Canon 312 XL-S](https://ebay.us/fliAe8) que j'utilise de manière occasionnelle avec des bandes de [Kodak Vision 3 50D](https://www.digit-photo.com/KODAK-Film-Vision3-50D-8mm-pour-Camera-Super-8-rKODAKKS850D.html?dpa_id=23).
+J'ai également complété cette collection argentique par une caméra Super 8 [Canon 514 XL](https://ebay.us/LMVzWW) que j'utilise de manière occasionnelle avec des bandes de [Kodak Vision 3 50D](https://www.digit-photo.com/KODAK-Film-Vision3-50D-8mm-pour-Camera-Super-8-rKODAKKS850D.html?dpa_id=23).
 
 ***
 
