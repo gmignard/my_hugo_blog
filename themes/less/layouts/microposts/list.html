@@ -4,7 +4,7 @@
       {{ range (.Paginator 6).Pages }}
         <div class="micropost">
             <span class="date">{{ .Params.subtitle }}</span>
-            <h1><a href="{{ .Permalink }}" >{{ with .Title }} {{ . }}{{ end }}</a></h1>
+            <h1>{{ with .Title }} {{ . }}{{ end }}</h1>
           {{ .Content }}
         </div>
       {{ end }}
