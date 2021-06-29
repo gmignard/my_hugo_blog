@@ -1,8 +1,8 @@
 ---
 date: 2020-06-19 13:30:00 +0200
-title: Faire sa part de micro-activisme
+title: Grain. 001
 subtitle: Nikonos V - Portra 800
-seotitle: "Faire sa part de micro-activisme — Grégory Mignard"
+seotitle: "Grain. 001 — Nikonos V - Portra 800"
 resources:
 - src: "*.jpg"
 ---
