@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class="main">
     <div class="list microposts">
-      {{ range (.Paginator 6).Pages }}
+      {{ range (.Paginator 1).Pages }}
         <div class="micropost">
             <span class="date">{{ .Params.subtitle }}</span>
             <h1>{{ with .Title }} {{ . }}{{ end }}</h1>
