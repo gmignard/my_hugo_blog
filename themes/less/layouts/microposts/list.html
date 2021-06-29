@@ -3,7 +3,7 @@
     <div class="list microposts">
       {{ range (.Paginator 6).Pages }}
         <div class="micropost">
-            <span class="date">{{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
+            <span class="date">{{ .Params.subtitle }}</span>
             <h1><a href="{{ .Permalink }}" >{{ with .Title }} {{ . }}{{ end }}</a></h1>
           {{ .Content }}
         </div>
