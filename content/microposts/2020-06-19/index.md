@@ -1,6 +1,7 @@
 ---
 date: 2020-06-19 13:30:00 +0200
 title: Faire sa part de micro-activisme
+subtitle: Nikonos V - Portra 800
 seotitle: "Faire sa part de micro-activisme — Grégory Mignard"
 resources:
 - src: "*.jpg"
