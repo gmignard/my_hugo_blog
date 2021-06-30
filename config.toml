@@ -52,7 +52,7 @@ paginate = 12
   title = "Outline, la lettre"
   description = "Si tu aimes ce que j’écris ici, alors je t’invite à t’abonner à Outline, ma newsletter 📝."
 [[menu.main]]
-  name = "Grain."
+  name = "Grain"
   title = "Archives argentiques"
   weight = 1
   identifier = "grain"
