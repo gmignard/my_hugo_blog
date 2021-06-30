@@ -3,8 +3,8 @@
     <div class="list microposts">
       {{ range (.Paginator 1).Pages }}
         <div class="micropost">
+            <h1><a href="{{ .Permalink }}">{{ with .Title }} {{ . }}{{ end }}</a></h1>
             <span class="date">{{ .Params.subtitle }}</span>
-            <h1>{{ with .Title }} {{ . }}{{ end }}</h1>
           {{ .Content }}
         </div>
       {{ end }}
