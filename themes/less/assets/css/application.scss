@@ -254,12 +254,13 @@ img {
       a {
         color: var(--onyx);
         text-decoration: none;
+        border-bottom: none;
         position: relative;
         text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
         background-image: none;
         transition: color 0.5s, background-image 0.5s linear;
           &:hover {
-            color: var(--accent);
+            color: var(--onyx);
             text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
             background-image: none;
           }
