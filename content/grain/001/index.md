@@ -1,7 +1,7 @@
 ---
-date: 2020-10-19 13:30:00 +0200
+date: 2021-06-19 13:30:00 +0200
 title: Grain. 001
-subtitle: Nikon FM2 | Portra 400
+subtitle: Immersion | Nikon FM2 | Portra 400
 seotitle: "Grain. 001 | Nikon FM2 & Portra 400 | Documentaire IMMERSION"
 resources:
 - src: "*.jpg"
