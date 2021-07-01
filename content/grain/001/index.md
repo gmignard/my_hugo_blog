@@ -2,7 +2,7 @@
 date: 2020-06-19 13:30:00 +0200
 title: Grain. 001
 subtitle: Nikonos V - Portra 800
-seotitle: "Grain. 001 — Nikonos V - Portra 800"
+seotitle: "Grain. 001 — Nikonos V & Portra 800"
 resources:
 - src: "*.jpg"
 ---
