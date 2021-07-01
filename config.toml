@@ -52,17 +52,17 @@ paginate = 12
   title = "Outline, la lettre"
   description = "Si tu aimes ce que j’écris ici, alors je t’invite à t’abonner à Outline, ma newsletter 📝."
 [[menu.main]]
-  name = "Stills"
-  title = "Portfolio"
+  name = "Home"
+  title = "Home"
   weight = 1
-  identifier = "stills"
+  identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "Films"
-  title = "Films & Documentaires"
+  name = "Grain"
+  title = "Archives argentiques"
   weight = 2
-  identifier = "Films"
-  url = "/films"
+  identifier = "grain"
+  url = "/grain"
 [[menu.main]]
   name = "Blog"
   title = "Récits & Technique"
