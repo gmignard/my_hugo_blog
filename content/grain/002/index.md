@@ -1,8 +1,8 @@
 ---
 date: 2021-01-19 13:30:00 +0200
 title: Grain. 002
-subtitle: Nikon FM2 | Portra 400
-seotitle: "Grain. 001 | Nikon FM2 & Portra 400 | Documentaire IMMERSION"
+subtitle: L'hiver sur la côte | Olympus XA | Portra 400 & Fuji 400H
+seotitle: "L'hiver sur la côte | Olympus XA | Portra 400 & Fuji 400H"
 resources:
 - src: "*.jpg"
 ---
