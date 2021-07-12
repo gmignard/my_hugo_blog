@@ -1,7 +1,7 @@
 ---
 title: Arvernes
 subtitle: Journal de bord d’un roadtrip en Auvergne
-seotitle: "Arvernes, journal de bord d’un roadtrip en Auvergne — Grégory Mignard"
+seotitle: "L'Auvergne et van et camping-car, notre itinéraire et journal de bord"
 date: 2020-08-18 09:00:00 +0200
 slug: "arvernes"
 categories:
@@ -17,6 +17,8 @@ resources:
 Depuis que l’on voyage, nous avons toujours voulu voir le maximum de choses sur le temps alloué à cette aventure. Quoi de plus légitime que d’optimiser un déplacement dans un pays lointain que l’on n’est pas prêts de revoir ? Naturellement, quand nous avons eu notre premier van en 2017, nous avons conservé ce réflexe, vouloir en voir le maximum en un minimum de temps. Cependant, au bout de quelque temps, nous nous sommes rendu compte que nous passions beaucoup plus de temps au volant à courir de spot en spot qu’à réellement en profiter. Pourtant, la VanLife, c’est tout le contraire, c’est l’art de commencer une aventure au premier tour de roue, l’art d’apprendre à posséder chaque lieu que nous visitons, l’art de prendre le temps… Tout simplement !
 
 Cela nous aura pris du temps à comprendre et à accepter, mais à partir du moment où on a accepté qu’il était impossible de tout découvrir d’une région ou d’un pays en une visite, notre vision du voyage en van a totalement changé. C’est avec cette vision des choses que nous sommes partis à la conquête de L’Auvergne pour une première visite. Initialement, nous étions venus découvrir et explorer le Cantal, puis finalement, c’est le Puy-de-Dôme qui nous aura principalement adoptés, tout particulièrement la zone du Massif du Sancy où nous avons principalement séjourné.
+
+<form style="max-width: 57rem!important; background-color: #F3F3F3;border:1px solid #F3F3F3;padding:24px;text-align:center;" action="https://tinyletter.com/captainyvon" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/captainyvon', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail"><h3>Outline, la lettre</h3></br>Si tu aimes ce que j’écris ici, alors je t’invite à t’abonner à Outline, ma newsletter 📝.</label></p><p><input type="text" style="width:320px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input class="button" type="submit" value="S'abonner" /></form>
 
 ***
 
