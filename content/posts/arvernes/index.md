@@ -1,7 +1,7 @@
 ---
 title: Arvernes
 subtitle: Journal de bord d’un roadtrip en Auvergne
-seotitle: "L'Auvergne et van et camping-car, notre itinéraire et journal de bord"
+seotitle: "L'Auvergne en van et camping-car, notre itinéraire et journal de bord"
 date: 2020-08-18 09:00:00 +0200
 slug: "arvernes"
 categories:
