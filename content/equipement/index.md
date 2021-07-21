@@ -12,14 +12,15 @@ resources:
 
 ***
 
-### DSLR
+### Équipement Vidéo
 
 Mon choix s'est porté sur le [Fujifilm X-T3](https://www.digit-photo.com/FUJI-X-T3-Boitier-Nu-Noir-rFUJIXT3BK.html?dpa_id=23) pour ses performances aussi bien en photo qu'en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 4K 10 bits, il n'a rien à envier à certaines caméras professionnelles et excelle en photographie. Dans la très grande majorité des cas, il est accompagné de l'excellent [Fuji XF 23mm f/1.4 R](https://www.digit-photo.com/FUJI-XF-23mm-f-1-4-R-rFUJI11508.html?dpa_id=23), mon objectif à (presque) tout faire.  
 Je possède également le [Fuji XF 10-24mm f/4 OIS WR](https://www.digit-photo.com/FUJI-XF-10-24mm-f-4-0-R-OIS-WR-rFUJI16666791.html?dpa_id=23) qui me sert plutôt dans le caisson étanche avec le dôme, le [Fuji XF 56mm f/1.2 R](https://www.digit-photo.com/FUJI-XF-56mm-f-1-2-R-Noir-rFUJI11510.html?dpa_id=23) et son incroyable piqué et le [100-400mm f/4.5-5.6 R LM OIS WR](https://www.digit-photo.com/FUJI-XF-100-400mm-f-4-5-5-6-R-LM-OIS-WR-Noir-rFUJI16501109.html?dpa_id=23) pour certaines images.
 
-***
-
-### Filmmaking
+{{< photoset always="2" >}}
+{{< photo src="rig_1.jpg" alt="Equipement">}}
+{{< photo src="rig_2.jpg" alt="Equipement">}}
+{{</ photoset >}}
 
 Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient également son principal défaut quand il s'agit de filmer à main levée. C'est pourquoi j'ai imaginé un Setup RIG adapté à mon usage qui me permet de passer d'un petit appareil photo à un setup vidéo ultra versatile. Voici une liste des éléments qui composent ce setup :
 
@@ -38,7 +39,7 @@ Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient �
 
 ***
 
-### Argentique
+### Équipement Argentique
 
 {{< photoset always="2" >}}
 {{< photo src="portra400.jpg" alt="Equipement">}}
@@ -58,7 +59,7 @@ J'ai également complété cette collection argentique par une caméra Super 8 [
 
 ***
 
-### Studio
+### Studio & Post-production
 
 {{< photo src="studio.jpg" alt="Studio">}}
 
