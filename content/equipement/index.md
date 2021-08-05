@@ -10,7 +10,7 @@ resources:
   name: "cover"
 ---
 
-### Équipement Vidéo
+## Équipement Vidéo
 
 Mon choix s’est porté sur le [Fujifilm X-T3](https://www.digit-photo.com/FUJI-X-T3-Boitier-Nu-Noir-rFUJIXT3BK.html?dpa_id=23) pour ses performances aussi bien en photo qu’en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 4K 10 bits, il n’a rien à envier à certaines caméras professionnelles et excelle en photographie. C’est le boitier à tout faire sur lequel je peux compter pour mes projets [Captain Yvon](captainyvon.fr/).
 
@@ -44,45 +44,36 @@ FILTRES
 
 ACCESSOIRES
 
-    Sac photo F-Stop Lotus | insert F-Stop Medium Shallow ICU
-    Zhiyun Weebill-S
-    DJI Mavic 2 Pro
-
+* [Caisson étanche SeaFrogs + Dôme + Flat Port](https://seafrogs.com.hk/collections/fujifilm/products/fujifilm-x-t3-40m-130ft-underwater-camera-housing-kit-with-seafrogs-dry-dome-port-v-1-white) - *Voir [tous mes articles](https://gregorymignard.com/watershot/) sur le sujet*
+* [Dji Ronin-SC](https://amzn.to/3ipLxwX)
+* [Dji Mavic 2 Pro](https://www.digit-photo.com/DJI-Drone-Mavic-2-Pro-rDJIMAVIC2PRO.html?dpa_id=23)
+* [Trépied vidéo Manfrotto](https://www.digit-photo.com/MANFROTTO-MVK502AM-1-Kit-Video-Rotule-502-rMANFROTTOMVK502AM1.html?dpa_id=23) | [Trépied Cullmann ultra-léger](https://www.digit-photo.com/CULLMANN-56815-Trepied-de-Voyage-Carvao-816-TC-Carbone-Noir-rCULLC56815.html?dpa_id=23)
 
 ***
 
-### Argentique
+## Argentique
 
 {{< photo src="analog.jpg" alt="Argentique">}}
 
-Je photographie quasi essentiellement à l’argentique aujourd’hui, avec 3 appareils avec des usages différents :
+Depuis la fin 2020, je retrouve les joies de [la photographie argentique](https://gregorymignard.com/analog/) et pas loin de la totalité de ma pratique photo personnelle se fait désormais avec les appareils suivants :
 
-    Olympus XA — compact 35mm de poche
-    Canon A1 — 35mm utilisé avec les objectifs cités dans la section vidéo au dessus
-    Fuji GW690III — Moyen format 6x9
+* [Olympus XA](https://ebay.us/PvYGR2) — *Un ultracompact 35mm. (Lien vers [ma review](https://gregorymignard.com/olympus-xa/) sur le blog)*
+* [Canon Prima Zoom 65](https://ebay.us/jFevF4) — *Un Point & Shoot ultra pratique*
+* [Nikon Fm2](https://ebay.us/d5ANCb) — *Mon 35mm favori, utilisé avec les mêmes objectifs cités ci-dessus*
+* [Nikonos V](https://ebay.us/p47TEI) — *Un 35mm étanche légendaire dont j'ai fais [la review](https://gregorymignard.com/nikonos-v/)*
+* [Fuji GW690iii](https://ebay.us/MWYxD3) — *Moyen format 6x9*
 
-Je les couple avec mes pellicules préférées que sont les Kodak Portra 400, Kodak Portra 800, Kodak Ektar 100. Je shoote peu de noir et blanc mais quand je le fais, j’utilise la Kodak Tri-X 400 ou la Kodak T-Max 400.
+Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23). Il m’arrive parfois de charger un peu de noir & blanc ([400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23)) ou de la [Gold 200](https://www.digit-photo.com/KODAK-Gold-200-135-36-Poses-X3-rKODAK41880806.html?dpa_id=23).
 
-Je filme aussi à la Super 8 avec ma Beaulieu 4008ZMII dont je suis absolument fan, couplé à un objectif Schneider Optivarion 6-66mm f/1.8 et des cartouches Kodak Vision 3 50D.
+Je filme aussi à la Super 8 avec une [Canon 514 XL](https://ebay.us/LMVzWW) que j’utilise de manière occasionnelle avec des bandes de [Kodak Vision 3 50D](https://www.digit-photo.com/KODAK-Film-Vision3-50D-8mm-pour-Camera-Super-8-rKODAKKS850D.html?dpa_id=23).
 
-Je fais développer mes photos chez Mori Film Lab à Bruxelles et mes cartouches super 8, chez Color Films Archives en France.
-
-Depuis la fin 2020, je retrouve les joies de [la photographie argentique](https://gregorymignard.com/analog/). Pas loin de la totalité de ma pratique photo personnelle se fait désormais sur pellicule. Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23). Il m’arrive parfois de charger un peu de noir & blanc ([400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23)) ou de la [Gold 200](https://www.digit-photo.com/KODAK-Gold-200-135-36-Poses-X3-rKODAK41880806.html?dpa_id=23). J’envoi mes négatifs à développer et scanner chez [Mori Film Lab](https://morifilmlab.com/), il m’arrive parfois de numériser par moi-même avec mon DSLR et le plugin [Negative Lab Pro](https://www.negativelabpro.com/).
-
-Je shoote ces films avec les appareils suivants :
-
-* [Olympus XA](https://ebay.us/PvYGR2) - (Lien vers [ma review](https://gregorymignard.com/olympus-xa/) sur le blog)
-* [Nikon Fm2](https://ebay.us/d5ANCb)
-* [Nikonos V](https://ebay.us/p47TEI) - (Lien vers [ma review](https://gregorymignard.com/nikonos-v/) sur le blog)
-* [Fuji GW690iii](https://ebay.us/MWYxD3)
-
-J’ai également complété cette collection argentique par une caméra Super 8 [Canon 514 XL](https://ebay.us/LMVzWW) que j’utilise de manière occasionnelle avec des bandes de [Kodak Vision 3 50D](https://www.digit-photo.com/KODAK-Film-Vision3-50D-8mm-pour-Camera-Super-8-rKODAKKS850D.html?dpa_id=23).
+J’envoi mes négatifs à développer et scanner chez [Mori Film Lab](https://morifilmlab.com/), il m’arrive parfois de numériser par moi-même avec mon DSLR et le plug-in [Negative Lab Pro](https://www.negativelabpro.com/).
 
 ***
 
-### Post-production
+## Post-production
 
 {{< photo src="studio.jpg" alt="Studio">}}
 
-J’utilise un [Mac mini M1](https://gregorymignard.com/mac-mini-m1/) avec Final Cut Pro X pour le montage vidéo ainsi qu’avec Lightroom CC pour le post-traitement photo. En complément et en mobilité, j’utilise un [iPad Pro 11](https://amzn.to/3vEf0am) avec un [Apple Pencil](https://amzn.to/3i64VPK) et le [Logitech Folio Touch](https://amzn.to/3fC2wKV).  
+J’utilise un [Mac mini M1](https://gregorymignard.com/mac-mini-m1/) avec Final Cut Pro X pour le montage vidéo ainsi qu’avec Lightroom CC pour le post-traitement photo. En complément et en mobilité, j’utilise un [iPad Pro 11](https://amzn.to/3vEf0am) avec un [Apple Pencil](https://amzn.to/3i64VPK) et le [Logitech Folio Touch](https://amzn.to/3fC2wKV).  
 Pour la partie stockage, j’utilise le Cloud Adobe pour mes photos, un [NAS Synology](https://amzn.to/3vq2daS) pour y stocker mes projets vidéo et des SSD [SanDisk Extreme](https://amzn.to/2TuXt6n) pour les déplacements et l’éditing avec FCPX.
