@@ -1,6 +1,6 @@
 ---
-title: "Equipement - Grégory Mignard"
-seotitle: "Equipement - Grégory Mignard"
+title: "Équipement - Grégory Mignard"
+seotitle: "Équipement - Grégory Mignard"
 date: 2021-05-21T22:57:50+02:00
 draft: false
 type: "about"
@@ -63,7 +63,7 @@ Depuis la fin 2020, je retrouve les joies de [la photographie argentique](https
 * [Nikonos V](https://ebay.us/p47TEI) — *Un 35mm étanche légendaire dont j'ai fais [la review](https://gregorymignard.com/nikonos-v/)*
 * [Fuji GW690iii](https://ebay.us/MWYxD3) — *Moyen format 6x9*
 
-Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23). Il m’arrive parfois de charger un peu de noir & blanc avec de la ([400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou de la [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23)).
+Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23). Il m’arrive parfois de charger un peu de noir & blanc avec de la [400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou de la [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23).
 
 Je filme aussi à la Super 8 avec une [Canon 514 XL](https://ebay.us/LMVzWW) que j’utilise de manière occasionnelle avec des bandes de [Kodak Vision 3 50D](https://www.digit-photo.com/KODAK-Film-Vision3-50D-8mm-pour-Camera-Super-8-rKODAKKS850D.html?dpa_id=23).
 
