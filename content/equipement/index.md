@@ -12,7 +12,7 @@ resources:
 
 ## Équipement Vidéo
 
-Mon choix s’est porté sur le [Fujifilm X-T3](https://www.digit-photo.com/FUJI-X-T3-Boitier-Nu-Noir-rFUJIXT3BK.html?dpa_id=23) pour ses performances aussi bien en photo qu’en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 4K 10 bits, il n’a rien à envier à certaines caméras professionnelles et excelle en photographie. C’est le boitier à tout faire sur lequel je peux compter pour mes projets [Captain Yvon](captainyvon.fr/).
+Mon choix s’est porté sur le [Fujifilm X-T3](https://www.digit-photo.com/FUJI-X-T3-Boitier-Nu-Noir-rFUJIXT3BK.html?dpa_id=23) pour ses performances aussi bien en photo qu’en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 4K 10 bits, il n’a rien à envier à certaines caméras professionnelles et excelle en photographie. C’est le boitier à tout faire sur lequel je peux compter pour mes projets [Captain Yvon](https://captainyvon.fr/).
 
 {{< photoset always="2" >}}
 {{< photo src="rig_1.jpg" alt="Equipement">}}
@@ -21,7 +21,7 @@ Mon choix s’est porté sur le [Fujifilm X-T3](https://www.digit-photo.com/FUJI
 
 Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient également son principal défaut quand il s’agit de filmer à main levée. C’est pourquoi j’ai imaginé un Setup RIG adapté à mon usage qui me permet de passer d’un petit appareil photo à un setup vidéo ultra versatile. Voici une liste des éléments qui composent ce setup :
 
-* [Cage pour X-T3 —SmallRig 2228](https://www.digit-photo.com/SMALLRIG-2228-Cage-pour-Fuji-X-T3-rSMALLRIGD154561.html?dpa_id=23) | [Poignée latérale —SmallRig 2093](https://www.digit-photo.com/SMALLRIG-2093-Poignee-Laterale-Universelle-en-Bois-rSMALLRIGD149261.html?dpa_id=23) | [Poignée NATO —SmallRig 1955](https://www.digit-photo.com/SMALLRIG-1955-Poignee-Nato-rSMALLRIGD152811.html?dpa_id=23)
+* [Cage pour X-T3 — SmallRig 2228](https://www.digit-photo.com/SMALLRIG-2228-Cage-pour-Fuji-X-T3-rSMALLRIGD154561.html?dpa_id=23) | [Poignée latérale — SmallRig 2093](https://www.digit-photo.com/SMALLRIG-2093-Poignee-Laterale-Universelle-en-Bois-rSMALLRIGD149261.html?dpa_id=23) | [Poignée NATO — SmallRig 1955](https://www.digit-photo.com/SMALLRIG-1955-Poignee-Nato-rSMALLRIGD152811.html?dpa_id=23)
 * [Rods de 22.5cm en carbone — SmallRig 1690](https://amzn.to/3c1cFi7) | [Base Plate — SmallRig 1674](https://amzn.to/3vE9sN1) | [Tilta V-Mount Battery Plate](https://amzn.to/3c3SX5c)
 * Batteries : [V-Mount V95 Compact](https://amzn.to/3fQdvz6) | [Batteries Patona](https://www.digit-photo.com/PATONA-Batterie-Fujifilm-NP-W126S-rPATONA1279.html?dpa_id=23) pour Fuji X-T3 | [Sony NPF](https://www.digit-photo.com/PATONA-Batterie-Sony-NP-F970-rPATONA1207.html?dpa_id=23) pour l’écran de monitoring
 * [Follow Focus Edelkrone FocusONE](https://store-fr.edelkrone-eu.com/products/focusone)
@@ -30,7 +30,7 @@ Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient �
 
 OBJECTIFS
 
-* [Fuji XF 10-24mm f/4 OIS WR](https://www.digit-photo.com/FUJI-XF-10-24mm-f-4-0-R-OIS-WR-rFUJI16666791.html?dpa_id=23) - *Zoom grand angle principalement utilisé sous l’eau*
+* [Fuji XF 10-24mm f/4 OIS WR](https://www.digit-photo.com/FUJI-XF-10-24mm-f-4-0-R-OIS-WR-rFUJI16666791.html?dpa_id=23) — *Zoom grand angle principalement utilisé sous l’eau*
 * [Fuji XF 56mm f/1.2 R](https://www.digit-photo.com/FUJI-XF-56mm-f-1-2-R-Noir-rFUJI11510.html?dpa_id=23) — *Objectif motorisé lumineux, pour le caisson étanche ou la gimbal*
 * [100-400mm f/4.5-5.6 R LM OIS WR](https://www.digit-photo.com/FUJI-XF-100-400mm-f-4-5-5-6-R-LM-OIS-WR-Noir-rFUJI16501109.html?dpa_id=23) — *Téléobjectif*
 * [Nikkor Ai 24mm f/2.8](https://ebay.us/1QiZvn) — *Optique vintage de charme à tout faire*
@@ -44,7 +44,7 @@ FILTRES
 
 ACCESSOIRES
 
-* [Caisson étanche SeaFrogs + Dôme + Flat Port](https://seafrogs.com.hk/collections/fujifilm/products/fujifilm-x-t3-40m-130ft-underwater-camera-housing-kit-with-seafrogs-dry-dome-port-v-1-white) - *Voir [tous mes articles](https://gregorymignard.com/watershot/) sur le sujet*
+* [Caisson étanche SeaFrogs + Dôme + Flat Port](https://seafrogs.com.hk/collections/fujifilm/products/fujifilm-x-t3-40m-130ft-underwater-camera-housing-kit-with-seafrogs-dry-dome-port-v-1-white) — *Voir [tous mes articles](https://gregorymignard.com/watershot/) sur le sujet*
 * [Dji Ronin-SC](https://amzn.to/3ipLxwX)
 * [Dji Mavic 2 Pro](https://www.digit-photo.com/DJI-Drone-Mavic-2-Pro-rDJIMAVIC2PRO.html?dpa_id=23)
 * [Trépied vidéo Manfrotto](https://www.digit-photo.com/MANFROTTO-MVK502AM-1-Kit-Video-Rotule-502-rMANFROTTOMVK502AM1.html?dpa_id=23) | [Trépied Cullmann ultra-léger](https://www.digit-photo.com/CULLMANN-56815-Trepied-de-Voyage-Carvao-816-TC-Carbone-Noir-rCULLC56815.html?dpa_id=23)
@@ -59,11 +59,11 @@ Depuis la fin 2020, je retrouve les joies de [la photographie argentique](https
 
 * [Olympus XA](https://ebay.us/PvYGR2) — *Un ultracompact 35mm. (Lien vers [ma review](https://gregorymignard.com/olympus-xa/) sur le blog)*
 * [Canon Prima Zoom 65](https://ebay.us/jFevF4) — *Un Point & Shoot ultra pratique*
-* [Nikon Fm2](https://ebay.us/d5ANCb) — *Mon 35mm favori, utilisé avec les mêmes objectifs cités ci-dessus*
+* [Nikon FM2](https://ebay.us/d5ANCb) — *Mon 35mm favori, utilisé avec les mêmes objectifs cités ci-dessus*
 * [Nikonos V](https://ebay.us/p47TEI) — *Un 35mm étanche légendaire dont j'ai fais [la review](https://gregorymignard.com/nikonos-v/)*
 * [Fuji GW690iii](https://ebay.us/MWYxD3) — *Moyen format 6x9*
 
-Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23). Il m’arrive parfois de charger un peu de noir & blanc ([400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23)) ou de la [Gold 200](https://www.digit-photo.com/KODAK-Gold-200-135-36-Poses-X3-rKODAK41880806.html?dpa_id=23).
+Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23). Il m’arrive parfois de charger un peu de noir & blanc avec de la ([400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou de la [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23)).
 
 Je filme aussi à la Super 8 avec une [Canon 514 XL](https://ebay.us/LMVzWW) que j’utilise de manière occasionnelle avec des bandes de [Kodak Vision 3 50D](https://www.digit-photo.com/KODAK-Film-Vision3-50D-8mm-pour-Camera-Super-8-rKODAKKS850D.html?dpa_id=23).
 
