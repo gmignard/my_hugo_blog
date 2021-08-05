@@ -70,7 +70,7 @@ paginate = 12
   identifier = "blog"
   url = "/posts/"
 [[menu.main]]
-  name = "Now"
+  name = "À Propos"
   title = "Infos & Contact"
   weight = 4
   identifier = "now"
