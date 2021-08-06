@@ -6,7 +6,7 @@ draft: false
 type: "about"
 resources:
 - src: "*.jpg"
-- src: "rig_1.jpg"
+- src: "1.jpg"
   name: "cover"
 ---
 
