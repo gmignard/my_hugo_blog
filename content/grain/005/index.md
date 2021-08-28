@@ -1,7 +1,7 @@
 ---
-date: 2021-08-28 07:30:00 +0200
-title: Grain. 005
-subtitle: Finistère | Nikon FM2  | Ektar 100
+date: "2021-08-28 07:30:00 +0200"
+title: "Grain. 005"
+subtitle: "Finistère | Nikon FM2  | Ektar 100"
 seotitle: "Finistère | Nikon FM2  | Ektar 100"
 resources:
 - src: "*.jpg"
