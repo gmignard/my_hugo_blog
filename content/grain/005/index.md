@@ -1,42 +1,44 @@
 ---
-date: 2021-08-28 08:30:00 +0200
-title: Grain. 005
-subtitle: Finistère | Nikon FM2  | Ektar 100
-seotitle: "Finistère | Nikon FM2  | Ektar 100"
+date: 2021-08-26 13:30:00 +0200
+title: Grain. 001
+subtitle: Immersion, Manche | Nikon FM2 | Portra 400
+seotitle: "Grain. 001 | Nikon FM2 & Portra 400 | Documentaire IMMERSION"
 resources:
 - src: "*.jpg"
 ---
 
-{{< photo src="005_1.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
+{{< photo src="cover.jpg" alt="Nikon FM2 | Portra 400" >}}
+
+{{< photo src="001_1.jpg" alt="Nikon FM2 | Portra 400" >}}
 
 {{< photoset max="2" >}}
-  {{< photo src="005_2.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
-  {{< photo src="005_3.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
+  {{< photo src="001_2.jpg" alt="Nikon FM2 | Portra 400" >}}
+  {{< photo src="001_3.jpg" alt="Nikon FM2 | Portra 400" >}}
+{{</ photoset >}}
+
+{{< photo src="001_4.jpg" alt="Nikon FM2 | Portra 400" >}}
+
+{{< photo src="001_5.jpg" alt="Nikon FM2 | Portra 400" >}}
+
+{{< photoset max="2" >}}
+  {{< photo src="001_6.jpg" alt="Nikon FM2 | Portra 400" >}}
+  {{< photo src="001_7.jpg" alt="Nikon FM2 | Portra 400" >}}
+{{</ photoset >}}
+
+{{< photoset max="3" >}}
+  {{< photo src="001_8.jpg" alt="Nikon FM2 | Portra 400" >}}
+  {{< photo src="001_9.jpg" alt="Nikon FM2 | Portra 400" >}}
+  {{< photo src="001_10.jpg" alt="Nikon FM2 | Portra 400" >}}
+{{</ photoset >}}
+
+{{< photo src="001_11.jpg" alt="Nikon FM2 | Portra 400">}}
+
+{{< photoset max="2" >}}
+  {{< photo src="001_12.jpg" alt="Nikon FM2 | Portra 400" >}}
+  {{< photo src="001_13.jpg" alt="Nikon FM2 | Portra 400" >}}
 {{</ photoset >}}
 
 {{< photoset max="2" >}}
-  {{< photo src="005_5.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
-  {{< photo src="005_6.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
-{{</ photoset >}}`
-
-{{< photoset max="2" >}}
-  {{< photo src="005_4.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
-  {{< photo src="005_10.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
-{{</ photoset >}}
-
-{{< photo src="cover.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
-
-{{< photoset max="2" >}}
-  {{< photo src="005_7.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
-  {{< photo src="005_8.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
-{{</ photoset >}}
-
-{{< photoset max="2" >}}
-  {{< photo src="005_9.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
-  {{< photo src="005_11.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
-{{</ photoset >}}
-
-{{< photoset max="2" >}}
-  {{< photo src="005_12.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
-  {{< photo src="005_13.jpg" alt="Finistère | Nikon FM2  | Ektar 100" >}}
+  {{< photo src="001_14.jpg" alt="Nikon FM2 | Portra 400" >}}
+  {{< photo src="001_15.jpg" alt="Nikon FM2 | Portra 400" >}}
 {{</ photoset >}}
