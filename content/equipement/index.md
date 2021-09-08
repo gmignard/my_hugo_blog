@@ -57,13 +57,11 @@ ACCESSOIRES
 
 Depuis la fin 2020, je retrouve les joies de [la photographie argentique](https://gregorymignard.com/analog/) et pas loin de la totalité de ma pratique photo personnelle se fait désormais avec les appareils suivants :
 
-* [Olympus XA](https://ebay.us/PvYGR2) — *Un ultracompact 35mm. (Lien vers [ma review](https://gregorymignard.com/olympus-xa/) sur le blog)*
-* [Canon Prima Zoom 65](https://ebay.us/jFevF4) — *Un Point & Shoot ultra pratique*
+* [Olympus Mju II](https://ebay.us/yzWFjC) — *Un Point & Shoot ultra performant*
 * [Nikon FM2](https://ebay.us/d5ANCb) — *Mon 35mm favori, utilisé avec les mêmes objectifs cités ci-dessus*
 * [Nikonos V](https://ebay.us/p47TEI) — *Un 35mm étanche légendaire dont j'ai fais [la review](https://gregorymignard.com/nikonos-v/)*
-* [Fuji GW690iii](https://ebay.us/MWYxD3) — *Moyen format 6x9*
 
-Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23). Il m’arrive parfois de charger un peu de noir & blanc avec de la [400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou de la [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23).
+Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23) et de [l'Ultramax 400](https://www.digit-photo.com/KODAK-Ultramax-400-135-36-Poses-X3-rKODAK41024389.html?dpa_id=23). Il m’arrive parfois de charger un peu de noir & blanc avec de la [400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou de la [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23).
 
 Je filme aussi à la Super 8 avec une [Canon 514 XL](https://ebay.us/LMVzWW) que j’utilise de manière occasionnelle avec des bandes de [Kodak Vision 3 50D](https://www.digit-photo.com/KODAK-Film-Vision3-50D-8mm-pour-Camera-Super-8-rKODAKKS850D.html?dpa_id=23).
 

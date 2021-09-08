@@ -129,7 +129,7 @@ header {
   .social {
     background-image: none;
     text-decoration: none;
-    border-bottom: none;	  
+    border-bottom: none;
   }
 }
 
@@ -147,7 +147,7 @@ footer {
     padding-bottom: 2px;
     text-shadow: -1px -1px 0 var(--onyx), 1px -1px 0 var(--onyx), -1px 1px 0 var(--onyx), 1px 1px 0 var(--onyx);
     background-image: linear-gradient(to top, transparent, transparent 2px, #f8f8f8 2px, #f8f8f8 2.5px, transparent 2.5px);
-    border-bottom: none;  
+    border-bottom: none;
   }
 }
 
@@ -242,7 +242,7 @@ img {
       margin-bottom: 25px;
     }
   }
-  
+
   .micropost {
      h1 {
       text-align: center;
@@ -475,7 +475,7 @@ img {
   text-decoration: underline; }
 
 .pswp__ui {
-  @apply hidden;
+  display:none;
 }
 
 /* LINKS */
@@ -490,23 +490,23 @@ img {
 a.link-block {
     display: block;
     margin-bottom: 30px;
-    background-color: #F3F3F3;
-    padding: 40px;
+    background-color: #0b2e43;
+    padding: 25px;
     text-decoration: none;
     background-image: none;
-    color: var(--onyx);
-    border-bottom: none;	
+    color: #fff;
+    border-bottom: none;
 }
 
 span.link-title {
     display: block;
     font-family: var(--title-font);
-    font-size: 21px;
+    font-size: 22px;
 }
 
 span.link-subtitle {
     display: block;
     margin-top: 8px;
     font-style: italic;
-    font-size: 15px;
+    font-size: 14px;
 }
