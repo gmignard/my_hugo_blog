@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   if (params.has("session_id")) {
-    fetch("/api/success?session_id=" + params.get("session_id"), {
+    fetch(`${process.env.LAMBDA_ENDPOINT}/api/success?session_id=` + params.get("session_id"), {
       method: 'GET',
       headers: { 'Content-Type': 'application/json' },
     }).then( res => res.json() )
@@ -43,7 +43,7 @@ function handleFormSubmission(event) {
       slug: window.location.pathname
     };
 
-    fetch('/api/checkout', {
+    fetch(`${process.env.LAMBDA_ENDPOINT}/api/checkout`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(data),
