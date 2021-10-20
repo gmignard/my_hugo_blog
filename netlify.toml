@@ -23,7 +23,3 @@
     Cache-Control = "public, max-age=31536000"
 [build]
   functions = "api"
-[[redirects]]
-  from = "/api/*"
-  to= "/.netlify/api/:splat"
-  status = 200
