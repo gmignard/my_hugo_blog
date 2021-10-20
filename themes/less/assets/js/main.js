@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
     barsSize: { top: 44, bottom: 44, left: 44, right: 44 }
   });
 
+  params = new URLSearchParams(window.location.search)
   if (params.has("session_id")) {
     fetch(`/api/success?session_id=` + params.get("session_id"), {
       method: 'GET',
