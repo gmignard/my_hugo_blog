@@ -1,5 +1,4 @@
 {{ define "main" }}
-{{ partial "article_header" . }}
 <div id="thanksdiv"
     class="text-lg my-4 flex hidden justify-around w-full items-center border border-cascade-600 bg-cascade-100 relative text-cascade-600 py-3 px-3 rounded-sm shadow-lg">
     <div class="thanks center">
@@ -7,36 +6,6 @@
     </div>
 </div>
 <div data-pswp class="flex flex-col md:flex-row md:-mx-32 lg:-mx-64 xl:-mx-96 mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-  {{ with .Params.grid }}
-    <div  class="md:w-4/6">
-      {{ $rowsslice := split . "/" }}
-      {{ $rows := dict }}
-      {{ range $rowIndex, $row := $rowsslice}}
-        {{ $columnsslice := split $row "|" }}
-        {{ $columns := dict }}
-        {{ range $columnIndex, $column := $columnsslice }}
-          {{ $imagesslice := split $column " - " }}
-          {{ $images := slice }}
-          {{ range $imagesslice }}
-              {{ $name := trim . " " }}
-              {{ if in $name ":" }}
-                {{ $ratio := split $name ":" }}
-                {{ $blank := dict "Blank" true "Image" (dict "Height" (int (index $ratio 1)) "Width" (int (index $ratio 0))) }}
-                {{ $images = $images | append $blank }}
-              {{ else }}
-                {{ $src := $.Page.Resources.GetMatch (printf "*%s*" $name) }}
-                {{ if $src }}
-                  {{ $images = $images | append (dict "Image" $src) }}
-                {{ end }}
-              {{ end }}
-          {{ end }}
-          {{ $columns = merge $columns (dict (string $columnIndex) (dict "Images" $images)) }}
-        {{ end }}
-        {{ $rows = merge $rows (dict (string $rowIndex) $columns) }}
-      {{ end }}
-      {{ partial "grid" $rows }}
-    </div>
-  {{ end }}
   <div  class="prose dark:prose-light md:w-2/6 md:pl-8 ">
     {{.Content}}
     {{ if .Params.price_id }}
