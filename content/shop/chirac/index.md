@@ -2,7 +2,7 @@
 title: "Chirac"
 draft: true
 grid: "cover"
-price_id: "price_1IkpUeFaA8Wpl3EpO079JIqC"
+price_id: "price_1JnJHwH3a7SzE1LPKxqV3QbL"
 categories:
 - print
 resources:
