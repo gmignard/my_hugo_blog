@@ -50,7 +50,7 @@ paginate = 12
 [params.tinyletter]
   username = "captainyvon"
   title = "Poursuivre l'aventure..."
-  description = "tu peux également t’abonner à ma newsletter 📝."
+  description = "mais si tu veux quelques exclusivités, abonnes-toi à ma newsletter 📝."
 [[menu.main]]
   name = "Home"
   title = "Home"
