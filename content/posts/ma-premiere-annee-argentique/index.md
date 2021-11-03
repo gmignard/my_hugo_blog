@@ -2,7 +2,7 @@
 title: Ma première année argentique
 subtitle: L'art de lâcher prise et de retrouver du plaisir photographique
 seotitle: "Ma première année de photos argentiques  — Grégory Mignard"
-date: 2020-11-03 13:00:00 +0200
+date: 2021-11-03 10:00:00 +0200
 slug: "ma-premiere-annee-argentique"
 categories:
 - analog
@@ -14,7 +14,7 @@ resources:
 - src: "*.jpg"
 ---
 
-Il y a environ un an, 
+Il y a environ un an, j'annonçais un [retour à la photographie argentique](https://gregorymignard.com/de-la-peloche-dans-le-frigo/). Plus qu'un retour, je pense que c'est surtout la première fois que je me mettais sérieusement et à fond dans cette pratique.
 
 {{< photo src="000067.jpg" alt="Ma première année de photos argentiques">}}
 
