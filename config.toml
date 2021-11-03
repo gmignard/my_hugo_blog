@@ -49,8 +49,8 @@ paginate = 12
 
 [params.tinyletter]
   username = "captainyvon"
-  title = "Outline, la lettre"
-  description = "Si tu aimes ce que j’écris ici, alors je t’invite à t’abonner à Outline, ma newsletter 📝."
+  title = "Poursuivre l'aventure"
+  description = "Si tu aimes ce que j’écris ici, tu peux me retrouver sur <a href="https://twitter.com/gregmignard" target="_blank" >Twitter</a> & Discord et t'abonner à ma newsletter."
 [[menu.main]]
   name = "Home"
   title = "Home"
