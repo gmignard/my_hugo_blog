@@ -39,7 +39,3 @@ Cette vidéo c’est également l’occasion de partager le premier épisode d�
 Pour m’amuser, j’ai souhaité réaliser ce projet sans utiliser de drone ni de stabilisateur. Juste mon [Fuji X-T3](https://www.digit-photo.com/FUJI-X-T3-Boitier-Nu-Noir-rFUJIXT3BK.html?dpa_id=23) avec l’excellent [23mm f/1.4](https://www.digit-photo.com/FUJI-XF-23mm-f-1-4-R-rFUJI11508.html?dpa_id=23) comme seule optique. Ce setup était complété d’un écran de monitoring, d’un micro et de tout un ensemble de cage SmallRig. Pour voir en détail le matériel que j’utilise en vidéo, [voici une liste complète](https://www.digit-photo.com/wishlist.html?NjQwOQ==?dpa_id=23).
 
 La vidéo a été montée sur Final Cut Pro X avec [mon Mac mini M1](https://gregorymignard.com/mac-mini-m1/).
-
-***
-
-<center>Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !</center>

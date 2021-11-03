@@ -62,7 +62,3 @@ Cette recherche de qualité et d’esthétisme me fait totalement repenser ma vi
 À l’heure où l’abus des réseaux sociaux et des traitements uniformisés pour obtenir un maximum de likes sur Instagram, l’idée d’aller un peu à contre-courant et oser des choses différentes me plait énormément. Certains diront que ce sont des choses que je peux faire en numérique, c’est totalement vrai, mais m’imposer finalement quelques contraintes devraient m’aider à avancer encore plus loin dans cette démarche. Tout ceci n’est que le début d’une nouvelle réflexion que je ne manquerai pas de documenter à travers des articles. Mais j’avoue être assez excité par cette approche et l’envie de photographier un peu différemment sans pour autant renier qui je suis.
 
 #### À suivre…
-
-***
-
-<center>Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !</center>

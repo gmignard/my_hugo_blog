@@ -53,7 +53,3 @@ L’objectif 35mm f/2.5 est également incroyable. Avec ses deux molettes latér
 
 Bref, je ne vais pas rentrer dans la fiche technique, on la trouve aisément sur internet, je voulais surtout parler de ressenti à chaud après deux pellicules shootées dans les vagues.  
 Je suis tout simplement conquis par cet appareil, j’en rêvais depuis longtemps et j’ai vraiment hâte de travailler toute une série argentique sur le surf… À suivre…
-
-***
-
-<center>Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !</center>

@@ -46,7 +46,3 @@ Je crois que cet article thérapeutique m’apporte enfin des réponses. Je fais
 En fait, mon seul problème n’est pas pourquoi je fais des photos, mais plutôt, qu’est-ce que je dois en faire pour les faire vivre ? Car c’est bien ça le but de la photographie, c’est de faire vivre ses images… J’ai bien des idées et je pense que 2021 sera un tournant dans cette pratique.
 
 Tu es toujours là ? Tu as tenu le choc ? Eh bien bravo et merci de m’avoir lu 😌
-
-***
-
-<center>Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !</center>

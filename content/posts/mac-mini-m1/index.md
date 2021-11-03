@@ -57,7 +57,3 @@ Je ne me suis pas amusé à comparer cette machine avec d’autres. Les benchmar
 
 Ce workflow est ultra fonctionnel, je suis vraiment content des performances et du choix du Mac Mini, une machine qui se fait oublier sur mon bureau et que je n’entends jamais. À se demander s’il y a vraiment des ventilateurs là-dedans ? Si je devais trouver deux petits défauts, ça serait sa couleur (plus de gris sidéral au catalogue) et le retrait inexpliqué de deux ports Thunderbolt même si cela ne me fait pas défaut.  
 Voilà pour ce retour d’expérience du Mac mini M1 pour le montage vidéo, si vous avez des questions, n’hésitez pas.
-
-***
-
-<center>Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !</center>
