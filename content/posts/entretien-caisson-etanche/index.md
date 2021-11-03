@@ -57,7 +57,3 @@ Dans ce cas précis, je prends mon temps pour retirer chaque joint (4 sur le Nik
 Une fois les joints nettoyés et graissés, je ferme mon caisson pendant quelques heures pour bien les écraser et les loger correctement dans leurs logements et je termine par un test à vide dans une bassine d’eau.
 
 Si tout est correct, vous voici prêts pour une nouvelle session photo 🤙
-
-***
-
-<center>Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !</center>

@@ -79,5 +79,4 @@ J’ai d’ailleurs une super nouvelle à annoncer, mais il faudra attendre 2021
 À très vite, joyeuses fêtes et prenez soin de vous !
 
 ***
-<center>📸 Cover par [Yves Quéré](https://www.instagram.com/yvesquere_photographe)</center>
-<center>Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !</center>
+📸 *Cover par [Yves Quéré](https://www.instagram.com/yvesquere_photographe)*

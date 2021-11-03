@@ -41,7 +41,3 @@ Aujourd'hui, le changement climatique est l'une des préoccupations principales 
 À compter de cette année, je m'engage à reverser au moins 1% de mon chiffre d'affaire au profite d'associations environnementales. ⁠J'ai beau être une petite entreprise, il n'y a pas de petit don quand il s'agit de contribuer à la lutte contre le réchauffement climatique et à la préservation de l'environnement.⁠ Cette démarche rejoint et complète les actions que je peux déjà mener dans mon quotidien ou au travers du collectif #outdoorsentinels dont je suis ambassadeur chez [Lafuma](https://www.lafuma.com/fr/outdoor-sentinels).⁠
 
 Et tous mes meilleurs voeux à toutes et tous pour 2021 !⁠
-
-***
-
-<center>Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !</center>
