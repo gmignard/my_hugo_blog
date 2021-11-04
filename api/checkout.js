@@ -2,9 +2,12 @@ const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 
 exports.handler =  async(event, context) => {
   const { price_id, slug } = JSON.parse(event.body);
-  url = `https://${process.env.VERCEL_URL}`
-  if (process.env.BASE_URL){
-  url = `https://${process.env.BASE_URL}`
+  url = `https://${DEPLOY_URL}`
+  if (process.env.DEPLOY_PRIME_URL){
+    url = `https://${process.env.DEPLOY_PRIME_URL}`
+  }
+  if (process.env.URL){
+    url = `https://${process.env.URL}`
   }
 
   const session = await stripe.checkout.sessions.create({
