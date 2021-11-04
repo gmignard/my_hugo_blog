@@ -6,11 +6,11 @@ exports.handler =  async(event, context) => {
   if (process.env.DEPLOY_URL){
     url = process.env.DEPLOY_URL
   }
-  if (process.env.DEPLOY_PRIME_URL){
-    url = process.env.DEPLOY_PRIME_URL
-  }
   if (process.env.URL){
     url = process.env.URL
+  }
+  if (process.env.DEPLOY_PRIME_URL){
+    url = process.env.DEPLOY_PRIME_URL
   }
 
   const session = await stripe.checkout.sessions.create({
