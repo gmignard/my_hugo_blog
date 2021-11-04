@@ -3,13 +3,9 @@ const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 exports.handler =  async(event, context) => {
   const { price_id, slug } = JSON.parse(event.body);
   url = "https://what"
-  if (process.env.DEPLOY_URL){
-    url = process.env.DEPLOY_URL
-  }
-  if (process.env.URL){
+  if (process.env.CONTEXT === "production"){
     url = process.env.URL
-  }
-  if (process.env.DEPLOY_PRIME_URL){
+  } else {
     url = process.env.DEPLOY_PRIME_URL
   }
 
