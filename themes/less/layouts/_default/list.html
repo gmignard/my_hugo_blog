@@ -3,7 +3,7 @@
     <div class="list journal">
       {{ $paginator := (.Paginate .RegularPages 12) }}
       {{ range $index, $post := $paginator.Pages }}
-        {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
+        {{ partial (printf "%s.html" .Type) (dict "post" $post "index" $index "ctx" $)}}
       {{ end }}
     </div>
     {{ template "_internal/pagination.html" . }}

@@ -1,0 +1,24 @@
+{{ $postScratch := newScratch }}
+<div class="post-tile">
+  {{ $image := .post.Resources.GetMatch "cover" | default (index (.post.Resources.ByType "image") 0) }}
+  {{ $size := "600x400" }}
+  {{ $postScratch.Set "coverSize" (printf "%s center" $size)}}
+  {{ $web := $image.Fill ($postScratch.Get "coverSize") }}
+  {{ $mini := $image.Fill "60x40" }}
+  {{if $image }}
+    <div class="post-thumb">
+      <a class="no-decoration" href="{{ .post.Permalink }}">
+        <picture>
+          <img class="lazyload" src="{{$mini.Permalink}}" data-src="{{ $web.Permalink }}" style="width: 100%;">
+        </picture>
+      </a>
+    </div>
+  {{end}}
+  <div class="shop-header">
+    <h3 class="title">
+        {{ .post.Params.emoji }}
+        <a class="title bold no-decoration" href="{{ .post.Permalink }}">{{ .post.Title }}</a><br/>
+    </h3>
+    <h5>{{ .post.Params.subtitle }}</h5>
+  </div>
+</div>
