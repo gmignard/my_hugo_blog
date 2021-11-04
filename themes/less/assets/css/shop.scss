@@ -55,13 +55,22 @@
 .shop-wrapper {
   display: flex;
   flex-direction: row;
+  @media only screen and (max-width: 812px) {
+    flex-direction: column;
+  }
   gap: 20px;
 
   .shop-photo {
     width: 66.666667%;
+    @media only screen and (max-width: 812px) {
+      width: 100%;
+    }
   }
   .shop-content {
     width: 33.33333334%;
+    @media only screen and (max-width: 812px) {
+      width: 100%;
+    }
     button{
       font-size: 1.125rem;
       line-height: 1.75rem;
