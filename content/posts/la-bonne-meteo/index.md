@@ -59,7 +59,3 @@ En complément de la paire de Windy, je consulte également la marée, car chaqu
 Les prévisions c’est bien beau, mais savoir ce qu’il y a en réel, c’est encore mieux ! Et pour la houle, rien de mieux que de consulter les données de [bouées houlographes](http://candhis.cetmef.developpement-durable.gouv.fr/carte/). Sur iPhone, il y a une super application qui fait ça et que j’ai mise sur la pile de Widgets de mon homescreen et sur mon Apple Watch, il s’agit de [Buoywatch](https://buoywatch.com). En un coup d’œil, nous avons le relevé des dernières heures, la taille et la période de la houle ainsi que son orientation et température de l’eau.
 
 Voilà, c’est un workflow que j’essaye de simplifier au maximum en sélectionnant au mieux les outils, mais dès que l’on se passionne un peu pour un sport nature, on se rend vite compte que la météo n’est pas à prendre à la légère.
-
-***
-
-<center>Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !</center>

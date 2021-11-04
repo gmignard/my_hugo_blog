@@ -50,7 +50,3 @@ Il n’y a pas de flash sur l’appareil photo, mais deux flashes optionnels son
 L’Olympus XA d’origine a engendré un certain nombre de descendants. Ce sont principalement des versions simplifiées du XA (XA1, XA2, XA3, XA4) et bien que la gamme entière soit plutôt bonne, le XA original est généralement celui qu’il faut avoir. Exception faite du XA4 qui a un excellent objectif en 28 mm.
 
 Voilà, c’était ma petite revue à chaud de l’Olympus XA après quelques semaines d’utilisation. Je le redis une fois de plus, mais je suis ravi avec cet appareil qui répond vraiment à ce besoin de photographie minimaliste et décomplexé.
-
-***
-
-<center>Envie d’échanger sur le sujet avec moi ? [Rejoins-moi sur Twitter](http://twitter.com/gregmignard) 🐥 !</center>
