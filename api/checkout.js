@@ -2,7 +2,10 @@ const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 
 exports.handler =  async(event, context) => {
   const { price_id, slug } = JSON.parse(event.body);
-  url = `https://${DEPLOY_URL}`
+  url = "https://what"
+  if (process.env.DEPLOY_URL){
+    url = `https://${process.env.DEPLOY_URL}`
+  }
   if (process.env.DEPLOY_PRIME_URL){
     url = `https://${process.env.DEPLOY_PRIME_URL}`
   }
