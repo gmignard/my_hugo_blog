@@ -1,17 +1,8 @@
 const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 
 exports.handler =  async(event, context) => {
-  const { price_id, slug } = JSON.parse(event.body);
-  url = "https://what"
-  return {
-    statusCode: 200,
-    body: JSON.stringify(process.env),
-  }
-  if (process.env.CONTEXT === "production"){
-    url = process.env.URL
-  } else {
-    url = process.env.DEPLOY_PRIME_URL
-  }
+  const { price_id, hostname, slug } = JSON.parse(event.body);
+  url = `https://${hostname}`
 
   const session = await stripe.checkout.sessions.create({
     line_items: [
