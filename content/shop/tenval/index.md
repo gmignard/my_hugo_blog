@@ -3,7 +3,7 @@ title: "Teñval"
 subtitle: "32€"
 draft: true
 grid: "cover"
-price_id: "price_1JnJHwH3a7SzE1LPKxqV3QbL"
+price_id: "price_1JsonNH3a7SzE1LPjODp7doK"
 categories:
 - print
 resources:
