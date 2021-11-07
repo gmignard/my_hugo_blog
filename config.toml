@@ -61,13 +61,13 @@ paginate = 12
 [[menu.main]]
   name = "Grain"
   title = "Archives argentiques"
-  weight = 3
+  weight = 2
   identifier = "grain"
   url = "/grain"
 [[menu.main]]
   name = "Blog"
   title = "Récits & Technique"
-  weight = 4
+  weight = 3
   identifier = "blog"
   url = "/posts/"
 [[menu.main]]
