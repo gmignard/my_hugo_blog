@@ -17,5 +17,6 @@ Teñval est un triptyque photographié en décembre 2020 dans le Finistère Nord
 * Format 15x21cm
 * Édition limitée à 30 exemplaires, numérotés et signés
 * Frais de port offerts
+* 1% For the Planet
 
 {{< photo src="cover" alt="Teñval">}}
