@@ -7,7 +7,7 @@ emoji: "💸"
 menu:
   main:
     pre: "💸"
-    weight: 2
+    weight: 4
 linktitle: "shop"
 ---
 
