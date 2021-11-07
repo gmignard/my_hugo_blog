@@ -4,7 +4,7 @@ subtitle: "32€"
 seotitle: "Teñval - Triptyque A5"
 draft: true
 grid: "cover"
-price_id: "price_1JsonNH3a7SzE1LPjODp7doK"
+price_id: "price_1JtBHJH3a7SzE1LP5ciP0q6p"
 categories:
 - print
 resources:
