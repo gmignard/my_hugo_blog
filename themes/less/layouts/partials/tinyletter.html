@@ -6,7 +6,7 @@
   <p><label for="tlemail">
       <h3>{{ .Site.Params.tinyletter.title }}</h3>
       </br>
-      Si tu aimes ce que j’écris ici, retrouves-moi sur <a href="https://twitter.com/gregmignard" target="_blank">Twitter</a> 🐥 & <a href="https://discord.gg/cttJYAgF2Q" target="_blank">Discord</a> 🎮,
+      Si tu aimes ce que j’écris ici, retrouves-moi sur <a href="https://twitter.com/{{ .Site.Params.social.twitter }}" target="_blank">Twitter</a> 🐥 {{ with .Site.Params.social.discord }}& <a href="https://discord.gg/{{ . }}" target="_blank">Discord</a> 🎮{{ end }},
       </br>
       {{ .Site.Params.tinyletter.description }}
     </label></p>

@@ -23,6 +23,7 @@
 @import "journal";
 @import "navigation";
 @import "photogrid";
+@import "shop";
 
 html {
   height: 100%;
@@ -509,4 +510,8 @@ span.link-subtitle {
     margin-top: 8px;
     font-style: italic;
     font-size: 14px;
+}
+
+.hidden {
+  display: none;
 }

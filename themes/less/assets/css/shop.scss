@@ -1,0 +1,106 @@
+@-moz-keyframes spin {
+    from { -moz-transform: rotate(0deg); }
+    to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+    from { -webkit-transform: rotate(0deg); }
+    to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+}
+.hidden {
+  display: none;
+}
+.shop-thanks {
+  width: 100%;
+  --tw-bg-opacity: 1;
+  background-color: rgba(244,247,246,var(--tw-bg-opacity));
+  --tw-border-opacity: 1;
+  border-color: rgba(132,159,150,var(--tw-border-opacity));
+  --tw-text-opacity: 1;
+  color: rgba(132,159,150,var(--tw-text-opacity));
+  --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
+  padding: 0.75rem;
+  margin-top: 1rem ;
+  margin-bottom: 1rem ;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.shop-header{
+  margin: 0 1rem;
+  text-align: left;
+  .category {
+    text-transform: capitalize;
+    text-align: left;
+    border-bottom: none;
+  }
+  h3.title {
+    text-align: left;
+    font-size: 1.9rem;
+    a { color: var(--onyx); border-bottom: none; }
+    a:hover { color: var(--accent); border-bottom: none; }
+  }
+  h5 {
+    text-align: left;
+    opacity: 0.7;
+  }
+}
+.shop-wrapper {
+  display: flex;
+  flex-direction: row;
+  @media only screen and (max-width: 812px) {
+    flex-direction: column;
+  }
+  gap: 20px;
+
+  .shop-photo {
+    width: 66.666667%;
+    @media only screen and (max-width: 812px) {
+      width: 100%;
+    }
+  }
+  .shop-content {
+    width: 33.33333334%;
+    @media only screen and (max-width: 812px) {
+      width: 100%;
+    }
+    button{
+      font-size: 1.125rem;
+      line-height: 1.75rem;
+      width: 100%;
+      padding: 1rem;
+      margin-top: 1rem;
+      cursor: pointer;
+      border-radius: 0.125rem;
+      background-color: var(--accent);
+      appearance: none;
+      color: white;
+      border-style: none;
+      --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
+      svg {
+        circle {
+          opacity: .25;
+        }
+        path {
+          opacity: .75;
+        }
+        -webkit-animation: spin 1s linear infinite;
+        animation: spin 1s linear infinite;
+        width: 1.25rem ;
+        height: 1.25rem ;
+        vertical-align: middle;
+        --tw-text-opacity: 1;
+        color: rgba(255,255,255,var(--tw-text-opacity));
+        margin-left: -0.25rem;
+      }
+    }
+  }
+}
