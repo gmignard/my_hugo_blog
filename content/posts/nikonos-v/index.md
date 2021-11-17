@@ -5,9 +5,9 @@ seotitle: "Revue du Nikonos V, l’appareil légendaire tout droit sorti des aby
 date: 2021-05-02 13:30:00 +0200
 slug: "nikonos-v"
 categories:
+- gear
 - analog
 - watershot
-- gear
 tags: ["Analog", "Argentique", "Pellicule", "Nikon", "Nikonos", "Nikonos V", "Watershot", "Aquashoot", "Aquashot", "Surf", "Surfing", "Portra 800", "Portra 400", "135mm", "35mm"]
 description: "Revue du Nikonos V, un appareil photo argentique étanche pour la photo aquatique et sous-marine."
 resources:

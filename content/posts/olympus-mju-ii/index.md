@@ -5,8 +5,8 @@ seotitle: "Olympus Mju II, le meilleur appareil de poche ? - Review et manuel d�
 date: 2021-11-17 09:00:00 +0200
 slug: "olympus-mju-ii"
 categories:
-- analog
 - gear
+- analog
 tags: ["Argentique", "Olympus", "Stylus", "Stylus Epic", "Mju", "mju:II", "Olympus Stylus Epic", "Olympus mju:II", "Point & Shoot", "Appareil de poche"]
 description: "Test terrain de l’Olympus mju:II, un excellent point & shoot argentique. Revue complète et manuel d’utilisation à télécharger."
 resources:
