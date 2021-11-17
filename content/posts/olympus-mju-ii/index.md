@@ -24,7 +24,7 @@ De passage chez mes parents au début de l’été, j’ai inconsciemment demand
 
 ### Olympus mju:II — Le meilleur appareil de poche ?
 
-Sur le papier, l’Olympus μ[mju:]—II est assez proche de l’appareil photo de poche ultime. En pratique, c'est quasiment ça et c'est pourquoi il me suit désormais partout. Lancé en 1997, le mju:II s’impose clairement comme une version moderne de l’iconique Olympus XA. Facilité d’utilisation, objectif de 35mm, format compact qui tient dans une poche, tous les codes qui font le succès du XA sont présents sur le mju:II.  
+Sur le papier, l’Olympus μ[mju:]-II est assez proche de l’appareil photo de poche ultime. En pratique, c'est quasiment ça et c'est pourquoi il me suit désormais partout. Lancé en 1997, le mju:II s’impose clairement comme une version moderne de l’iconique Olympus XA. Facilité d’utilisation, objectif de 35mm, format compact qui tient dans une poche, tous les codes qui font le succès du XA sont présents sur le mju:II.  
 Encore plus simple à utiliser, le mju:II dispose d’un autofocus à infrarouge et d’une gestion de l’exposition automatique. La sensibilité du film est identifiée par un codage DX et l’ouverture, la vitesse d’obturation et l’utilisation du flash sont gérées par l’appareil photo lui-même, le point & shoot par excellence !  
 Olympus a même poussé le truc encore un peu plus loin en rendant cet Olympus mju:II étanche aux intempéries avec des joints en caoutchouc à la place des traditionnelles mousses. Il faut savoir que cet avantage est également un des défauts du Mju, les joints peuvent laisser passer quelques fuites de lumière en vieillissant et ne sont pas remplaçables.  
 Très rapidement après son lancement, il a atteint un statut d’appareil culte qui se confirme régulièrement en voyant la hausse des prix du marché de l’occasion.
@@ -53,13 +53,13 @@ Le viseur est lumineux et clair. En plus d’une mire indiquant le point d’aut
 Contrairement à un appareil photo entièrement manuel, le mju:II fait un peu de bruit. C’est d’ailleurs souvent le cas dans la gamme des point & shoot. Déclencher provoque immédiatement un son lorsque l’objectif fait sa mise au point et avance la bobine d’une nouvelle pose. Une fois que vous avez terminé une pellicule, le rembobinage motorisé automatique dure un certain temps et n’est pas vraiment discret.
 
 {{< photoset always="2" >}}
-{{< photo src="000062..jpg" alt="Olympus mju:II, le meilleur Point & Shoot ? Revue et manuel d’utilisation">}}
+{{< photo src="000062.jpg" alt="Olympus mju:II, le meilleur Point & Shoot ? Revue et manuel d’utilisation">}}
 {{< photo src="000064.jpg" alt="Olympus mju:II, le meilleur Point & Shoot ? Revue et manuel d’utilisation">}}
 {{</ photoset >}}
 
 {{< photoset always="2" >}}
 {{< photo src="000022.jpg" alt="Olympus mju:II, le meilleur Point & Shoot ? Revue et manuel d’utilisation">}}
-{{< photo src="000014..jpg" alt="Olympus mju:II, le meilleur Point & Shoot ? Revue et manuel d’utilisation">}}
+{{< photo src="000014.jpg" alt="Olympus mju:II, le meilleur Point & Shoot ? Revue et manuel d’utilisation">}}
 {{</ photoset >}}
 
 L’exposition automatique est très cohérente. Dans mon utilisation, toutes les photos sont bien exposées, même dans des conditions assez difficiles. Les seuls ratés que j’ai pu avoir étaient à cause d’une mise au point totalement à côté de la plaque, mais ça représente 2 images sur trois pellicules shootées dans l’été.
@@ -68,9 +68,10 @@ Malgré sa petite taille, l’appareil photo peut produire des images assez impr
 
 <div style="max-width: 57rem!important; background-color: #F3F3F3;border:1px solid #F3F3F3;padding:24px;text-align:center;"><a href="https://www.dropbox.com/s/d0v88iz4alg8j4n/Olympus-Mju-II_NoticeFR.pdf?dl=0" target="_blank" style="border-bottom: none;"><img src="noticemjuii.png" ></a></div>
 
+
 ### Alternatives à l’Olympus mju:II
 
-Comme je l’ai dit précédemment, le mju:II a atteint un statut de culte et sa côte ne fait qu’augmenter au fil des ans. Il est proche d’un [Yashica T4](https://ebay.us/zNIBKh) en prix, mais beaucoup plus accessible que les cultissimes Contax T2, Nikon 35Ti et Ricoh GR. Comme tous les point & shoot de cette génération, l’Olympus mju:II sera moins fiable et durable qu’un appareil mécanique, mais c’est sans doute celui qui est le plus abordable parmi les appareils cultes.  
+Comme je l’ai dit précédemment, le mju:II a atteint un statut de culte et sa côte ne fait qu’augmenter au fil des ans. Il est proche d’un [Yashica T4](https://ebay.us/zNIBKh) en prix, mais beaucoup plus accessible que les cultissimes [Contax T2](https://ebay.us/Om3vhA), [Nikon 35Ti](https://ebay.us/uCzbxx) et [Ricoh GR](https://ebay.us/vYnXXB). Comme tous les point & shoot de cette génération, l’Olympus mju:II sera moins fiable et durable qu’un appareil mécanique, mais c’est sans doute celui qui est le plus abordable parmi les appareils cultes.  
 
 Finalement, le meilleur appareil photo de poche est celui que l’on a tout le temps dans sa poche et difficile de détrôner le smartphone qui excelle dans le domaine. En revanche, si vous souhaitez garder la nostalgie de la pellicule et l’amour du grain, l’Olympus mju:II sera sans doute le meilleur choix.
 
