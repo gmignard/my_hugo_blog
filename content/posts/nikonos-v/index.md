@@ -7,7 +7,8 @@ slug: "nikonos-v"
 categories:
 - analog
 - watershot
-- Gérardtags: ["Analog", "Argentique", "Pellicule", "Nikon", "Nikonos", "Nikonos V", "Watershot", "Aquashoot", "Aquashot", "Surf", "Surfing", "Portra 800", "Portra 400", "135mm", "35mm"]
+- gear
+tags: ["Analog", "Argentique", "Pellicule", "Nikon", "Nikonos", "Nikonos V", "Watershot", "Aquashoot", "Aquashot", "Surf", "Surfing", "Portra 800", "Portra 400", "135mm", "35mm"]
 description: "Revue du Nikonos V, un appareil photo argentique étanche pour la photo aquatique et sous-marine."
 resources:
 - src: "cover.jpg"
