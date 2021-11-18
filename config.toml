@@ -41,11 +41,11 @@ paginate = 12
   categories = "Catégories"
 
 [params.social]
-  email = "greg@gregorymignard.com"
+  email = "hello@gregorymignard.com"
   domain = "Grégory Mignard"
   twitter = "gregmignard"
   instagram = "gregmignard"
-  youtube = "captainyvon"
+  vimeo = "captainyvon"
   discord = "cttJYAgF2Q"
 
 [params.tinyletter]
@@ -71,8 +71,8 @@ paginate = 12
   identifier = "blog"
   url = "/posts/"
 [[menu.main]]
-  name = "À Propos"
-  title = "Infos & Contact"
+  name = "Now"
+  title = "Infos"
   weight = 5
   identifier = "now"
   url = "/now"
