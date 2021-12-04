@@ -53,14 +53,14 @@ paginate = 12
   title = "Poursuivre l'aventure..."
   description = "mais si tu veux quelques exclusivités, abonnes-toi à ma newsletter 📝."
 [[menu.main]]
-  name = "Home"
-  title = "Home"
+  name = "Work"
+  title = "Travaillons ensemble"
   weight = 1
-  identifier = "home"
-  url = "/"
+  identifier = "work"
+  url = "/work"
 [[menu.main]]
   name = "Grain"
-  title = "Archives argentiques"
+  title = "Séries photo du quotidien"
   weight = 2
   identifier = "grain"
   url = "/grain"
