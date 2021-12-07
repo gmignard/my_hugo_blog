@@ -30,8 +30,7 @@ paginate = 12
 
   hasLogo = true
   accentColor = "#4A85A7"
-
-#heroHeader = false
+  heroHeader = false
 
 [taxonomies]
   category = "categories"
