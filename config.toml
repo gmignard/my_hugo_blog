@@ -25,8 +25,8 @@ paginate = 12
   tags = []
 
   sansSerifFont = "Josefin Sans"
-  titleFont = "Domine"
-  bodyFont = "Nunito Sans"
+  titleFont = "Rubik:wght@500"
+  bodyFont = "Roboto:wght@300"
 
   hasLogo = true
   accentColor = "#4A85A7"
@@ -52,29 +52,23 @@ paginate = 12
   title = "Poursuivre l'aventure..."
   description = "mais si tu veux quelques exclusivités, abonnes-toi à ma newsletter 📝."
 [[menu.main]]
-  name = "Work"
-  title = "Travaillons ensemble"
+  name = "Now"
+  title = "Infos du moment"
   weight = 1
-  identifier = "work"
-  url = "/work"
-[[menu.main]]
-  name = "Grain"
-  title = "Séries photo du quotidien"
-  weight = 2
-  identifier = "grain"
-  url = "/grain"
+  identifier = "now"
+  url = "/now"
 [[menu.main]]
   name = "Blog"
   title = "Récits & Technique"
-  weight = 3
+  weight = 2
   identifier = "blog"
   url = "/posts/"
 [[menu.main]]
-  name = "Now"
-  title = "Infos"
-  weight = 5
-  identifier = "now"
-  url = "/now"
+  name = "Grain"
+  title = "Séries photo du quotidien"
+  weight = 3
+  identifier = "grain"
+  url = "/grain"
 
 [[related.indices]]
   name = "categories"
