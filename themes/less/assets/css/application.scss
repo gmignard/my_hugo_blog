@@ -143,15 +143,13 @@ footer {
   padding: 50px;
   text-align: center;
   position: relative;
-  background-color: var(--onyx);
-  color: var(--white-text);
+  background-color: var(--white-background);
+  color: var(--onyx);
   line-height: 37px;
   clear:both;
   a, a:visited, a:hover {
-    color: var(--white-text);
+    color: var(--onyx);
     padding-bottom: 2px;
-    text-shadow: -1px -1px 0 var(--onyx), 1px -1px 0 var(--onyx), -1px 1px 0 var(--onyx), 1px 1px 0 var(--onyx);
-    background-image: linear-gradient(to top, transparent, transparent 2px, #f8f8f8 2px, #f8f8f8 2.5px, transparent 2.5px);
     border-bottom: none;
   }
 }
