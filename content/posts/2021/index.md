@@ -16,28 +16,28 @@ resources:
 
 Par où commencer ? Il y a tellement à dire sur cette année 2020 que je ne sais pas trop par quel bout attaquer cette sorte de rétrospective, cette tradition qui arrive naturellement chaque année sur le blog, comme une envie d’écriture un peu plus régulière quand le temps devient un peu plus mauvais. Je crois que la meilleure solution pour revenir sur cette année est de reprendre le calendrier et les archives dans l’ordre, soyons logique après tout !
 
-### Planchette et Nikonos
+### Planchette & Nikonos
 
 jhghjgghj
 
-{{< photo src="end.jpg" alt="Planchette et Nikonos">}}
+{{< photo src="planchette_nikonos_6.jpg" alt="Planchette et Nikonos">}}
 
 {{< photoset max="2" >}}
-  {{< photo src="asymetrie_1.jpg" alt="Planchette et Nikonos" >}}
-  {{< photo src="asymetrie_2.jpg" alt="Planchette et Nikonos" >}}
+  {{< photo src="planchette_nikonos_2.jpg" alt="Planchette et Nikonos" >}}
+  {{< photo src="planchette_nikonos_4.jpg" alt="Planchette et Nikonos" >}}
 {{</ photoset >}}
 
 ygfhgfhgf
 
 {{< photoset max="3" >}}
-  {{< photo src="deconfinement_3.jpg" alt="Planchette et Nikonos" >}}
-  {{< photo src="deconfinement_4.jpg" alt="Planchette et Nikonos" >}}
-  {{< photo src="deconfinement_5.jpg" alt="Planchette et Nikonos" >}}
+  {{< photo src="planchette_nikonos_7.jpg" alt="Planchette et Nikonos" >}}
+  {{< photo src="planchette_nikonos_3.jpg" alt="Planchette et Nikonos" >}}
+  {{< photo src="planchette_nikonos_8.jpg" alt="Planchette et Nikonos" >}}
 {{</ photoset >}}
 
 {{< photoset max="2" >}}
-  {{< photo src="asymetrie_1.jpg" alt="Planchette et Nikonos" >}}
-  {{< photo src="asymetrie_2.jpg" alt="Planchette et Nikonos" >}}
+  {{< photo src="planchette_nikonos_1.jpg" alt="Planchette et Nikonos" >}}
+  {{< photo src="planchette_nikonos_5.jpg" alt="Planchette et Nikonos" >}}
 {{</ photoset >}}
 
 ### IMMERSION
