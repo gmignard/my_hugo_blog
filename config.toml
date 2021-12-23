@@ -25,7 +25,7 @@ paginate = 12
   tags = []
 
   sansSerifFont = "Cabin"
-  titleFont = "PT Sans"
+  titleFont = "Rubik"
   bodyFont = "Cormorant Garamond"
 
   hasLogo = true
