@@ -29,12 +29,6 @@ jhghjgghj
 
 ygfhgfhgf
 
-{{< photoset max="3" >}}
-  {{< photo src="planchette_nikonos_7.jpg" alt="Planchette et Nikonos" >}}
-  {{< photo src="planchette_nikonos_3.jpg" alt="Planchette et Nikonos" >}}
-  {{< photo src="planchette_nikonos_8.jpg" alt="Planchette et Nikonos" >}}
-{{</ photoset >}}
-
 {{< photoset max="2" >}}
   {{< photo src="planchette_nikonos_1.jpg" alt="Planchette et Nikonos" >}}
   {{< photo src="planchette_nikonos_5.jpg" alt="Planchette et Nikonos" >}}
@@ -43,8 +37,6 @@ ygfhgfhgf
 ### IMMERSION
 
 Ce mot est omniprésent dans notre quotidien depuis suffisamment longtemps que l’on a presque du mal à imaginer que cette année, il y a eu un « avant ». Il n’a pas duré bien longtemps, comme tout le monde, j’étais bien loin d’imaginer la tournure qu’allait prendre cette année et c’est avec quelques basiques résolutions que j’ai croqué à pleines dents dans 2020. Début janvier, [je me décidais à quitter Sony](https://gregorymignard.com/equipement/) pour mon équipement photo et vidéo et en février, j’ai profité d’un mini roadtrip en solo pour réaliser mon premier projet de l’année, « [Asymétrie](https://gregorymignard.com/asymetrie/) ».
-
-{{< photo src="immersion.jpg" alt="IMMERSION">}}
 
 <div>
 {{< vimeo 557104447 >}}
@@ -74,6 +66,8 @@ Après quelques jours à se caler et s’organiser, nous avons finalement plutô
   {{< photo src="SlowisBeautiful_5.jpg" alt="Slow is Beautiful" >}}
   {{< photo src="SlowisBeautiful_3.jpg" alt="Slow is Beautiful" >}}
 {{</ photoset >}}
+
+### Beaucoup (trop ?) de photo argentique
 
 ### Les dernières vadrouilles en van
 
