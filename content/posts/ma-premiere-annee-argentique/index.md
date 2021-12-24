@@ -17,6 +17,8 @@ resources:
 Il y a environ un an, j’annonçais un [retour à la photographie argentique](https://gregorymignard.com/de-la-peloche-dans-le-frigo/). Plus qu’un retour, je pense que c’est surtout la première fois que je me mettais sérieusement et à fond dans cette pratique.  
 Durant cette année, je pense qu’en dehors de quelques rares exceptions, toutes mes photos personnelles ont été réalisées sur des pellicules. J’avais besoin de lâcher prise, de m’éloigner un peu de cette quantité, de ce besoin de créer pour répondre à un algorithme, je voulais retrouver la saveur et ma passion pour la photographie. Je peux dire que c’est mission accomplie grâce à la photo argentique.
 
+{{< photo src="cover.jpg" alt="Ma première année de photos argentiques">}}
+
 {{< photo src="000067.jpg" alt="Ma première année de photos argentiques">}}
 
 Durant cette année, j’ai testé différents types de pellicules, j’ai acheté des appareils, des objectifs, revendus d’autres pour en racheter de nouveaux… Clairement, la photo argentique, c’est aussi acheter souvent du matériel, fort heureusement, le matériel se déniche parfois à bon prix, c’est même un chouette jeu d’essayer de trouver des pépites.  
@@ -45,7 +47,7 @@ Au de la de l’aspect matériel, j’ai vraiment le sentiment d’avoir renoué
 En revanche, il est clair que l’argentique aura transformé ma pratique. Je déclenche clairement moins, je prends davantage mon temps et je savoure chaque moment. L’intemporalité de l’argentique rend totalement addict. Attendre d’avoir quelques rolls de prêts, les envoyer chez [Mori Film Lab](https://fr.morifilmlab.com), attendre de recevoir ses scans, redécouvrir et archiver ses images, un petit plaisir supérieur à celui de vider ses cartes-mémoires le soir même.  
 Pour l’instant, je ne souffre pas du coût de la photo argentique. Comme je le disais, les appareils peuvent être bon marché, le développement est accessible et comme je shoote finalement peu, ou plutôt dans les bons moments, ça reste un petit plaisir très accessible. En revanche, [la tendance du coût de la pellicule est en hausse](https://kosmofoto.com/2021/10/kodak-alaris-announces-significant-price-increases-for-january-2022/) et semble bien motivée à continuer ainsi. Sans doute une raison pour laquelle je garde également la photographie numérique en plus.
 
-Le plus dur dans tout ça est de savoir quels appareil et film choisir avant de sortir faire des images. 
+Le plus dur dans tout ça est de savoir quels appareil et film choisir avant de sortir faire des images.
 
 {{< photo src="000045.jpg" alt="Ma première année de photos argentiques">}}
 

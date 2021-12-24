@@ -26,13 +26,7 @@ C’est comme ça qu’avec mon ami [Jeremy Janin](https://jeremyjanin.com/) nou
 
 Amoureux de la nature et des grands espaces, je partage les plaisirs outdoor avec ma famille. J’essaye de transmettre des valeurs responsables à mes enfants en les sensibilisant à l’océan, au sauvage. Nous aimons ralentir, prendre le temps d’observer et de nous imprégner de chaque lieu, sans doute pour ça qu’on aime bien partir avec notre van, c’est forcément lent comme approche.  
 
-<div>
-{{< youtube uP0zJIsWPS8 >}}
-</div>
-
-Je suis d’ailleurs ambassadeur du programme [Outdoor Sentinel](https://www.lafuma.com/fr/outdoor-sentinels) de la marque Lafuma avec qui je partage ces valeurs en contribuant à différents projets liés à l’environnement. J’essaye de faire ma part en gros. Je suis même membre du collectif [1% for the Planet](https://www.onepercentfortheplanet.fr/) en reversant une partie de mon chiffre d’affaires au profit d’associations environnementales.  
+J’essaye de faire ma part en gros. Je suis même membre du collectif [1% for the Planet](https://www.onepercentfortheplanet.fr/) en reversant une partie de mon chiffre d’affaires au profit d’associations environnementales.  
 Ce ralentissement, cette décroissance me suit jusque dans le choix de mon matériel vidéo, j’essaye de ne plus craquer à chaque nouveauté technologique, mais plutôt d’adopter un setup durable et efficace. D’ailleurs, pas loin de la totalité de ma pratique photo personnelle se fait désormais en [argentique](https://gregorymignard.com/grain/). Si tu veux en savoir plus sur le matériel utilisé, [j’ai fait une page détaillée](https://gregorymignard.com/equipement/).
 
-<div style="max-width: 57rem!important; background-color: #F3F3F3;border:1px solid #F3F3F3;padding:24px;text-align:center;font-style: italic;"><p><a href="https://captainyvon.fr/" target="_blank" style="border-bottom: none;""><img src="cys.png" /></a></p><p>Pour les demandes de prestations (reportage, réalisation de vidéo, etc.),<br/>merci de m’envoyer un mail à cette adresse : studio@captainyvon.fr.<br/>•••<br/>Si vous voulez me suivre de plus près ou juste papoter, n’hésitez pas à le faire via<br/><a href="https://twitter.com/gregmignard/" target="_blank">Twitter</a>, <a href="https://instagram.com/gregmignard/" target="_blank">Instagram</a> ou bien un petit mot à greg@gregorymignard.com.</p><p><a href="https://www.onepercentfortheplanet.fr/" target="_blank" style="border-bottom: none;""><img src="1percent.png" /></a></p></div>
-
-*C’est la version 2021.08.06 de cette page Now. Si tu veux en savoir plus sur la page /now, [vas donc voir par ici](https://nownownow.com/about).*
+*C’est la version 2021.12.06 de cette page Now. Si tu veux en savoir plus sur la page /now, [vas donc voir par ici](https://nownownow.com/about).*

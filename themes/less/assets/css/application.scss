@@ -50,13 +50,13 @@ svg {
 body {
   height: 100%;
   color: var(--onyx);
-  font-size: 1.1rem;
+  font-size: 1.36rem;
   font-weight: 300;
   margin: 0;
   padding: 0;
   font-family:  var(--serif-font);
   text-rendering: optimizeLegibility;
-  line-height: 1.62;
+  line-height: 1.53;
 }
 
 a {
@@ -71,28 +71,33 @@ a:hover {
 
 h1.large {
   font-size: 3.7rem;
+  font-weight: 700;
 }
 h1 {
   font-size: 2.8rem;
+  font-weight: 700;
 }
 h2, h1.medium {
   font-size: 2.9rem;
-  font-weight: normal;
-  text-transform: capitalize;
+  font-weight: 700;
+  text-transform: normal;
 }
 h3 {
   font-size: 1.6rem;
-  text-transform: capitalize;
+  font-weight: 700;
+  text-transform: normal;
 }
 h4 {
   font-size: 1.6rem;
-  font-weight: 400;
+  font-weight: 700;
 }
 h5 {
   font-size: 1.6rem;
+  font-weight: 700;
 }
 .post h2 {
   font-size: 1.6rem;
+  font-weight: 700;
   text-transform: normal;
   margin: 20px 0;
 }
@@ -100,7 +105,7 @@ h5 {
 h1, h2, h3, h4, h5 {
   margin: 0;
   text-align: center;
-  font-weight: normal;
+  font-weight: 700;
   font-family: var(--title-font);
 }
 .title {
@@ -138,16 +143,13 @@ footer {
   padding: 50px;
   text-align: center;
   position: relative;
-  background-image: url(waves.png);
-  background-color: var(--onyx);
-  color: var(--white-text);
+  background-color: var(--white-background);
+  color: var(--onyx);
   line-height: 37px;
   clear:both;
   a, a:visited, a:hover {
-    color: var(--white-text);
+    color: var(--onyx);
     padding-bottom: 2px;
-    text-shadow: -1px -1px 0 var(--onyx), 1px -1px 0 var(--onyx), -1px 1px 0 var(--onyx), 1px 1px 0 var(--onyx);
-    background-image: linear-gradient(to top, transparent, transparent 2px, #f8f8f8 2px, #f8f8f8 2.5px, transparent 2.5px);
     border-bottom: none;
   }
 }
