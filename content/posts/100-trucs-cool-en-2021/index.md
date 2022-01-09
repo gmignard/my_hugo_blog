@@ -130,7 +130,7 @@ resources:
 
 57. On a pris plaisir à redécouvrir Brest après 2 années de COVID.
 
-58. J’appris à shooter en JPG.
+58. J’ai appris à shooter en JPG.
 
 59. On est allés sur l’île de Batz pour la première fois.
 
