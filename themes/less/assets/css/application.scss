@@ -493,11 +493,11 @@ img {
 a.link-block {
     display: block;
     margin-bottom: 30px;
-    background-color: #0b2e43;
+    background-color: var(--white-background);
     padding: 25px;
     text-decoration: none;
     background-image: none;
-    color: #fff;
+    color: var(--onyx);
     border-bottom: none;
 }
 
@@ -510,8 +510,7 @@ span.link-title {
 span.link-subtitle {
     display: block;
     margin-top: 8px;
-    font-style: italic;
-    font-size: 14px;
+    font-size: 17px;
 }
 
 .hidden {
