@@ -11,8 +11,6 @@ resources:
 - src: "*.jpg"
 ---
 
-Teñval signifie « obscur, sombre » en Breton. C’est le nom que j’ai donné à ce triptyque photographié en décembre 2020 dans le Finistère Nord lors d’une session de surf avec un ciel chargé. Cette petite série est un tirage limité à 30 exemplaires et ne sera pas réimprimée après écoulement des stocks.
-
 * Format 30x45cm
 * Papier Hahnemühle Photo Baryta Bright White 350g/m2
 * Photo vendue sans cadre
