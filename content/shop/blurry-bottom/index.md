@@ -1,10 +1,10 @@
 ---
-title: "Blurry Bottom"
+title: "Blurry Bottom | Fine Art Print"
 subtitle: "75€"
 seotitle: "Blurry Bottom | Fine Art Print"
 draft: false
 grid: "cover"
-price_id: "price_1KIr7VH3a7SzE1LPEjc4qYZo"
+price_id: "price_1KIsCJH3a7SzE1LPe5Y8MrCm"
 categories:
 - print
 resources:
