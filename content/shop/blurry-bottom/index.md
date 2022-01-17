@@ -17,6 +17,7 @@ Teñval signifie « obscur, sombre » en Breton. C’est le nom que j’ai d
 * Format 30x45cm
 * Marge blanche
 * Édition limitée à 30 exemplaires, numérotés et signés
+* Impression à la demande. Délai d'impression 3 à 8 jours
 * Frais de port offerts
 
 {{< photo src="cover" alt="Blurry Bottom">}}
