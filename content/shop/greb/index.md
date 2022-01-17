@@ -1,11 +1,11 @@
 ---
 title: "Greb | Fine Art Print"
-subtitle: "75€"
+subtitle: "175€"
 seotitle: "Greb | Fine Art Print"
 date: 2022-01-17T10:00:50+01:00
 draft: false
 grid: "cover"
-price_id: "price_1KIsCJH3a7SzE1LPe5Y8MrCm"
+price_id: "price_1KIwcRH3a7SzE1LPmeg0shEi"
 categories:
 - print
 resources:
@@ -13,7 +13,7 @@ resources:
 ---
 
 
-* Format 30x45cm
+* Format 50x75cm
 * Papier Hahnemühle Photo Baryta Bright White 350g/m2
 * Photo vendue sans cadre
 * Édition limitée à 30 exemplaires, numérotés et signés
