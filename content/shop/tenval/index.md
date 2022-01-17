@@ -1,7 +1,7 @@
 ---
-title: "Teñval"
+title: "Teñval | Triptyque"
 subtitle: "32€"
-seotitle: "Teñval - Triptyque A5"
+seotitle: "Teñval | Triptyque"
 draft: false
 grid: "cover"
 price_id: "price_1JsonNH3a7SzE1LPjODp7doK"
