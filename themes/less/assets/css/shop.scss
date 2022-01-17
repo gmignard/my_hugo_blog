@@ -33,6 +33,23 @@
   align-items: center;
 }
 
+.shop-thumb{
+  margin-bottom: 0.2rem;
+  picture {
+    overflow: hidden;
+    padding-top: 63%;
+    position: relative;
+    height: auto;
+    width: 100%;
+    display: block;
+    img, source {
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+  }
+}
+
 .shop-header{
   margin: 0 1rem;
   text-align: left;
@@ -50,22 +67,6 @@
   h5 {
     text-align: center;
     opacity: 0.3;
-  }
-  .post-thumb {
-    margin-bottom: 1rem;
-    picture {
-      overflow: hidden;
-      padding-top: 63%;
-      position: relative;
-      height: auto;
-      width: 100%;
-      display: block;
-      img, source {
-        position: absolute;
-        top: 0;
-        left: 0;
-      }
-    }
   }
 }
 .shop-wrapper {
