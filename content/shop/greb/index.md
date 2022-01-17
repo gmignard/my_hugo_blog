@@ -2,7 +2,7 @@
 title: "Greb | Fine Art Print"
 subtitle: "175€"
 seotitle: "Greb | Fine Art Print"
-date: 2022-01-17T10:00:50+01:00
+date: 2022-01-05T10:00:50+01:00
 draft: false
 grid: "cover"
 price_id: "price_1KIwcRH3a7SzE1LPmeg0shEi"
