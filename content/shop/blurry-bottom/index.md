@@ -11,6 +11,7 @@ resources:
 - src: "*.jpg"
 ---
 
+
 * Format 30x45cm
 * Papier Hahnemühle Photo Baryta Bright White 350g/m2
 * Photo vendue sans cadre
