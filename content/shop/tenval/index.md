@@ -2,6 +2,7 @@
 title: "Teñval | Triptyque"
 subtitle: "32€"
 seotitle: "Teñval | Triptyque"
+date: 2021-11-17T10:00:50+01:00
 draft: false
 grid: "cover"
 price_id: "price_1JsonNH3a7SzE1LPjODp7doK"
