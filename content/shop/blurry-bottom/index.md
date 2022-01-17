@@ -1,6 +1,6 @@
 ---
 title: "Blurry Bottom"
-subtitle: "32€"
+subtitle: "75€"
 seotitle: "Blurry Bottom | Fine Art Print"
 draft: false
 grid: "cover"
