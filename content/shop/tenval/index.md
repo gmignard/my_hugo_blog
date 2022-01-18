@@ -18,6 +18,5 @@ Teñval signifie « obscur, sombre » en Breton. C’est le nom que j’ai d
 * Format 15x21cm
 * Édition limitée à 30 exemplaires, numérotés et signés
 * Frais de port offerts
-* 1% For the Planet
 
 {{< photo src="cover" alt="Teñval">}}
