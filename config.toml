@@ -58,10 +58,10 @@ paginate = 12
   identifier = "now"
   url = "/now"
 [[menu.main]]
-  name = "Blog"
+  name = "Journal"
   title = "Récits & Technique"
   weight = 2
-  identifier = "blog"
+  identifier = "journal"
   url = "/posts/"
 [[menu.main]]
   name = "Grain"

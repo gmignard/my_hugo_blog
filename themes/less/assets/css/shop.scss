@@ -33,6 +33,23 @@
   align-items: center;
 }
 
+.shop-thumb{
+  margin-bottom: 0.2rem;
+  picture {
+    overflow: hidden;
+    padding-top: 63%;
+    position: relative;
+    height: auto;
+    width: 100%;
+    display: block;
+    img, source {
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+  }
+}
+
 .shop-header{
   margin: 0 1rem;
   text-align: left;
@@ -42,14 +59,15 @@
     border-bottom: none;
   }
   h3.title {
-    text-align: left;
-    font-size: 1.9rem;
+    text-align: center;
+    font-size: 1.1rem;
     a { color: var(--onyx); border-bottom: none; }
     a:hover { color: var(--accent); border-bottom: none; }
   }
   h5 {
-    text-align: left;
-    opacity: 0.7;
+    text-align: center;
+    font-size: 1.1rem;
+    opacity: 0.3;
   }
 }
 .shop-wrapper {
@@ -79,7 +97,7 @@
       margin-top: 1rem;
       cursor: pointer;
       border-radius: 0.125rem;
-      background-color: var(--accent);
+      background-color: #17384c;
       appearance: none;
       color: white;
       border-style: none;

@@ -1,7 +1,8 @@
 ---
-title: "Teñval"
+title: "Teñval | Triptyque"
 subtitle: "32€"
-seotitle: "Teñval - Triptyque A5"
+seotitle: "Teñval | Triptyque"
+date: 2021-11-17T10:00:50+01:00
 draft: false
 grid: "cover"
 price_id: "price_1JsonNH3a7SzE1LPjODp7doK"
@@ -17,6 +18,5 @@ Teñval signifie « obscur, sombre » en Breton. C’est le nom que j’ai d
 * Format 15x21cm
 * Édition limitée à 30 exemplaires, numérotés et signés
 * Frais de port offerts
-* 1% For the Planet
 
 {{< photo src="cover" alt="Teñval">}}
