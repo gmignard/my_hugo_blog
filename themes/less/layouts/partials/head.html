@@ -1,10 +1,10 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  {{ $style := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS }}
+  {{ $style := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS | postCSS}}
   {{ if .Site.IsServer }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
   {{ else }}
-    {{ $style := $style | minify | fingerprint }}
+    {{ $style := $style | minify | fingerprint | resources.PostProcess }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
   {{ end }}
   <link rel="icon" href="{{ "/favicon.ico" | absURL }}">

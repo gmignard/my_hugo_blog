@@ -9,6 +9,8 @@ enableRobotsTXT = true
 canonifyURLs = true
 paginate = 12
 
+[build]
+  writeStats = true
 
 [author]
   name = "Grégory Mignard"

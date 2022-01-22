@@ -1,13 +1,13 @@
 [context.production.environment]
-  HUGO_VERSION = "0.87.0"
+  HUGO_VERSION = "0.92.0"
 [context.deploy-preview]
   command = "hugo -b $DEPLOY_PRIME_URL -v -D -E -F"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.87.0"
+  HUGO_VERSION = "0.92.0"
 [context.branch-deploy]
   command = "hugo -b $DEPLOY_PRIME_URL -v -D -E -F"
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.87.0"
+  HUGO_VERSION = "0.92.0"
 
 [[headers]]
   for = "*.js" # js files should be set this way
