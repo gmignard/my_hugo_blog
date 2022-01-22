@@ -521,3 +521,9 @@ span.link-subtitle {
 .hidden {
   display: none;
 }
+.mgrid img {
+  width: calc(100% - var(--gap, 18px));
+  height: calc(100% - var(--gap, 18px));
+  left: calc(var(--gap, 18px) * 0.5);
+  top: calc(var(--gap, 18px) * 0.5);
+}
