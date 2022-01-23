@@ -53,24 +53,25 @@ paginate = 12
   username = "captainyvon"
   title = "Poursuivre l'aventure..."
   description = "mais si tu veux quelques exclusivités, abonnes-toi à ma newsletter 📝."
-[[menu.main]]
-  name = "Now"
-  title = "Infos du moment"
-  weight = 1
-  identifier = "now"
-  url = "/now"
-[[menu.main]]
-  name = "Blog"
-  title = "Récits & Technique"
-  weight = 2
-  identifier = "blog"
-  url = "/posts/"
+
 [[menu.main]]
   name = "Everyday"
   title = "Des photos du quotidien"
-  weight = 3
+  weight = 2
   identifier = "everyday"
   url = "/everyday"
+[[menu.main]]
+  name = "Blog"
+  title = "Récits & Technique"
+  weight = 3
+  identifier = "blog"
+  url = "/posts/"
+[[menu.main]]
+  name = "Now"
+  title = "Infos du moment"
+  weight = 4
+  identifier = "now"
+  url = "/now"
 
 [[related.indices]]
   name = "categories"
