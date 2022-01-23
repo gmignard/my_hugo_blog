@@ -60,17 +60,17 @@ paginate = 12
   identifier = "now"
   url = "/now"
 [[menu.main]]
-  name = "Journal"
+  name = "Blog"
   title = "Récits & Technique"
   weight = 2
-  identifier = "journal"
+  identifier = "blog"
   url = "/posts/"
 [[menu.main]]
-  name = "Grain"
-  title = "Séries photo du quotidien"
+  name = "Everyday"
+  title = "Des photos du quotidien"
   weight = 3
-  identifier = "grain"
-  url = "/grain"
+  identifier = "everyday"
+  url = "/everyday"
 
 [[related.indices]]
   name = "categories"
