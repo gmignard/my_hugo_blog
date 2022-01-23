@@ -1,3 +1,7 @@
+@import "node_modules/tailwindcss/base";
+@import "node_modules/tailwindcss/components";
+@import "node_modules/tailwindcss/utilities";
+
 :root {
   --serif-font: "{{ .Site.Params.bodyFont }}", serif;
   --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
@@ -7,7 +11,8 @@
   --white-text: #FAFAFA;
   --white-background: #F3F3F3;
   --max-width: 74rem;
-  --light-gray: rgba(0,0,0,0.3)
+  --light-gray: rgba(0,0,0,0.3);
+  --gap: 18px;
 }
 
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
@@ -245,55 +250,6 @@ img {
       margin-bottom: 25px;
     }
   }
-
-  .micropost {
-     h1 {
-      text-align: center;
-      font-size: 4.8rem;
-      text-transform: capitalize;
-      margin-left: 35px;
-      margin-right: 35px;
-      a {
-        color: var(--onyx);
-        text-decoration: none;
-        border-bottom: none;
-        position: relative;
-        text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-        background-image: none;
-        transition: color 0.5s, background-image 0.5s linear;
-          &:hover {
-            color: var(--onyx);
-            text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-            background-image: none;
-          }
-        }
-      }
-    }
-
-  .micropost {
-    .date {
-      text-align: center;
-      font-style: normal;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-      display: block;
-      color: rgba(0,0,0,0.3);
-      margin-top: -40px;
-      margin-bottom: 40px;
-      margin-left: 35px;
-      margin-right: 35px;
-    }
-    margin: 30px auto;
-    p { margin: 10px 0 20px 0;
-      margin-left: 35px;
-      margin-right: 35px;
-    }
-    a {
-      font-style: normal;
-      font-weight: normal;
-    }
-  }
 }
 
 /*! PhotoSwipe main CSS by Dmitry Semenov | photoswipe.com | MIT license */
@@ -515,4 +471,10 @@ span.link-subtitle {
 
 .hidden {
   display: none;
+}
+.mgrid img {
+  width: calc(100% - var(--gap, 18px));
+  height: calc(100% - var(--gap, 18px));
+  left: calc(var(--gap, 18px) * 0.5);
+  top: calc(var(--gap, 18px) * 0.5);
 }
