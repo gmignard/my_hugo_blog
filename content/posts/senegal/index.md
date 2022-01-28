@@ -41,7 +41,7 @@ Cet air iodé, les sessions jusqu’à en avoir mal aux bras et terminer par une
 
 {{< photoset always="2" >}}
 {{< photo src="senegal_5.webp" alt="Sénégal">}}
-{{< photo src="cover.webp" alt="Sénégal">}}
+{{< photo src="cover" alt="Sénégal">}}
 {{</ photoset >}}
 {{< photoset max="3" >}}
   {{< photo src="senegal_4.webp" alt="Sénégal" >}}
