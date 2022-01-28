@@ -20,16 +20,16 @@ Il faut dire que ce n’était pas un simple voyage, j’y suis resté deux ans.
 Quand j’y ai posé mes valises en juillet 2010, j’avais 26 ans, j’étais célibataire et le premier truc que j’ai dû faire était d’acheter ce vieux Land Cruiser de 1989 dont je garde un souvenir incroyable. Ce vieux 4x4 m’aura emmené d’un bout à l’autre du pays, empruntant des centaines de kilomètres de pistes et de déserts.
 
 {{< photoset always="2" >}}
-{{< photo src="senegal_12" alt="Sénégal">}}
-{{< photo src="senegal_13" alt="Sénégal">}}
+{{< photo src="senegal_12.webp" alt="Sénégal">}}
+{{< photo src="senegal_13.webp" alt="Sénégal">}}
 {{</ photoset >}}
 {{< photoset always="2" >}}
-{{< photo src="senegal_6" alt="Sénégal">}}
-{{< photo src="senegal_7" alt="Sénégal">}}
+{{< photo src="senegal_6.webp" alt="Sénégal">}}
+{{< photo src="senegal_7.webp" alt="Sénégal">}}
 {{</ photoset >}}
 {{< photoset always="2" >}}
-{{< photo src="senegal_18" alt="Sénégal">}}
-{{< photo src="senegal_29" alt="Sénégal">}}
+{{< photo src="senegal_18.webp" alt="Sénégal">}}
+{{< photo src="senegal_29.webp" alt="Sénégal">}}
 {{</ photoset >}}
 
 Le plus marquant les premiers temps, c’était la conduite en ville. C’est la loi du plus gros et il faut s’imposer pour passer, se frayer des chemins. Même si le stress de la conduite s’est estompé au fil des mois, j’avoue que je prenais bien plus de plaisir quand j’étais seul dans les dunes ou sur les pistes, aussi défoncées soient-elles.
