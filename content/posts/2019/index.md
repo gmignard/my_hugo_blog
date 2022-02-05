@@ -6,7 +6,7 @@ date: 2019-12-25T10:00:50+01:00
 draft: false
 slug: "2019"
 categories:
-- stories
+- daily
 tags: ["rétrospective", "2019", "Best nine", "bilan"]
 description: "Je me suis amusé à sélection une sorte de mon best-of photo de l’année avec quelques moments marquants de mon année 2019."
 resources:
