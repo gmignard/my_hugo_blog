@@ -33,9 +33,9 @@ OBJECTIFS
 * [Fuji XF 10-24mm f/4 OIS WR](https://www.digit-photo.com/FUJI-XF-10-24mm-f-4-0-R-OIS-WR-rFUJI16666791.html?dpa_id=23) — *Zoom grand angle principalement utilisé sous l’eau*
 * [Fuji XF 56mm f/1.2 R](https://www.digit-photo.com/FUJI-XF-56mm-f-1-2-R-Noir-rFUJI11510.html?dpa_id=23) — *Objectif motorisé lumineux, pour le caisson étanche ou la gimbal*
 * [100-400mm f/4.5-5.6 R LM OIS WR](https://www.digit-photo.com/FUJI-XF-100-400mm-f-4-5-5-6-R-LM-OIS-WR-Noir-rFUJI16501109.html?dpa_id=23) — *Téléobjectif*
-* [Nikkor Ai 24mm f/2.8](https://ebay.us/1QiZvn) — *Optique vintage de charme à tout faire*
+* Nikkor Ai 24mm f/2.8 — *Optique vintage de charme à tout faire*
 * [Nikkor AF 35mm f/2 D](https://www.digit-photo.com/NIKON-35mm-AF-f-2-D-rOBNIJAA129DA.html?dpa_id=23) — *Un équivalent 50mm sur mon Fuji*
-* [Nikkor pré-Ai 55mm f/1.2](https://ebay.us/i8vdHY) — *Optique vintage lumineuse, équivalent 85mm sur le Fuji*
+* Nikkor pré-Ai 55mm f/1.2 — *Optique vintage lumineuse, équivalent 85mm sur le Fuji*
 
 FILTRES
 
@@ -57,13 +57,12 @@ ACCESSOIRES
 
 Depuis la fin 2020, je retrouve les joies de [la photographie argentique](https://gregorymignard.com/analog/) et pas loin de la totalité de ma pratique photo personnelle se fait désormais avec les appareils suivants :
 
-* [Olympus Mju II](https://ebay.us/yzWFjC) — *Un Point & Shoot ultra performant*
-* [Nikon FM2](https://ebay.us/d5ANCb) — *Mon 35mm favori, utilisé avec les mêmes objectifs cités ci-dessus*
-* [Nikonos V](https://ebay.us/p47TEI) — *Un 35mm étanche légendaire dont j'ai fais [la review](https://gregorymignard.com/nikonos-v/)*
+* Nikon FM2 — *Mon 35mm favori, utilisé avec les mêmes objectifs cités ci-dessus*
+* [Nikonos V](https://gregorymignard.com/nikonos-v/) — *Un 35mm étanche légendaire*
 
 Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23) et de la [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23), mais également très souvent de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23) et de [l'Ultramax 400](https://www.digit-photo.com/KODAK-Ultramax-400-135-36-Poses-X3-rKODAK41024389.html?dpa_id=23). Il m’arrive parfois de charger un peu de noir & blanc avec de la [400TX](https://www.digit-photo.com/KODAK-Tri-X-Pan135-400asa-36-Poses-rFNBK3872728.html?dpa_id=23) ou de la [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23).
 
-Je filme aussi à la Super 8 avec une [Canon 514 XL](https://ebay.us/LMVzWW) que j’utilise de manière occasionnelle avec des bandes de [Kodak Vision 3 50D](https://www.digit-photo.com/KODAK-Film-Vision3-50D-8mm-pour-Camera-Super-8-rKODAKKS850D.html?dpa_id=23).
+Je filme aussi à la Super 8 avec une Canon 514 XL que j’utilise de manière occasionnelle avec des bandes de [Kodak Vision 3 50D](https://www.digit-photo.com/KODAK-Film-Vision3-50D-8mm-pour-Camera-Super-8-rKODAKKS850D.html?dpa_id=23).
 
 J’envoi mes négatifs à développer et scanner chez [Mori Film Lab](https://morifilmlab.com/), il m’arrive parfois de numériser par moi-même avec mon DSLR et le plug-in [Negative Lab Pro](https://www.negativelabpro.com/).
 
