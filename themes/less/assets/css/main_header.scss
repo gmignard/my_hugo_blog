@@ -1,23 +1,4 @@
 .main_header {
-  margin: 0;
-  z-index: 6;
-
-  @media only screen and (max-width: 812px) {
-    padding: 10px 0;
-  }
-  .wrapped {
-    flex: auto;
-    flex-direction: row;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    @media only screen and (max-width: 812px) {
-      padding: 0;
-      margin-top: 5px;
-      flex-direction: column;
-      justify-content: center;
-    }
-  }
   .menu {
     flex: 1;
     flex-direction: row;
@@ -28,12 +9,8 @@
       flex-direction: column;
     }
   }
-  background-color: white;
   opacity: .95;
   padding: 20px 0px;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
   .social {
     svg {
       transition: all .4s ease-in-out;
