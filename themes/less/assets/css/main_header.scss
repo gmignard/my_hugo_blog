@@ -31,12 +31,9 @@
       margin-left: 10px;
     }
   }
-    .title {
-    flex: 1;
+  .title {
     margin: 0;
     font-size: 1.6rem;
-    display: flex;
-    justify-content: flex-start;
     a img { width: inherit; height: 100px; margin-bottom: -8px; color: var(--onyx);}
     @media only screen and (min-width: 812px) {
       margin-top: 5px;
