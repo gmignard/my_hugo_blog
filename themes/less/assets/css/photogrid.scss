@@ -1,5 +1,5 @@
 .medium-zoom-image--opened { object-fit: contain; }
-.grid {
+.photogrid {
   @media only screen and (max-width: 812px) {
     width: calc(100% - 2rem);
     max-width: 100%;
