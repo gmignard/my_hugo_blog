@@ -1,4 +1,14 @@
-<footer class="t09">
+<footer class="w-full p-12 text-sm grid grid-cols-1 lg:grid-cols-5 gap-4">
+  <div class="text-lg">
   © {{ now.Format "2006"}} {{ $.Site.Params.social.domain }}</br>
-  <a href="https://captainyvon.fr/">STUDIO</a> • <a href="/equipement/">ÉQUIPEMENT</a> • <a href="/go/">LINKS</a> • <a href="/now/">INFOS</a> • <a href="mailto:{{ $.Site.Params.social.email }}">CONTACT</a>
+  </div>
+  <div>
+    <!--Should be template -->
+    <ul>
+      <li><a href="https://captainyvon.fr/">STUDIO</a></li>
+      <li><a href="/equipement/">ÉQUIPEMENT</a></li>
+      <li><a href="/go/">LINKS</a></li>
+      <li><a href="/now/">INFOS</a></li>
+      <li><a href="mailto:{{ $.Site.Params.social.email }}">CONTACT</a></li>
+  </div>
 </footer>
