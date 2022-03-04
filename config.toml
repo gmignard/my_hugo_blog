@@ -28,7 +28,7 @@ paginate = 12
 
   sansSerifFont = "Cabin"
   titleFont = "Rubik"
-  bodyFont = "EB Garamond"
+  bodyFont = "Tinos"
 
   hasLogo = true
   accentColor = "#4A85A7"
