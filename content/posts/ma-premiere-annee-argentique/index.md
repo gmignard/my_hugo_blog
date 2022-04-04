@@ -5,6 +5,7 @@ seotitle: "Ma première année de photos argentiques  — Grégory Mignard"
 date: 2021-11-03 10:00:00 +0200
 slug: "ma-premiere-annee-argentique"
 categories:
+- daily
 - analog
 tags: ["Analog", "Argentique", "Film", "FM2", "Nikon", "Nikon FM2", "Olympus Mju II", "Kodak", "Fujifilm", "Kodak Portra", "Portra 400", "400H", "Tri X"]
 description: "L'art de lâcher prise et de retrouver du plaisir photographique en recentrant sa pratique photographique."

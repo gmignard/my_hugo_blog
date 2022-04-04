@@ -5,6 +5,7 @@ seotitle: "De la péloche dans le frigo ! — Grégory Mignard"
 date: 2020-11-28 13:00:00 +0200
 slug: "de-la-peloche-dans-le-frigo"
 categories:
+- daily
 - analog
 tags: ["Analog", "Argentique", "Film", "FM2", "Nikon", "Nikon FM2", "Olympus XA", "Kodak", "Fujifilm", "Kodak Portra", "Portra 400", "400H", "Tri X"]
 description: "Se remettre à la photographie argentique en 2020 ? Avec quel appareil photo ? Quels films ? 1er retour d’expérience."
