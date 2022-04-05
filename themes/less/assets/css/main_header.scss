@@ -1,14 +1,4 @@
 .main_header {
-  .menu {
-    flex: 1;
-    flex-direction: row;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    @media only screen and (max-width: 812px) {
-      flex-direction: column;
-    }
-  }
   opacity: .95;
   padding: 20px 0px;
   .social {
@@ -21,11 +11,6 @@
     @media only screen and (max-width: 812px) {
       display: none;
     }
-    flex-direction: row;
-    flex: 1;
-    justify-content: flex-end;
-    display: flex;
-    align-items: center;
     svg {
       margin: 0;
       margin-left: 10px;

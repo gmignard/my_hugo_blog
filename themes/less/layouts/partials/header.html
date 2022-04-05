@@ -15,26 +15,26 @@
     </header>
 {{ else }}
     <header class="main_header container max-w-4xl mx-auto">
-      <div class="mx-4 xl:mx-0 flex md:flex-row flex-col gap-4 items-center">
-      <span class="title">
-        <a href="/">
-          {{ if .Site.Params.hasLogo }}
-            <img src="/logo.svg" />
-          {{ else }}
-            {{ .Site.Title }}
-          {{ end }}
-        </a>
-      </span>
+      <div class="mx-4 xl:mx-0 justify-between flex md:flex-row flex-col gap-4 items-center">
+        <span class="title">
+          <a href="/">
+            {{ if .Site.Params.hasLogo }}
+              <img src="/logo.svg" />
+            {{ else }}
+              {{ .Site.Title }}
+            {{ end }}
+          </a>
+        </span>
 
-      <input id="burger" type="checkbox" />
+        <input id="burger" type="checkbox" />
 
-      <label class="burger_label" for="burger">
-        <span></span>
-        <span></span>
-        <span></span>
-      </label>
-      {{ partial "main_menu" . }}
-      {{ partial "social_icons" . }}
+        <label class="burger_label" for="burger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </label>
+        {{ partial "main_menu" . }}
+        {{ partial "social_icons" . }}
       </div>
     </header>
 {{ end }}
