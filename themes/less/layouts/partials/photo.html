@@ -10,12 +10,11 @@
     {{ $xs := printf "%s0x%s0" $width $height }}
     {{ $md := printf "%s00x%s00" (mul $width 2) (mul $height 2) }}
   {{ end }}
+  {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
+  {{ $small := $src.Resize (printf "%s webp" $md) }}
   {{ if eq .MediaType.SubType "gif" }}
     {{ $lqip := $src.Resize (printf "%s" $xs) }}
     {{ $small := $src.Resize (printf "%s" $md) }}
-  {{ else }}
-    {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
-    {{ $small := $src.Resize (printf "%s webp" $md) }}
   {{ end }}
   <picture style="{{ .ExtraClasses }} padding-bottom: {{(div (mul 100.0 $src.Height ) $src.Width) -}}%" class="relative box-border block">
     <img
