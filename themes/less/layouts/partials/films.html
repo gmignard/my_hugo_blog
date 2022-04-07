@@ -1,0 +1,32 @@
+{{ $postScratch := newScratch }}
+<div class="post-tile">
+  {{ $image := .post.Resources.GetMatch "cover" | default (index (.post.Resources.ByType "image") 0) }}
+  {{ $size := "600x400" }}
+  {{ $postScratch.Set "coverSize" (printf "%s center" $size)}}
+  {{ $web := $image.Fill ($postScratch.Get "coverSize") }}
+  {{ $mini := $image.Fill "60x40" }}
+  {{if $image }}
+    <div class="post-thumb">
+      <a class="no-decoration" href="{{ .post.Permalink }}">
+        <picture>
+          <img class="lazyload" src="{{$mini.Permalink}}" data-src="{{ $web.Permalink }}" style="width: 100%;">
+        </picture>
+      </a>
+    </div>
+  {{end}}
+  <div class="post-header">
+      <span class="category">
+        {{ range first 1 .post.Params.categories }}
+        <a class="no-decoration" href="/{{ . }}">{{ . }}</a>
+        {{ end }} •
+        {{ .post.Date.Day }} {{ index .ctx.Site.Data.mois (printf "%d" .post.Date.Month) }} {{ .post.Date.Year }}
+      </span>
+    <h3 class="title">
+        {{ .post.Params.emoji }}
+        <a class="title bold no-decoration" href="{{ .post.Permalink }}">{{ .post.Title }}</a><br/>
+    </h3>
+    <p>
+      {{ .post.Summary | replaceRE "(?ms)(<(figure|blockquote).*</(figure|blockquote)>)" "" | safeHTML | truncate 200 }}
+    </p>
+  </div>
+</div>
