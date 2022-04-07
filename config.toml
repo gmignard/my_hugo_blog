@@ -26,7 +26,7 @@ paginate = 12
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
 
-  sansSerifFont = "Space Mono"
+  sansSerifFont = "Cabin"
   titleFont = "Rubik"
   bodyFont = "Tinos"
 
