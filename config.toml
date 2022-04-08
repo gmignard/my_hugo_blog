@@ -27,8 +27,8 @@ paginate = 12
   tags = []
 
   sansSerifFont = "Cabin"
-  titleFont = "Rubik"
-  bodyFont = "Tinos"
+  titleFont = "Domine"
+  bodyFont = "Roboto Mono"
 
   hasLogo = true
   accentColor = "#4A85A7"
