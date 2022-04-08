@@ -3,7 +3,7 @@
 <div class="post-title">
   <span class="category"> Le {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
-  <h1 class="medium">{{ .Params.emoji}} {{ .Title }}</h1>
+  <h1 class="text-4xl">{{ .Params.emoji}} {{ .Title }}</h1>
   <h3>{{ .Params.subtitle }}</h3>
 </div>
 <div data-pswp class="main post">
