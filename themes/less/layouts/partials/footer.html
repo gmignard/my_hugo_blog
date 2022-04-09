@@ -1,5 +1,6 @@
 <footer class="w-full p-12 text-sm grid grid-cols-1 lg:grid-cols-5 gap-4">
-  <div class="text-l max-w-4xl">
+  <div class="text-l container max-w-4xl mx-auto">
+  <div>
   © {{ now.Format "2006"}} {{ $.Site.Params.social.domain }}</br>
   </div>
   <div>
@@ -10,5 +11,6 @@
       <li><a href="/go/">LINKS</a></li>
       <li><a href="/now/">INFOS</a></li>
       <li><a href="mailto:{{ $.Site.Params.social.email }}">CONTACT</a></li>
+  </div>
   </div>
 </footer>
