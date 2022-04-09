@@ -1,4 +1,8 @@
 {{ define "main" }}
+<div class="container max-w-4xl mx-auto">
+ <h1 class="text-4xl">{{ .Params.emoji}} {{ .Title }}</h1>
+ {{ .Params.subtitle }}
+</div>
 {{ $allimages := slice }}
 {{ range sort (.Resources.ByType "image") "Name" "desc"}}
   {{ $allimages = $allimages | append (dict "Image" .  ) }}
