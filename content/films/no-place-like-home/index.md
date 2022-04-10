@@ -9,9 +9,9 @@ categories:
 tags: ["Surf", "Film", "Finistère", "Bretagne", "Finistère Nord", "Vague", "Shape", "Yoann Renambot", "Documentaire"]
 description: "Et si la meilleure session était celle qui est le plus proche de la maison ? Pourquoi prendre l’avion ou rouler loin pour aller chercher des vagues parfaites alors qu’on a des vagues en bas de chez soi ?"
 resources:
-- src: "cover.jpg"
+- src: "cover.webp"
   name: "cover"
-- src: "*.jpg"
+- src: "*.webp"
 ---
 
 <div>{{< vimeo 681776319 >}}</div>
@@ -21,6 +21,24 @@ C’est ainsi que Yoann voit la vie, un surf de proximité, peu importe les cond
 
 ## Crédits
 
-PRODUCTION – Captain Yvon Studio
-RÉALISATION – Grégory Mignard
-ANNÉE – 2022
+**PRODUCTION** – Captain Yvon Studio  
+**RÉALISATION** – Grégory Mignard  
+**CAMÉRA** - Grégory Mignard  
+**SURF** - Yoann Renambot  
+**ANNÉE** – 2022
+
+{{< photoset max="3" >}}
+  {{< photo src="NPLH_2.webp" alt="No Place Like Home | A short surf film" >}}
+  {{< photo src="NPLH_6.webp" alt="No Place Like Home | A short surf film" >}}
+  {{< photo src="NPLH_8.webp" alt="No Place Like Home | A short surf film" >}}
+{{</ photoset >}}
+{{< photoset max="3" >}}
+  {{< photo src="NPLH_11.webp" alt="No Place Like Home | A short surf film" >}}
+  {{< photo src="NPLH_14.webp" alt="No Place Like Home | A short surf film" >}}
+  {{< photo src="NPLH_16.webp" alt="No Place Like Home | A short surf film" >}}
+{{</ photoset >}}
+{{< photoset max="3" >}}
+  {{< photo src="NPLH_18.webp" alt="No Place Like Home | A short surf film" >}}
+  {{< photo src="NPLH_19.webp" alt="No Place Like Home | A short surf film" >}}
+  {{< photo src="NPLH_20.webp" alt="No Place Like Home | A short surf film" >}}
+{{</ photoset >}}

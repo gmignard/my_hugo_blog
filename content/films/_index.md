@@ -1,8 +1,8 @@
 ---
-title: "Blog - Grégory Mignard"
-seotitle: "Blog - Grégory Mignard"
-description: "Blog de Grégory Mignard, réflexions, aventures et microaventures, workflow, matériel, écologie & tranches de vie."
-tags: ["bretagne", "slow travel", "rural exodus", "voyage", "finistere", "surf", "slow life", "neorural", "photographie", "vidéo", "geek", "vélo", "écologie", "bikepacking", "workflow", "Apple"]
+title: "Films - Grégory Mignard"
+seotitle: "Films & Réalisations - Grégory Mignard"
+description: "Sélection de films et documentaire réalisés."
+tags: ["films", "réalisations", "réalisateur", "documentaire", "vidéaste, "surf", "slow life", "neorural", "photographie", "vidéo", "dop"]
 resources:
 - src: "*.jpg"
 ---
