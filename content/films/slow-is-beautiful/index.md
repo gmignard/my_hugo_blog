@@ -9,9 +9,9 @@ categories:
 tags: ["Film", "Finistère", "Bretagne", "Finistère Nord", "Vague", "Bateau", "Brest", "Documentaire"]
 description: "Une ode à prendre son temps, à renouer avec ses racines, son territoire et son amour originel pour ses passions. Lentement. Simplement."
 resources:
-- src: "cover.jpg"
+- src: "cover.webp"
   name: "cover"
-- src: "*.jpg"
+- src: "*.webp"
 ---
 
 <div>{{< vimeo 625382741 >}}</div>
@@ -20,6 +20,24 @@ Une ode à prendre son temps, à renouer avec ses racines, son territoire et son
 
 ## Crédits
 
-PRODUCTION – Captain Yvon Studio
-RÉALISATION – Grégory Mignard & Jeremy Janin
-ANNÉE – 2021
+**PRODUCTION** – Captain Yvon Studio  
+**RÉALISATION** – Jeremy Janin & Grégory Mignard  
+**CAMÉRA** - Jeremy Janin  
+**APPARITION** - Grégory Mignard  
+**ANNÉE** – 2021
+
+{{< photoset max="3" >}}
+  {{< photo src="PANA3837.webp" alt="No Place Like Home | A short surf film" >}}
+  {{< photo src="IMG_1012.webp" alt="No Place Like Home | A short surf film" >}}
+  {{< photo src="000050.webp" alt="No Place Like Home | A short surf film" >}}
+{{</ photoset >}}
+{{< photoset max="3" >}}
+  {{< photo src="000033.webp" alt="No Place Like Home | A short surf film" >}}
+  {{< photo src="000007.webp" alt="No Place Like Home | A short surf film" >}}
+  {{< photo src="000042.webp" alt="No Place Like Home | A short surf film" >}}
+{{</ photoset >}}
+{{< photoset max="3" >}}
+  {{< photo src="000048.webp" alt="No Place Like Home | A short surf film" >}}
+  {{< photo src="000043.webp" alt="No Place Like Home | A short surf film" >}}
+  {{< photo src="000015.webp" alt="No Place Like Home | A short surf film" >}}
+{{</ photoset >}}
