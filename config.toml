@@ -55,6 +55,12 @@ paginate = 12
   description = "mais si tu veux quelques exclusivités, abonnes-toi à ma newsletter 📝."
 
 [[menu.main]]
+  name = "Films"
+  title = "Réalisations"
+  weight = 1
+  identifier = "films"
+  url = "/films"
+[[menu.main]]
   name = "Everyday"
   title = "Des photos du quotidien"
   weight = 2
