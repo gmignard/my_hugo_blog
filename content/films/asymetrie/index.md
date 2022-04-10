@@ -15,17 +15,17 @@ resources:
 - src: "*.jpg"
 ---
 
-<div>{{< youtube e6PATCB1yTk >}}</div>
+<div>{{< vimeo 463093392 >}}</div>
 
 Autour d’une tasse de café fumante, nous discutons de tout et de rien, Camille me fait visiter son atelier dans lequel il n’allait pas tarder à lancer les machines. Cela fait quelques mois que j’ai envie de couvrir un sujet sur son travail et univers, on devait juste se caler un moment. Du coup, je provoque un peu le destin et lui propose mon idée sur laquelle il rebondit direct… Nous voici lancés dans un tournage totalement improvisé à la dernière minute !
 
 ## Crédits
 
-**PRODUCTION** – Captain Yvon Studio  
-**RÉALISATION** – Grégory Mignard  
-**CAMÉRA** - Grégory Mignard  
-**SURF** - Camille Prigent  
-**ANNÉE** – 2020
+*PRODUCTION* – Captain Yvon Studio  
+*RÉALISATION* – Grégory Mignard  
+*CAMÉRA* - Grégory Mignard  
+*SURF* - Camille Prigent  
+*ANNÉE* – 2020
 
 {{< photoset max="2" >}}
   {{< photo src="rivages_1.jpg" alt="Asymétrie - Un film avec Camille Prigent de la Maison Rivages" >}}
