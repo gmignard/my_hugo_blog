@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="main">
+  <div class="list journal">
+    {{ range (.Paginator 6).Pages }}
+    {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
+    {{ $mini := $image.Fill "60x40" }}
+    {{ $web := $image.Fill "600x400" }}
+    {{if $image }}
+    <div class="post-thumb">
+      <a class="no-decoration" href="{{ .RelPermalink }}">
+        <picture>
+          <img class="lazyload" src="{{$mini.Permalink}}" data-src="{{ $web.Permalink }}" style="width: 100%;">
+        </picture>
+      </a>
+    </div>
+    {{end}}
+    {{ end }}
+  </div>
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}
