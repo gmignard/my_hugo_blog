@@ -26,7 +26,7 @@ Les images léchées, tournées pendant un an, dévoilent témoignages et moment
 
 ## Crédits
 
-*PRODUCTION** – Attitude Manche  
+*PRODUCTION* – Attitude Manche  
 *RÉALISATION* – Captain Yvon Studio    
 *CAMÉRA* - Grégory Mignard & Jeremy Janin  
 *CASTING* - Léa Brassy, Marion Motin, Bazile Pinel, Yoann Sanson, Alban Lenoir, Clémence Fossard et Judith & Margareth de l’Elevage du thot.    

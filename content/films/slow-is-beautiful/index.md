@@ -23,7 +23,7 @@ Une ode à prendre son temps, à renouer avec ses racines, son territoire et son
 *PRODUCTION* – Captain Yvon Studio  
 *RÉALISATION* – Jeremy Janin & Grégory Mignard  
 *CAMÉRA* - Jeremy Janin  
-*APPARITION* - Grégory Mignard  
+*CASTING* - Grégory Mignard  
 *ANNÉE* – 2021
 
 {{< photoset max="3" >}}

@@ -21,10 +21,10 @@ C’est ainsi que Yoann voit la vie, un surf de proximité, peu importe les cond
 
 ## Crédits
 
-*PRODUCTION** – Captain Yvon Studio  
+*PRODUCTION* – Captain Yvon Studio  
 *RÉALISATION* – Grégory Mignard  
 *CAMÉRA* - Grégory Mignard  
-*SURF* - Yoann Renambot  
+*CASTING SURF* - Yoann Renambot  
 *ANNÉE* – 2022
 
 {{< photoset max="3" >}}
