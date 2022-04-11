@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="main">
-  <div class="list journal">
+  <div class="grid grid-cols-2 gap-8">
     {{ range (.Paginator 6).Pages }}
     {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
     {{ $mini := $image.Fill "60x40" }}
