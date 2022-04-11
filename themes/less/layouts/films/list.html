@@ -3,8 +3,8 @@
   <div class="grid grid-cols-2 gap-8">
     {{ range (.Paginator 6).Pages }}
     {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
-    {{ $mini := $image.Fill "60x40" }}
-    {{ $web := $image.Fill "600x400" }}
+    {{ $mini := $image.Fill "64x36" }}
+    {{ $web := $image.Fill "640x360" }}
     {{if $image }}
     <div class="post-thumb">
       <a class="no-decoration" href="{{ .RelPermalink }}">
