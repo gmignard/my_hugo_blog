@@ -6,7 +6,7 @@
   <h1 class="text-4xl">{{ .Params.emoji}} {{ .Title }}</h1>
   <h3>{{ .Params.subtitle }}</h3>
 </div>
-<div data-pswp class="main post">
+<div data-pswp class="main post max-w-4xl md:mx-auto">
   {{ if .IsTranslated }}
     {{ range .Translations }}
     <p class="translation en">
