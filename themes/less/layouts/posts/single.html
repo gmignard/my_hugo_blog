@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
 <div class="max-w-4xl md:mx-auto text-left">
-  <span class="date text-base"> Le {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+  <span class="date text-base opacity-25"> Le {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
   <h1 class="text-4xl my-2">{{ .Params.emoji}} {{ .Title }}</h1>
   <h3 class="date text-base opacity-25">{{ .Params.subtitle }}</h3>
