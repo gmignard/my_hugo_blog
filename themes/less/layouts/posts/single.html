@@ -1,10 +1,10 @@
 {{ define "main" }}
 {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
-<div class="text-left">
+<div class="max-w-4xl md:mx-auto text-left">
   <span class="category"> Le {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
   <h1 class="text-4xl">{{ .Params.emoji}} {{ .Title }}</h1>
-  <h3 class="text-base">{{ .Params.subtitle }}</h3>
+  <h3 class="text-base opacity-25 font-sans">{{ .Params.subtitle }}</h3>
 </div>
 <div data-pswp class="main post max-w-4xl md:mx-auto">
   {{ if .IsTranslated }}
