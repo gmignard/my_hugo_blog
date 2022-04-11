@@ -7,4 +7,5 @@ resources:
 - src: "*.jpg"
 ---
 
-Grégory Mignard, réalisateur & photographe membre du [1% for the Planet](https://www.onepercentfortheplanet.fr). Je réalise des images documentaire authentiques.
+Grégory Mignard, réalisateur & photographe membre du [1% for the Planet](https://www.onepercentfortheplanet.fr).  
+Je crois aux histoires fortes et je crée des images pour ressentir, apprendre et partager. [Entrons en contact](mailto:hello@gregorymignard.com).
