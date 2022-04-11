@@ -3,7 +3,7 @@
 <div class="max-w-4xl md:mx-auto text-left">
   <span class="text-base font-sans"> Le {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
-  <h1 class="text-4xl">{{ .Params.emoji}} {{ .Title }}</h1>
+  <h1 class="text-4xl my-6">{{ .Params.emoji}} {{ .Title }}</h1>
   <h3 class="text-base opacity-25 font-sans">{{ .Params.subtitle }}</h3>
 </div>
 <div data-pswp class="main post max-w-4xl md:mx-auto">
