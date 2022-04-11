@@ -4,7 +4,7 @@
   <span class="date text-base opacity-25"> Le {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
   <h1 class="text-4xl my-2">{{ .Params.emoji}} {{ .Title }}</h1>
-  <h3 class="date text-base opacity-25">{{ .Params.subtitle }}</h3>
+  <h3 class="date text-base opacity-25 italic">{{ .Params.subtitle }}</h3>
 </div>
 <div data-pswp class="main post max-w-4xl md:mx-auto">
   {{ if .IsTranslated }}
