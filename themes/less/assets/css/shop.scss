@@ -69,16 +69,6 @@
     font-size: 1.1rem;
     opacity: 0.3;
   }
-  .category {
-    color: var(--onyx);
-    a { color: var(--onyx); border-bottom: none; }
-    a:hover { color: var(--onyx); border-bottom: none; }
-    text-align: left;
-    font-family: var(--sans-serif-font);
-    font-weight: normal;
-    margin: 0;
-    padding: 0;
-  }
 }
 .shop-wrapper {
   display: flex;
