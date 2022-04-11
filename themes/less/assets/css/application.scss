@@ -223,12 +223,10 @@ img {
 
     > :not(.fullwidth) {
       max-width: var(--max-width);
-      margin-left: auto;
-      margin-right: auto;
     }
 
     > .vertical {
-      max-width: 37rem;
+      max-width: 42rem;
     }
 
     p, blockquote, ul, ol, {

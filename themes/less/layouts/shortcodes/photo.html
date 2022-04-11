@@ -1,4 +1,4 @@
-<figure class="md:-mx-6" {{ with .Get "class"}}class="{{ . }}"{{ end }}>
+<figure class="md:-mx-6 {{ with .Get "class}}{{.}}{{end}}">
   {{ $media := $.Page.Resources }}
   {{ $original := $media.GetMatch (.Get "src") }}
   {{ if $original }}
