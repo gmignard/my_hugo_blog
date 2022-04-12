@@ -50,7 +50,6 @@ ACCESSOIRES
 * [Dji Mavic 2 Pro](https://www.digit-photo.com/DJI-Drone-Mavic-2-Pro-rDJIMAVIC2PRO.html?dpa_id=23)
 * [Trépied vidéo Manfrotto](https://www.digit-photo.com/MANFROTTO-MVK502AM-1-Kit-Video-Rotule-502-rMANFROTTOMVK502AM1.html?dpa_id=23) | [Trépied Cullmann ultra-léger](https://www.digit-photo.com/CULLMANN-56815-Trepied-de-Voyage-Carvao-816-TC-Carbone-Noir-rCULLC56815.html?dpa_id=23)
 
-***
 
 ## Argentique
 
@@ -68,7 +67,6 @@ Je filme aussi à la Super 8 avec une Canon 514 XL que j’utilise de manière 
 
 J’envoi mes négatifs à développer et scanner chez [Mori Film Lab](https://morifilmlab.com/).
 
-***
 
 ## Post-production
 
