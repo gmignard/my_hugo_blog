@@ -23,7 +23,6 @@
 @import "main_header";
 @import "burger";
 @import "hero_header";
-@import "three";
 @import "photos";
 @import "journal";
 @import "navigation";
@@ -55,13 +54,11 @@ svg {
 body {
   height: 100%;
   color: var(--onyx);
-  font-size: 1.36rem;
   font-weight: 300;
   margin: 0;
   padding: 0;
   font-family:  var(--serif-font);
   text-rendering: optimizeLegibility;
-  line-height: 1.53;
 }
 
 a {
@@ -76,41 +73,34 @@ a:hover {
 
 h1.large {
   font-size: 3.7rem;
-  font-weight: 700;
 }
 h1 {
   font-size: 2.8rem;
-  font-weight: 700;
 }
 h2, h1.medium {
   font-size: 2.9rem;
-  font-weight: 700;
   text-transform: normal;
 }
 h3 {
   font-size: 1.6rem;
-  font-weight: 700;
   text-transform: normal;
 }
 h4 {
   font-size: 1.6rem;
-  font-weight: 700;
 }
 h5 {
   font-size: 1.6rem;
-  font-weight: 700;
 }
 .post h2 {
+  max-width: 56rem !important;
   font-size: 1.6rem;
-  font-weight: 700;
   text-transform: normal;
   margin: 20px 0;
 }
 
 h1, h2, h3, h4, h5 {
+  max-width: 56rem !important;
   margin: 0;
-  text-align: center;
-  font-weight: 700;
   font-family: var(--title-font);
 }
 .title {
@@ -145,9 +135,6 @@ header {
 }
 
 footer {
-  padding: 50px;
-  text-align: center;
-  position: relative;
   background-color: var(--white-background);
   color: var(--onyx);
   line-height: 37px;
@@ -222,6 +209,11 @@ img {
       margin-left: 1rem;
       margin-right: 1rem;
     }
+
+    p, blockquote, ul, ol, {
+      margin-top: 25px;
+      margin-bottom: 25px;
+    }
   }
   @media only screen and (min-width: 812px) {
     &:not(.post) {
@@ -241,11 +233,11 @@ img {
     }
 
     > .vertical {
-      max-width: 37rem;
+      max-width: 45rem;
     }
 
     p, blockquote, ul, ol, {
-      max-width: 60rem !important;
+      max-width: 56rem !important;
       margin-top: 25px;
       margin-bottom: 25px;
     }

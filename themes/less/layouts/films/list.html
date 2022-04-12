@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="main">
+  <div class="grid grid-cols-2 gap-8">
+    {{ range (.Paginator 6).Pages }}
+    {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
+    {{ $mini := $image.Fill "64x36" }}
+    {{ $web := $image.Fill "640x360" }}
+    {{if $image }}
+    <div class="post-thumb">
+      <a class="no-decoration" href="{{ .RelPermalink }}">
+        <picture>
+          <img class="lazyload" src="{{$mini.Permalink}}" data-src="{{ $web.Permalink }}" style="width: 100%;">
+        </picture>
+      </a>
+    </div>
+    {{end}}
+    {{ end }}
+  </div>
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

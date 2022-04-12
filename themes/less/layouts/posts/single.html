@@ -1,12 +1,13 @@
 {{ define "main" }}
 {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
-<div class="post-title">
-  <span class="category"> Le {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-  </span>
-  <h1 class="medium">{{ .Params.emoji}} {{ .Title }}</h1>
-  <h3>{{ .Params.subtitle }}</h3>
+<div class="max-w-4xl md:mx-auto text-left">
+  <div class="mx-4 md:mx-0">
+    <span class="date text-base opacity-25"> Le {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
+    <h1 class="text-4xl my-2">{{ .Params.emoji}} {{ .Title }}</h1>
+    <h3 class="date text-base opacity-25 italic">{{ .Params.subtitle }}</h3>
+  </div>
 </div>
-<div data-pswp class="main post">
+<div data-pswp class="main post max-w-4xl md:mx-auto">
   {{ if .IsTranslated }}
     {{ range .Translations }}
     <p class="translation en">
@@ -21,5 +22,4 @@
   {{ end }}
 </div>
 {{ partial "tinyletter.html" . }}
-{{ partial "three.html" (.Site.RegularPages.Related . ) }}
 {{ end }}

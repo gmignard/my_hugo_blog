@@ -6,7 +6,7 @@ date: 2018-06-05T13:13:50+01:00
 draft: false
 slug: "journee-mondiale-de-lenvironnement"
 categories:
-- stories
+- daily
 tags: ["Journée Mondiale de l'Environnement", "ecologie", "LeaveNoTrace", "Leave No trace", "environnement", "avenir"]
 description: "Aujourd’hui, c’est la Journée Mondiale de l'Environnement, l’occasion d’attirer l’attention sur des choses qui paraissent bénignes et qui pourtant pourrissent notre planète."
 resources:

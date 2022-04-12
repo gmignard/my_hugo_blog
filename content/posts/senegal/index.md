@@ -5,7 +5,7 @@ seotitle: "Sénégal, ces endroits qui m’ont le plus marqué — Grégory Mign
 date: 2022-01-28 09:00:00 +0200
 slug: "senegal"
 categories:
-- destinations
+- voyages
 tags: ["Sénégal", "Afrique", "Africa", "Sine Saloum", "Mboss Dor", "Ngor", "Dakar", "Bandia", "Sénégal Oriental"]
 description: "Se replonger dans ses souvenirs et ses archives puis remettre par écrit ces souvenirs du Sénégal."
 resources:

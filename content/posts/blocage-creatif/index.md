@@ -6,7 +6,7 @@ date: 2019-08-26T06:00:50+01:00
 draft: false
 slug: "blocage-creatif"
 categories:
-- stories
+- daily
 tags: ["blocage créatif", "Conseils"]
 description: "Il est facile de parler de ses succès, mais il est très difficile d’évoquer ses difficultés. Voici comment je suis sorti de mon blocage créatif."
 resources:

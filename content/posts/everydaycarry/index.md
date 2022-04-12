@@ -5,6 +5,7 @@ seotitle: "Everyday Carry — Grégory Mignard"
 date: 2020-12-18 07:30:00 +0200
 slug: "everydaycarry"
 categories:
+- daily
 - gear
 tags: ["EDC", "Everyday Carry", "iPhone", "Apple Watch", "Olympus XA", "Carnet", "Field Notes", "Argentique", "Couteau", "Geek", "Minimalisme"]
 description: "Quels sont les objets qui m'accompagnent au quotidien ? Voici la réponse avec mon Everyday Carry."

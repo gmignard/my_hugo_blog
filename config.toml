@@ -26,9 +26,9 @@ paginate = 12
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
 
-  sansSerifFont = "Cabin"
-  titleFont = "Rubik"
-  bodyFont = "EB Garamond"
+  sansSerifFont = "Roboto"
+  titleFont = "Domine"
+  bodyFont = "Roboto Mono"
 
   hasLogo = true
   accentColor = "#4A85A7"
@@ -57,9 +57,15 @@ paginate = 12
 [[menu.main]]
   name = "Everyday"
   title = "Des photos du quotidien"
-  weight = 2
+  weight = 1
   identifier = "everyday"
   url = "/everyday"
+[[menu.main]]
+  name = "Films"
+  title = "Réalisations"
+  weight = 2
+  identifier = "films"
+  url = "/films"
 [[menu.main]]
   name = "Blog"
   title = "Récits & Technique"

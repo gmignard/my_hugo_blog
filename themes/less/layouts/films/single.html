@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
+<div class="post-title">
+  <h1 class="text-4xl">{{ .Params.emoji}} {{ .Title }}</h1>
+</div>
+<div data-pswp class="main post">
+  {{ if .IsTranslated }}
+    {{ range .Translations }}
+    <p class="translation en">
+      <a href="{{ .Permalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
+    </p>
+    {{ end}}
+  {{ end }}
+  {{ partial "gallery.html" . }}
+  {{.Content}}
+  {{if .Params.gear }}
+    <p class="center t12"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
+  {{ end }}
+</div>
+{{ end }}

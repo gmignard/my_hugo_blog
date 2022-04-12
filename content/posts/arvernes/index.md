@@ -5,7 +5,7 @@ seotitle: "L'Auvergne en van et camping-car, notre itinéraire et journal de bor
 date: 2020-08-18 09:00:00 +0200
 slug: "arvernes"
 categories:
-- destinations
+- voyages
 tags: ["Auvergne", "Van", "VanLife", "Cantal", "Puy de Dôme", "Journal de bord", "Voyage", "Tourisme", "Microaventure", "Microaventures", "Explore Local", "France"]
 description: "Journal de bord d’un roadtrip de 6 jours en Auvergne avec un Van entre le Massif du Sancy et les volcans du Cantal."
 resources:
