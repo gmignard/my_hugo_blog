@@ -16,7 +16,7 @@ Moi c’est Grégory, je vis et travaille dans le Finistère avec ma famille.
 Si je vis proche de la mer, ce n’est pas un hasard. Voile, kitesurf, surf, pêche, bodysurf… Il me faut ma dose d’eau salée, un moyen de rester inspiré et de me ressourcer.
 
 {{< photoset max="2" >}}
-  {{< photo src="cover" alt="Portrait" >}}
+  {{< photo src="cover.webp" alt="Portrait" >}}
   {{< photo src="greg_2.webp" alt="Watershot" >}}
 {{</ photoset >}}
 
