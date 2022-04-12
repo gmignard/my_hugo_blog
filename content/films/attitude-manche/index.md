@@ -1,7 +1,7 @@
 ---
 title: Adoptez l’Attitude Manche
 seotitle: "Adoptez l’Attitude Manche - Grégory Mignard"
-date: 2019-12-25T12:30:50+01:00
+date: 2019-08-25T12:30:50+01:00
 draft: false
 slug: "attitude-manche"
 categories:
