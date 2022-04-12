@@ -9,4 +9,4 @@ resources:
 
 Grégory Mignard, réalisateur & photographe membre du [1% for the Planet](https://www.onepercentfortheplanet.fr).  
 Je documente dans un style intemporel les moments authentiques et les belles histoires.   
-[Entrons en contact !](mailto:hello@gregorymignard.com).
+[Entrons en contact !](mailto:hello@gregorymignard.com)
