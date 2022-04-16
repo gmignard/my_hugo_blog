@@ -42,7 +42,9 @@ Entre sa construction avec un alliage en Alpax et son absence d’électronique,
   {{< photo src="mogueriec_3.webp" alt="Nikon FM2" >}}
 {{</ photoset >}}
 
-Photographier avec le FM2 est un vrai plaisir, j’ai une confiance aveugle dans ce boitier. Au fil des années, j’ai agrandi ma collection d’objectifs, du 24mm au 135mm en passant par le 35mm et 55mm.
+Photographier avec le FM2 est un vrai plaisir, j’ai une confiance aveugle dans ce boitier. Au fil des années, j’ai agrandi ma collection d’objectifs, du 24mm au 135mm en passant par le 35mm et 55mm.  
+Ce n’est pas pour rien qu’il obtient le statut de légendaire, c’est clairement une des plus belles réussites de la marque. C’est l’ensemble de tout ce que je viens de citer qui m’a orienté sur ce boitier. Des réflex dans ce style, de cette époque, il y en a un paquet. Vous trouverez facilement [des alternatives plus abordables](https://benber.fr/5-alternatives-au-nikon-fm2/). Ce boitier est tellement simple et fiable que j’ai juste à me concentrer sur la prise de vue, le reste, je lui fais confiance.  
+Toutes les personnes que j’ai croisées et qui possèdent un FM2 sont unanimes sur les qualités de cet appareil. Les rares personnes qui m’ont annoncé l’avoir vendu l’ont souvent regretté. C’est clairement un appareil qui se fait une place dans une vie de photographe, un appareil que l’on aime utiliser, bichonner et emmener à travers les époques.
 
 {{< photo src="bazile_1.webp" alt="Nikon FM2">}}
 
