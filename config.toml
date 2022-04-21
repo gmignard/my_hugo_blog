@@ -2,7 +2,6 @@ baseURL = "https://gregorymignard.com/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 theme = "less"
-googleAnalytics = "UA-61295963-3"
 RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
