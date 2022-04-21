@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="main">
   <div class="grid grid-cols-1 gap-12">
-    {{ range (.Paginator 8).Pages }}
+    {{ range (.Paginator 12).Pages }}
     {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
     {{ $mini := $image.Fill "130x40" }}
     {{ $web := $image.Fill "1300x400" }}
