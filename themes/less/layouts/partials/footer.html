@@ -2,15 +2,24 @@
  <div class="container max-w-4xl mx-auto grid grid-cols-1 lg:grid-cols-4 gap-4">
   <div class="text-l max-w-4xl">
   © {{ now.Format "2006"}} {{ $.Site.Params.social.domain }}</br>
+  Merci pour votre visite 🤙
+  </div>
+  <div>
+    <a href="https://www.onepercentfortheplanet.fr" target="_blank" ><img src="/1ftp.png" /></a>
   </div>
   <div>
     <!--Should be template -->
     <ul>
-      <li><a href="https://captainyvon.fr/">STUDIO</a></li>
-      <li><a href="/equipement/">ÉQUIPEMENT</a></li>
-      <li><a href="/go/">LINKS</a></li>
-      <li><a href="/now/">INFOS</a></li>
-      <li><a href="mailto:{{ $.Site.Params.social.email }}">CONTACT</a></li>
+      <li><a href="/equipement/">Mon équipement</a></li>
+      <li><a href="https://captainyvon.fr/" target="_blank">Captain Yvon Studio</a></li>
+      <li><a href="/now/">À propos</a></li>
+  </div>
+  <div>
+    <!--Should be template -->
+    <ul>
+      <li><a href="https://instagram.com/gregmignard" target="_blank">Instagram</a></li>
+      <li><a href="https://twitter.com/gregmignard" target="_blank">Twitter</a></li>
+      <li><a href="mailto:{{ $.Site.Params.social.email }}">hello@gregorymignard.com</a></li>
   </div>
  </div>
 </footer>
