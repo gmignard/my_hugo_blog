@@ -37,7 +37,7 @@ Il est devenu mon appareil numérique de choix. J’ai bien [mon Fuji X-T3](htt
 
 Je n’ai pas forcément envie d’entrer dans la technique, vous trouverez de nombreux tests sur le net. Mais si vous avec la flemme de chercher, je vous pose cette chouette vidéo qui devrait vous mettre l’eau à la bouche. Elle aura été l’élément déclencheur chez moi.
 
-{{< vimeo uMXFFOnq88E >}}
+{{< youtube uMXFFOnq88E >}}
 
 Bon, quand je vous dit que c’est devenu mon appareil à avoir tout le temps avec soi, je triche un peu, car j’ai depuis chiné pour trois fois rien un nouveau Point & Shoot argentique. Je vous en parlerais très bientôt et ça ne change en rien le choix et le plaisir que j’ai à utiliser ce X100V.  
 C’est d’ailleurs le premier appareil qui m’a motivé à photographier directement en JPG. J’ai découvert les fameuses recettes de [Fuji X Weekly](https://fujixweekly.com) et j’y trouve beaucoup de similitude avec la photographie argentique, ce qui n’est pas pour me déplaire. Bien que ce soit une chouette expérience, j’aime encore photographier en RAW et bénéficier de toute la souplesse des fichiers et couleurs Fuji dans Lightroom.
