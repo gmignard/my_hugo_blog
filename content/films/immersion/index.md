@@ -14,7 +14,7 @@ resources:
 - src: "*.webp"
 ---
 
-<div>{{< vimeo 557513095 >}}</div>
+<div>{{< youtube h8FitE68Q_s >}}</div>
 
 Tout au long du film IMMERSION, on suit Léa Brassy, surfeuse, apnéiste et amoureuse de la Manche, qui part à la rencontre de 6 habitants qui ont un lien fort avec la mer, qui incarnent les valeurs de la Manche.
 
