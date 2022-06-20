@@ -17,10 +17,10 @@ resources:
 Ça fait un bout de temps que je voulais tenter l’itinérance à vélo avec un premier trip bikepacking. J’ai acheté mon gravel en 2019, juste avant la naissance de mon fils, ce qui limitera les sorties la première année. Puis le Covid s’est invité et le temps a filé, laissant tous ces projets de bikepacking en arrière.  
 Mais cette année, motivé par les copains [Jeremy](https://jeremyjanin.com), [Yannick](https://yannickschutz.com) et [Yves](https://yvesquere.com), on a bloqué des dates au mois de mai et on a tracé un chouette parcours… Ça y est, ça se concrétise, on ne peut plus revenir en arrière.
 
+{{< youtube yjlX66-oMk8 >}}
+
 Après quelques ajustements de la trace, on se dit que ça serait cool de dormir chez les uns et autres, moins de matériel à transporter, mais de belles étapes entre chaque pied à terre.  
 Jeremy est venu de Lille chez moi, juste à côté de Brest, d’où nous partirons tous les 4. Yves habite Roscoff et Yannick dans les Monts d’Arrée, voici nos objectifs des prochains jours et ainsi réaliser une belle boucle sur la moitié nord du Finistère.
-
-{{< youtube yjlX66-oMk8 >}}
 
 ### Jour 1
 
