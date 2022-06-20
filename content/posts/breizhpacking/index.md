@@ -15,12 +15,12 @@ resources:
 ---
 
 Ça fait un bout de temps que je voulais tenter l’itinérance à vélo avec un premier trip bikepacking. J’ai acheté mon gravel en 2019, juste avant la naissance de mon fils, ce qui limitera les sorties la première année. Puis le Covid s’est invité et le temps a filé, laissant tous ces projets de bikepacking en arrière.  
-Mais cette année, motivé par les copains Jeremy, Yannick et Yves, on a bloqué des dates au mois de mai et on a tracé un chouette parcours… Ça y est, ça se concrétise, on ne peut plus revenir en arrière.
+Mais cette année, motivé par les copains [Jeremy](https://jeremyjanin.com), [Yannick](https://yannickschutz.com) et [Yves](https://yvesquere.com), on a bloqué des dates au mois de mai et on a tracé un chouette parcours… Ça y est, ça se concrétise, on ne peut plus revenir en arrière.
 
 Après quelques ajustements de la trace, on se dit que ça serait cool de dormir chez les uns et autres, moins de matériel à transporter, mais de belles étapes entre chaque pied à terre.  
 Jeremy est venu de Lille chez moi, juste à côté de Brest, d’où nous partirons tous les 4. Yves habite Roscoff et Yannick dans les Monts d’Arrée, voici nos objectifs des prochains jours et ainsi réaliser une belle boucle sur la moitié nord du Finistère.
 
-<div>{{< vimeo 721451186 >}}</div>
+{{< youtube yjlX66-oMk8 >}}
 
 ### Jour 1
 
@@ -105,6 +105,6 @@ Plus que 15 km, nous approchons du but, je recommence à reconnaitre les petite
 
 {{< photo src="breizhpacking_2.webp" alt="Tro Braz Bikepacking">}}
 
-<iframe src="https://www.komoot.fr/tour/689571867/embed?profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+*Les photos de cette aventure ont été réalisées avec un Minolta AF-S dans lequel j'ai chargé de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23), de la [Ilford HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23) et de [l'Ultramax 400](https://www.digit-photo.com/KODAK-Ultramax-400-135-36-Poses-X3-rKODAK41024389.html?dpa_id=23)*  
 
-*Les photos de cette aventure ont été réalisées avec un Minolta AF-S dans lequel j'ai chargé de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23), de la [Ilford HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23) et de [l'Ultramax 400](https://www.digit-photo.com/KODAK-Ultramax-400-135-36-Poses-X3-rKODAK41024389.html?dpa_id=23)*
+<iframe src="https://www.komoot.fr/tour/689571867/embed?profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
