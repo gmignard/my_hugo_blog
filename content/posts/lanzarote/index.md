@@ -97,4 +97,6 @@ En fait, je n’ai pas envie de faire un programme détaillé pour un séjour de
 
 {{< photo src="lanza_36.webp" alt="Lanzarote">}}
 
-*Les photos de ce voyages ont été réalisées avec un [X100V](https://www.digit-photo.com/FUJI-X100V-Noir-rFUJI16643000.html?dpa_id=23) et un [Nikonos V](https://gregorymignard.com/nikonos-v/) dans lequel j'ai chargé de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23)*
+| Camera | Films |
+|:-------:|:------:|
+| [X100V](https://www.digit-photo.com/FUJI-X100V-Noir-rFUJI16643000.html?dpa_id=23) & [Nikonos V](https://gregorymignard.com/nikonos-v/) | [Kodak Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23) | 
