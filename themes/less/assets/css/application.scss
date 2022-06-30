@@ -170,6 +170,27 @@ img {
   width: 100%;
 }
 
+table {
+  width: 100%;
+  background-color: #FFFFFF;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #232324;
+  border-style: solid;
+  color: #000000;
+}
+
+table td, table th {
+  border-width: 2px;
+  border-color: #232324;
+  border-style: solid;
+  padding: 5px;
+}
+
+table thead {
+  background-color: #FFFFFF;
+}
+
 /* Main wrapper */
 .wrapper {
   min-height: 100%;
