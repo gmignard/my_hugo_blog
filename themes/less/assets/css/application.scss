@@ -170,6 +170,13 @@ img {
   width: 100%;
 }
 
+table {
+  @apply w-full p-4 my-7 border border-black ;
+  th, td {
+    @apply border border-black p-2;
+  }
+}
+
 /* Main wrapper */
 .wrapper {
   min-height: 100%;
