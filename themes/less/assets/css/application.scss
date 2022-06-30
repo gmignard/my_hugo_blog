@@ -171,9 +171,9 @@ img {
 }
 
 table {
-  @apply w-full p-4 my-7 border border-gray-900 ;
+  @apply w-full p-4 my-7 border border-2-black ;
   th, td {
-    @apply border border-gray-900 p-4;
+    @apply border border-2-black p-2;
   }
 }
 
