@@ -171,23 +171,10 @@ img {
 }
 
 table {
-  width: 100%;
-  padding: 1em 0;
-  border-collapse: collapse;
-  border-width: 2px;
-  border-color: #232324;
-  border-style: solid;
-}
-
-table td, table th {
-  border-width: 2px;
-  border-color: #232324;
-  border-style: solid;
-  padding: 5px;
-}
-
-table thead {
-  background-color: #FFFFFF;
+  @apply w-full p-4 my-4 border border-gray-900 ;
+  th, td {
+    @apply border border-gray-900 p-2;
+  }
 }
 
 /* Main wrapper */
