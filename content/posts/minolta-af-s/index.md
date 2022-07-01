@@ -2,7 +2,7 @@
 title: Minolta AF-S
 subtitle: Un Point & Shoot performant et abordable
 seotitle: "Minolta AF-S, un Point & Shoot performant et pas cher — Grégory Mignard"
-date: 2022-04-05 09:00:00 +0200
+date: 2022-07-01 09:00:00 +0200
 slug: "minolta-af-s"
 categories:
 - gear
@@ -49,8 +49,8 @@ C’est comme ça que je me retrouve à poncer le web et Le Bon Coin pour tenter
 
 J’espérais vraiment qu’il puisse rivaliser avec un Mju II que je connais déjà. Son optique de 35mm qui ouvre jusqu’à f/2.8 est très alléchante et après avoir reçu mes films développés chez Mori, je ne vois aucune différence avec un Olympus Mju II. 50 € vs 400 € à l’heure où j’écris ces lignes.  
 Concrètement, il est un peu plus gros qu’un Yashica T4, il se fait un peu plus sentir dans une poche, mais sinon, il est simple d’utilisation, tu vises et du déclenches ! Un vrai Point & Shoot.  
-Toutes les photos d’illustration de cet article ont été réalisées avec ce Minolta AF-S et je suis très content de cette affaire. J'ai même documenté mon aventure [Breizhpacking](https://gregorymignard.com/breizhpacking/) avec cet appareil. Donc si vous cherchez un bon point & shoot sans tomber dans la folie des prix actuels, je n’ai qu’un conseil, essayer de vous en trouver un 😎 
+Toutes les photos d’illustration de cet article ont été réalisées avec ce Minolta AF-S et je suis très content de cette affaire. J'ai même documenté mon aventure [Breizhpacking](https://gregorymignard.com/breizhpacking/) avec cet appareil. Donc si vous cherchez un bon point & shoot sans tomber dans la folie des prix actuels, je n’ai qu’un conseil, essayer de vous en trouver un 😎
 
 | Camera | Films |
 |:-------:|:------:|
-| [Minolta AF-S](https://gregorymignard.com/minolta-af-s/) | [Kodak Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23), [Ilford HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23) & [Kodak Ultramax 400](https://www.digit-photo.com/KODAK-Ultramax-400-135-36-Poses-X3-rKODAK41024389.html?dpa_id=23) | 
+| [Minolta AF-S](https://gregorymignard.com/minolta-af-s/) | [Kodak Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23), [Ilford HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23) & [Kodak Ultramax 400](https://www.digit-photo.com/KODAK-Ultramax-400-135-36-Poses-X3-rKODAK41024389.html?dpa_id=23) |
