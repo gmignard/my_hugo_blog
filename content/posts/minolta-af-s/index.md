@@ -47,7 +47,7 @@ C’est comme ça que je me retrouve à poncer le web et Le Bon Coin pour tenter
 {{< photo src="minoltaAFS_4.webp" alt="Minolta AF-S">}}
 {{</ photoset >}}
 
-J’espérais vraiment qu’il puisse rivaliser avec un Mju II que je connais déjà. Son optique de 35mm qui ouvre jusqu’à f/2.8 est très alléchante et après avoir reçu mes films développés chez Mori, je ne vois aucune différence avec un Olympus Mju II. 50 € vs 400 € à l’heure où j’écris ces lignes.  
+J’espérais vraiment qu’il puisse rivaliser avec un Mju II que je connais déjà. Son optique de 35mm qui ouvre jusqu’à f/2.8 est très alléchante et après avoir reçu mes films développés chez [Mori](https://fr.morifilmlab.com), je ne vois aucune différence avec un Olympus Mju II. 50 € vs 400 € à l’heure où j’écris ces lignes.  
 Concrètement, il est un peu plus gros qu’un Yashica T4, il se fait un peu plus sentir dans une poche, mais sinon, il est simple d’utilisation, tu vises et du déclenches ! Un vrai Point & Shoot.  
 Toutes les photos d’illustration de cet article ont été réalisées avec ce Minolta AF-S et je suis très content de cette affaire. J'ai même documenté mon aventure [Breizhpacking](https://gregorymignard.com/breizhpacking/) avec cet appareil. Donc si vous cherchez un bon point & shoot sans tomber dans la folie des prix actuels, je n’ai qu’un conseil, essayer de vous en trouver un 😎
 
