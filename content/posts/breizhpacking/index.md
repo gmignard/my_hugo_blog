@@ -107,7 +107,7 @@ Plus que 15 km, nous approchons du but, je recommence à reconnaitre les petite
 
 | Camera | Films |
 |:-------:|:------:|
-| Minolta AF-S | [Kodak Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23), [Ilford HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23) & [Kodak Ultramax 400](https://www.digit-photo.com/KODAK-Ultramax-400-135-36-Poses-X3-rKODAK41024389.html?dpa_id=23) |  
+| [Minolta AF-S](https://gregorymignard.com/minolta-af-s/) | [Kodak Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23), [Ilford HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23) et [Kodak Ultramax 400](https://www.digit-photo.com/KODAK-Ultramax-400-135-36-Poses-X3-rKODAK41024389.html?dpa_id=23) |  
 
 
 <iframe src="https://www.komoot.fr/tour/689571867/embed?profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
