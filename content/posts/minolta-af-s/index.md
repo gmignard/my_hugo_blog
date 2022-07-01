@@ -2,7 +2,7 @@
 title: Minolta AF-S
 subtitle: Un Point & Shoot performant et abordable
 seotitle: "Minolta AF-S, un Point & Shoot performant et pas cher — Grégory Mignard"
-date: 2022-07-01 09:00:00 +0200
+date: 2022-07-01 08:00:00 +0200
 slug: "minolta-af-s"
 categories:
 - gear
