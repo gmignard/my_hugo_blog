@@ -2,7 +2,7 @@
 title: Summer 2022
 subtitle: Résumé d’un été bien chaud
 seotitle: "Summer 2022 — Grégory Mignard"
-date: 2022-08-29 09:00:00 +0200
+date: 2022-08-31 09:00:00 +0200
 slug: "summer-2022"
 categories:
 - daily
@@ -53,7 +53,7 @@ Fin mai, nous avons reçu notre nouveau van et nous voulions faire un chouette t
 {{< photoset always="2" >}}
 {{< photo src="belgique_1.webp" alt="Bonjour l’été">}}
 {{< photo src="belgique_4.webp" alt="Bonjour l’été">}}
-{{</ photoset >}} 
+{{</ photoset >}}
 
 {{< photoset always="2" >}}
 {{< photo src="belgique_5.webp" alt="Bonjour l’été">}}
