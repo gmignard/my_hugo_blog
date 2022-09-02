@@ -61,7 +61,7 @@ Un jour de janvier 2006, je me crasherais en kite sur une falaise aux Antilles, 
 Lassé du kitesurf après 20 années de pratique, j’ai petit à petit arrêté la discipline pour me recentrer sur ce qui me fait le plus vibrer : les vagues et le surf.  
 Même ma pratique du surf est rattrapée par ma passion grandissante de faire des images dans l’eau, l’envie d’aller à l’eau et ce besoin de proximité sont présents comme au premier jour. Étant papa à plein temps, j’ai clairement moins de temps qu’à mes 20 ans, c’est pourquoi je recentre de plus en plus ma pratique sur les prises de vues aqua et le bodysurf… Il n’y a pas plus minimaliste que le bodysurf et c’est ce qui me branche en ce moment. (Petite parenthèse culture avec cet épisode de Tracks dédié au bodysurf)
 
-<https://youtu.be/9HtKZOyJVkI>
+<div>{{< youtube 9HtKZOyJVkI >}}</div>
 
 Au final, que ce soit de la voile, du kite, du surf ou du bodysurf, ce qui me plait le plus, c’est d’entrer en connexion avec la mer, d’y passer régulièrement du temps et d’y trouver du plaisir intense.  
 Après plus de 30 ans de diverses pratiques nautiques, j’aime me retrouver de nouveau en bas de l’échelle pour découvrir de nouvelles approches et techniques pour profiter encore de nombreuses années de l’océan. Aujourd’hui, j’ai la même excitation à chaque fois que je vais à l’eau que celle que je pouvais avoir quand je grimpais sur mon vélo pour rejoindre le lac et mon optimist.
@@ -75,12 +75,6 @@ Après plus de 30 ans de diverses pratiques nautiques, j’aime me retrouver de
 
 > Pour les curieux, Houlenniñ veut dire « onduler » en Breton, cette onde formée par la houle et qui donne naissance aux vagues 🤙
 
-{{< photo src="cover" alt="Houlenniñ">}}
-
-{{< photoset always="2" >}}
-{{< photo src="file.webp" alt="Houlenniñ">}}
-{{< photo src="file.webp" alt="Houlenniñ">}}
-{{</ photoset >}}
 
 {{< photoset max="3" >}}
   {{< photo src="file.webp" alt="Houlenniñ" >}}
@@ -89,7 +83,3 @@ Après plus de 30 ans de diverses pratiques nautiques, j’aime me retrouver de
 {{</ photoset >}}
 
 {{< photo class="vertical" src="webp.jpg" alt="Houlenniñ" >}}
-
-{{< photo class="fullwidth" src="webp.jpg" alt="Houlenniñ" >}}
-
-
