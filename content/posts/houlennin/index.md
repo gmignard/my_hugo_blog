@@ -79,7 +79,7 @@ Un jour de janvier 2006, je me crasherais en kite sur une falaise aux Antilles, 
 ## Aujourd’hui
 
 Lassé du kitesurf après 20 années de pratique, j’ai petit à petit arrêté la discipline pour me recentrer sur ce qui me fait le plus vibrer : les vagues et le surf.  
-Même ma pratique du surf est rattrapée par ma passion grandissante de faire des images dans l’eau, l’envie d’aller à l’eau et ce besoin de proximité sont présents comme au premier jour. Étant papa à plein temps, j’ai clairement moins de temps qu’à mes 20 ans, c’est pourquoi je recentre de plus en plus ma pratique sur les prises de vues aqua et le bodysurf… Il n’y a pas plus minimaliste que le bodysurf et c’est ce qui me branche en ce moment. (Petite parenthèse culture avec cet épisode de Tracks dédié au bodysurf)
+Même ma pratique du surf est rattrapée par ma passion grandissante de faire des images dans l’eau, l’envie d’aller à l’eau et ce besoin de proximité avec la mer sont présents comme au premier jour. Étant papa à plein temps, j’ai clairement moins de temps qu’à mes 20 ans, c’est pourquoi je recentre de plus en plus ma pratique sur les prises de vues aqua et le bodysurf… Il n’y a pas plus minimaliste que le bodysurf et c’est ce qui me branche en ce moment. (Petite parenthèse culture avec cet épisode de Tracks dédié au bodysurf)
 
 <div>{{< youtube 9HtKZOyJVkI >}}</div>
 
