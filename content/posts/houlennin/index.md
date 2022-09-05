@@ -49,7 +49,7 @@ Je pourrais raconter des tonnes et des tonnes d’anecdotes de voile liées à m
 
 ## Une carrière maritime
 
-Dans les pas d’Éric Tabarly, je m’engage dans la Marine Nationale à l’âge de 18 ans. Je quitte mes terres natales pour rejoindre l’océan pour de bon et faire un métier au plus proche de la mer. J’ai soif de navigation et c’est ainsi que j’embarque à bord de ma première affection à la sortie de mes classes. À bord de ce bateau, j’apprends la vie d’équipage et je voyage énormément. Moi qui voulais passer un maximum de temps sur l’eau, on peut dire que j’étais servi.  
+Dans les pas d’Éric Tabarly, je m’engage dans la Marine Nationale à l’âge de 18 ans. Je quitte mes terres natales pour rejoindre l’océan pour de bon et faire un métier au plus proche de la mer. J’ai soif de navigation et c’est ainsi que j’embarque à bord de ma première affectation à la sortie de mes classes. À bord de ce bateau, j’apprends la vie d’équipage et je voyage énormément. Moi qui voulais passer un maximum de temps sur l’eau, on peut dire que j’étais servi.  
 
 {{< photo src="marine_1.webp" alt="Houlenniñ">}}
 
