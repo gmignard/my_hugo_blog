@@ -59,7 +59,7 @@ Je vivais sur le bateau et le coffre de ma voiture était plein de jouets qui me
 
 {{< photoset always="2" >}}
 {{< photo src="kite_2.webp" alt="Houlenniñ">}}
-{{< photo src="kite_3.webp" alt="Houlenniñ">}}
+{{< photo src="kite_4.webp" alt="Houlenniñ">}}
 {{</ photoset >}}
 
 {{< photo src="kite_1.webp" alt="Houlenniñ">}}
