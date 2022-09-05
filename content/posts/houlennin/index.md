@@ -21,20 +21,27 @@ La mer n’était pas vraiment la préoccupation des enfants là-bas. C’était
 
 ## L'apprentissage de la voile
 
-ARCHIVES VOILE 1
-
 C’est sur ce petit lac que j’ai commencé à tirer mes premiers bords à l’âge de 7 ou 8 ans, je ne sais plus trop. Je sais juste que j’étais assez jeune. Dès la première leçon de voile, j’avais tout capté et cette lecture du vent et du plan d’eau me semblait naturelle et évidente. Une passion était née et un besoin de mer se fera sentir tout au long de mon enfance. Ce besoin de mer était comblé à chaque vacance scolaire, car mes grands-parents vivaient sur l’île de Noirmoutier. Mon grand-père, passionné de voile et de bateau, partagera avec moi des jours et des jours de navigation et de nombreuses heures à retaper un joli petit voilier en bois. Vers 12 ans, il m’offrit même mon premier bateau, un dériveur de 4,85 m avec lequel je passais l’essentiel de mes étés à naviguer autour de l’île.  
 
-
+{{< photo class="vertical" src="485.webp" alt="Houlenniñ" >}}
  
 Voile, pêche à pied, plage… Mes vacances d’enfance étaient clairement tournées vers la mer pendant que je peaufinais ma technique de navigation le reste de l’année sur mon petit lac de Sologne.  
+
+{{< photo src="martroger.webp" alt="Houlenniñ">}}
+
+{{< photoset max="3" >}}
+  {{< photo src="optimist.webp" alt="Houlenniñ" >}}
+  {{< photo src="420.webp" alt="Houlenniñ" >}}
+  {{< photo src="jags.webp" alt="Houlenniñ" >}}
+{{</ photoset >}}
+
+De l’optimist au catamaran, je me suis essayé à de nombreuses pratiques, en loisir comme en compétition. Je n’ai jamais eu l’âme d’un compétiteur, mais les compétitions me passionnaient. Mon entraineur de l’époque nous avait pris sous son aile, mon co-équipier et moi, et nous apprit énormément de choses sur la navigation. Comment avait atterri ce breton pur souche dans ce petit coin du centre de la France ? Je n’en sais rien, mais je sais qu’il a su me transmettre sa passion de la voile et de la mer.  
 
 {{< photoset always="2" >}}
 {{< photo src="charly_1.webp" alt="Houlenniñ">}}
 {{< photo src="charly_2.webp" alt="Houlenniñ">}}
 {{</ photoset >}}
 
-De l’optimist au catamaran, je me suis essayé à de nombreuses pratiques, en loisir comme en compétition. Je n’ai jamais eu l’âme d’un compétiteur, mais les compétitions me passionnaient. Mon entraineur de l’époque nous avait pris sous son aile, mon co-équipier et moi, et nous apprit énormément de choses sur la navigation. Comment avait atterri ce breton pur souche dans ce petit coin du centre de la France ? Je n’en sais rien, mais je sais qu’il a su me transmettre sa passion de la voile et de la mer.  
 Quand je n’étais pas sur l’eau à apprendre et prendre du plaisir, je dévorais des ouvrages sur la voile, j’apprenais les techniques de matelotage, ma chambre était remplie de [bouts](https://fr.wikipedia.org/wiki/Bout_(cordage)) (prononcez « boute ») et suivais les aventures de tous les grands skippers, [Éric Tabarly](https://fr.wikipedia.org/wiki/Éric_Tabarly) étant mon idole de l’époque.  
 Je pourrais raconter des tonnes et des tonnes d’anecdotes de voile liées à mon enfance, les souvenirs remontent les uns après les autres en ouvrant mes albums photo, je vais juste essayer de garder le fil de ce que j’ai envie de raconter.
 
