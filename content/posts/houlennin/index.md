@@ -42,6 +42,8 @@ De l’optimist au catamaran, je me suis essayé à de nombreuses pratiques, en 
 {{< photo src="charly_2.webp" alt="Houlenniñ">}}
 {{</ photoset >}}
 
+{{< photo src="greg.webp" alt="Houlenniñ">}}
+
 Quand je n’étais pas sur l’eau à apprendre et prendre du plaisir, je dévorais des ouvrages sur la voile, j’apprenais les techniques de matelotage, ma chambre était remplie de [bouts](https://fr.wikipedia.org/wiki/Bout_(cordage)) (prononcez « boute ») et suivais les aventures de tous les grands skippers, [Éric Tabarly](https://fr.wikipedia.org/wiki/Éric_Tabarly) étant mon idole de l’époque.  
 Je pourrais raconter des tonnes et des tonnes d’anecdotes de voile liées à mon enfance, les souvenirs remontent les uns après les autres en ouvrant mes albums photo, je vais juste essayer de garder le fil de ce que j’ai envie de raconter.
 
