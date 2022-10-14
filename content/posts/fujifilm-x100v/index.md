@@ -58,4 +58,6 @@ C’est d’ailleurs le premier appareil qui m’a motivé à photographier dire
 
 C’est vraiment cette âme que j’aime avec les appareils Fuji. [J’ai quitté Sony](https://gregorymignard.com/switch-fuji/) pour le manque de plaisir à l’usage. Les Fuji sont plaisants à utiliser, la gestion des couleurs est excellente et ce X100V a ce petit truc en plus que j’avais déjà ressenti en 2011 avec le premier de la série. Si à l’époque je m’en étais séparé à cause de ses défauts de jeunesse, je peux affirmer qu’aujourd’hui, le X100V est arrivé à une maturité et excellence que j’adore.
 
-Et si ça te dit d’avoir une belle sangle d'appareil [comme la mienne](https://www.instagram.com/p/CYRMmLgs-zZ/), va donc voir du côté de [l’Atelier Cagire](https://atelier-cagire.fr), c’est ma petite sœur qui bosse sur ces créations 💪
+Voici une seconde vidéo plutôt cool sur le X100V que je conseille de regarder également. Et si ça te dit d’avoir une belle sangle d'appareil [comme la mienne](https://www.instagram.com/p/CYRMmLgs-zZ/), va donc voir du côté de [l’Atelier Cagire](https://atelier-cagire.fr), c’est ma petite sœur qui bosse sur ces créations 💪
+
+{{< youtube uEyywSiBIjw >}}
