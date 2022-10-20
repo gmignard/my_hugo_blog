@@ -1,6 +1,3 @@
-# curl "https://lightroom.adobe.com/v2/spaces/${{ secrets.LIGHTROOM_SPACE_ID }}/albums/${{ secrets.LIGHTROOM_ALBUM_ID }}/assets?embed=asset%3Buser&order_after=-&exclude=incomplete&subtype=image%3Bvideo%3Blayout_segment&limit=1000" | sed 's/while (1) {}//' | jq -r '.resources[] | "wget -O content/everyday/" + .asset.payload.captureDate + ".jpg https://photos.adobe.io/v2/spaces/${{ secrets.LIGHTROOM_SPACE_ID}}/" + .asset.links."/rels/rendition_type/1280".href' | xargs -I{} sh -c "{} "
-#
-
 require "net/http"
 require "json"
 require "date"

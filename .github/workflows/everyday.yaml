@@ -19,6 +19,7 @@ jobs:
           ruby-version: '3.0' # Not needed with a .ruby-version file
       - name: Fetch Everyday album
         run: |
+          rm content/everyday/*.jpg
           ruby bin/download-lr.rb ${{ secrets.LIGHTROOM_SPACE_ID }} ${{ secrets.LIGHTROOM_ALBUM_ID }}
       - name: Commit files
         id: commit
