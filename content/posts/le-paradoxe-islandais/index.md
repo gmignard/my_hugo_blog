@@ -24,17 +24,29 @@ Bref, en soi, l’Islande est un paradis pour tout ça. De grands espaces sauvag
 
 {{< photo class="vertical" src="Stokksnes_1.webp" alt="Le paradoxe Islandais" >}}
 
-{{< photo src="Stokksnes_2.webp" alt="Le paradoxe Islandais">}}
-
 Fort heureusement, je partage avec Yves cette vision de la solitude en pleine nature et l’essentiel de notre voyage s’est tourné vers des endroits plus difficilement accessibles et donc moins peuplés… En théorie.  
 En étant un peu malin et en avançant sur les pistes assez tôt, il était rare que nous croisions du monde. Et plus il y avait de rivières à traverser en 4x4, moins il y avait de monde, nous avons donc fait en sorte de traverser un maximum de rivières pour aller le plus loin possible et profiter de paysages totalement incroyables et déserts.
 
-PHOTOS PAYSAGES
+{{< photo src="bang_1.webp" alt="Le paradoxe Islandais">}}
+
+{{< photoset always="2" >}}
+{{< photo src="bang_2.webp" alt="Le paradoxe Islandais">}}
+{{< photo src="bang_7.webp" alt="Le paradoxe Islandais">}}
+{{</ photoset >}}
+
+{{< photo src="bang_3.webp" alt="Le paradoxe Islandais">}}
+
+{{< photoset always="2" >}}
+{{< photo src="bang_4.webp" alt="Le paradoxe Islandais">}}
+{{< photo src="bang_6.webp" alt="Le paradoxe Islandais">}}
+{{</ photoset >}}
+
+{{< photo src="bang_5.webp" alt="Le paradoxe Islandais">}}
 
 Si passer du temps dehors nous changeait clairement de notre quotidien, même les paysages les plus incroyables nous paraissaient presque fades. L’Islande est tellement exposée sur les réseaux sociaux que j’avais l’impression de la connaitre par cœur alors que je voyais la plupart des paysages pour la première fois. Comment faire autrement en 2022 ? Comment documenter une destination qui a été photographiée sous tous les angles ?  
 Même le plaisir de mes incroyables rencontres avec les aurores boréales était un peu gâché. Le spectacle était génial à vivre, mais je sais pertinemment que mes images n’ont rien d’extraordinaire, il y a plein de meilleures images partout sur internet.
 
-PHOTOS AURORES
+{{< photo class="vertical" src="aurora.webp" alt="Le paradoxe Islandais" >}}
 
 S’il y a bien un mot qui défend la vision que j’ai de mon travail, c’est **l’authenticité**. En étant en Islande à faire des photos de touriste, je n’avais pas du tout le sentiment d’être en phase avec cette authenticité. Nous devions sans doute être parmi les touristes les plus authentiques, car nombreux sont les touristes à poser pour les réseaux sociaux, mais il manque un petit truc pour ajouter cette dose d’authenticité à ce voyage.  
 Ce petit truc, c’est un sujet de fond. Si quelques jours plus tôt nous avions décollé pour l’Islande avec un sujet de fond, nous ne serions pas en train de tout remettre en question et nous aurions l’impression de contribuer à un projet avec du sens et un but. Malheureusement, nous ne pouvons pas changer tous nos plans en cours de route, mais c’est une belle leçon. Elle est dure à se prendre en pleine face quand tu es en plein voyage, mais elle a quelque chose de super motivant pour les projets suivants.  
