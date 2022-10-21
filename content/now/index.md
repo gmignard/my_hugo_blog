@@ -1,4 +1,3 @@
-Info
 ---
 title: "Info - Grégory Mignard"
 seotitle: "Info - Grégory Mignard"
