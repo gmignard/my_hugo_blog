@@ -72,10 +72,10 @@ paginate = 12
   identifier = "blog"
   url = "/posts/"
 [[menu.main]]
-  name = "Now"
+  name = "Info"
   title = "Infos du moment"
   weight = 4
-  identifier = "now"
+  identifier = "info"
   url = "/now"
 
 [[related.indices]]

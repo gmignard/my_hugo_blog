@@ -1,6 +1,7 @@
+Info
 ---
-title: "Now - Grégory Mignard"
-seotitle: "Now - Grégory Mignard"
+title: "Info - Grégory Mignard"
+seotitle: "Info - Grégory Mignard"
 date: 2020-10-22T22:57:50+02:00
 draft: false
 type: "about"
@@ -12,12 +13,12 @@ resources:
 
 ### Hello !
 
-Moi c’est Grégory, je vis et travaille dans le Finistère avec ma famille.  
-Si je vis proche de la mer, ce n’est pas un hasard. Voile, kitesurf, surf, pêche, bodysurf… Il me faut ma dose d’eau salée, un moyen de rester inspiré et de me ressourcer.
+Moi c’est Grégory, je suis photographe, réalisateur et amateur de surf et de petites aventures.  
+Installé dans le Finistère avec ma famille, j’aime cette proximité avec la mer. Voile, kitesurf, surf, pêche, bodysurf… Il me faut ma dose d’eau salée, un moyen de rester inspiré et de me ressourcer.
 
 {{< photoset max="2" >}}
   {{< photo src="cover.webp" alt="Portrait" >}}
-  {{< photo src="greg_2.webp" alt="Watershot" >}}
+  {{< photo src="aqua.webp" alt="Watershot" >}}
 {{</ photoset >}}
 
 Je me suis mis à la photographie un peu par hasard, après un accident de kitesurf en 2005, il fallait bien s’occuper. Ça m’a tellement plu que ça a pris le dessus sur tout le reste et j’en ai fait mon métier. Ce que j’aime plus que tout, c’est documenter les belles histoires. J’ai mis du temps à le comprendre, mais c’est vraiment ça mon truc.  
@@ -28,4 +29,4 @@ Amoureux de la nature et des grands espaces, je partage les plaisirs outdoor ave
 
 Ce ralentissement, cette décroissance me suit jusque dans le choix de mon matériel vidéo, j’essaye de ne plus craquer à chaque nouveauté technologique, mais plutôt d’adopter un setup durable et efficace. Si tu veux en savoir plus sur le matériel utilisé, [j’ai fait une page détaillée](https://gregorymignard.com/equipement/).
 
-*C’est la version 2022.04.12 de cette page Now. Si tu veux en savoir plus sur la page /now, [vas donc voir par ici](https://nownownow.com/about).*
+*C’est la version 2022.09.21 de cette page Now. Si tu veux en savoir plus sur la page /now, [vas donc voir par ici](https://nownownow.com/about).*
