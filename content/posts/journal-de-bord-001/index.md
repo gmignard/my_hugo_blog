@@ -1,7 +1,7 @@
 ---
-title: Journal de bord .001
-subtitle: Morning routine, réseaux sociaux et créer un univers créatif
-seotitle: "Journal de bord .001 — Grégory Mignard"
+title: Podcast et morning routine
+subtitle: Journal de bord .001
+seotitle: "Podcast et morning routine - Journal de bord .001 — Grégory Mignard"
 date: 2022-10-17 09:00:00 +0200
 slug: "journal-de-bord-001"
 categories:
