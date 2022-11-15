@@ -9,7 +9,7 @@ resources:
 - src: "*.webp"
 ---
 
-Les chouettes sites, blogs et portfolios des copains
+Les chouettes sites, blogs et portfolios des copains  
 ou des personnes que je suis sur internet.
 
 - https://yannickschutz.com
