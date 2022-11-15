@@ -9,7 +9,8 @@ resources:
 - src: "*.webp"
 ---
 
-Les chouettes sites, blogs et portfolios des copains ou des gens que je suis sur internet.
+Les chouettes sites, blogs et portfolios des copains
+ou des personnes que je suis sur internet.
 
 - https://yannickschutz.com
 - https://jeremyjanin.com
@@ -18,3 +19,6 @@ Les chouettes sites, blogs et portfolios des copains ou des gens que je suis sur
 - https://francischouquet.com
 - https://brianchorski.com
 - https://cedricschanze.com
+- http://ryantatar.com
+- https://gohiromoto.com
+- https://jamesbarkman.com
