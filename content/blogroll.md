@@ -20,5 +20,5 @@ ou des personnes que je suis sur internet.
 - https://brianchorski.com
 - https://cedricschanze.com
 - http://ryantatar.com
-- https://gohiromoto.com
-- https://jamesbarkman.com
+- https://www.gohiromoto.com
+- https://www.jamesbarkman.com
