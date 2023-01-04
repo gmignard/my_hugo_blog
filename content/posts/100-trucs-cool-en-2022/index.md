@@ -9,9 +9,9 @@ categories:
 tags: ["rétrospective", "2022", "Best nine", "bilan"]
 description: "Je me suis amusé à sélection une sorte de mon best-of photo de l’année avec quelques moments marquants de mon année 2022."
 resources:
-- src: "cover.jpg"
+- src: "cover.webp"
   name: "cover"
-- src: "*.jpg"
+- src: "*.webp"
 ---
 
 {{< photo src="cover" alt="100 trucs cool en 2022">}}
