@@ -1,7 +1,7 @@
 ---
 title: 100 trucs cool en 2022
 seotitle: "100 trucs cool en 2022 - Grégory Mignard"
-date: 2023-04-09T10:00:50+01:00
+date: 2023-01-04T10:00:50+01:00
 draft: false
 slug: "100-trucs-cool-en-2022"
 categories:
