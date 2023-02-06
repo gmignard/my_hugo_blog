@@ -27,7 +27,7 @@ L’hiver dans la Manche. Une drôle d’idée pour certains, un nouveau souffle
 *ANNÉE* – 2023
 
 {{< photoset max="3" >}}
-  {{< photo src="contrecourant_1.webp" alt="L’hiver à contre-courant" >}}
+  {{< photo src="contrecourant_9.webp" alt="L’hiver à contre-courant" >}}
   {{< photo src="contrecourant_4.webp" alt="L’hiver à contre-courant" >}}
   {{< photo src="contrecourant_2.webp" alt="L’hiver à contre-courant" >}}
 {{</ photoset >}}
