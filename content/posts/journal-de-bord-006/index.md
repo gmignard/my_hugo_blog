@@ -22,7 +22,7 @@ Je refais un point à la fin de ce mois et je verrais si je réinstalle les appl
 
 {{< photo src="cover" alt="Journal de bord .006">}}
 
-Vous vous souvenez quand j’exprimais [ma peur de louper un truc](https://gregorymignard.com/journal-de-bord-003/) ? Eh bien cette fois, tout était aligné, j’étais présent quand il fallait et ça fait un fou de retourner à l’eau.  
+Vous vous souvenez quand j’exprimais [ma peur de louper un truc](https://gregorymignard.com/journal-de-bord-003/) ? Eh bien cette fois, tout était aligné, j’étais présent quand il fallait et ça fait un bien fou de retourner à l’eau.  
 Entre la mauvaise météo, les contraintes de planning et le manque de houle, il s’est écoulé un bon bout de temps avant que je retourner faire des images à l’eau. Et en ce milieu de semaine, toutes les planètes se sont alignées et j’ai pu de nouveau enfiler la combinaison pour une belle session sur la côte nord Finistère.  
 C’était également l’occasion pour moi de tester mon nouveau [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e), le [Viltrox 23mm f/1.4](https://dp.gt/a/ltkoiotjf) et un nouveau caisson étanche [Aquatech](https://aquatech.net/collections/edge-water-housings/fujifilm-x-h2s). Ce nouveau setup est vraiment très plaisant, j’ai beaucoup à raconter, mais ça fera l’objet d’un dossier totalement dédié, aussi bien côté vidéo que du côté de la photographie aquatique.
 
