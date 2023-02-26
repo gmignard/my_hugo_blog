@@ -16,6 +16,7 @@ ou des personnes que je suis sur internet.
 - https://jeremyjanin.com
 - https://jamesbowden.net
 - https://ronsbikesblog.com
+- https://stridsland.com
 - https://francischouquet.com
 - https://brianchorski.com
 - https://cedricschanze.com
