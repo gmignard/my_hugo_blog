@@ -1,6 +1,24 @@
 {{ if .Site.Params.tinyletter.username }}
 
-<center><iframe src="https://slowisbeautiful.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
+<center>
+<div id="custom-substack-embed"></div>
+
+<script>
+  window.CustomSubstackWidget = {
+    substackUrl: "slowisbeautiful.substack.com",
+    placeholder: "example@gmail.com",
+    buttonText: "Subscribe",
+    theme: "custom",
+    colors: {
+      primary: "#FFE65D",
+      input: "#FFFFFF",
+      email: "#000000",
+      text: "#000000",
+    }
+  };
+</script>
+<script src="https://substackapi.com/widget.js" async></script>
+</center>
 
 
 
