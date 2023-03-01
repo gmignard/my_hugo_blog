@@ -49,8 +49,8 @@ paginate = 12
 
 [params.tinyletter]
   username = "captainyvon"
-  title = "Poursuivre l'aventure..."
-  description = "Si tu veux rester au courant de mes projets majeurs, abonnes-toi à ma newsletter."
+  title = "Abonnez-vous à ma newsletter « Slow is beautiful »"
+  description = "Une invitation à prendre le temps de prendre le temps où l'on place le confort avant la performance. En gros, moins de STRAVA, plus de pauses chocolat."
 
 [[menu.main]]
   name = "Everyday"
