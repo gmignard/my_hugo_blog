@@ -1,13 +1,13 @@
 {{ if .Site.Params.tinyletter.username }}
 
 
-<div style="max-width: 57rem!important;margin: auto;margin-bottom: 60px;background-color: #F3F3F3;border:1px solid #F3F3F3;padding:24px; text-align:center;">
+<div style="max-width: 57rem!important;margin: auto;margin-bottom: 60px;background-color: #F3F3F3;border:1px solid #F3F3F3;padding:24px; text-align:left;">
 
 <h3>{{ .Site.Params.tinyletter.title }}</h3>
       </br>
       Envie d’échanger sur le sujet ? Rejoins-moi sur <a href="https://twitter.com/{{ .Site.Params.social.twitter }}" target="_blank">Twitter</a>, <a href="https://piaille.fr/@gregmignard" target="_blank">Mastodon</a> & <a href="https://instagram.com/{{ .Site.Params.social.instagram }}" target="_blank">Instagram</a>.
       </br>
-      {{ .Site.Params.tinyletter.description }}
+      {{ .Site.Params.tinyletter.description }} </br>
 
 <div id="custom-substack-embed"></div>
 
@@ -25,7 +25,7 @@
     }
   };
 </script>
-<script src="https://substackapi.com/widget.js" async></script>
+<script src="https://substackapi.com/widget.js" async></script> </br>
 
 </div>
 
