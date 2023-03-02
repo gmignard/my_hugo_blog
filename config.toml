@@ -46,6 +46,7 @@ paginate = 12
   twitter = "gregmignard"
   instagram = "gregmignard"
   vimeo = "captainyvon"
+  mastodon = "@gregmignard"
 
 [params.tinyletter]
   username = "captainyvon"
