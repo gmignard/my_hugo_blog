@@ -10,7 +10,7 @@ resources:
   name: "cover"
 ---
 
-### Hello !
+> Je fais des trucs. J’essaye de rendre ces trucs intéressants.
 
 Moi c’est Grégory, je suis photographe, réalisateur et amateur de surf et de petites aventures. Installé dans le Finistère avec ma famille, j’aime cette proximité avec la mer. Voile, kitesurf, surf, pêche, bodysurf… Il me faut ma dose d’eau salée, un moyen de rester inspiré et de me ressourcer.
 
