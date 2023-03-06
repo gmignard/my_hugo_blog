@@ -18,10 +18,10 @@ Soucieux de documenter dans un style intemporel les moments authentiques et les 
 
 Mon temps libre est dédié à ma vie de famille avec laquelle je partage mon amour de la nature et des voyages en van. J’essaye également d’aller affronter le plus régulièrement les vagues du Finistère ou bien de m’évader avec mon vélo.  
    
-✉️ hello@gregorymignard.com  
-🌐 Retrouvez-moi sur [Instagram](https://www.instagram.com/gregmignard/), [Twitter](https://twitter.com/gregmignard) & [Mastodon](https://piaille.fr/@gregmignard).  
-🌱 Membre du [1% for the Planet](https://www.onepercentfortheplanet.fr).   
-🏠 Finistère, Bretagne.  
-📸 Photo prise par [Yves Quéré](https://yvesquere.com). Vestrahorn en Islande, Septembre 2022.
+✉️ → hello@gregorymignard.com  
+🌐 → Retrouvez-moi sur [Instagram](https://www.instagram.com/gregmignard/), [Twitter](https://twitter.com/gregmignard) & [Mastodon](https://piaille.fr/@gregmignard).  
+🌱 → Membre du [1% for the Planet](https://www.onepercentfortheplanet.fr).   
+🏠 → Finistère, Bretagne.  
+📸 → Photo prise par [Yves Quéré](https://yvesquere.com). Vestrahorn en Islande, Septembre 2022.
 
 {{< photo class="vertical" src="cover.webp" alt="Info" >}}
