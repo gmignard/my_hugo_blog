@@ -12,21 +12,29 @@ resources:
 
 > Je fais des trucs. J’essaye de rendre ces trucs intéressants.
 
-{{< columns >}} <!-- begin columns block -->
-# Left Content
-Lorem markdownum insigne...
+{{% columns %}}
 
-<---> <!-- magic separator, between columns -->
+#### Title 1
 
-# Mid Content
-Lorem markdownum insigne...
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
 
-<---> <!-- magic separator, between columns -->
+{{< hint warning >}}
+Example text that *may* contain **markdown** `markup`.
+{{< /hint >}}
 
-# Right Content
-Lorem markdownum insigne...
-{{< /columns >}}
+<--->
 
+#### Title 2
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+
+<--->
+
+#### Title 3
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s[^columntest]
+
+{{% /columns %}}
 Moi c’est Grégory, je suis photographe, réalisateur et amateur de surf et de petites aventures. Installé dans le Finistère avec ma famille, j’aime cette proximité avec la mer. Voile, kitesurf, surf, pêche, bodysurf… Il me faut ma dose d’eau salée, un moyen de rester inspiré et de me ressourcer.
 
 {{< photoset max="2" >}}
