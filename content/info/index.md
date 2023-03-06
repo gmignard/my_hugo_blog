@@ -10,6 +10,21 @@ resources:
   name: "cover"
 ---
 
+{{< columns >}} <!-- begin columns block -->
+# Left Content
+Lorem markdownum insigne...
+
+<---> <!-- magic separator, between columns -->
+
+# Mid Content
+Lorem markdownum insigne...
+
+<---> <!-- magic separator, between columns -->
+
+# Right Content
+Lorem markdownum insigne...
+{{< /columns >}}
+
 > Moi c’est Greg et je fais des photos et des films sur les trucs que je trouve intéressants.
 
 Réalisateur & photographe passionné par l’océan et les petites aventures, je suis le co-fondateur de [Captain Yvon Studio](https://captainyvon.fr) & [Slow is Beautiful](http://slowisbeautiful.cool).  
