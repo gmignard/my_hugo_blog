@@ -10,7 +10,7 @@ resources:
   name: "cover"
 ---
 
-> Hello, moi c’est Grégory, je suis [photographe](https://gregorymignard.com) & [réalisateur](https://gregorymignard.com/films/) addict à l’océan et amateur de petites aventures.
+> Grégory, photographe & réalisateur addict à l’océan et amateur de petites aventures.
 
 Designing Hipcamp, operating the Public Archive, and roasting
 Difficult Coffee Co. In my free time, l'm working towards visiting every National Park System unit.  
@@ -19,10 +19,10 @@ My work has been featured around the world by the likes of Apple, the App Store,
 
 Previously, I was a product design lead at Everest, graphic designer at Cantora Records, founded an indie magazine, and created the viral tumblr blog 365g.  
 
-✉️ hello@gregorymignard.com 
-🌐 Retrouvez-moi sur Instagram, Twitter, Mastodon et Linkedin.\
-🏠 Finistère, Bretagne.
+✉️ hello@gregorymignard.com  
+🌐 Retrouvez-moi sur [Instagram](https://www.instagram.com/gregmignard/), [Twitter](https://twitter.com/gregmignard) & [Mastodon](https://piaille.fr/@gregmignard).  
+🌱 Membre du [1% for the Planet](https://www.onepercentfortheplanet.fr).   
+🏠 Finistère, Bretagne.  
+📸 Photo prise par [Yves Quéré](https://yvesquere.com). Vestrahorn en Islande, Septembre 2022.
 
 {{< photo class="vertical" src="cover.webp" alt="Info" >}}
-
-📸 Photo par [Yves Quéré](https://yvesquere.com). Vestrahorn en Islance, Septembre 2022.
