@@ -14,12 +14,9 @@ resources:
 
 Mon choix s’est porté sur le [Fujifilm X-H2S](https://dp.gt/a/uj7xo7k6e) pour ses performances aussi bien en photo qu’en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 6.2K 10 bits, il n’a rien à envier à certaines grosses caméras professionnelles et excelle en photographie. C’est le boitier à tout faire sur lequel je peux compter pour mes projets [Captain Yvon](https://captainyvon.fr/).  
 
-##### RIG
+COMPOSANTS DE LA RIG
 
-* [Cage pour X-H2S — SmallRig 3934](https://dp.gt/a/cbyd4sle) | [Poignée NATO — SmallRig 1955](https://www.digit-photo.com/SMALLRIG-1955-Poignee-Nato-rSMALLRIGD152811.html?dpa_id=23)
-* Batteries : [Batteries Patona NP-W235](https://dp.gt/a/hmnzg0v8s) pour Fuji X-H2S | [Sony NPF](https://www.digit-photo.com/PATONA-Batterie-Sony-NP-F970-rPATONA1207.html?dpa_id=23) pour l’écran de monitoring
-* [Micro RØDE VideoMic NTG](https://www.digit-photo.com/RODE-Microphone-VideoMic-NTG-Noir-rRODER100315.html?dpa_id=23) | [RØDE Softy](https://www.digit-photo.com/RODE-Protection-Micro-Anti-Vent-rRODER100317.html?dpa_id=23)
-* [Ecran de monitoring Atomos Shinobi](https://dp.gt/a/7n0j568xm)
+[Cage pour X-H2S — SmallRig 3934](https://dp.gt/a/cbyd4sle) | [Poignée NATO — SmallRig 1955](https://www.digit-photo.com/SMALLRIG-1955-Poignee-Nato-rSMALLRIGD152811.html?dpa_id=23) | [Micro RØDE VideoMic NTG](https://www.digit-photo.com/RODE-Microphone-VideoMic-NTG-Noir-rRODER100315.html?dpa_id=23) | [RØDE Softy](https://www.digit-photo.com/RODE-Protection-Micro-Anti-Vent-rRODER100317.html?dpa_id=23) | [Ecran de monitoring Atomos Shinobi](https://dp.gt/a/7n0j568xm) | [Batteries Patona NP-W235](https://dp.gt/a/hmnzg0v8s) pour Fuji X-H2S | [Sony NPF](https://www.digit-photo.com/PATONA-Batterie-Sony-NP-F970-rPATONA1207.html?dpa_id=23) pour l’écran de monitoring | [Filtres ND8 et ND64 Hoya Pro](https://www.digit-photo.com/Filtres-vissants-aFA0032/Hoya/+choixMarque-821%7C?dpa_id=23) | [Filtres de diffusion CineBloom 10%](https://www.shopmoment.com/filters/diffusion-filters)
 
 ##### OBJECTIFS
 
@@ -30,11 +27,6 @@ Mon choix s’est porté sur le [Fujifilm X-H2S](https://dp.gt/a/uj7xo7k6e) pour
 * [Nikkor AF 35mm f/2 D](https://www.digit-photo.com/NIKON-35mm-AF-f-2-D-rOBNIJAA129DA.html?dpa_id=23) — *Un équivalent 50mm sur mon Fuji*
 * Nikkor pré-Ai 55mm f/1.2 — *Optique vintage lumineuse, équivalent 85mm sur le Fuji*
 * Nikkor Ai 135mm f/2.8 — *Petit téléobjectif vintage lumineux*
-
-##### FILTRES
-
-* [Filtres ND8 et ND64 Hoya Pro](https://www.digit-photo.com/Filtres-vissants-aFA0032/Hoya/+choixMarque-821%7C?dpa_id=23)
-* [Filtres de diffusion CineBloom 10%](https://www.shopmoment.com/filters/diffusion-filters)
 
 ACCESSOIRES
 
