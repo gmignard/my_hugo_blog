@@ -10,14 +10,14 @@ resources:
   name: "cover"
 ---
 
-> Je fais des photos et des films sur les trucs que je trouve intéressants.
+> Hello, moi c’est Greg, je fais des photos et des films sur les trucs que je trouve intéressants.
 
-Réalisateur & photographe passionné par l’océan et les petites aventures. J’occupe mon temps libre entre les vagues du Finistère Nord et les petits sentiers que j’arpente à vélo.  
+Réalisateur & photographe passionné par l’océan et les petites aventures, je suis le co-fondateur de [Captain Yvon Studio](https://captainyvon.fr) & [Slow is Beautiful](http://slowisbeautiful.cool).  
 
-Co-fondateur de [Captain Yvon Studio](https://captainyvon.fr) & [Slow is Beautiful](http://slowisbeautiful.cool), .  
+Soucieux de documenter dans un style intemporel les moments authentiques et les belles histoires, je réalise mes images aussi bien à l’argentique qu’en numérique.  
 
-Previously, I was a product design lead at Everest, graphic designer at Cantora Records, founded an indie magazine, and created the viral tumblr blog 365g.  
-
+Mon temps libre est dédié à ma vie de famille avec laquelle je partage mon amour de la nature et des voyages en van. J’essaye également d’aller affronter le plus régulièrement les vagues du Finistère ou bien de m’évader avec mon vélo.  
+   
 ✉️ hello@gregorymignard.com  
 🌐 Retrouvez-moi sur [Instagram](https://www.instagram.com/gregmignard/), [Twitter](https://twitter.com/gregmignard) & [Mastodon](https://piaille.fr/@gregmignard).  
 🌱 Membre du [1% for the Planet](https://www.onepercentfortheplanet.fr).   
