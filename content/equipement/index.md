@@ -10,20 +10,18 @@ resources:
   name: "cover"
 ---
 
-## 📹 [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
+### 📹 [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
 
 Mon choix s’est porté sur le [Fujifilm X-H2S](https://dp.gt/a/uj7xo7k6e) pour ses performances aussi bien en photo qu’en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 6.2K 10 bits, il n’a rien à envier à certaines grosses caméras professionnelles et excelle en photographie. C’est le boitier à tout faire sur lequel je peux compter pour mes projets [Captain Yvon](https://captainyvon.fr/).  
 
-J’ai imaginé un Setup RIG adapté à mon usage qui me permet de passer d’un petit appareil photo à un setup vidéo ultra versatile. Voici une liste des éléments qui composent ce setup :
+##### RIG
 
-* [Cage pour X-T3 — SmallRig 2228](https://www.digit-photo.com/SMALLRIG-2228-Cage-pour-Fuji-X-T3-rSMALLRIGD154561.html?dpa_id=23) | [Poignée latérale — SmallRig 2093](https://www.digit-photo.com/SMALLRIG-2093-Poignee-Laterale-Universelle-en-Bois-rSMALLRIGD149261.html?dpa_id=23) | [Poignée NATO — SmallRig 1955](https://www.digit-photo.com/SMALLRIG-1955-Poignee-Nato-rSMALLRIGD152811.html?dpa_id=23)
-* [Rods de 22.5cm en carbone — SmallRig 1690](https://amzn.to/3c1cFi7) | [Base Plate — SmallRig 1674](https://amzn.to/3vE9sN1) | [Tilta V-Mount Battery Plate](https://amzn.to/3c3SX5c)
-* Batteries : [V-Mount V95 Compact](https://amzn.to/3fQdvz6) | [Batteries Patona](https://www.digit-photo.com/PATONA-Batterie-Fujifilm-NP-W126S-rPATONA1279.html?dpa_id=23) pour Fuji X-T3 | [Sony NPF](https://www.digit-photo.com/PATONA-Batterie-Sony-NP-F970-rPATONA1207.html?dpa_id=23) pour l’écran de monitoring
-* [Follow Focus Edelkrone FocusONE](https://store-fr.edelkrone-eu.com/products/focusone)
+* [Cage pour X-H2S — SmallRig 3934](https://dp.gt/a/cbyd4sle) | [Poignée NATO — SmallRig 1955](https://www.digit-photo.com/SMALLRIG-1955-Poignee-Nato-rSMALLRIGD152811.html?dpa_id=23)
+* Batteries : [Batteries Patona NP-W235](https://dp.gt/a/hmnzg0v8s) pour Fuji X-H2S | [Sony NPF](https://www.digit-photo.com/PATONA-Batterie-Sony-NP-F970-rPATONA1207.html?dpa_id=23) pour l’écran de monitoring
 * [Micro RØDE VideoMic NTG](https://www.digit-photo.com/RODE-Microphone-VideoMic-NTG-Noir-rRODER100315.html?dpa_id=23) | [RØDE Softy](https://www.digit-photo.com/RODE-Protection-Micro-Anti-Vent-rRODER100317.html?dpa_id=23)
-* [Ecran de monitoring Desview R5](https://amzn.to/3ySNg3I)
+* [Ecran de monitoring Atomos Shinobi](https://dp.gt/a/7n0j568xm)
 
-OBJECTIFS
+##### OBJECTIFS
 
 * [Fuji XF 10-24mm f/4 OIS WR](https://www.digit-photo.com/FUJI-XF-10-24mm-f-4-0-R-OIS-WR-rFUJI16666791.html?dpa_id=23) — *Zoom grand angle principalement utilisé sous l’eau*
 * [Fuji XF 56mm f/1.2 R](https://www.digit-photo.com/FUJI-XF-56mm-f-1-2-R-Noir-rFUJI11510.html?dpa_id=23) — *Objectif motorisé lumineux, pour le caisson étanche ou la gimbal*
@@ -33,7 +31,7 @@ OBJECTIFS
 * Nikkor pré-Ai 55mm f/1.2 — *Optique vintage lumineuse, équivalent 85mm sur le Fuji*
 * Nikkor Ai 135mm f/2.8 — *Petit téléobjectif vintage lumineux*
 
-FILTRES
+##### FILTRES
 
 * [Filtres ND8 et ND64 Hoya Pro](https://www.digit-photo.com/Filtres-vissants-aFA0032/Hoya/+choixMarque-821%7C?dpa_id=23)
 * [Filtres de diffusion CineBloom 10%](https://www.shopmoment.com/filters/diffusion-filters)
