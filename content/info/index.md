@@ -10,22 +10,7 @@ resources:
   name: "cover"
 ---
 
-{{< columns >}} <!-- begin columns block -->
-# Left Content
-Lorem markdownum insigne...
-
-<---> <!-- magic separator, between columns -->
-
-# Mid Content
-Lorem markdownum insigne...
-
-<---> <!-- magic separator, between columns -->
-
-# Right Content
-Lorem markdownum insigne...
-{{< /columns >}}
-
-> Moi c’est Greg et je fais des photos et des films sur les trucs que je trouve intéressants.
+{{< columns before=“true” src=“cover.webp” >}}> Moi c’est Greg et je fais des photos et des films sur les trucs que je trouve intéressants.
 
 Réalisateur & photographe passionné par l’océan et les petites aventures, je suis le co-fondateur de [Captain Yvon Studio](https://captainyvon.fr) & [Slow is Beautiful](http://slowisbeautiful.cool).  
 
@@ -37,6 +22,4 @@ Mon temps libre est dédié à ma vie de famille avec laquelle je partage mon am
 🌐 → Retrouvez-moi sur [Instagram](https://www.instagram.com/gregmignard/), [Twitter](https://twitter.com/gregmignard) & [Mastodon](https://piaille.fr/@gregmignard).  
 🌱 → Membre du [1% for the Planet](https://www.onepercentfortheplanet.fr).   
 🏠 → Finistère, Bretagne.  
-📸 → Photo prise par [Yves Quéré](https://yvesquere.com). Vestrahorn en Islande, Septembre 2022.
-
-{{< photo class="vertical" src="cover.webp" alt="Info" >}}
+📸 → Photo prise par [Yves Quéré](https://yvesquere.com). Vestrahorn en Islande, Septembre 2022.{{</columns>}}
