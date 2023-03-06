@@ -10,12 +10,11 @@ resources:
   name: "cover"
 ---
 
-> Grégory, photographe & réalisateur addict à l’océan et amateur de petites aventures.
+> Je fais des photos et des films sur les trucs que je trouve intéressants.
 
-Designing Hipcamp, operating the Public Archive, and roasting
-Difficult Coffee Co. In my free time, l'm working towards visiting every National Park System unit.  
+Réalisateur & photographe passionné par l’océan et les petites aventures. J’occupe mon temps libre entre les vagues du Finistère Nord et les petits sentiers que j’arpente à vélo.  
 
-My work has been featured around the world by the likes of Apple, the App Store, Outside Magazine, Chronicle Books and Gestalten Books. I've collaborated with brands such as MEC, REI, Huckberry, The North Face, Mountain Hardwear, and Eddie Bauer.  
+Co-fondateur de [Captain Yvon Studio](https://captainyvon.fr) & [Slow is Beautiful](http://slowisbeautiful.cool), .  
 
 Previously, I was a product design lead at Everest, graphic designer at Cantora Records, founded an indie magazine, and created the viral tumblr blog 365g.  
 
