@@ -10,16 +10,11 @@ resources:
   name: "cover"
 ---
 
-## Équipement Vidéo
+## 📹 [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
 
-Mon choix s’est porté sur le [Fujifilm X-T3](https://www.digit-photo.com/FUJI-X-T3-Boitier-Nu-Noir-rFUJIXT3BK.html?dpa_id=23) pour ses performances aussi bien en photo qu’en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 4K 10 bits, il n’a rien à envier à certaines caméras professionnelles et excelle en photographie. C’est le boitier à tout faire sur lequel je peux compter pour mes projets [Captain Yvon](https://captainyvon.fr/).
+Mon choix s’est porté sur le [Fujifilm X-H2S](https://dp.gt/a/uj7xo7k6e) pour ses performances aussi bien en photo qu’en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 6.2K 10 bits, il n’a rien à envier à certaines grosses caméras professionnelles et excelle en photographie. C’est le boitier à tout faire sur lequel je peux compter pour mes projets [Captain Yvon](https://captainyvon.fr/).  
 
-{{< photoset always="2" >}}
-{{< photo src="rig_1.jpg" alt="Equipement">}}
-{{< photo src="rig_2.jpg" alt="Equipement">}}
-{{</ photoset >}}
-
-Le principal atout du X-T3 est son faible poids/encombrement, mais ça devient également son principal défaut quand il s’agit de filmer à main levée. C’est pourquoi j’ai imaginé un Setup RIG adapté à mon usage qui me permet de passer d’un petit appareil photo à un setup vidéo ultra versatile. Voici une liste des éléments qui composent ce setup :
+J’ai imaginé un Setup RIG adapté à mon usage qui me permet de passer d’un petit appareil photo à un setup vidéo ultra versatile. Voici une liste des éléments qui composent ce setup :
 
 * [Cage pour X-T3 — SmallRig 2228](https://www.digit-photo.com/SMALLRIG-2228-Cage-pour-Fuji-X-T3-rSMALLRIGD154561.html?dpa_id=23) | [Poignée latérale — SmallRig 2093](https://www.digit-photo.com/SMALLRIG-2093-Poignee-Laterale-Universelle-en-Bois-rSMALLRIGD149261.html?dpa_id=23) | [Poignée NATO — SmallRig 1955](https://www.digit-photo.com/SMALLRIG-1955-Poignee-Nato-rSMALLRIGD152811.html?dpa_id=23)
 * [Rods de 22.5cm en carbone — SmallRig 1690](https://amzn.to/3c1cFi7) | [Base Plate — SmallRig 1674](https://amzn.to/3vE9sN1) | [Tilta V-Mount Battery Plate](https://amzn.to/3c3SX5c)
