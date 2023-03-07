@@ -10,11 +10,11 @@ resources:
   name: "cover"
 ---
 
-#### 📹 [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
+> 📹 [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
 
 Mon choix s’est porté sur le [Fujifilm X-H2S](https://dp.gt/a/uj7xo7k6e) pour ses performances aussi bien en photo qu’en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 6.2K 10 bits, il n’a rien à envier à certaines grosses caméras professionnelles et excelle en photographie. C’est le boitier à tout faire sur lequel je peux compter pour mes projets [Captain Yvon](https://captainyvon.fr/).  
 
-COMPOSANTS DE LA RIG
+#### COMPOSANTS DE LA RIG
 
 [Cage pour X-H2S — SmallRig 3934](https://dp.gt/a/cbyd4sle) | [Poignée NATO — SmallRig 1955](https://www.digit-photo.com/SMALLRIG-1955-Poignee-Nato-rSMALLRIGD152811.html?dpa_id=23) | [Micro RØDE VideoMic NTG](https://www.digit-photo.com/RODE-Microphone-VideoMic-NTG-Noir-rRODER100315.html?dpa_id=23) | [RØDE Softy](https://www.digit-photo.com/RODE-Protection-Micro-Anti-Vent-rRODER100317.html?dpa_id=23) | [Ecran de monitoring Atomos Shinobi](https://dp.gt/a/7n0j568xm) | [Batteries Patona NP-W235](https://dp.gt/a/hmnzg0v8s) pour Fuji X-H2S | [Sony NPF](https://www.digit-photo.com/PATONA-Batterie-Sony-NP-F970-rPATONA1207.html?dpa_id=23) pour l’écran de monitoring | [Filtres ND8 et ND64 Hoya Pro](https://www.digit-photo.com/Filtres-vissants-aFA0032/Hoya/+choixMarque-821%7C?dpa_id=23) | [Filtres de diffusion CineBloom 10%](https://www.shopmoment.com/filters/diffusion-filters)
 
@@ -28,15 +28,19 @@ COMPOSANTS DE LA RIG
 * Nikkor pré-Ai 55mm f/1.2 — *Optique vintage lumineuse, équivalent 85mm sur le Fuji*
 * Nikkor Ai 135mm f/2.8 — *Petit téléobjectif vintage lumineux*
 
-ACCESSOIRES
+#### ACCESSOIRES
 
 * [Caisson étanche SeaFrogs + Dôme + Flat Port](https://seafrogs.com.hk/collections/fujifilm/products/fujifilm-x-t3-40m-130ft-underwater-camera-housing-kit-with-seafrogs-dry-dome-port-v-1-white) — *Voir [tous mes articles](https://gregorymignard.com/watershot/) sur le sujet*
 * [Dji Ronin-SC](https://amzn.to/3ipLxwX)
 * [Dji Mavic 2 Pro](https://www.digit-photo.com/DJI-Drone-Mavic-2-Pro-rDJIMAVIC2PRO.html?dpa_id=23)
 * [Trépied vidéo Manfrotto](https://www.digit-photo.com/MANFROTTO-MVK502AM-1-Kit-Video-Rotule-502-rMANFROTTOMVK502AM1.html?dpa_id=23) | [Trépied Cullmann ultra-léger](https://www.digit-photo.com/CULLMANN-56815-Trepied-de-Voyage-Carvao-816-TC-Carbone-Noir-rCULLC56815.html?dpa_id=23)
 
+> 🎞 Fuji X100V
 
-## Argentique
+Je l’ai quasiment tout le temps avec moi, que ce soit à vélo ou dans le quotidien, il a trouvé sa place. Je lui ai même confié la création de chouettes souvenirs lors de mon voyage à Lanzarote.
+Il est devenu mon appareil numérique de choix. J’ai bien mon Fuji X-T3 à côté, mais il me sert pour les shoots professionnels et principalement pour mes tournages, en vidéo.
+
+> 🎞 Argentique
 
 {{< photo src="analog.jpg" alt="Argentique">}}
 
@@ -51,11 +55,3 @@ Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.
 Je filme aussi à la Super 8 avec une Canon 514 XL que j’utilise de manière occasionnelle avec des bandes de [Kodak Vision 3 50D](https://www.digit-photo.com/KODAK-Film-Vision3-50D-8mm-pour-Camera-Super-8-rKODAKKS850D.html?dpa_id=23).
 
 J’envoi mes négatifs à développer et scanner chez [Mori Film Lab](https://morifilmlab.com/).
-
-
-## Post-production
-
-{{< photo src="studio.jpg" alt="Studio">}}
-
-J’utilise un [Mac mini M1](https://gregorymignard.com/mac-mini-m1/) avec Final Cut Pro X pour le montage vidéo ainsi qu’avec Lightroom CC pour le post-traitement photo. En complément et en mobilité, j’utilise un [iPad Pro 11](https://amzn.to/3vEf0am) avec un [Apple Pencil](https://amzn.to/3i64VPK) et le [Logitech Folio Touch](https://amzn.to/3fC2wKV).  
-Pour la partie stockage, j’utilise le Cloud Adobe pour mes photos, un [NAS Synology](https://amzn.to/3vq2daS) pour y stocker mes projets vidéo et des SSD [SanDisk Extreme](https://amzn.to/2TuXt6n) pour les déplacements et l’éditing avec FCPX.
