@@ -44,7 +44,7 @@ Je l’ai quasiment tout le temps avec moi, que ce soit à vélo ou dans le quot
 
 Depuis la fin 2020, je me suis remis à la [la photographie argentique](https://gregorymignard.com/analog/) en complément du numérique pour apporter de la douceur et du caractère à mes images. Pour cela, j'utilise les appareils suivants :
 
-* Nikon FM2 — *Mon 35mm favori, utilisé avec des optiques vintages*
+* [Nikon FM2](https://gregorymignard.com/nikon-fm2/) — *Mon 35mm favori, utilisé avec des optiques vintages*
 * Nikon F100 — *Un appareil professionnel au rendu incroyable, utilisé essentiellement avec un 35mm et un 85mm*
 * [Nikonos V](https://gregorymignard.com/nikonos-v/) — *Un 35mm étanche légendaire*
 * Konica Big Mini BM-302 — *Un Point & Shoot super comptact et performant*
