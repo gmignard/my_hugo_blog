@@ -45,7 +45,7 @@ paginate = 12
   domain = "Grégory Mignard"
   twitter = "gregmignard"
   instagram = "gregmignard"
-  vimeo = "captainyvon"
+  youtube = "captainyvon"
   mastodon = "@gregmignard"
 
 [params.tinyletter]
@@ -73,10 +73,10 @@ paginate = 12
   url = "/posts/"
 [[menu.main]]
   name = "Info"
-  title = "Infos du moment"
+  title = "Info"
   weight = 4
   identifier = "info"
-  url = "/now"
+  url = "/info"
 
 [[related.indices]]
   name = "categories"
