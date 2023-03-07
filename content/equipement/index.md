@@ -10,7 +10,7 @@ resources:
   name: "cover"
 ---
 
-### 📹 [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
+#### 📹 [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
 
 Mon choix s’est porté sur le [Fujifilm X-H2S](https://dp.gt/a/uj7xo7k6e) pour ses performances aussi bien en photo qu’en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 6.2K 10 bits, il n’a rien à envier à certaines grosses caméras professionnelles et excelle en photographie. C’est le boitier à tout faire sur lequel je peux compter pour mes projets [Captain Yvon](https://captainyvon.fr/).  
 
