@@ -84,6 +84,8 @@
       "leading-loose",
       "left-0",
       "lg:grid-cols-4",
+      "lg:mx-0",
+      "lg:mx-auto",
       "link-block",
       "link-subtitle",
       "link-title",
