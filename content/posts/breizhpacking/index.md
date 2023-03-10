@@ -5,7 +5,7 @@ seotitle: "Breizhpacking, Gravel et bikepacking dans le Finistère — Grégory 
 date: 2022-06-20 09:00:00 +0200
 slug: "breizhpacking"
 categories:
-- voyages
+- aventures
 tags: ["Brest", "Roscoff", "Les Abers", "Côte des Légendes", "Monts d’Arrée", "Les Rochs", "Bikepacking", "Vélo", "Tourisme", "Gravel"]
 description: "Gravel et bikepacking dans le Finistère, de Brest à Roscoff, de Roscoff aux Monts d’Arrée, des Monts d’Arrée à Brest."
 resources:

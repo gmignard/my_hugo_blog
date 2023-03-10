@@ -5,7 +5,7 @@ date: 2021-12-24T10:00:50+01:00
 draft: false
 slug: "2021"
 categories:
-- daily
+- journal
 tags: ["rétrospective", "2021", "Best nine", "bilan"]
 description: "Je me suis amusé à sélection une sorte de mon best-of photo de l’année avec quelques moments marquants de mon année 2021."
 resources:
