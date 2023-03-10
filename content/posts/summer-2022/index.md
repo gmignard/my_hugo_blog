@@ -5,7 +5,7 @@ seotitle: "Summer 2022 — Grégory Mignard"
 date: 2022-08-31 09:00:00 +0200
 slug: "summer-2022"
 categories:
-- daily
+- journal
 tags: ["Été", "summer", "2022", "rétrospective", "lifestyle"]
 description: "Résumé de mon été 2022"
 resources:
