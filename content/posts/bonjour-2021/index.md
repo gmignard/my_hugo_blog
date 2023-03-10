@@ -5,7 +5,7 @@ seotitle: "Bonjour 2021 — Grégory Mignard"
 date: 2021-01-05 12:00:00 +0200
 slug: "bonjour-2021"
 categories:
-- daily
+- journal
 tags: ["2021", "2020", "Covid", "1% pour la Planet", "Écologie", "Lafuma", "Environnement", "Photo", "Photographie"]
 description: "Bonjour et bienvenu en 2021, voici les quelques infos qui introduisent cette nouvelle année à mon niveau."
 resources:

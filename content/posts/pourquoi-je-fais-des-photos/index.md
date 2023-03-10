@@ -4,9 +4,10 @@ subtitle: 15 années de photographie et je me pose encore des questions.
 seotitle: "Pourquoi je fais des photos ? (Et des vidéos) — Grégory Mignard"
 date: 2021-03-01 13:30:00 +0200
 slug: "pourquoi-je-fais-des-photos"
-favorite: true
 categories:
-- daily
+- journal
+tags: ["photo", "pourquoi"]
+description: "À l’heure où beaucoup de photographies sont créées pour nourrir un algorithme, je me suis demandé pourquoi je créais des images. Ce questionnement n’est pas nouveau, je m’interroge régulièrement sur ma pratique"
 resources:
 - src: "cover.jpg"
   name: "cover"

@@ -5,7 +5,7 @@ seotitle: "Du vent et des ribines — Grégory Mignard"
 date: 2022-02-05 09:00:00 +0200
 slug: "du-vent-et-des-ribines"
 categories:
-- daily
+- aventures
 tags: ["Gravel", "Triban", "Finistère Nord", "Vélo", "Cyclisme", "Ribine", "Genesis", "Restrap", "Bikepacking"]
 description: "Récit d’une remise en selle lors d’une sortie gravel sur la côte nord Finistère un jour de vent."
 resources:

@@ -5,7 +5,7 @@ seotitle: "Olympus XA, un Point & Shoot télémétrique de poche — Grégory Mi
 date: 2021-01-21 14:30:00 +0200
 slug: "olympus-xa"
 categories:
-- gear
+- matos
 - analog
 tags: ["Olympus XA", "Olympus", "Analog", "Argentique", "Pellicule", "Vintage", "Yoshihisha Maitani", "Zuiko"]
 description: "Mes premiers pas avec l'Olympus XA, un extraordinaire Point & Shoot télémétrique de poche argentique, idéal pour la photo de rue ou en voyages."

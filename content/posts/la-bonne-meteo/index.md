@@ -5,7 +5,7 @@ seotitle: "Les meilleures applications météo pour le surf et l’outdoor — G
 date: 2020-11-23 08:00:00 +0200
 slug: "la-bonne-meteo"
 categories:
-- technique
+- matos
 tags: ["Météo", "Application", "Forecats", "Outdoor", "Surf", "Nautisme", "Océan", "Bouée Houle", "Meteoblue", "Hello Weather", "Dark Sky", "Windy", "Windguru", "iPhone", "Apple Watch"]
 description: "Ma sélection des meilleures applications météo pour l’outdoor et le surf. "
 resources:
