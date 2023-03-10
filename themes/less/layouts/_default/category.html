@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="main">
   <div class="list journal">
-    {{ range $index, $post := (.Paginator 9).Pages }}
+    {{ range $index, $post := (.Paginator 12).Pages }}
       {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
     {{ end }}
   </div>
