@@ -6,7 +6,7 @@ seotitle: "Houlenniñ, une histoire d’eau salée et d’odeur de néoprène �
 date: 2022-09-05 09:00:00 +0200
 slug: "houlennin"
 categories:
-- daily
+- journal
 - watershot
 tags: ["Mer", "Bretagne", "Océan", "aquatique", "aquashot", "surf", "Bodysurf", "photographie", "watershot"]
 description: "J’écris mon amour pour la mer, le plaisir qui m’envahis à chaque fois que j’enfile ma combinaison pour me jeter à l’eau pour jouer avec les vagues."

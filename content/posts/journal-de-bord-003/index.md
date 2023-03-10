@@ -5,7 +5,7 @@ seotitle: "La peur de louper un truc - Journal de bord .003 — Grégory Mignard
 date: 2022-12-13 08:00:00 +0200
 slug: "journal-de-bord-003"
 categories:
-- daily
+- journal
 tags: ["Journal", "Edito", "Réseaux sociaux", "Vero", "Instagram", "Créativité", "Podcasts"]
 description: "Journal de bord, volume 003. Les updates de vies et pensées du moment."
 resources:

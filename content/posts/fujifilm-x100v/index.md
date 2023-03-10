@@ -5,7 +5,7 @@ seotitle: "Fujifilm X100V, L’excellence au quotidien — Grégory Mignard"
 date: 2022-04-28 09:00:00 +0200
 slug: "fujifilm-x100v"
 categories:
-- gear
+- matos
 tags: ["Fuji", "Fujifilm", "Test", "Fuji X100", "Fuji X100V", "X100", "X100V", "Fujifilm X100V", "Street Photo", "Documentaire", "Quotidien"]
 description: "Test et avis sur le Fujifilm X100V, un excellent compact pour documenter son quotidien."
 resources:

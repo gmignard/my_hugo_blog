@@ -5,7 +5,7 @@ seotitle: "Dans mon sac pour le Maroc - Journal de bord .004 — Grégory Mignar
 date: 2022-12-23 17:00:00 +0200
 slug: "journal-de-bord-004"
 categories:
-- daily
+- matos
 - voyages
 tags: ["Journal", "Edito", "Voyage", "Maroc", "Dans mon sac", "Argentique", "Nikon F100"]
 description: "Journal de bord, volume 004. Les updates de vies et pensées du moment."
