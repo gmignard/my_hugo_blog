@@ -5,7 +5,7 @@ seotitle: "Utiliser un Mac mini M1 (2020) pour le montage vidéo — Grégory Mi
 date: 2021-01-09 11:00:00 +0200
 slug: "mac-mini-m1"
 categories:
-- gear
+- matos
 tags: ["Apple", "Setup Vidéo", "Setup Mac", "Mac", "Mac mini", "Mac mini M1", "Montage vidéo", "Vidéaste", "Photographe", "Lightroom", "Photoshop", "Affinity", "FCPX", "Final Cut Pro X", "FilmConvert", "Montage"]
 description: "Défenseur du Mac mini depuis quelques années, je vous explique pourquoi le Mac mini M1 (2020) est devenu la machine parfaite pour mes besoins en montage vidéo."
 resources:

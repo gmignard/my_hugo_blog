@@ -5,7 +5,7 @@ seotitle: "Minolta AF-S, un Point & Shoot performant et pas cher — Grégory Mi
 date: 2022-07-01 08:00:00 +0200
 slug: "minolta-af-s"
 categories:
-- gear
+- matos
 - analog
 tags: ["Minolta, AF-S, Minolta AF-S, Argentique, Analog, Point & Shoot, Autofocus, Automatique, Compact, Mju, Mju II, Contaxt T2, Yashica T4"]
 description: "Revue et test du Minolta AF-S, un Point & Shoot argentique performant et abordable."

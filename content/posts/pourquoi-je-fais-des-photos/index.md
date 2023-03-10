@@ -6,7 +6,7 @@ date: 2021-03-01 13:30:00 +0200
 slug: "pourquoi-je-fais-des-photos"
 favorite: true
 categories:
-- daily
+- journal
 resources:
 - src: "cover.jpg"
   name: "cover"

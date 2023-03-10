@@ -5,7 +5,7 @@ seotitle: "Nikon FM2, l’immortel  — Grégory Mignard"
 date: 2022-04-16 09:00:00 +0200
 slug: "nikon-fm2"
 categories:
-- gear
+- matos
 - analog
 tags: ["Nikon", "FM2", "Nikon FM2", "Argentique", "Test", "Review", "Analog", "Reporter"]
 description: "Review de mon Nikon FM2, un des grands classiques de la marque, utilisé par de nombreux reporters comme Steve McCurry."
