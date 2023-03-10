@@ -11,6 +11,6 @@
         {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
       {{ end }}
     </div>
-    {{ template "_internal/pagination.html" . }}
   </div>
+  {{ template "_internal/pagination.html" . }}
 {{ end }}

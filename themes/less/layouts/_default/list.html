@@ -6,6 +6,6 @@
         {{ partial (printf "%s.html" .Type) (dict "post" $post "index" $index "ctx" $)}}
       {{ end }}
     </div>
-    {{ template "_internal/pagination.html" . }}
   </div>
+  {{ template "_internal/pagination.html" . }}
 {{ end }}
