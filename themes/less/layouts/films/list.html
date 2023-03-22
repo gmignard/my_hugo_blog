@@ -8,8 +8,8 @@
     {{if $image }}
     <div class="post-thumb relative ">
       <a class="no-decoration block group" href="{{ .RelPermalink }}">
-        <div class=" group-hover:flex hidden absolute top-0 left-0 justify-items-center items-center justify-center w-full h-full bg-gray-800 bg-opacity-50 backdrop-blur-sm">
-          <h1>{{.Title}}</h1>
+        <div class="group-hover:flex hidden absolute top-0 left-0 justify-items-center items-center justify-center w-full h-full bg-gray-800 bg-opacity-50 backdrop-blur-sm">
+          <h1 class="text-white">{{.Title}}</h1>
         </div>
         <picture>
           <img class="lazyload" src="{{$mini.Permalink}}" data-src="{{ $web.Permalink }}" style="width: 100%;">
