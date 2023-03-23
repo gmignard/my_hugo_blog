@@ -12,7 +12,6 @@
           {{ partial "shop.html" (dict "post" $post "index" $index "ctx" $)}}
         {{ else }}
           {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
-        {{ end }}
         {{ else }}
           {{ partial "category.html" (dict "post" $post "index" $index "ctx" $)}}
         {{ end }}
