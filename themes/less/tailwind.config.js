@@ -1,7 +1,19 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
 const colors = require('tailwindcss/colors');
+fs = require('fs');
 
+const classes = JSON.parse(fs.readFileSync("./hugo_stats.json"))["htmlElements"]["classes"]
 module.exports = {
+   content: {
+    files: [
+      './themes/simple/layouts/**/*.html',
+      './content/**/*.md',
+      './public/**/*.html',
+      './themes/simple/assets/**/*.js',
+      './hugo_stats.json'
+    ],
+  },
+  safeList: classes.concat([{ pattern: /hover:bg-\[.*\]/}]),
   plugins: [
     require('@tailwindcss/typography'),
     require('@tailwindcss/line-clamp'),
