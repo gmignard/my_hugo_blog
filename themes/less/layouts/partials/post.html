@@ -1,9 +1,9 @@
-{{ $postScratch := newScratch }}
 <div class="mb-8 lg:container lg:max-w-4xl mx-8 lg:mx-auto">
     <div class="">
       {{.Content}}
     </div>
 </div>
+{{ $postScratch := newScratch }}
 <div class="post-tile">
   {{ $image := .post.Resources.GetMatch "cover" | default (index (.post.Resources.ByType "image") 0) }}
   {{ $size := "600x400" }}
