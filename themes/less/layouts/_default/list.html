@@ -12,6 +12,8 @@
           {{ partial "shop.html" (dict "post" $post "index" $index "ctx" $)}}
         {{ else }}
           {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
+        {{ else }}
+          {{ partial "category.html" (dict "post" $post "index" $index "ctx" $)}}
         {{ end }}
       {{ end }}
     </div>
