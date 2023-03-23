@@ -5,7 +5,7 @@ seotitle: "Détox et retour à l'eau - Journal de bord .006 — Grégory Mignard
 date: 2023-02-10 10:00:00 +0200
 slug: "journal-de-bord-006"
 categories:
-- daily
+- journal
 tags: ["Journal", "Edito", "Aquashot", "Detox"]
 description: "Journal de bord, volume 006. Les updates de vies et pensées du moment."
 resources:

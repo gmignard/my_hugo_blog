@@ -4,7 +4,6 @@ seotitle: "Blogroll - Grégory Mignard"
 description: "Des chouettes sites, blogs et portfolios"
 date: 2022-11-14T22:57:50+02:00
 draft: false
-type: "about"
 resources:
 - src: "*.webp"
 ---

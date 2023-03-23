@@ -5,7 +5,7 @@ seotitle: "Podcast et morning routine - Journal de bord .001 — Grégory Mignar
 date: 2022-10-17 09:00:00 +0200
 slug: "journal-de-bord-001"
 categories:
-- daily
+- journal
 tags: ["Journal", "Edito", "Réseaux sociaux", "Vero", "Instagram", "Créativité", "Podcasts"]
 description: "Journal de bord, volume 001. Les updates de vies et pensées du moment."
 resources:

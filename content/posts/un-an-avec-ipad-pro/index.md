@@ -5,7 +5,7 @@ seotitle: "Un an avec l’iPad Pro - Grégory Mignard"
 date: 2020-04-07 10:02:03 +0200
 slug: "un-an-avec-ipad-pro"
 categories:
-- gear
+- matos
 tags: ["Apple", "iPad", "iPadOS", "iPad Pro", "Photographe", "Vidéaste"]
 description: "Retour d'expérience d'une année avec la tablette d'Apple, comment je l'utilise dans mon quotidien et pour travailler."
 resources:

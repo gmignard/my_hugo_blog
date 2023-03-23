@@ -5,7 +5,7 @@ seotitle: "J'avais tort - Journal de bord .002 — Grégory Mignard"
 date: 2022-12-03 09:00:00 +0200
 slug: "journal-de-bord-002"
 categories:
-- daily
+- journal
 tags: ["Journal", "Edito", "Réseaux sociaux", "Vero", "Instagram", "Créativité", "Podcasts"]
 description: "Journal de bord, volume 002. Les updates de vies et pensées du moment."
 resources:

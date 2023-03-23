@@ -5,7 +5,7 @@ seotitle: "J'ai acheté un vélo lent - Journal de bord .007 — Grégory Mignar
 date: 2023-03-03 14:00:00 +0200
 slug: "journal-de-bord-007"
 categories:
-- daily
+- matos
 tags: ["Journal", "Edito", "Velo", "Detox"]
 description: "Journal de bord, volume 007. Les updates de vies et pensées du moment."
 resources:

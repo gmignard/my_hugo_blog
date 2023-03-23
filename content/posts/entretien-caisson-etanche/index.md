@@ -5,8 +5,7 @@ seotitle: "L’entretien de son caisson étanche — Grégory Mignard"
 date: 2021-04-18 13:30:00 +0200
 slug: "entretien-caisson-etanche"
 categories:
-- gear
-- technique
+- matos
 - watershot
 tags: ["Watershot", "Aquashot", "Caisson étanche", "Ikelite", "SeaFrogs", "SLP", "Aquatech", "Caisson", "Photo de surf", "Photo sous-marine", "Entretien", "Surf", "Vague"]
 description: "Mes conseils pour entretenir son caisson étanche pour la photo de surf ou la photographie sous-marine."

@@ -1,8 +1,8 @@
 {{ define "main" }}
-  <div class="main">
-    <header>
-      <h1>{{ .Title }}</h1>
-    </header>
-    {{.Content}}
-  </div>
+{{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
+<div data-pswp class="main post mx-8 lg:max-w-4xl lg:mx-auto">
+  {{.Content}}
+</p>
+
+</div>
 {{ end }}

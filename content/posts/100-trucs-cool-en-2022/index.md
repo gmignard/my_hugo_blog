@@ -5,7 +5,7 @@ date: 2023-01-04T10:00:50+01:00
 draft: false
 slug: "100-trucs-cool-en-2022"
 categories:
-- daily
+- journal
 tags: ["rétrospective", "2022", "Best nine", "bilan"]
 description: "Je me suis amusé à sélection une sorte de mon best-of photo de l’année avec quelques moments marquants de mon année 2022."
 resources:

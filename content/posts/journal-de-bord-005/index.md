@@ -5,7 +5,7 @@ seotitle: "La première nuit de l'année en van - Journal de bord .004 — Grég
 date: 2023-01-24 09:00:00 +0200
 slug: "journal-de-bord-005"
 categories:
-- daily
+- journal
 tags: ["Journal", "Edito", "Voyage", "Van Life"]
 description: "Journal de bord, volume 005. Les updates de vies et pensées du moment."
 resources:

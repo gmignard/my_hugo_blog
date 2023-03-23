@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="main">
+<div class="xl:max-w-6xl mx-8 xl:mx-auto">
   <div class="grid grid-cols-1 gap-12">
     {{ range (.Paginator 12).Pages }}
     {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}

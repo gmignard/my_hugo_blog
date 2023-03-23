@@ -5,7 +5,7 @@ seotitle: "La Pause — Grégory Mignard"
 date: 2022-04-05 09:00:00 +0200
 slug: "la-pause"
 categories:
-- daily
+- journal
 tags: ["Pause", "Café", "Vélo", "Blog", "Mécanique", "Projets", "Réflexion"]
 description: "Petite pause dans le quotidien et partage de réflexion."
 resources:

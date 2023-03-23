@@ -5,7 +5,7 @@ seotitle: "5 solutions de caissons étanches pour se lancer dans la photo de sur
 date: 2020-11-13 09:00:00 +0200
 slug: "choisir-caisson-etanche"
 categories:
-- gear
+- matos
 - watershot
 tags: ["Watershot", "Aquashoot", "Aquashot", "Caisson étanche", "GoPro", "Dôme", "Photo aquatique", "Photo de surf", "Aquatech", "SeaFrogs", "AxisGo", "SPL", "Housse étanche", "Photo nautique", "Photo sous-marine", "Nikonos"]
 description: "Vous souhaitez vous mettre au watershot, mais vous ne savez pas par où commencer ? Voici un dossier pour vous aider à choisir votre solution."
