@@ -7,6 +7,5 @@ resources:
 - src: "*.jpg"
 ---
 
-Grégory Mignard, réalisateur & photographe membre du [1% for the Planet](https://www.onepercentfortheplanet.fr).  
-Je documente dans un style intemporel les moments authentiques et les belles histoires.   
-[Entrons en contact !](mailto:hello@gregorymignard.com)
+Bienvenue sur mon blog !  
+Vous trouverez ici les récits de mes petites aventures et de mes voyages, des histoires de rencontres, des conseils sur le matériel que j'utilise et des moments de réflexion rassemblés dans mon journal de bord.

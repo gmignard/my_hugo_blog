@@ -145,6 +145,7 @@ footer {
 }
 
 blockquote {
+  @apply mb-12;
   font-family: var(--sans-serif-font);
   font-size: 2.1rem;
   line-height: 45px;
