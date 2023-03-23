@@ -92,7 +92,6 @@ h5 {
   font-size: 1.6rem;
 }
 .post h2 {
-  max-width: 56rem !important;
   font-size: 1.6rem;
   text-transform: normal;
   margin: 20px 0;
@@ -146,6 +145,7 @@ footer {
 }
 
 blockquote {
+  @apply mb-12;
   font-family: var(--sans-serif-font);
   font-size: 2.1rem;
   line-height: 45px;
@@ -233,7 +233,6 @@ table {
     }
 
     > :not(.fullwidth) {
-      max-width: var(--max-width);
       margin-left: auto;
       margin-right: auto;
     }
@@ -243,7 +242,6 @@ table {
     }
 
     p, blockquote, ul, ol, {
-      max-width: 56rem !important;
       margin-top: 25px;
       margin-bottom: 25px;
     }

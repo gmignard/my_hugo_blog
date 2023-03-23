@@ -1,11 +1,20 @@
 {{ define "main" }}
-  <div class="main">
-    <div class="list journal">
+  <div class="mb-8 lg:container lg:max-w-4xl mx-8 lg:mx-auto">
+      <div class="mx-4 lg:mx-0">
+        {{.Content}}
+      </div>
+  </div>
+  <div class="xl:max-w-6xl mx-8 xl:mx-auto">
+    <div class="grid md:grid-cols-2 gap-12">
       {{ $paginator := (.Paginate .RegularPages 12) }}
       {{ range $index, $post := $paginator.Pages }}
-        {{ partial (printf "%s.html" .Type) (dict "post" $post "index" $index "ctx" $)}}
+        {{ if eq $post.Type "shop" }}
+          {{ partial "shop.html" (dict "post" $post "index" $index "ctx" $)}}
+        {{ else }}
+          {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
+        {{ end }}
       {{ end }}
     </div>
-    {{ template "_internal/pagination.html" . }}
   </div>
+  {{ template "_internal/pagination.html" . }}
 {{ end }}
