@@ -6,7 +6,7 @@
   {{ $web := $image.Fill ($postScratch.Get "coverSize") }}
   {{ $mini := $image.Fill "60x40" }}
   {{if $image }}
-    <div class="post-thumb">
+    <div class="post-thumb mb-8">
       <a class="no-decoration" href="{{ .post.Permalink }}">
         <picture>
           <img class="lazyload" src="{{$mini.Permalink}}" data-src="{{ $web.Permalink }}" style="width: 100%;">
@@ -21,7 +21,7 @@
         {{ end }} •
         {{ .post.Date.Day }} {{ index .ctx.Site.Data.mois (printf "%d" .post.Date.Month) }} {{ .post.Date.Year }}
       </span>
-    <h3 class="title mb-8">
+    <h3 class="title">
         {{ .post.Params.emoji }}
         <a class="title bold no-decoration" href="{{ .post.Permalink }}">{{ .post.Title }}</a><br/>
     </h3>
