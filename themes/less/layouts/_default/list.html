@@ -8,7 +8,11 @@
     <div class="grid md:grid-cols-2 gap-12">
       {{ $paginator := (.Paginate .RegularPages 12) }}
       {{ range $index, $post := $paginator.Pages }}
-        {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
+        {{ if eq $post.Type "shop" }}
+          {{ partial "shop.html" (dict "post" $post "index" $index "ctx" $)}}
+        {{ else }}
+          {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
+        {{ end }}
       {{ end }}
     </div>
   </div>
