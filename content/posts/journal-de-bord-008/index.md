@@ -5,7 +5,7 @@ seotitle: "Le temps libre - Journal de bord .008 — Grégory Mignard"
 date: 2023-03-29 13:00:00 +0200
 slug: "journal-de-bord-008"
 categories:
-- matos
+- journal
 tags: ["Journal", "Edito", "Velo", "Detox"]
 description: "Journal de bord, volume 008. Les updates de vies et pensées du moment."
 resources:
