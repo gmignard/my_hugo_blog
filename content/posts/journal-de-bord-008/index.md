@@ -14,7 +14,7 @@ resources:
 - src: "*.webp"
 ---
 
-> Quand je suis débordé, je ne rêve que d’une chose : avoir du temps de libre. Mais quand j’ai du temps de libre, je ne parfois pas quoi en faire.
+> Quand je suis débordé, je ne rêve que d’une chose : avoir du temps de libre. Mais quand j’ai du temps de libre, je ne sais parfois pas quoi en faire.
 
 OK… Le mec se plaint d’avoir du temps de libre ?  
 Non, bien sûr que non, bien au contraire, mais disons que parfois, avoir du temps libre me déstabilise. Il faut savoir que je suis papa depuis quelques années et que j’ai cumulé une vie de salarié en plus de ma vie de Freelance. Depuis, mes enfants grandissent et deviennent plus autonomes et j’ai quitté mon job de salarié pour ne faire que du Freelance.  
