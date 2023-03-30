@@ -103,9 +103,10 @@ Je ne suis pas sûr également de ma longueur d'axe (118mm) donc je prends la d�
 {{</ photoset >}}
 
 De retour à la maison, j'installe le nouveau boitier, le pédalier et la cassette. J'installe la roue arrière : 3e souci ! La patte est très légèrement tordue côté transmission et impossible de rentrer l'axe de roue. Il ne manque vraiment rien, la torsion est vraiment minime et j'arrive à le redresser rapidement et poser la roue pour de bon.  
-J'installe également la fourche de manière provisoire pour trouver une hauteur idéale à ma potence avant de couper le tube et tout installer pour de bon.
 
 {{< photo class="vertical" src="montage_3.webp" alt="Entrée indiquée" >}}
+
+J'installe également la fourche de manière provisoire pour trouver une hauteur idéale à ma potence avant de couper le tube et tout installer pour de bon.
 
 #### Mercredi 29 mars 2023
 
