@@ -38,7 +38,7 @@ Le projet est lancé !
 {{< photo src="cadre-rouge_1.webp" alt="Restauration d’un vieux VTT en ATB">}}
 {{< photoset max="2" >}}
   {{< photo src="cadre-rouge_2.webp" alt="Restauration d’un vieux VTT en ATB" >}}
-  {{< photo src="cadre-rouge_3.webp.jpg" alt="Restauration d’un vieux VTT en ATB" >}}
+  {{< photo src="cadre-rouge_3.webp" alt="Restauration d’un vieux VTT en ATB" >}}
 {{</ photoset >}}
 
 Ça y est, le cadre est arrivé à la maison ainsi que cette [belle fourche Surly](https://surlybikes.com/parts/troll_fork) qui complète l'ensemble et qu'il faudra également préparer pour la peinture.  
@@ -99,7 +99,7 @@ Je ne suis pas sûr également de ma longueur d'axe (118mm) donc je prends la d�
 
 {{< photoset max="2" >}}
   {{< photo src="montage_1.webp" alt="Restauration d’un vieux VTT en ATB" >}}
-  {{< photo src="montage_2.webp.jpg" alt="Restauration d’un vieux VTT en ATB" >}}
+  {{< photo src="montage_2.webp" alt="Restauration d’un vieux VTT en ATB" >}}
 {{</ photoset >}}
 
 De retour à la maison, j'installe le nouveau boitier, le pédalier et la cassette. J'installe la roue arrière : 3e souci ! La patte est très légèrement tordue côté transmission et impossible de rentrer l'axe de roue. Il ne manque vraiment rien, la torsion est vraiment minime et j'arrive à le redresser rapidement et poser la roue pour de bon.  
