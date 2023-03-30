@@ -35,14 +35,17 @@ Le projet est lancé !
 
 #### Jeudi 16 février 2023
 
-Ça y est, le cadre est arrivé à la maison ainsi que les pneus. Je suis parti sur une paire de Maxxis IKON pour cette restauration.  
-
+{{< photo src="cadre-rouge_1.webp" alt="Restauration d’un vieux VTT en ATB">}}
 {{< photoset max="2" >}}
-  {{< photo src="cover.webp" alt="Portrait" >}}
-  {{< photo src="Brother-Big-bro.webp" alt="Watershot" >}}
+  {{< photo src="cadre-rouge_2.webp" alt="Restauration d’un vieux VTT en ATB" >}}
+  {{< photo src="cadre-rouge_3.webp.jpg" alt="Restauration d’un vieux VTT en ATB" >}}
 {{</ photoset >}}
 
+Ça y est, le cadre est arrivé à la maison ainsi que cette [belle fourche Surly](https://surlybikes.com/parts/troll_fork) qui complète l'ensemble et qu'il faudra également préparer pour la peinture.  
 Le choix des composants n’est pas évident, il y a tellement de choses possibles, mais je m’inspire beaucoup d'une build de [Brother Big Bro de chez Woods Cyclery](https://www.thewoodscyclery.co.uk/gallery/brother-big-bro-9/) pour ce projet.  
+
+{{< photo src="Brother-Big-bro.webp" alt="Restauration d’un vieux VTT en ATB">}}
+ 
 Voici une liste au complet des composants sélectionnés.
 
 | **COMPOSANT**  | **RÉFÉRENCE**                   |
@@ -54,8 +57,8 @@ Voici une liste au complet des composants sélectionnés.
 | **GUIDON**     | Soma Dream Riser                |
 | **POIGNÉES**   | Oury x Blue Lug V2 Grips        |
 | **DIRECTION**  | Ritchey Comp Logic V2           |
-| **POTENCE**    | Thomson Stem Elite X4 10° 70 mm |
-| **BOITIER**    | Shimano UN-300                  |
+| **POTENCE**    | Thomson Stem Elite X4 10° 70mm  |
+| **BOITIER**    | Sunrace BBS15 Carré 116/68mm    |
 | **PÉDALIER**   | Middleburn RS7                  |
 | **PLATEAU**    | Middleburn 36 dents             |
 | **PÉDALES**    | Crankbrothers Stamp 1           |
@@ -70,11 +73,11 @@ Voici une liste au complet des composants sélectionnés.
 
 #### Lundi 20 février 2023
 
-Les pièces du puzzle sont presque au complet. Cintre, dérailleur, shifter, roues, fourche… Il ne manque que quelques petites fournitures pour assembler ce vélo. Mais d’abord, il faut que je le prépare pour la peinture.
+Les pièces du puzzle sont presque au complet. Cintre, dérailleur, shifter, roues, pneus… Il ne manque que quelques petites fournitures pour assembler ce vélo. Mais d’abord, il faut que je le prépare pour la peinture.
 
 #### Lundi 27 février 2023
 
-Un dernier coup d’œil sur ce cadre rouge et cette [belle fourche Surly](https://surlybikes.com/parts/troll_fork), c’est la dernière fois que je les vois comme ça. Quand ils reviendront, ils seront d’une autre couleur.  
+Un dernier coup d’œil sur ce cadre rouge, c’est la dernière fois que je le vois comme ça. Quand il reviendra, ils sera d’une autre couleur.  
 
 {{< photo src="seasurfdirt.webp" alt="Restauration d’un vieux VTT en ATB">}}
 
@@ -94,7 +97,16 @@ C’est parti pour le montage ! Je commence par poser les cuvettes du jeu de d
 J'en profite également pour monter les pneus sur les roues ainsi que la cassette et je constate un premier souci : la cassette a du jeu, il faut que je rajoute une entretoise, mais je n’en ai pas sous la main. Je change donc de sujet en installant le boitier de boitier et je constate un deuxième souci, je me suis planté en prenant un boitier de 73mm alors que mon cadre accueille des boitiers de 68mm... La tuile !  
 Je ne suis pas sûr également de ma longueur d'axe (118mm) donc je prends la décision de partir chez Culture Vélo Brest avec mon cadre et mon pédalier pour leur demander conseil. Ils me recommandent d'installer un axe de 116mm, mais je pourrais changer si jamais ma ligne de chaine n'est pas terrible. J'en profite également pour leur acheter une entretoise pour ma cassette.
 
+{{< photoset max="2" >}}
+  {{< photo src="montage_1.webp" alt="Restauration d’un vieux VTT en ATB" >}}
+  {{< photo src="montage_2.webp.jpg" alt="Restauration d’un vieux VTT en ATB" >}}
+{{</ photoset >}}
+
 De retour à la maison, j'installe le nouveau boitier, le pédalier et la cassette. J'installe la roue arrière : 3e souci ! La patte est très légèrement tordue côté transmission et impossible de rentrer l'axe de roue. Il ne manque vraiment rien, la torsion est vraiment minime et j'arrive à le redresser rapidement et poser la roue pour de bon.  
 J'installe également la fourche de manière provisoire pour trouver une hauteur idéale à ma potence avant de couper le tube et tout installer pour de bon.
 
+{{< photo class="vertical" src="montage_3.webp" alt="Entrée indiquée" >}}
+
 #### Mercredi 29 mars 2023
+
+C’est la journée des enfants, je passe donc beaucoup de temps à profiter d’eux, mais mon petit bricoleur en herbe veut absolument bricoler le vélo. On en profite donc pour monter ensemble les pédales et le dérailleur, je pourrais m’occuper de la transmission plus tard.
