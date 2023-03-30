@@ -1,6 +1,6 @@
 ---
 title: Restauration d'un vieux VTT en ATB
-subtitle: Journal de bord d'une transformation d'un vieux VTT des années 90's
+subtitle: Journal de bord d'une transformation d'un vieux vélo des années 90's
 seotitle: "Restauration et transformation d'un vieux Rockrider 700 des années 90's en ATB — Grégory Mignard"
 date: 2023-03-29 14:30:00 +0200
 slug: "restauration-vtt-atb"
@@ -111,3 +111,20 @@ J'installe également la fourche de manière provisoire pour trouver une hauteur
 #### Mercredi 29 mars 2023
 
 C’est la journée des enfants, je passe donc beaucoup de temps à profiter d’eux, mais mon petit bricoleur en herbe veut absolument bricoler le vélo. On en profite donc pour monter ensemble les pédales et le dérailleur, je pourrais m’occuper de la transmission plus tard.
+
+#### Jeudi 30 mars 2023
+
+Je m’occupe aujourd’hui de l’équipement du cintre en plaçant méticuleusement mes leviers de freins, le shifter du dérailleur et les belles poignées Oury. Ça donne une idée du poste de pilotage et j’en profite pour ajuster le réglage en hauteur avant la coupe du tube de fourche.
+
+{{< photoset max="2" >}}
+  {{< photo src="oury.webp" alt="Restauration d’un vieux VTT en ATB" >}}
+  {{< photo src="freins.webp" alt="Restauration d’un vieux VTT en ATB" >}}
+{{</ photoset >}}
+
+Je pose également les freins V-brakes ainsi que les patins. Je veux également récupérer le front rack et le panier que je possède déjà, mais la largeur de fourche n’est pas la même que mon gravel et je suis confronté à un nouveau souci, impossible de fixer les haubans.  
+
+{{< photo class="vertical" src="panier.webp" alt="Entrée indiquée" >}}
+
+Comme c’est de l’acier et qu’il ne manque pas grand-chose, je force un peu, je réajuste et tout s’assemble finalement nickel.  
+
+#### Vendredi 31 mars 2023
