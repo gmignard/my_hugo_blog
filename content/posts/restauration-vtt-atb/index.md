@@ -127,4 +127,24 @@ Je pose également les freins V-brakes ainsi que les patins. Je veux également 
 
 Comme c’est de l’acier et qu’il ne manque pas grand-chose, je force un peu, je réajuste et tout s’assemble finalement nickel.  
 
-#### Vendredi 31 mars 2023
+#### Samedi 1er avril 2023
+
+Ayant reçu un guide de coupe pour tube et l’outil pour poser proprement l’étoile du jeu de direction, je m’attaque à la finition du poste de pilotage. Par précaution, je rajoute deux petites entretoises sur le tube pour rehausser un peu plus la potence, quitte à les retirer par la suite et couper de nouveau le tube. Mieux vaut couper plusieurs fois que de regretter d’avoir trop coupé une fois.  
+
+{{< photo class="vertical" src="potence.webp" alt="Entrée indiquée" >}}
+
+Maintenant que c’est fait, je m’occupe de la transmission.  
+J’installe la gaine et le câble du dérailleur puis je pose la chaine. Les vitesses passent plutôt bien, mais je me rends compte que ça ne tombe pas jusqu’au petit pignon… Pas grave, ça se règle avec la buté de dérailleur, mais même la butée au maximum, ça ne veut pas aller plus loin que le second pignon.
+
+{{< photoset max="2" >}}
+  {{< photo src="derailleur.webp" alt="Restauration d’un vieux VTT en ATB" >}}
+  {{< photo src="chaine.webp" alt="Restauration d’un vieux VTT en ATB" >}}
+{{</ photoset >}}
+
+Je suis en train de me demander si mon entretoise de cassette ne serait pas trop épaisse et décalerais trop l’ensemble vers l’extérieur. Dès que je l’enlève, la cassette a trop de jeu à mon goût.
+
+{{< photo src="gaine.webp" alt="Restauration d’un vieux VTT en ATB">}}
+
+Pendant que je réfléchis à trouver une solution, je m’occupe de poser les gaines et câbles de freins, il ne reste plus qu’à régler tout ça et trouver une solution pour la cassette.
+
+#### Dimanche 2 avril 2023
