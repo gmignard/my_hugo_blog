@@ -2,7 +2,7 @@
 title: Restauration d'un vieux VTT en ATB
 subtitle: Journal de bord d'une transformation d'un vieux vélo des années 90's
 seotitle: "Restauration et transformation d'un vieux Rockrider 700 des années 90's en ATB — Grégory Mignard"
-date: 2023-03-29 14:30:00 +0200
+date: 2023-04-02 14:30:00 +0200
 slug: "restauration-vtt-atb"
 categories:
 - gear
@@ -48,28 +48,28 @@ Le choix des composants n’est pas évident, il y a tellement de choses possibl
  
 Voici une liste au complet des composants sélectionnés.
 
-| **COMPOSANT**  | **RÉFÉRENCE**                   |
-|----------------|---------------------------------|
-| **CADRE**      | Décathlon Rockrider 700 de 1998 |
-| **FOURCHE**    | Surly Troll 26"                 |
-| **ROUES**      | Mavic Crossride UB              |
-| **PNEUS**      | Maxxis Ikon 26"                 |
-| **GUIDON**     | Soma Dream Riser                |
-| **POIGNÉES**   | Oury x Blue Lug V2 Grips        |
-| **DIRECTION**  | Ritchey Comp Logic V2           |
-| **POTENCE**    | Thomson Stem Elite X4 10° 70mm  |
-| **BOITIER**    | Sunrace BBS15 Carré 116/68mm    |
-| **PÉDALIER**   | Middleburn RS7                  |
-| **PLATEAU**    | Middleburn 36 dents             |
-| **PÉDALES**    | Crankbrothers Stamp 1           |
-| **CASSETTE**   | Sunrace 11v 11-40               |
-| **DÉRAILLEUR** | Shimano SLX 11v                 |
-| **SHIFTER**    | Shimano SLX 11v                 |
-| **FREINS**     | Shimano Deore V-Brakes          |
-| **LEVIERS**    | Paul Component Love Lever       |
-| **SELLE**      | Brooks B17                      |
-| **FRONT RACK** | Nitto M-18                      |
-| **PANIER**     | Wald 1372                       |
+| **COMPOSANT**  | **RÉFÉRENCE**                             |
+|----------------|-------------------------------------------|
+| **CADRE**      | Décathlon Rockrider 700 de 1998 (taille L)|
+| **FOURCHE**    | Surly Troll 26"                           |
+| **ROUES**      | Mavic Crossride UB                        |
+| **PNEUS**      | Maxxis Ikon 26"                           |
+| **GUIDON**     | Soma Dream Riser                          |
+| **POIGNÉES**   | Oury x Blue Lug V2 Grips                  |
+| **DIRECTION**  | Ritchey Comp Logic V2                     |
+| **POTENCE**    | Thomson Stem Elite X4 10° 70mm            |
+| **BOITIER**    | Sunrace BBS15 Carré 116/68mm              |
+| **PÉDALIER**   | Middleburn RS7                            |
+| **PLATEAU**    | Middleburn 36 dents                       |
+| **PÉDALES**    | Crankbrothers Stamp 1                     |
+| **CASSETTE**   | Sunrace 11v 11-40                         |
+| **DÉRAILLEUR** | Shimano SLX 11v                           |
+| **SHIFTER**    | Shimano SLX 11v                           |
+| **FREINS**     | Shimano Deore V-Brakes                    |
+| **LEVIERS**    | Paul Component Love Lever                 |
+| **SELLE**      | Brooks B17                                |
+| **FRONT RACK** | Nitto M-18                                |
+| **PANIER**     | Wald 1372                                 |
 
 #### Lundi 20 février 2023
 
@@ -148,3 +148,14 @@ Je suis en train de me demander si mon entretoise de cassette ne serait pas trop
 Pendant que je réfléchis à trouver une solution, je m’occupe de poser les gaines et câbles de freins, il ne reste plus qu’à régler tout ça et trouver une solution pour la cassette.
 
 #### Dimanche 2 avril 2023
+
+On y est, le projet est à 99 % terminé, j’ai pu faire le premier tour après avoir fini et réglé les freins. J’ai toujours un peu de jeu dans la cassette, les vitesses passent mal pour l’instant, mais ça roule et je peux me rendre compte de ce qui va et ne va pas.  
+Pour le souci de cassette, j’attends une entretoise pour le début de semaine prochaine, j’espère que ça résoudra tout ça et que je pourrais peaufiner les réglages.
+
+**Final Roadmap** :
+🟠 régler le dérailleur comme il faut
+🟠 régler le souci de jeu dans la cassette
+🟠 reculer la selle en changeant de tige de selle pour une déportée sur l’arrière
+🟠 AVOIR DU FUN !!
+
+#### Mardi 4 avril 2023
