@@ -152,10 +152,10 @@ Pendant que je réfléchis à trouver une solution, je m’occupe de poser les g
 On y est, le projet est à 99 % terminé, j’ai pu faire le premier tour après avoir fini et réglé les freins. J’ai toujours un peu de jeu dans la cassette, les vitesses passent mal pour l’instant, mais ça roule et je peux me rendre compte de ce qui va et ne va pas.  
 Pour le souci de cassette, j’attends une entretoise pour le début de semaine prochaine, j’espère que ça résoudra tout ça et que je pourrais peaufiner les réglages.
 
-**Final Roadmap** :
-🟠 régler le dérailleur comme il faut
-🟠 régler le souci de jeu dans la cassette
-🟠 reculer la selle en changeant de tige de selle pour une déportée sur l’arrière
-🟠 AVOIR DU FUN !!
+**Final Roadmap** :  
+🟠 régler le dérailleur comme il faut. 
+🟠 régler le souci de jeu dans la cassette. 
+🟠 reculer la selle en changeant de tige de selle pour une déportée sur l’arrière. 
+🟠 AVOIR DU FUN !!  
 
 #### Mardi 4 avril 2023
