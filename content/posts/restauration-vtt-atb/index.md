@@ -2,7 +2,7 @@
 title: Restauration d'un vieux VTT en ATB
 subtitle: Journal de bord d'une transformation d'un vieux vélo des années 90's
 seotitle: "Restauration et transformation d'un vieux Rockrider 700 des années 90's en ATB — Grégory Mignard"
-date: 2023-04-02 14:30:00 +0200
+date: 2023-04-03 08:30:00 +0200
 slug: "restauration-vtt-atb"
 categories:
 - gear
@@ -70,6 +70,7 @@ Voici une liste au complet des composants sélectionnés.
 | **SELLE**      | Brooks B17                                |
 | **FRONT RACK** | Nitto M-18                                |
 | **PANIER**     | Wald 1372                                 |
+| **SACOCHES**   | Fieldpacks                                |
 
 #### Lundi 20 février 2023
 
@@ -152,10 +153,11 @@ Pendant que je réfléchis à trouver une solution, je m’occupe de poser les g
 On y est, le projet est à 99 % terminé, j’ai pu faire le premier tour après avoir fini et réglé les freins. J’ai toujours un peu de jeu dans la cassette, les vitesses passent mal pour l’instant, mais ça roule et je peux me rendre compte de ce qui va et ne va pas.  
 Pour le souci de cassette, j’attends une entretoise pour le début de semaine prochaine, j’espère que ça résoudra tout ça et que je pourrais peaufiner les réglages.
 
-**Final Roadmap** :  
-🟠 régler le dérailleur comme il faut. 
-🟠 régler le souci de jeu dans la cassette. 
-🟠 reculer la selle en changeant de tige de selle pour une déportée sur l’arrière. 
-🟠 AVOIR DU FUN !!  
+**Roadmap finale** :  
+→ régler le dérailleur comme il faut.  
+→ régler le souci de jeu dans la cassette.  
+→ reculer la selle en changeant de tige de selle pour une déportée sur l’arrière.  
+→ AVOIR DU FUN !!  
 
 #### Mardi 4 avril 2023
+
