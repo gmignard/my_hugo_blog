@@ -161,3 +161,15 @@ Pour le souci de cassette, j’attends une entretoise pour le début de semaine 
 
 #### Mardi 4 avril 2023
 
+✗ régler le souci de jeu dans la cassette.  
+Ayant reçu l’entretoise en question, j’ai pu résoudre ce souci rapidement, ce qui me permettra de résoudre le problème suivant.  
+
+✗ régler le dérailleur comme il faut.  
+Vu que la cassette est bien à sa place, j’ai pu régler les butées comme il faut et trouver le bon réglage.  
+
+✗ reculer la selle en changeant de tige de selle pour une déportée sur l’arrière.  
+J’ai commandé [une tige de selle](https://www.bike24.fr/produits/343091?sku=1203790) avec 25 mm de recul, me voilà bien installé.
+
+On y est, la build est terminée, il ne me reste qu’à faire une vraie balade pour voir comment tout se comporte. J’en profiterais également pour faire quelques photos de la build terminée.  
+
+#### Jeudi 6 avril 2023
