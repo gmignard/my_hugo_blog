@@ -2,14 +2,14 @@
 title: Restauration d'un vieux VTT en ATB
 subtitle: Journal de bord d'une transformation d'un vieux vélo des années 90's
 seotitle: "Restauration et transformation d'un vieux Rockrider 700 des années 90's en ATB — Grégory Mignard"
-date: 2023-04-06 08:30:00 +0200
+date: 2023-04-06 13:30:00 +0200
 slug: "restauration-vtt-atb"
 categories:
 - gear
 resources:
-- src: "cover.jpg"
+- src: "cover.webp"
   name: "cover"
-- src: "*.jpg"
+- src: "*.webp"
 ---
 
 Aussi loin que je m’en souvienne, j’ai toujours aimé le vélo.  
@@ -174,4 +174,25 @@ On y est, la build est terminée, il ne me reste qu’à faire une vraie balade 
 
 #### Jeudi 6 avril 2023
 
-> « Pourquoi baisser la tête pour avoir l'air d'un coureur quand peinard sur les petits chemins on peut faire du vélo sans les mains. »
+{{< photo src="cover" alt="Restauration d’un vieux VTT en ATB">}}
+
+> « Pourquoi baisser la tête pour avoir l’air d’un coureur quand peinard sur les petits chemins on peut faire du vélo sans les mains. »
+
+C’est avec cette citation de Pierre Autin Grenier que j’ai imaginé ce vélo, ma façon de rouler.
+
+{{< photoset max="2" >}}
+  {{< photo src="recto.webp" alt="Restauration d’un vieux VTT en ATB" >}}
+  {{< photo src="verso.webp" alt="Restauration d’un vieux VTT en ATB" >}}
+{{</ photoset >}}
+
+{{< photoset max="2" >}}
+  {{< photo src="pilotage.webp" alt="Restauration d’un vieux VTT en ATB" >}}
+  {{< photo src="detail.webp" alt="Restauration d’un vieux VTT en ATB" >}}
+{{</ photoset >}}
+
+Ce vélo est désormais terminé. Oh, il reste bien évidement toujours quelques détails à peaufiner, mais il roule, il me donne déjà beaucoup de plaisir comme il a pu déjà m’en donner tout le temps de sa restauration.  
+Il y a deux mois, je dénichais ce cadre rouge au milieu d’une tonne de petites annonces, deux mois plus tard, me voilà le nez dans le vent à rouler avec ce vieux VTT des années 90's que j’ai restauré en ATB.
+
+{{< photo src="end.webp" alt="Restauration d’un vieux VTT en ATB">}}
+
+{{< photo class="vertical" src="end_vert.webp" alt="Entrée indiquée" >}}
