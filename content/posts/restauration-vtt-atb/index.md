@@ -2,7 +2,7 @@
 title: Restauration d'un vieux VTT en ATB
 subtitle: Journal de bord d'une transformation d'un vieux vélo des années 90's
 seotitle: "Restauration et transformation d'un vieux Rockrider 700 des années 90's en ATB — Grégory Mignard"
-date: 2023-04-03 08:30:00 +0200
+date: 2023-04-06 08:30:00 +0200
 slug: "restauration-vtt-atb"
 categories:
 - gear
@@ -162,7 +162,7 @@ Pour le souci de cassette, j’attends une entretoise pour le début de semaine 
 #### Mardi 4 avril 2023
 
 ✗ régler le souci de jeu dans la cassette.  
-Ayant reçu l’entretoise en question, j’ai pu résoudre ce souci rapidement, ce qui me permettra de résoudre le problème suivant.  
+Ayant reçu [l’entretoise en question](https://www.alltricks.fr/F-41493-pieces-roues/P-81393-entretoise_mavic_cale_de_roue_libre_1_75_mm), j’ai pu résoudre ce souci rapidement, ce qui me permettra de résoudre le problème suivant.  
 
 ✗ régler le dérailleur comme il faut.  
 Vu que la cassette est bien à sa place, j’ai pu régler les butées comme il faut et trouver le bon réglage.  
@@ -173,3 +173,5 @@ J’ai commandé [une tige de selle](https://www.bike24.fr/produits/343091?sku=1
 On y est, la build est terminée, il ne me reste qu’à faire une vraie balade pour voir comment tout se comporte. J’en profiterais également pour faire quelques photos de la build terminée.  
 
 #### Jeudi 6 avril 2023
+
+> « Pourquoi baisser la tête pour avoir l'air d'un coureur quand peinard sur les petits chemins on peut faire du vélo sans les mains. »
