@@ -5,7 +5,7 @@ seotitle: "Restauration et transformation d'un vieux Rockrider 700 des années 9
 date: 2023-04-06 13:30:00 +0200
 slug: "restauration-vtt-atb"
 categories:
-- gear
+- matos
 resources:
 - src: "cover.webp"
   name: "cover"
