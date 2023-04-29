@@ -15,8 +15,7 @@ resources:
 ferðamenn est une collection d’images couleurs et n&b, ramenées par Yves & Greg lors de [leur voyage en Islande](https://deploy-preview-136--dazzling-pike-8ee366.netlify.app/le-paradoxe-islandais/).  
 
 * → Format A5 / 76 pages
-* → Épaisseur 6mm
-* → Papier mat non couché 
+* → Épaisseur 6mm / Papier mat non couché 
 * → Couverture 300g/m², pages 115g/m²
 * → Assemblage et reliure en dos carré collé
 * → Première et unique édition de 100 exemplaires, numérotés à la main.
