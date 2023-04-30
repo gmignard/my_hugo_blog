@@ -8,5 +8,3 @@ menu:
     weight: 5
 linktitle: "shop"
 ---
-
-Des prints sur du beau papier, parfois avec un beau cadre.
