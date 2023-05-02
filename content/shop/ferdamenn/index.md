@@ -21,6 +21,6 @@ ferðamenn est une collection d’images couleurs et n&b, ramenées par Yves & G
 * → Première et unique édition de 100 exemplaires, numérotés à la main.
 * → Tirage 10x15 offert à chaque commande
 * → Frais de port offerts pour la France
-* → [Plus d’infos sur le zine](https://gregorymignard.com/ferdamenn)
+* → [Plus d’infos sur le zine](https://gregorymignard.com/mon-premier-zine/)
 
 {{< photo src="cover" alt="Ferdamenn">}}

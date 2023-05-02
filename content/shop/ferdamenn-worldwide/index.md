@@ -21,6 +21,6 @@ ferðamenn is a photos collection, shooted back by Yves & Greg during [their tri
 * → First and only edition of 100 copies, hand numbered.
 * → Free 10x15 print with every order
 * → Worldwide shipping included
-* → [More infos about the zine](https://gregorymignard.com/ferdamenn)
+* → [More infos about the zine](https://gregorymignard.com/mon-premier-zine/)
 
 {{< photo src="cover" alt="Ferdamenn">}}
