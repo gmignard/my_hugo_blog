@@ -57,21 +57,4 @@ Le seul reproche que je pourrais lui faire serait sa gourmandise en piles, on es
 
 | Camera | Films |
 |:-------:|:------:|
-| Nikon F100 | [Kodak Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23), [Karmir 160](https://fr.morifilmlab.com/collections/35mm-film/products/kamir-160-35mm-film) & [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23) | 
-
-{{< photo src="cover" alt="Le Maroc avec un Nikon F100">}}
-
-{{< photoset always="2" >}}
-{{< photo src="file.webp" alt="Le Maroc avec un Nikon F100">}}
-{{< photo src="file.webp" alt="Le Maroc avec un Nikon F100">}}
-{{</ photoset >}}
-
-{{< photoset max="3" >}}
-  {{< photo src="file.webp" alt="Le Maroc avec un Nikon F100" >}}
-  {{< photo src="file.webp" alt="Le Maroc avec un Nikon F100" >}}
-  {{< photo src="file.webp" alt="Le Maroc avec un Nikon F100" >}}
-{{</ photoset >}}
-
-{{< photo class="vertical" src="webp.jpg" alt="Le Maroc avec un Nikon F100" >}}
-
-{{< photo class="fullwidth" src="webp.jpg" alt="Le Maroc avec un Nikon F100" >}}
+| Nikon F100 | [Kodak Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23), [Karmir 160](https://fr.morifilmlab.com/collections/35mm-film/products/kamir-160-35mm-film) & [Ektar 100](https://www.digit-photo.com/KODAK-Ektar-100-Professionnel-135-36-poses-rKODAK1500277.html?dpa_id=23) |
