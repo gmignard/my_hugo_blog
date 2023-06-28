@@ -42,9 +42,9 @@ Je l’ai quasiment tout le temps avec moi, que ce soit à vélo ou dans le quot
 Depuis la fin 2020, je me suis remis à la [la photographie argentique](https://gregorymignard.com/analog/) en complément du numérique pour apporter de la douceur et du caractère à mes images. Pour cela, j'utilise les appareils suivants :
 
 * → [Nikon FM2](https://gregorymignard.com/nikon-fm2/) — *Mon 35mm favori, utilisé avec des optiques vintages*
-* → Nikon F100 — *Un appareil professionnel au rendu incroyable, utilisé essentiellement avec un 35mm et un 85mm*
+* → [Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/) — *Un appareil professionnel au rendu incroyable, utilisé essentiellement avec un 35mm et un 85mm*
 * → [Nikonos V](https://gregorymignard.com/nikonos-v/) — *Un 35mm étanche légendaire*
-* → Konica Big Mini BM-302 — *Un Point & Shoot super comptact et performant*
+* → Konica Big Mini BM-302 — *Un Point & Shoot super compact et performant*
 
 Parmi mes films favoris, on retrouve de la [Portra 800](https://www.digit-photo.com/KODAK-Portra-800asa-135-36Poses-rFPNK1451855.html?dpa_id=23), de la [Portra 400](https://www.digit-photo.com/KODAK-Portra-400-135-36-Poses-X5-rKFILM386.html?dpa_id=23) et de [l'Ultramax 400](https://www.digit-photo.com/KODAK-Ultramax-400-135-36-Poses-X3-rKODAK41024389.html?dpa_id=23). Il m’arrive parfois de charger un peu de noir & blanc principalement avec de la [HP5+](https://www.digit-photo.com/ILFORD-HP5-135-400asa-36-Poses-rFNBI1574577.html?dpa_id=23).
 
