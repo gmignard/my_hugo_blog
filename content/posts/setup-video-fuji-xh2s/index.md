@@ -22,6 +22,14 @@ C'est un boitier avec lequel je pouvais difficilement passer de la vidéo à la 
 Bien évidement, je suis également gagnant sur la qualité d'images, car le [Fuji X-H2S] est clairement un monstre. ProRes en interne, 6,2K, 4K 120, Flog2, capteur stabilisé, un AF incroyable... Bref, il a clairement de quoi rivaliser avec les caméras les plus prisées.  
 J'ai toujours cru que le remplaçant de mon Fuji X-T3 serait une [BMPCC6K](https://dp.gt/a/e5su0kxul), mais après de longues réflexions et la sortie du X-H2S, ce boitier est apparu comme une évidence qui répond à mon besoin de polyvalence et de compacité dans mes projets. C'est vraiment un appareil que je peux adapter à tous mes besoins perso et pro, je peux le mettre dans [un caisson étanche](https://fr.eu.aquatech.net/collections/boîtiers-d%27eau-fujifilm/inspirants/edge-boîtier-d%27eau-pro-pour-fujifilm-x-h2s), sur mon [Ronin SC](https://amzn.to/3NUTHvR) ou bien filmer avec une configuration de tournage run & gun que je vous présente aujourd'hui.
 
+<div style="max-width: 57rem!important;margin: auto;margin-bottom: 60px;background-color: #F3F3F3;padding:42px; text-align:left;">
+
+<h3 style="margin-bottom: -15px;">{{ .Site.Params.tinyletter.title }}</h3>
+      </br>
+      <p style="margin-bottom: 20px;">
+     Les liens de cette page renvoie en partie vers la boutique française Digit-Photo. Ces liens affiliés ne changent rien pour vous, mais me soutiennent beaucoup.<a href="http://slowisbeautiful.cool" target="_blank">En savoir plus →</a></br></p>
+</div>
+
 
 Il ne suffit pas de seulement changer le boitier. Certes, les optiques sont compatibles, mais j’ai du également investir dans un nouveau set de batteries, un chargeur double plus pratique et douiller dans les nouvelles cartes CFExpress Type B.
 
