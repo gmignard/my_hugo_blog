@@ -7,9 +7,9 @@ slug: "setup-video-fuji-xh2s"
 categories:
 - gear
 resources:
-- src: "cover.jpg"
+- src: "cover.webp"
   name: "cover"
-- src: "*.jpg"
+- src: "*.webp"
 ---
 
 {{< photo src="cover" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
@@ -43,13 +43,13 @@ C’est comme ça que je suis tombé sur la gamme Nikkor Ai/Ai-s que j’utilise
 | Nikkor pré-Ai 55mm f/1.2    | 85mm                     |
 | Nikkor pré-Ai 85mm f/1.8    | 130mm                    |
 
-Les deux optiques pré-Ai ont été modifiées au niveau de la monture pour les rendre compatibles, ce sont vraiment deux lentilles incroyables que j’ai chinées pour pas grand-chose.  
-Quant à la focale AF-D, elle fait exception dans cette sélection, c’est la seule optique « vintage » avec AF que j’utilise sur mon Nikon F100 et qui me dépanne parfois sur le X-H2S en faisant un rendu de 50mm.
-
 {{< photoset always="2" >}}
 {{< photo src="1.webp" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
 {{< photo src="2.webp" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
 {{</ photoset >}}
+
+Les deux optiques pré-Ai ont été modifiées au niveau de la monture pour les rendre compatibles, ce sont vraiment deux lentilles incroyables que j’ai chinées pour pas grand-chose.  
+Quant à la focale AF-D, elle fait exception dans cette sélection, c’est la seule optique « vintage » avec AF que j’utilise sur mon Nikon F100 et qui me dépanne parfois sur le X-H2S en faisant un rendu de 50mm.
 
 ### Optiques motorisées Fuji-X
 
@@ -67,13 +67,13 @@ C’est comme ça que j’ai investi ces dernières années dans les optiques su
 Après des années à filmer à travers le viseur ou l’écran intégré au boitier, j’ai basculé petit à petit sur l’usage d’un moniteur externe. Celui que j’avais avec la Rig du X-T3 n’était pas incroyable, mais ça faisait le job.  
 En repensant l’intégralité de mon setup Fuji X-H2S, j’ai finalement investi dans un [Atomos Shinobi](https://dp.gt/a/7n0j568xm) qui me permet de peaufiner mon cadrage dans toutes les conditions de lumières grâce à sa luminosité qui permet de voir ce qu’il se passe même sous un soleil de plomb. Il a toutes les fonctions qui me permettent de me plonger directement dans le projet et de ne rien louper.  
 
-Côté son, j’utilise dans la majorité des cas un micro [Røde Videmic NTG](https://dp.gt/a/mbx00sdao) et [sa bonnette](https://dp.gt/a/r46f8afia) si le vent est présent.  
-C’est une solution vraiment simple et de qualité pour saisir le son sur le terrain en tournage. J’ai même utilisé ce même micro branché sur un enregistreur [Zoom H1n](https://dp.gt/a/vdy8n4gem) lors d’interviews ou enregistrements de voix off, le résultat est super propre.
-
 {{< photoset always="2" >}}
 {{< photo src="3.webp" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
 {{< photo src="4.webp" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
 {{</ photoset >}}
+
+Côté son, j’utilise dans la majorité des cas un micro [Røde Videmic NTG](https://dp.gt/a/mbx00sdao) et [sa bonnette](https://dp.gt/a/r46f8afia) si le vent est présent.  
+C’est une solution vraiment simple et de qualité pour saisir le son sur le terrain en tournage. J’ai même utilisé ce même micro branché sur un enregistreur [Zoom H1n](https://dp.gt/a/vdy8n4gem) lors d’interviews ou enregistrements de voix off, le résultat est super propre.
 
 ### Cage et accessoires
 
