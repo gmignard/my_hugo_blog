@@ -2,7 +2,7 @@
 title: Fuji X-H2S, mon Setup vidéo
 subtitle: 6 mois à filmer avec le Fujifilm X-H2S.
 seotitle: « Fuji X-H2S, mon Setup vidéo Run & Gun — Grégory Mignard"
-date: 2023-07-02 09:30:00 +0200
+date: 2023-07-03 14:30:00 +0200
 slug: "setup-video-fuji-xh2s"
 categories:
 - gear
