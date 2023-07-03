@@ -33,6 +33,14 @@ Mon choix s’est porté sur le [Fujifilm X-H2S](https://dp.gt/a/uj7xo7k6e) pour
 * → [Dji Mavic 2 Pro](https://www.digit-photo.com/DJI-Drone-Mavic-2-Pro-rDJIMAVIC2PRO.html?dpa_id=23)
 * → [Trépied vidéo Manfrotto](https://www.digit-photo.com/MANFROTTO-MVK502AM-1-Kit-Video-Rotule-502-rMANFROTTOMVK502AM1.html?dpa_id=23) | [Trépied Cullmann ultra-léger](https://www.digit-photo.com/CULLMANN-56815-Trepied-de-Voyage-Carvao-816-TC-Carbone-Noir-rCULLC56815.html?dpa_id=23)
 
+<div style="max-width: 57rem!important;margin: auto;margin-bottom: 60px;background-color: #F3F3F3;padding:42px; text-align:left;">
+
+<h3 style="margin-bottom: -45px;">💸 Comment me soutenir ?</h3>
+      </br>
+      <p style="margin-bottom: 10px;">
+     Les liens de cette page renvoie en partie vers la boutique française <a href="https://dp.gt/a/hwciruzn7" target="_blank"><B>Digit-Photo</B></a>. Cette affiliation ne change rien pour vous, mais c’est un soutien énorme pour moi. Pensez à utiliser le code créateur « <B>GREGMIGNARD</B> » au moment de valider votre commande.</br>🙏 Merci</p>
+</div>
+
 > 📸 [Fuji X100V](https://dp.gt/a/tv0on8pyp)
 
 Je l’ai quasiment tout le temps avec moi, que ce soit à vélo ou dans le quotidien, il a trouvé sa place. Le [Fuji X100V](https://dp.gt/a/tv0on8pyp) est autant à l'aise sur un shoot commercial, qu'un reportage ou pour documenter la vie courante.
