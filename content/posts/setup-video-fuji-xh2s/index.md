@@ -24,12 +24,11 @@ J'ai toujours cru que le remplaçant de mon Fuji X-T3 serait une [BMPCC6K](https
 
 <div style="max-width: 57rem!important;margin: auto;margin-bottom: 60px;background-color: #F3F3F3;padding:42px; text-align:left;">
 
-<h3 style="margin-bottom: -15px;">{{ .Site.Params.tinyletter.title }}</h3>
+<h3 style="margin-bottom: -15px;">💸 Comment me soutenir ?</h3>
       </br>
       <p style="margin-bottom: 20px;">
-     Les liens de cette page renvoie en partie vers la boutique française Digit-Photo. Ces liens affiliés ne changent rien pour vous, mais me soutiennent beaucoup.<a href="http://slowisbeautiful.cool" target="_blank">En savoir plus →</a></br></p>
+     Les liens de cette page renvoie en partie vers la boutique française <a href="https://dp.gt/a/hwciruzn7" target="_blank">Digit-Photo</a>. Ces liens affiliés ne changent rien pour vous, mais me soutiennent beaucoup.En savoir plus →</br>🙏 Merci</p>
 </div>
-
 
 Il ne suffit pas de seulement changer le boitier. Certes, les optiques sont compatibles, mais j’ai du également investir dans un nouveau set de batteries, un chargeur double plus pratique et douiller dans les nouvelles cartes CFExpress Type B.
 
