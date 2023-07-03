@@ -12,12 +12,14 @@ resources:
 - src: "*.jpg"
 ---
 
+{{< photo src="cover" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
+
 ### Passer du X-T3 au X-H2S
 
 Passer d’un X-T3 à un [X-H2S](https://dp.gt/a/uj7xo7k6e) n’est pas si anodin que ça. Il y a quelques générations d’écart et une autre approche à l’usage. En soit, le X-T3 reste à ce jour un boitier photo et vidéo encore ultra compétitif, je n’ai pas grand-chose à lui reprocher niveau performances et qualité d’images. Je lui dois d’ailleurs deux films sélectionnés en festivals et environ 50 % des images d’un documentaire de 52 minutes. Si [le Fuji X-T3 a été le boitier qui m’a redonné du plaisir](https://gregorymignard.com/switch-fuji/), son ergonomie a été un frein sur mes derniers projets.  
 C’est un boitier avec lequel je pouvais difficilement passer de la vidéo à la photo et inversement. C’est faisable, mais pas pratique quand on est sur le terrain et forcément, on est parfois obligé de sacrifier un peu l’un ou l’autre si on veut être réactif. Le [X-H2S](https://dp.gt/a/uj7xo7k6e) a une ergonomie qui se veut beaucoup plus professionnelle, moins inspirée des appareils anciens comme pas mal de gammes chez Fuji. On n’a plus du tout la même philosophie dans les touches et molettes et c’est le petit truc qui fait toute la différence dans ma pratique.
 
-Bien évidemment, je suis également gagnant sur la qualité d’images, car le [Fuji X-H2S] est clairement un monstre. ProRes en interne, 6,2 K, 4K 120, Flog2, capteur stabilisé, un AF incroyable… Bref, il a clairement de quoi rivaliser avec les caméras les plus prisées.  
+Bien évidemment, je suis également gagnant sur la qualité d’images, car le [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e) est clairement un monstre. ProRes en interne, 6,2 K, 4K 120, Flog2, capteur stabilisé, un AF incroyable… Bref, il a clairement de quoi rivaliser avec les caméras les plus prisées.  
 J’ai toujours cru que le remplaçant de mon Fuji X-T3 serait une [BMPCC6K](https://dp.gt/a/e5su0kxul), mais après de longues réflexions et la sortie du X-H2S, ce boitier est apparu comme une évidence qui répond à mon besoin de polyvalence et de compacité dans mes projets. C’est vraiment un appareil que je peux adapter à tous mes besoins perso et pro, je peux le mettre dans [un caisson étanche](https://fr.eu.aquatech.net/collections/boîtiers-d%27eau-fujifilm/inspirants/edge-boîtier-d%27eau-pro-pour-fujifilm-x-h2s), sur mon [Ronin SC](https://amzn.to/3NUTHvR) ou bien filmer avec une configuration de tournage run & gun que je vous présente aujourd’hui.
 
 <div style="max-width: 57rem!important;margin: auto;margin-bottom: 60px;background-color: #F3F3F3;padding:42px; text-align:left;">
@@ -44,6 +46,11 @@ C’est comme ça que je suis tombé sur la gamme Nikkor Ai/Ai-s que j’utilise
 Les deux optiques pré-Ai ont été modifiées au niveau de la monture pour les rendre compatibles, ce sont vraiment deux lentilles incroyables que j’ai chinées pour pas grand-chose.  
 Quant à la focale AF-D, elle fait exception dans cette sélection, c’est la seule optique « vintage » avec AF que j’utilise sur mon Nikon F100 et qui me dépanne parfois sur le X-H2S en faisant un rendu de 50mm.
 
+{{< photoset always="2" >}}
+{{< photo src="1.webp" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
+{{< photo src="2.webp" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
+{{</ photoset >}}
+
 ### Optiques motorisées Fuji-X
 
 Si j’adore utiliser des optiques vintages en vidéo et même en photo, il m’arrive d’avoir parfois besoin d’optiques motorisées avec un autofocus. Difficile de s’en passer quand je filme dans le caisson étanche ou bien en suivant une action rapide avec le [Ronin SC](https://amzn.to/3NUTHvR).  
@@ -62,6 +69,11 @@ En repensant l’intégralité de mon setup Fuji X-H2S, j’ai finalement invest
 
 Côté son, j’utilise dans la majorité des cas un micro [Røde Videmic NTG](https://dp.gt/a/mbx00sdao) et [sa bonnette](https://dp.gt/a/r46f8afia) si le vent est présent.  
 C’est une solution vraiment simple et de qualité pour saisir le son sur le terrain en tournage. J’ai même utilisé ce même micro branché sur un enregistreur [Zoom H1n](https://dp.gt/a/vdy8n4gem) lors d’interviews ou enregistrements de voix off, le résultat est super propre.
+
+{{< photoset always="2" >}}
+{{< photo src="3.webp" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
+{{< photo src="4.webp" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
+{{</ photoset >}}
 
 ### Cage et accessoires
 
