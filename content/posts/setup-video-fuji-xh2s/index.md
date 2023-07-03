@@ -22,7 +22,7 @@ C’est un boitier avec lequel je pouvais difficilement passer de la vidéo à l
 Bien évidemment, je suis également gagnant sur la qualité d’images, car le [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e) est clairement un monstre. ProRes en interne, 6,2 K, 4K 120, Flog2, capteur stabilisé, un AF incroyable… Bref, il a clairement de quoi rivaliser avec les caméras les plus prisées.  
 J’ai toujours cru que le remplaçant de mon Fuji X-T3 serait une [BMPCC6K](https://dp.gt/a/e5su0kxul), mais après de longues réflexions et la sortie du X-H2S, ce boitier est apparu comme une évidence qui répond à mon besoin de polyvalence et de compacité dans mes projets. C’est vraiment un appareil que je peux adapter à tous mes besoins perso et pro, je peux le mettre dans [un caisson étanche](https://fr.eu.aquatech.net/collections/boîtiers-d%27eau-fujifilm/inspirants/edge-boîtier-d%27eau-pro-pour-fujifilm-x-h2s), sur mon [Ronin SC](https://amzn.to/3NUTHvR) ou bien filmer avec une configuration de tournage run & gun que je vous présente aujourd’hui.
 
-<div style="max-width: 57rem!important;margin: auto;margin-bottom: 60px;background-color: #ffefe6;padding:42px; text-align:left;">
+<div style="max-width: 57rem!important;margin: auto;margin-bottom: 35px;background-color: #ffefe6;padding:42px; text-align:left;">
 
 <h3 style="margin-bottom: -45px;">💸 Comment me soutenir ?</h3>
       </br>

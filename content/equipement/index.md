@@ -33,7 +33,7 @@ Mon choix s’est porté sur le [Fujifilm X-H2S](https://dp.gt/a/uj7xo7k6e) pour
 * → [Dji Mavic 2 Pro](https://www.digit-photo.com/DJI-Drone-Mavic-2-Pro-rDJIMAVIC2PRO.html?dpa_id=23)
 * → [Trépied vidéo Manfrotto](https://www.digit-photo.com/MANFROTTO-MVK502AM-1-Kit-Video-Rotule-502-rMANFROTTOMVK502AM1.html?dpa_id=23) | [Trépied Cullmann ultra-léger](https://www.digit-photo.com/CULLMANN-56815-Trepied-de-Voyage-Carvao-816-TC-Carbone-Noir-rCULLC56815.html?dpa_id=23)
 
-<div style="max-width: 57rem!important;margin: auto;margin-bottom: 60px;background-color: #ffefe6;padding:42px; text-align:left;">
+<div style="max-width: 57rem!important;margin: auto;margin-bottom: 35px;background-color: #ffefe6;padding:42px; text-align:left;">
 
 <h3 style="margin-bottom: -45px;">💸 Comment me soutenir ?</h3>
       </br>
