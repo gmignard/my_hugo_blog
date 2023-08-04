@@ -5,7 +5,7 @@ seotitle: Fuji X-H2S, mon Setup vidéo Run & Gun — Grégory Mignard"
 date: 2023-07-03 14:30:00 +0200
 slug: "setup-video-fuji-xh2s"
 categories:
-- gear
+- matos
 resources:
 - src: "cover.webp"
   name: "cover"
