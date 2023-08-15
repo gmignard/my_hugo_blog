@@ -85,7 +85,7 @@ J’ai du également investir dans un nouveau set de [batteries](https://dp.gt/a
 
 ### Conclusion
 
-Certains pourraient considérer le capteur APS-C comme un frein. Ce n’est clairement plus mon cas depuis que j’ai gouté à la qualité Fujifilm. La marque s’est clairement investie dans ce format et c’est taillée une solide réputation dans ce domaine, aussi bien chez les amateurs que les professionnels.  
+Certains pourraient considérer le capteur APS-C comme un frein. Ce n’est clairement plus mon cas depuis que j’ai gouté à la qualité Fujifilm. La marque s’est clairement investie dans ce format et s’est taillé une solide réputation dans ce domaine, aussi bien chez les amateurs que les professionnels.  
 Si Fuji s’était fait une place chez les vidéastes depuis le lancement du X-T3, l’arrivée de ce [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e) a eu l’effet d’une bombe chez de nombreux créateurs.  
 Loin de moi l’idée de suivre les tendances et de succomber à chaque nouveauté, j’ai cependant trouvé avec le X-H2S tout ce qui me manquait avec le X-T3 et je me sens serein pour quelques années.  
 Je vous laisse avec cette vidéo de Joshua Martin qui a été une énorme source d’informations et d’astuces pour prendre en main mon [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e).
