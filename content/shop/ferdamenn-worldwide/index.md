@@ -3,6 +3,7 @@ title: "ferðamenn | Worldwide Shipping"
 subtitle: "25€"
 seotitle: "ferðamenn | Worldwide Shipping"
 date: 2023-04-28T08:00:50+01:00
+soldout: true
 draft: false
 grid: "cover"
 price_id: "price_1N29PeH3a7SzE1LPSDZgwOCY"

@@ -5,6 +5,7 @@ seotitle: "ferðamenn | Zine"
 date: 2023-04-29T08:00:50+01:00
 draft: false
 grid: "cover"
+soldout: true
 price_id: "price_1N29O5H3a7SzE1LPks7L6idL"
 categories:
 - print
