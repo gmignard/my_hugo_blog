@@ -19,6 +19,6 @@
         {{ .post.Params.emoji }}
         <a class="title bold no-decoration" href="{{ .post.Permalink }}">{{ .post.Title }}</a><br/>
     </h3>
-    <h5>{{ .post.Params.subtitle }}</h5>
+    <h5>{{ .post.Params.subtitle | markdownify }}</h5>
   </div>
 </div>

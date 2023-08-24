@@ -1,6 +1,6 @@
 ---
 title: "ferðamenn | Zine"
-subtitle: "18€"
+subtitle: "~~18€~~ - Soldout"
 seotitle: "ferðamenn | Zine"
 date: 2023-04-29T08:00:50+01:00
 draft: false

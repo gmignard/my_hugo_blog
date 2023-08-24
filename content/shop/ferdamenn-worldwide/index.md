@@ -1,6 +1,6 @@
 ---
 title: "ferðamenn | Worldwide Shipping"
-subtitle: "25€"
+subtitle: "~~25€~~ - Soldout"
 seotitle: "ferðamenn | Worldwide Shipping"
 date: 2023-04-28T08:00:50+01:00
 soldout: true
