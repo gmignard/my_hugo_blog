@@ -27,7 +27,7 @@ J’ai toujours cru que le remplaçant de mon Fuji X-T3 serait une [BMPCC6K](ht
 <h3 style="margin-bottom: -45px;">💸 Comment me soutenir ?</h3>
       </br>
       <p style="margin-bottom: 10px;">
-     Les liens de cette page renvoie en partie vers la boutique française <a href="https://dp.gt/a/hwciruzn7" target="_blank"><B>Digit-Photo</B></a>. Cette affiliation ne change rien pour vous, mais c’est un soutien énorme pour moi. Pensez à utiliser le code créateur « <B>GREGMIGNARD</B> » au moment de valider votre commande.</br>🙏 Merci</p>
+     Les liens de cette page renvoient en partie vers la boutique française <a href="https://dp.gt/a/hwciruzn7" target="_blank"><B>Digit-Photo</B></a>. Cette affiliation ne change rien pour vous, mais c’est un soutien énorme pour moi. Pensez à utiliser le code créateur « <B>GREGMIGNARD</B> » au moment de valider votre commande.</br>🙏 Merci</p>
 </div>
 
 ### Optiques Nikkor Ai/Ai-s, le cœur de mon setup
