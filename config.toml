@@ -43,7 +43,7 @@ paginate = 12
 [params.social]
   email = "hello@gregorymignard.com"
   domain = "Grégory Mignard"
-  twitter = "gregmignard"
+  bluesky = "gregorymignard.com"
   instagram = "gregmignard"
   threads = "@gregmignard"
   youtube = "captainyvon"
