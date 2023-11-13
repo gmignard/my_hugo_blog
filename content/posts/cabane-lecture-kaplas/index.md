@@ -21,14 +21,14 @@ Vendredi, mon moral est à l’image de la météo actuelle… Maussade. Je ne l
 Heureux hasard du calendrier, nous avons prévu de partir en weekend à [Douarenn](https://douarenn.fr), une jolie petite cabane dans les Monts d’Arrée. La météo annoncée n’est pas forcément excellente, mais cette mise au vert et cette déconnexion tombent à point nommé. Une certaine lenteur s’installe très vite au sein de notre famille, [une playlist](https://music.apple.com/fr/playlist/good-vibes/pl.u-zWd9IxVDeYq) tourne sur l’enceinte de la cabane pendant que certains lisent dans le filet, d’autres se découvrent une passion pour les Kaplas pendant qu’une tasse de thé fumante n’est jamais bien loin.  
 J’en profite de mon côté pour reprendre une lecture oubliée et prendre du plaisir à photographier les petits détails de notre weekend.  
 
-{{< photo src="cover" >}}
+{{< photo src="marion.webp" >}}
 
 {{< photoset always="2" >}}
 {{< photo src="coline.webp" >}}
 {{< photo src="martin.webp" >}}
 {{</ photoset >}}
 
-{{< photo src="marion.webp" >}}
+{{< photo src="lecture.webp" >}}
 
 {{< photoset always="2" >}}
 {{< photo src="kaplas.webp" >}}
