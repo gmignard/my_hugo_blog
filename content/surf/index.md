@@ -15,6 +15,16 @@ resources:
 
 Spot familial qui fonctionne assez souvent dans les Abers.
 
-🕜 Marée : 1h30 avant/après la marée haute. 
-🌊 Houle : Ouest à Est
-🚩 Vent : Sud-Ouest / Sud-Est
+🕜 Marée : 1h30 avant/après la marée haute.   
+🌊 Houle : Ouest à Est  
+🚩 Vent : Sud-Ouest / Sud-Est  
+
+#### 📍[Boutrouille](https://maps.apple.com/?address=Grande%20Rue%2034-Sentier%20des%20Douaniers,%2029890%20Kerlouan,%20France&auid=13963429795097910424&ll=48.656445,-4.398096&lsp=9902&q=Plage%20de%20Boutrouilles)
+
+{{< photo src=« boutrouille.jpg" alt=« Boutrouille »>}}
+
+Spot familial qui fonctionne assez souvent dans les Abers.
+
+🕜 Marée : 1h30 avant/après la marée haute.   
+🌊 Houle : Ouest à Est  
+🚩 Vent : Sud-Ouest / Sud-Est  
