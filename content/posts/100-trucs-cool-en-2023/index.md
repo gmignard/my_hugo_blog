@@ -16,17 +16,17 @@ resources:
 
 {{< photo src="cover" alt="100 trucs cool en 2023">}}
 
-.1 Se réveiller, le 1er janvier, au son des goélands et des muezzins au cœur de la médina d’Essaouira.
-.2 Surfer une planche en mousse déglinguée en regardant passer les dromadaires sur la plage de Tamraght 🐪
-.3 Commencer à écrire cette liste dès le 3 janvier.
-.4 Publier [mes 100 trucs cool de 2022](https://gregorymignard.com/100-trucs-cool-en-2022/), un petit rendez-vous annuel que j’adore également lire chez les copains.
-.5 Me dire que 17 ans après, je tiens toujours un blog et que ça me plait comme au premier jour.
-.6 Jeremy m’a demandé d’être témoin à son mariage, j’ai accepté.
-.7 Apprendre à moins dépendre des réseaux sociaux et m’en détacher même s’il y a encore du travail.
-.8 Lire plus, scroller moins.
-.9 [Sortir un film avec Alex Strohl](https://gregorymignard.com/films/a-contre-courant/).
-.10 Apprendre que ton pote va devenir papa 🍼
-.11 Ramasser des petites billes de plastique sur la plage. Ce n’est pas cool, mais essayer de faire quelque chose l’est un peu.
+.1 Se réveiller, le 1er janvier, au son des goélands et des muezzins au cœur de la médina d’Essaouira.  
+.2 Surfer une planche en mousse déglinguée en regardant passer les dromadaires sur la plage de Tamraght 🐪  
+.3 Commencer à écrire cette liste dès le 3 janvier.  
+.4 Publier [mes 100 trucs cool de 2022](https://gregorymignard.com/100-trucs-cool-en-2022/), un petit rendez-vous annuel que j’adore également lire chez les copains.  
+.5 Me dire que 17 ans après, je tiens toujours un blog et que ça me plait comme au premier jour.  
+.6 Jeremy m’a demandé d’être témoin à son mariage, j’ai accepté.  
+.7 Apprendre à moins dépendre des réseaux sociaux et m’en détacher même s’il y a encore du travail.  
+.8 Lire plus, scroller moins.  
+.9 [Sortir un film avec Alex Strohl](https://gregorymignard.com/films/a-contre-courant/).  
+.10 Apprendre que ton pote va devenir papa 🍼  
+.11 Ramasser des petites billes de plastique sur la plage. Ce n’est pas cool, mais essayer de faire quelque chose l’est un peu.  
 .12 Affronter mes peurs en allant à l’eau sur un spot qui m’a longtemps intimidé.
 .13 Essayer d’aller un peu plus régulièrement à l’eau.
 .14 [Restaurer un vieux VTT de 1998](https://gregorymignard.com/restauration-vtt-atb/) pour en faire un vélo trop trop cool.
