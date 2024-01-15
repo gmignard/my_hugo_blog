@@ -51,7 +51,7 @@ Cette liste non exhaustive de qualités que je peux retenir contribue selon moi 
 {{< photo src="fuji_2.webp" alt="4 ans d’appareils Fujfilm">}}
 {{</ photoset >}} 
 
-{{< photo src="fuji_4" alt="4 ans d’appareils Fujfilm">}}
+{{< photo src="fuji_4.webp" alt="4 ans d’appareils Fujfilm">}}
 
 Merci Fuji pour ces quatre premières années 🫶  
 *(Je tiens à préciser que je n’ai aucun lien avec Fujifilm ; ce sont simplement des propos totalement libres de ma part)*
