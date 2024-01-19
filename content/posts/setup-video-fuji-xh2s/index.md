@@ -60,7 +60,7 @@ C’est comme ça que j’ai investi ces dernières années dans les optiques su
 |---------------|-------------------------|
 | [Viltrox 13mm f/1.4](https://dp.gt/a/awcenxpfa) | 20mm |
 | [Viltrox 23mm f/1.4](https://dp.gt/a/ltkoiotjf) | 35mm |
-| [Fuji 56mm f/1.2](https://dp.gt/a/4ml3sxbvq)    | 85mm |
+| [Viltrox 56mm f/1.4](https://dp.gt/a/ceshwbro)  | 85mm |
 
 ### Moniteur externe & son
 
