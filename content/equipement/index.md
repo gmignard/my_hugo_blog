@@ -4,9 +4,9 @@ seotitle: "Équipement - Grégory Mignard"
 date: 2021-05-21T22:57:50+02:00
 draft: false
 resources:
-- src: "*.jpg"
-- src: "1.jpg"
+- src: "cover.webp"
   name: "cover"
+- src: "*.webp"
 ---
 
 > 📹 [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
