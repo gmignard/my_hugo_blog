@@ -14,7 +14,7 @@ resources:
 - src: "*.webp"
 ---
 
-<div>{{< vimeo 794047529 >}}</div>
+<div>{{< youtube 2NH0ZjEmZT8 >}}</div>
 
 L’hiver dans la Manche. Une drôle d’idée pour certains, un nouveau souffle pour d’autres. Ce film s'adresse à ces autres. A ceux qui apprécient la beauté tourmentée et les météos incertaines. Alex Strohl fait partie de ces autres. Cet aventurier avéré et photographe de renommée mondiale est venu se frotter à l’hiver manchois. Naturellement inspiré par les grandes marées, il nous livre sa propre vision de la Manche : abrupte et sauvage forcément, mais pleine de beauté et d’humilité.  
 

@@ -15,7 +15,7 @@ resources:
 - src: "*.jpg"
 ---
 
-<div>{{< vimeo 463093392 >}}</div>
+<div>{{< youtube MfFYJsnQw30 >}}</div>
 
 Autour d’une tasse de café fumante, nous discutons de tout et de rien, Camille me fait visiter son atelier dans lequel il n’allait pas tarder à lancer les machines. Cela fait quelques mois que j’ai envie de couvrir un sujet sur son travail et univers, on devait juste se caler un moment. Du coup, je provoque un peu le destin et lui propose mon idée sur laquelle il rebondit direct… Nous voici lancés dans un tournage totalement improvisé à la dernière minute !
 

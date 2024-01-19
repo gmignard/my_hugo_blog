@@ -14,7 +14,7 @@ resources:
 - src: "*.webp"
 ---
 
-<div>{{< vimeo 370095571 >}}</div>
+<div>{{< youtube NSe_5goG-k4 >}}</div>
 
 FLOW, une vidéo avec le son brut mettant en avant le pilote VTT enduro fançais Ambroise Hébert dans un lieu secret de Normandie.
 

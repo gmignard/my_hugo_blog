@@ -14,7 +14,7 @@ resources:
 - src: "*.webp"
 ---
 
-<div>{{< vimeo 523455104 >}}</div>
+<div>{{< youtube PbDizRll11Q >}}</div>
 
 Après avoir eu l’annonce du confinement du 28 octobre 2020, nous avons eu le sentiment d’avoir été privés de libertés, privés de nature surtout. Il fallait continuer d’aller travailler, de consommer, mais les seuls moments au grand air nous étaient interdits. Nous avons donc voulu tourner une brève vidéo qui donnerait envie d’aller dehors, de prendre conscience de l’importance de la nature à deux pas de chez nous.
 

@@ -14,7 +14,7 @@ resources:
 - src: "*.webp"
 ---
 
-<div>{{< vimeo 322001624 >}}</div>
+<div>{{< youtube dtBsn230c_c >}}</div>
 
 DISVARE est un film court de kayak qui raconte l’histoire de Nathalie, professeur d’EPS et amoureuse de l’océan dans l’âme, originaire de Bretagne. Des premiers coups de pagaie de la journée au lever du soleil aux explorations du Finistère Nord, DISVARE nous plonge dans l’esprit et l’intimité de cette passionnée de kayak.
 

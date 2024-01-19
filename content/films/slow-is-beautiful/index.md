@@ -14,7 +14,7 @@ resources:
 - src: "*.webp"
 ---
 
-<div>{{< vimeo 625382741 >}}</div>
+<div>{{< youtube uP0zJIsWPS8 >}}</div>
 
 Une ode à prendre son temps, à renouer avec ses racines, son territoire et son amour originel pour ses passions. Lentement. Simplement. Greg explore certains de ses endroits oubliés préférés en Bretagne avec juste une pellicule de Portra 400 et son Nikon FM2.
 

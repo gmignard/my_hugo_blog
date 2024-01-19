@@ -14,7 +14,7 @@ resources:
 - src: "*.webp"
 ---
 
-<div>{{< vimeo 371653768 >}}</div>
+<div>{{< youtube 35x98Cbkbzk >}}</div>
 
 Il y a des endroits qui inspirent, qui ressourcent, qui font remonter des souvenirs, des sensations… des endroits qui font du bien ! Pour Léa Brassy, surfeuse & aventurière océane, cette petite madeleine de Proust, c’est la Manche. C’est ici qu’elle a connu ses premières vagues et que la mer est devenue son obsession. Nous sommes allés la rencontrer : portrait !
 
