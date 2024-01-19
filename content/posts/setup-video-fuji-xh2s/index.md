@@ -67,10 +67,7 @@ C’est comme ça que j’ai investi ces dernières années dans les optiques su
 Après des années à filmer à travers le viseur ou l’écran intégré au boitier, j’ai basculé petit à petit sur l’usage d’un moniteur externe. Celui que j’avais avec la Rig du X-T3 n’était pas incroyable, mais ça faisait le job.  
 En repensant l’intégralité de mon setup Fuji X-H2S, j’ai finalement investi dans un [Atomos Shinobi](https://dp.gt/a/7n0j568xm) qui me permet de peaufiner mon cadrage dans toutes les conditions de lumières grâce à sa luminosité qui permet de voir ce qu’il se passe même sous un soleil de plomb. Il a toutes les fonctions qui me permettent de me plonger directement dans le projet et de ne rien louper.  
 
-{{< photoset always="2" >}}
 {{< photo src="3.webp" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
-{{< photo src="4.webp" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
-{{</ photoset >}}
 
 Côté son, j’utilise dans la majorité des cas un micro [Røde Videmic NTG](https://dp.gt/a/mbx00sdao) et [sa bonnette](https://dp.gt/a/r46f8afia) si le vent est présent.  
 C’est une solution vraiment simple et de qualité pour saisir le son sur le terrain en tournage. J’ai même utilisé ce même micro branché sur un enregistreur [Zoom H1n](https://dp.gt/a/vdy8n4gem) lors d’interviews ou enregistrements de voix off, le résultat est super propre.
@@ -80,8 +77,18 @@ C’est une solution vraiment simple et de qualité pour saisir le son sur le te
 Pour fixer tous les accessoires de mon setup vidéo Fuji X-H2S, j’ai imaginé une Rig assez simple et minimaliste, peu encombrante et rapide à monter/démonter.  
 Par le passé, j’avais beaucoup plus d’accessoires et d’éléments qui complétaient ce setup, mais on dit que l’on tient la perfection quand on n’a plus grand-chose à retirer, ça aura été mon cas en essayant de me passer d’un maximum d’accessoires pour avoir une rig vraiment simple et agréable à l’usage en ne faisant aucune concession sur la qualité des prises de vues.
 
-J’ai donc une [cage pour X-H2S (SmallRig 3934)](https://dp.gt/a/cbyd4sle) sur laquelle je fixe une [poignée NATO (SmallRig 1955)](https://www.digit-photo.com/SMALLRIG-1955-Poignee-Nato-rSMALLRIGD152811.html?dpa_id=23) qui me sert à fixer [l’écran de monitoring](https://dp.gt/a/7n0j568xm) alimenté par des [Batteries Sony NPF](https://www.digit-photo.com/PATONA-Batterie-Sony-NP-F970-rPATONA1207.html?dpa_id=23).  
-J’ai du également investir dans un nouveau set de [batteries](https://dp.gt/a/hmnzg0v8s), un [chargeur double](https://dp.gt/a/n2yvu85f9) plus pratique, des [cartes CFExpress Type B](https://dp.gt/a/vlfoh7ba) et un nouveau [lecteur de cartes](https://www.digit-photo.com/Lecteurs-de-cartes-memoire-aFA0052/Lecteur%2520de%2520carte%2520cfexpress/?dpa_id=23).
+{{< photo src="5.webp" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
+
+{{< photo src="4.webp" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
+
+{{< photoset always="2" >}}
+{{< photo src="6.webp" alt="Mindful Journey">}}
+{{< photo src="7.webp" alt="Mindful Journey">}}
+{{</ photoset >}}
+
+J’ai donc une [cage Tilta pour X-H2S)](https://dp.gt/a/phnyrcpqq) qui a l’avantage d’intégrer un long rail NATO sur le haut de la cage. Je peux ainsi y fixer [l’écran de monitoring](https://dp.gt/a/7n0j568xm) alimenté par des [Batteries Sony NPF](https://www.digit-photo.com/PATONA-Batterie-Sony-NP-F970-rPATONA1207.html?dpa_id=23) avec une [fixation rapide](https://amzn.to/3SogqU9).  
+J’ai du également investir dans un nouveau set de [batteries](https://dp.gt/a/hmnzg0v8s), un [chargeur double](https://dp.gt/a/n2yvu85f9) plus pratique, des [cartes CFExpress Type B](https://dp.gt/a/vlfoh7ba) et un nouveau [lecteur de cartes](https://www.digit-photo.com/Lecteurs-de-cartes-memoire-aFA0052/Lecteur%2520de%2520carte%2520cfexpress/?dpa_id=23).  
+Enfin, pour améliorer la prise en main de l’ensemble, j’utilise une courroie de poignet [Peak Design Clutch](https://dp.gt/a/dy0zci12s).  
 
 ### Conclusion
 
