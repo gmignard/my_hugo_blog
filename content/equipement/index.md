@@ -19,12 +19,17 @@ Mon choix s’est porté sur le [Fujifilm X-H2S](https://dp.gt/a/uj7xo7k6e) pour
 
 ##### Objectifs
 
-* → [Bague d'adaptation Urth](https://amzn.to/3mkLS8j) — *Pour rendre mes optiques vintage Nikon F compatibles avec la monture Fuji*
-* → Nikkor Ai 24mm f/2.8 — *Optique vintage de charme équivalente à 35mm sur le Fuji*
-* → Nikkor pré-Ai 55mm f/1.2 — *Optique vintage lumineuse, équivalent 85mm sur le Fuji*
-* → [Viltrox 23mm f/1.4 AF](https://dp.gt/a/ltkoiotjf) — *Optique motorisée performante et abordable*
-* → [Fuji XF 56mm f/1.2 R](https://www.digit-photo.com/FUJI-XF-56mm-f-1-2-R-Noir-rFUJI11510.html?dpa_id=23) — *Objectif motorisé lumineux, pour le caisson étanche ou la gimbal*
-* → [100-400mm f/4.5-5.6 R LM OIS WR](https://www.digit-photo.com/FUJI-XF-100-400mm-f-4-5-5-6-R-LM-OIS-WR-Noir-rFUJI16501109.html?dpa_id=23) — *Téléobjectif puissant*
+| **RÉFÉRENCE**               | **RENDU CAPTEUR APS-C**  |
+|-----------------------------|--------------------------|
+| Nikkor Ai 24mm f/2.8        | 35mm                     |
+| Nikkor AF-D 35mm f/2.       | 50mm                     |
+| Nikkor pré-Ai 55mm f/1.2    | 85mm                     |
+| Nikkor pré-Ai 85mm f/1.8    | 130mm                    |
+| [Bague d'adaptation Urth](https://amzn.to/3mkLS8j) | / |
+| [Viltrox 13mm f/1.4](https://dp.gt/a/awcenxpfa) | 20mm |
+| [Viltrox 23mm f/1.4](https://dp.gt/a/ltkoiotjf) | 35mm |
+| [Viltrox 56mm f/1.4](https://dp.gt/a/ceshwbro)  | 85mm |
+| [100-400mm f/4.5-5.6 R LM OIS WR](https://www.digit-photo.com/FUJI-XF-100-400mm-f-4-5-5-6-R-LM-OIS-WR-Noir-rFUJI16501109.html?dpa_id=23)  | 150-600mm |
 
 #### Accessoires
 
