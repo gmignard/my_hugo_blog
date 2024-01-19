@@ -13,9 +13,13 @@ resources:
 
 Mon choix s’est porté sur le [Fujifilm X-H2S](https://dp.gt/a/uj7xo7k6e) pour ses performances aussi bien en photo qu’en vidéo, mais également pour sa polyvalence et sa petite taille. Capable de filmer en 6.2K 10 bits, il n’a rien à envier à certaines grosses caméras professionnelles et excelle en photographie. C’est le boitier à tout faire sur lequel je peux compter pour mes projets [Captain Yvon](https://captainyvon.fr/).  
 
+{{< photo src="cover" alt="Fuji X-H2S, mon Setup vidéo Run & Gun">}}
+
+Lire l’article complet → [Fuji X-H2S, mon Setup vidéo Run & Gun](https://gregorymignard.com/setup-video-fuji-xh2s/).
+
 #### Composants de ma RIG
 
-[Cage pour X-H2S — SmallRig 3934](https://dp.gt/a/cbyd4sle) | [Poignée NATO — SmallRig 1955](https://www.digit-photo.com/SMALLRIG-1955-Poignee-Nato-rSMALLRIGD152811.html?dpa_id=23) | [Micro RØDE VideoMic NTG](https://www.digit-photo.com/RODE-Microphone-VideoMic-NTG-Noir-rRODER100315.html?dpa_id=23) | [RØDE Softy](https://www.digit-photo.com/RODE-Protection-Micro-Anti-Vent-rRODER100317.html?dpa_id=23) | [Ecran de monitoring Atomos Shinobi](https://dp.gt/a/7n0j568xm) | [Batteries Patona NP-W235](https://dp.gt/a/hmnzg0v8s) pour Fuji X-H2S | [Sony NPF](https://www.digit-photo.com/PATONA-Batterie-Sony-NP-F970-rPATONA1207.html?dpa_id=23) pour l’écran de monitoring | [Filtres ND8 et ND64 Hoya Pro](https://www.digit-photo.com/Filtres-vissants-aFA0032/Hoya/+choixMarque-821%7C?dpa_id=23) | [Filtres de diffusion CineBloom 10%](https://www.shopmoment.com/filters/diffusion-filters)
+[Cage Tilta pour X-H2S](https://dp.gt/a/phnyrcpqq) | [Micro RØDE VideoMic NTG](https://www.digit-photo.com/RODE-Microphone-VideoMic-NTG-Noir-rRODER100315.html?dpa_id=23) | [RØDE Softy](https://www.digit-photo.com/RODE-Protection-Micro-Anti-Vent-rRODER100317.html?dpa_id=23) | [Ecran de monitoring Atomos Shinobi](https://dp.gt/a/7n0j568xm) | [Support de Moniteur Smallrig 2906B](https://amzn.to/3SogqU9) | [Batteries Patona NP-W235](https://dp.gt/a/hmnzg0v8s) pour Fuji X-H2S | [Sony NPF](https://www.digit-photo.com/PATONA-Batterie-Sony-NP-F970-rPATONA1207.html?dpa_id=23) pour l’écran de monitoring | [Filtres ND8 et ND64 Hoya Pro](https://www.digit-photo.com/Filtres-vissants-aFA0032/Hoya/+choixMarque-821%7C?dpa_id=23) | [Filtres de diffusion CineBloom 10%](https://www.shopmoment.com/filters/diffusion-filters) | [Peak Design Clutch](https://dp.gt/a/dy0zci12s)
 
 ##### Objectifs
 
@@ -37,6 +41,9 @@ Mon choix s’est porté sur le [Fujifilm X-H2S](https://dp.gt/a/uj7xo7k6e) pour
 * → [Dji Ronin-SC](https://amzn.to/3ipLxwX)
 * → [Dji Mavic 2 Pro](https://www.digit-photo.com/DJI-Drone-Mavic-2-Pro-rDJIMAVIC2PRO.html?dpa_id=23)
 * → [Trépied vidéo Manfrotto](https://www.digit-photo.com/MANFROTTO-MVK502AM-1-Kit-Video-Rotule-502-rMANFROTTOMVK502AM1.html?dpa_id=23) | [Trépied Cullmann ultra-léger](https://www.digit-photo.com/CULLMANN-56815-Trepied-de-Voyage-Carvao-816-TC-Carbone-Noir-rCULLC56815.html?dpa_id=23)
+* → [cartes CFExpress Type B](https://dp.gt/a/vlfoh7ba)
+* → [lecteur de cartes](https://www.digit-photo.com/Lecteurs-de-cartes-memoire-aFA0052/Lecteur%2520de%2520carte%2520cfexpress/?dpa_id=23)
+* → [batteries](https://dp.gt/a/hmnzg0v8s) + [chargeur double](https://dp.gt/a/n2yvu85f9)
 
 <div style="max-width: 57rem!important;margin: auto;margin-bottom: 35px;background-color: #ffefe6;padding:42px; text-align:left;">
 
