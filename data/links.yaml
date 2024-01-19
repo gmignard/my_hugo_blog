@@ -1,9 +1,12 @@
-- title: Le Blog
-  subtitle: Les articles de mes aventures et réflexions
-  url: https://gregorymignard.com/posts/
 - title: Équipement
   subtitle: Tout mon setup photo et vidéo détaillé
   url: https://gregorymignard.com/equipement/
+- title: Le Blog
+  subtitle: Les articles de mes aventures et réflexions
+  url: https://gregorymignard.com/posts/
+- title: Slow is Beautiful
+  subtitle: Newsletter et art de vivre
+  url: http://slowisbeautiful.cool
 - title: Le Shop
   subtitle: Des prints & des zines
   url: https://gregorymignard.com/shop/
