@@ -2,7 +2,7 @@
 title: Mindful Journey
 subtitle: Partir pour affronter mes pensées, apprendre sur moi-même
 seotitle: "Mindful Journey — Grégory Mignard"
-date: 2024-01-22 09:00:00 +0200
+date: 2024-01-22 08:00:00 +0200
 slug: "mindful-journey"
 categories:
 - aventures
