@@ -26,7 +26,7 @@ Lire l’article complet → [Fuji X-H2S, mon Setup vidéo Run & Gun](https://gr
 | **RÉFÉRENCE**               | **RENDU CAPTEUR APS-C**  |
 |-----------------------------|--------------------------|
 | Nikkor Ai 24mm f/2.8        | 35mm                     |
-| Nikkor AF-D 35mm f/2.       | 50mm                     |
+| [Nikkor AF-D 35mm f/2](https://prf.hn/l/Oqn0enN)| 50mm |
 | Nikkor pré-Ai 55mm f/1.2    | 85mm                     |
 | Nikkor pré-Ai 85mm f/1.8    | 130mm                    |
 | [Bague d'adaptation Urth](https://amzn.to/3mkLS8j) | / |
