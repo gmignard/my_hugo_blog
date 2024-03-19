@@ -53,9 +53,9 @@ Lire l’article complet → [Fuji X-H2S, mon Setup vidéo Run & Gun](https://gr
      Les liens de cette page renvoie en partie vers la boutique française <a href="https://dp.gt/a/hwciruzn7" target="_blank"><B>Digit-Photo</B></a>. Cette affiliation ne change rien pour vous, mais c’est un soutien énorme pour moi. Pensez à utiliser le code créateur « <B>GREGMIGNARD</B> » au moment de valider votre commande.</br>🙏 Merci</p>
 </div>
 
-> 📸 [Fuji X100V](https://dp.gt/a/tv0on8pyp)
+> 📸 [Fuji X100V](https://prf.hn/l/w9g1Nwn)
 
-Je l’ai quasiment tout le temps avec moi, que ce soit à vélo ou dans le quotidien, il a trouvé sa place. Le [Fuji X100V](https://dp.gt/a/tv0on8pyp) est autant à l'aise sur un shoot commercial, qu'un reportage ou pour documenter la vie courante.
+Je l’ai quasiment tout le temps avec moi, que ce soit à vélo ou dans le quotidien, il a trouvé sa place. Le [Fuji X100V](https://prf.hn/l/w9g1Nwn) est autant à l'aise sur un shoot commercial, qu'un reportage ou pour documenter la vie courante.
 
 > 🎞 Argentique
 
