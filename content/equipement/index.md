@@ -50,7 +50,8 @@ Lire l’article complet → [Fuji X-H2S, mon Setup vidéo Run & Gun](https://gr
 <h3 style="margin-bottom: -45px;">💸 Comment me soutenir ?</h3>
       </br>
       <p style="margin-bottom: 10px;">
-     Les liens de cette page renvoie en partie vers la boutique française <a href="https://dp.gt/a/hwciruzn7" target="_blank"><B>Digit-Photo</B></a>. Cette affiliation ne change rien pour vous, mais c’est un soutien énorme pour moi. Pensez à utiliser le code créateur « <B>GREGMIGNARD</B> » au moment de valider votre commande.</br>🙏 Merci</p>
+     Les liens de cette page renvoie en partie vers la boutique française <a href="https://dp.gt/a/hwciruzn7" target="_blank"><B>Digit-Photo</B></a>. Cette affiliation ne change rien pour vous, mais c’est un soutien énorme pour moi. Pensez à utiliser le code créateur « <B>GREGMIGNARD</B> » au moment de valider votre commande.</br>
+     Pensez aussi à la planète en achetant d’occasion, il y a plein de chouettes références <a href="https://prf.hn/l/p3qB2P5" target="_blank"><B>chez MPB</B></a>.</br> 🙏 Merci</p>
 </div>
 
 > 📸 [Fuji X100V](https://prf.hn/l/w9g1Nwn)
