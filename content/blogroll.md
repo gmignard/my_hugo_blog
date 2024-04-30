@@ -8,17 +8,25 @@ resources:
 - src: "*.webp"
 ---
 
-Les chouettes sites, blogs et portfolios des copains  
-ou des personnes que je suis sur internet.
+## Des chouettes blogs.
 
 - https://yannickschutz.com
 - https://jeremyjanin.com
-- https://jamesbowden.net
-- https://ronsbikesblog.com
-- https://stridsland.com
+- https://yvesquere.com
+- https://aliashade.com
 - https://francischouquet.com
-- https://brianchorski.com
+- https://midnowhere.co.uk
+- https://ronsbikesblog.com
+- https://fieldmag.com
+- https://pannier.cc
+
+## Des inspirations.
+
+- https://jamesbowden.net
+- https://nickpumphrey.art
 - https://cedricschanze.com
 - http://ryantatar.com
+- https://chrismcclean.co.uk
 - https://www.gohiromoto.com
 - https://www.jamesbarkman.com
+- https://jeffjohnsonstories.com
