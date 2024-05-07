@@ -39,7 +39,7 @@ resources:
 - [Moniteur externe Atomos Shinobi](https://dp.gt/a/cuqwspjz)
 - [Cage Tilta](https://dp.gt/a/ca4zz6v8) → [*Voir mon setup complet*](https://gregorymignard.com/setup-video-fuji-xh2s/)
 
-### Captation son
+### Son
 
 - [Zoom F3 Field Recorder](https://dp.gt/a/wan28fm7)
 - [Zoom H1n](https://dp.gt/a/cbxe7g4am)
@@ -55,36 +55,11 @@ resources:
 
 ### Applications
 
-- 
+- Montage vidéo : Final Cut Pro X
+- Éditeur photo : Lightroom CC + Pixelmator Pro
 
+### Blog
 
-📆 Basiques
-Notes : Obsidian
-Organisation : Notion
-Gestionnaire de tâches : Omnifocus
-Mail : Hey
-Calendrier : Fantastical
-Browser : Arc Browser
-Gestionnaire mots de passe : 1Password
-Lecteur RSS : Reeder
-Bookmarks : Raindrop.io
-Read It Later : Matter
-Launcher : Raycast
-Graphics : Affinity Designer 2
-Client Mastodon : Ivory
-🖥️ Pour la photo
-Catalogueur / Éditeur : Adobe Lightroom Classic
-Plug-ins Lightroom : DxO PureRAW 3
-Ecran Eizo ColorEdge CS2740
-Calibration avec ColorNavigator et sonde x-rite i-1Display
-✍️ Pour le blog
-Idées et planification : Notion
-Collecte des éléments et rédaction des brouillons : Obsidian
-Finalisation des articles et publication vers Ghost : Ulysses
-Vérifications orthographiques et gramaticales : Antidote 11
-Plateforme : Ghost Pro
-🔉 Pour le podcast
-Collecte des éléments et rédaction des scripts : Obsidian
-Logiciel enregistrement : Audio Hijack
-Montage et mixage : Logic Pro, Descript
-Hébergement : Acast
+- Rédaction : iA Writer
+- Moteur de blog : Hugo
+- Hébergement : Netlify
