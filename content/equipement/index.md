@@ -1,7 +1,7 @@
 ---
 title: "Outils - Grégory Mignard"
 seotitle: "Outils - Grégory Mignard"
-date: 2021-05-21T22:57:50+02:00
+date: 2024-05-05T22:57:50+02:00
 draft: false
 resources:
 - src: "cover.webp"
@@ -55,11 +55,11 @@ resources:
 
 ### Applications
 
-- Montage vidéo : Final Cut Pro X
-- Éditeur photo : Lightroom CC + Pixelmator Pro
+- Montage vidéo : [Final Cut Pro X](https://www.apple.com/fr/final-cut-pro/)
+- Éditeur photo : [Lightroom CC](https://lightroom.adobe.com/) + [Pixelmator Pro](https://www.pixelmator.com/pro/)
 
 ### Blog
 
-- Rédaction : iA Writer
-- Moteur de blog : Hugo
-- Hébergement : Netlify
+- Rédaction : [iA Writer](https://ia.net/writer/fr)
+- Moteur de blog : [Hugo](https://gohugo.io)
+- Hébergement : [Netlify](https://www.netlify.com)
