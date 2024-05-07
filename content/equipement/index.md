@@ -18,7 +18,6 @@ resources:
 - Nikon FM2
 - Nikonos V
 - Konica Big Mini
-
 - Nikkor Ai 24mm f/2.8
 - Nikkor AF-D 35mm f/2
 - Nikkor pré-Ai 55mm f/1.2
