@@ -11,9 +11,15 @@ resources:
 
 ### Prise de vue
 
-- [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e) - *Article setup vidéo*
+- [Fuji X-H2S](https://dp.gt/a/96cbwbtsa) → *Lire l’article "[Fuji X-H2S, mon Setup vidéo Run & Gun](https://gregorymignard.com/setup-video-fuji-xh2s/)"*
+- [Fuji X100V](https://prf.hn/l/9OpGNw1)
 - [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
-- [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
+
+<div style="max-width: 57rem!important;margin: auto;margin-bottom: 35px;background-color: #ffefe6;padding:42px; text-align:left;">
+     <p style="margin-bottom: 10px;">
+     Les liens de cette page renvoie en partie vers les boutiques <a href="https://dp.gt/a/hwciruzn7" target="_blank"><B>Digit-Photo</B></a> & <a href="https://prf.hn/l/p3qB2P5" target="_blank"><B>MPB</B></a>. Cette affiliation ne change rien pour vous, mais c’est un soutien énorme pour moi. Pensez à utiliser le code créateur « <B>GREGMIGNARD</B> » au moment de valider votre commande chez Digit-Photo.</br>
+     🙏 Merci</p>
+</div>
 
 
 💻 Appareils
