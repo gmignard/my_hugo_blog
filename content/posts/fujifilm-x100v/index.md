@@ -14,7 +14,7 @@ resources:
 - src: "*.webp"
 ---
 
-Pour expliquer comment cet excellent [Fujifilm X100V](https://www.digit-photo.com/FUJI-X100V-Noir-rFUJI16643000.html?dpa_id=23) est arrivé dans mon quotidien, je me dois de remonter le temps pour vous raconter tout ça.
+Pour expliquer comment cet excellent [Fujifilm X100V](https://prf.hn/l/9OpGNw1) est arrivé dans mon quotidien, je me dois de remonter le temps pour vous raconter tout ça.
 
 {{< photo src="X1007933.webp" alt="Fujifilm X100V">}}
 
@@ -24,7 +24,7 @@ Il était loin d’être parfait, les défauts de jeunesse étaient présents, m
 Je ne sais plus combien de temps je l’ai gardé, peut-être un an, peut-être deux, c’était il y a bien longtemps maintenant. Je me rappelle l’avoir vendu pour un Sony RX100 (premier de la série également), plus petit et techniquement excellent. Cependant, le plaisir n’était pas le même, ce petit Sony avait beau être excellent, le plaisir photo n’était pas aussi intense qu’à utiliser le X100 ou mon D700. Ça aussi je l’ai compris quelques années plus tard, à utiliser que du Sony, c’est techniquement excellent, mais c’est fade à utiliser.
 
 Bref, je m’égare, mais j’ai vraiment envie de poser le décor.  
-Quelques années plus tard, en 2020, je me remets à [la photographie argentique](https://gregorymignard.com/analog/) et l’envie d’avoir un appareil de poche revient. J’achète donc un [Olympus XA](https://gregorymignard.com/olympus-xa/) que je revends pour un [Olympus Mju II](https://gregorymignard.com/olympus-mju-ii/) que je revends également. Ce sont d’excellents petits appareils, je n’ai pas grand-chose à leur reprocher. Cependant, je me suis rendu compte qu’avec la hausse des prix des films argentiques, je me modérais de plus en plus à la prise de vue et j’ai décidé de revendre le Mju II pour acheter un compact numérique… Et c’est ainsi que le [Fujifilm X100V](https://www.digit-photo.com/FUJI-X100V-Noir-rFUJI16643000.html?dpa_id=23) arrive dans ma vie.
+Quelques années plus tard, en 2020, je me remets à [la photographie argentique](https://gregorymignard.com/analog/) et l’envie d’avoir un appareil de poche revient. J’achète donc un [Olympus XA](https://gregorymignard.com/olympus-xa/) que je revends pour un [Olympus Mju II](https://gregorymignard.com/olympus-mju-ii/) que je revends également. Ce sont d’excellents petits appareils, je n’ai pas grand-chose à leur reprocher. Cependant, je me suis rendu compte qu’avec la hausse des prix des films argentiques, je me modérais de plus en plus à la prise de vue et j’ai décidé de revendre le Mju II pour acheter un compact numérique… Et c’est ainsi que le [Fujifilm X100V](https://prf.hn/l/9OpGNw1) arrive dans ma vie.
 
 {{< photoset always="2" >}}
 {{< photo src="cover" alt="Fujifilm X100V">}}
@@ -33,7 +33,7 @@ Quelques années plus tard, en 2020, je me remets à [la photographie argentique
 
 Bien qu’il soit plus gros qu’un RX100 ou un Olympus Mju II, j’étais ravi de retrouver cette bouille devenue mythique au fil des générations. Et cette 5ème génération envoi du très très lourd. Le bloc optique a entièrement été revu ce qui le rend moins épais et l’ensemble est un vrai plaisir à utiliser.  
 Je l’ai quasiment tout le temps avec moi, que ce soit [à vélo](https://gregorymignard.com/du-vent-et-des-ribines/) ou dans [le quotidien](https://gregorymignard.com/everyday/), il a trouvé sa place. Je lui ai même confié la création de chouettes souvenirs lors de [mon voyage à Lanzarote](https://gregorymignard.com/lanzarote/).  
-Il est devenu mon appareil numérique de choix. J’ai bien [mon Fuji X-T3](https://gregorymignard.com/switch-fuji/) à côté, mais il me sert pour les shoots professionnels et principalement pour mes tournages, en vidéo.
+Il est devenu mon appareil numérique de choix. J’ai bien [mon Fuji X-H2S](https://gregorymignard.com/setup-video-fuji-xh2s/) à côté, mais il me sert pour les shoots professionnels et principalement pour mes tournages, en vidéo.
 
 Je n’ai pas forcément envie d’entrer dans la technique, vous trouverez de nombreux tests sur le net. Mais si vous avec la flemme de chercher, je vous pose cette chouette vidéo qui devrait vous mettre l’eau à la bouche. Elle aura été l’élément déclencheur chez moi.
 
