@@ -1,6 +1,6 @@
 ---
-title: "Équipement - Grégory Mignard"
-seotitle: "Équipement - Grégory Mignard"
+title: "Outils - Grégory Mignard"
+seotitle: "Outils - Grégory Mignard"
 date: 2021-05-21T22:57:50+02:00
 draft: false
 resources:
@@ -8,6 +8,61 @@ resources:
   name: "cover"
 - src: "*.webp"
 ---
+
+### Prise de vue
+
+- [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e) - *Article setup vidéo*
+- [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
+- [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
+
+
+💻 Appareils
+Mac mini M2
+iPhone 14 Pro Max
+IPad Pro 11" (2020)
+Apple Watch series 4
+Apple TV 4K
+📷 Photo
+Fuji X100 (l'original)
+Fuji X100V
+Fuji X-T2 et objectifs Fuji : 35mm f/1.4, XF 56mm f/2 R WR, 18-55mm f/2.8-4 R LM OIS.
+Canos EOS 50D avec objectif Canon EF 50mm f/1.8 II
+Olympus Mji II
+🎙️ Audio
+Micro Rode NT1-A
+Interface USB Focusrite 2i4
+Logiciels
+📆 Basiques
+Notes : Obsidian
+Organisation : Notion
+Gestionnaire de tâches : Omnifocus
+Mail : Hey
+Calendrier : Fantastical
+Browser : Arc Browser
+Gestionnaire mots de passe : 1Password
+Lecteur RSS : Reeder
+Bookmarks : Raindrop.io
+Read It Later : Matter
+Launcher : Raycast
+Graphics : Affinity Designer 2
+Client Mastodon : Ivory
+🖥️ Pour la photo
+Catalogueur / Éditeur : Adobe Lightroom Classic
+Plug-ins Lightroom : DxO PureRAW 3
+Ecran Eizo ColorEdge CS2740
+Calibration avec ColorNavigator et sonde x-rite i-1Display
+✍️ Pour le blog
+Idées et planification : Notion
+Collecte des éléments et rédaction des brouillons : Obsidian
+Finalisation des articles et publication vers Ghost : Ulysses
+Vérifications orthographiques et gramaticales : Antidote 11
+Plateforme : Ghost Pro
+🔉 Pour le podcast
+Collecte des éléments et rédaction des scripts : Obsidian
+Logiciel enregistrement : Audio Hijack
+Montage et mixage : Logic Pro, Descript
+Hébergement : Acast
+
 
 > 📹 [Fuji X-H2S](https://dp.gt/a/uj7xo7k6e)
 
