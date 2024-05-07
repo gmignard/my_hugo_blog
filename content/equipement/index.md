@@ -9,21 +9,25 @@ resources:
 - src: "*.webp"
 ---
 
-### Prise de vue
+### Appareils
 
-- [Fuji X-H2S](https://dp.gt/a/96cbwbtsa) → *Lire l’article "[Fuji X-H2S, mon Setup vidéo Run & Gun](https://gregorymignard.com/setup-video-fuji-xh2s/)"*
-- [Fuji X100V](https://prf.hn/l/9OpGNw1) → *Lire l’article "[Fujifilm X100V, l’excellence au quotidien](https://gregorymignard.com/fujifilm-x100v/)"*
-- [Dji Air 3](https://dp.gt/a/uj7xo7k6e)
-- Nikon F100
-- Nikon FM2
-- Nikonos V
+- [Fuji X-H2S](https://gregorymignard.com/setup-video-fuji-xh2s/)
+- [Fuji X100V](https://gregorymignard.com/fujifilm-x100v/)
+- [Dji Air 3](https://dp.gt/a/s0jvpf19d)
+- [Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/)
+- [Nikon FM2](https://gregorymignard.com/nikon-fm2/)
+- [Nikonos V](https://gregorymignard.com/nikonos-v/)
 - Konica Big Mini
-- Nikkor Ai 24mm f/2.8
-- Nikkor AF-D 35mm f/2
+- [iPhone 15 Pro](https://gregorymignard.com/recette-photographie-iphone/)
+
+### Objectifs
+
+- [Nikkor Ai 24mm f/2.8](https://prf.hn/l/RlyeLMp)
+- [Nikkor AF-D 35mm f/2](https://prf.hn/l/Oqn0enN)
 - Nikkor pré-Ai 55mm f/1.2
 - Nikkor pré-Ai 85mm f/1.8
-- Sigma X 18-50mm f/2.8
-- Viltrox X 23mm f/1.4
+- [Sigma X 18-50mm f/2.8](https://dp.gt/a/mmfzseo04)
+- [Viltrox X 23mm f/1.4](https://dp.gt/a/0zn0zsco)
 - Viltrox X 56mm f/1.4
 - Fujinon 100-400mm f/4.5-5.6 R LM OIS WR
 

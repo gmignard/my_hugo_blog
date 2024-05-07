@@ -39,8 +39,8 @@ C’est comme ça que je suis tombé sur la gamme Nikkor Ai/Ai-s que j’utilise
 
 | **RÉFÉRENCE**               | **RENDU CAPTEUR APS-C**  |
 |-----------------------------|--------------------------|
-| Nikkor Ai 24mm f/2.8        | 35mm                     |
-| Nikkor AF-D 35mm f/2.       | 50mm                     |
+| [Nikkor Ai 24mm f/2.8](https://prf.hn/l/RlyeLMp) | 35mm |
+| [Nikkor AF-D 35mm f/2](https://prf.hn/l/Oqn0enN) | 50mm |
 | Nikkor pré-Ai 55mm f/1.2    | 85mm                     |
 | Nikkor pré-Ai 85mm f/1.8    | 130mm                    |
 
@@ -59,7 +59,7 @@ C’est comme ça que j’ai investi ces dernières années dans les optiques su
 
 | **RÉFÉRENCE** | **RENDU CAPTEUR APS-C** |
 |---------------|-------------------------|
-| [Viltrox 13mm f/1.4](https://dp.gt/a/awcenxpfa) | 20mm |
+| [Sigma 18-50mm f/2.8](https://dp.gt/a/mmfzseo04) | 27-75mm |
 | [Viltrox 23mm f/1.4](https://dp.gt/a/ltkoiotjf) | 35mm |
 | [Viltrox 56mm f/1.4](https://dp.gt/a/ceshwbro)  | 85mm |
 
