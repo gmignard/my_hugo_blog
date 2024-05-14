@@ -17,7 +17,7 @@ resources:
 - [Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/)
 - [Nikon FM2](https://gregorymignard.com/nikon-fm2/)
 - [Nikonos V](https://gregorymignard.com/nikonos-v/)
-- Konica Big Mini
+- [Konica Big Mini](https://gregorymignard.com/konica-big-mini-bm-302)
 - Canon 514 XL
 - [iPhone 15 Pro](https://amzn.to/44wS7Ig) → [*Ma recette pour photographier à l’iPhone*](https://gregorymignard.com/recette-photographie-iphone/)
 
