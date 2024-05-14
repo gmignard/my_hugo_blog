@@ -31,7 +31,10 @@ C’est en lisant [ce post sur Threads](https://www.threads.net/@daveherring/pos
 
 <div>{{< youtube yYb3P97PLgc >}}</div>
 
-Mais si j’ai bien appris un truc au fil des ans, c’est qu’une décision trop hâtive est souvent une décision que je regrette par la suite. Donc même si la réflexion commence à murir, je vais encore attendre un peu et refaire un point plus tard sur le sort de mon X100V.  
+Mais si j’ai bien appris un truc au fil des ans, c’est qu’une décision trop hâtive est souvent une décision que je regrette par la suite. Donc même si la réflexion commence à murir, je vais encore attendre un peu et refaire un point plus tard sur le sort de mon X100V et voir si je suis cet exemple ou pas :
+
+<div>{{< youtube Lm5_sHbsu3k >}}</div>
+
 En revanche, depuis que j’ai découvert ce formidable [Sigma X 18-50mm f/2.8](https://dp.gt/a/mmfzseo04), le Viltrox X 13mm f/1.4 fait du placard et risque de se retrouver prochainement sur Le Bon Coin.
 
 ### Threads vs. Mastodon
