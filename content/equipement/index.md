@@ -15,7 +15,7 @@ resources:
 - [Fuji X100V](https://prf.hn/l/9OpGNw1) → [*L’excellence au quotidien*](https://gregorymignard.com/fujifilm-x100v/)
 - [Dji Air 3](https://dp.gt/a/s0jvpf19d)
 - [Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/)
-- [Nikon FM2](https://gregorymignard.com/nikon-fm2/)
+- [Nikon FM2n](https://gregorymignard.com/nikon-fm2/)
 - [Nikonos V](https://gregorymignard.com/nikonos-v/)
 - [Konica Big Mini](https://gregorymignard.com/konica-big-mini-bm-302)
 - Canon 514 XL
