@@ -15,7 +15,7 @@ resources:
 
 En ce moment, j’enchaine les tournages et reportages, je réalise un paquet de nouvelles images que je n’ai pas encore partagé, mais j’ai envie de prendre mon temps. Je suis lassé par cette surconsommation de contenus sur les réseaux sociaux et par le comportement des gens… Bref, je préfère m’en éloigner un peu et me concentrer sur ma création d’images et sur ce blog.
 
-Mais revenons à nos moutons.
+Mais revenons à nos moutons.  
 L’un de mes récents tournages m’a ramené sur les terres de mon enfance, où j’ai eu l’occasion de passer du temps avec mes parents dans la maison où j’ai grandi. Mes parents sont des passionnés de nature et d’animaux sauvages. Ils ont beaucoup voyagé en Afrique et, bien qu’ils voyagent encore un peu, ils se consacrent désormais avec passion à l’observation de la nature dans leur jardin ou aux alentours. Il y a toujours une paire de jumelles et un carnet qui traînent. Mon père garde toujours son boîtier Nikon et un téléobjectif prêts à l’emploi. C’est d’ailleurs cette passion qui l’a poussé à créer et alimenter le site [mammiferesafricains.org](https://mammiferesafricains.org).
 
 {{< photo src="fd.webp" alt="Le « Shazam » des oiseaux">}}
