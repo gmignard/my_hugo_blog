@@ -20,6 +20,7 @@ L’un de mes récents tournages m’a ramené sur les terres de mon enfance, o�
 
 {{< photo src="fd.webp" alt="Le « Shazam » des oiseaux">}}
 
+Mais je m’égare encore.  
 Lors de ce tournage, j’ai eu la chance de documenter le travail d’un pilote de montgolfière. J’ai même pu partager un vol avec ma maman, qui s’émerveillait en observant la nature environnante. À un moment, elle a sorti son iPhone, lancé une application pour identifier les oiseaux chantant alors que nous survolions la canopée des arbres. [Le « Shazam » des oiseaux](https://merlin.allaboutbirds.org).  
 De retour à la maison, j’ai installé cette application et, hier soir, en buvant une tisane avec Marion sur notre terrasse, je l’ai lancée pour identifier les oiseaux qui chantaient pendant que le soleil se couchait. Et là, nous avons vu « Chouette Hulotte » parmi les identifications. Nous savions qu’il y en avait dans le bois au fond du jardin, nous les entendons régulièrement la nuit, mais là, nous savions qu’elles étaient tout près. Nous nous sommes donc mis à écouter et à observer avec des jumelles, jusqu’à apercevoir deux jeunes chouettes accompagnées de leur mère.  
 Je suis allé chercher mon téléobjectif, et me voilà, tel [Vincent Munier](https://www.vincentmunier.com/vincent-munier/) dans « [La Panthère des Neiges](https://www.netflix.com/watch/81497741) », tentant de capturer une image.
