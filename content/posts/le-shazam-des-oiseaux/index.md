@@ -24,7 +24,7 @@ Lors de ce tournage, j’ai eu la chance de documenter le travail d’un pilote 
 De retour à la maison, j’ai installé cette application et, hier soir, en buvant une tisane avec Marion sur notre terrasse, je l’ai lancée pour identifier les oiseaux qui chantaient pendant que le soleil se couchait. Et là, nous avons vu « Chouette Hulotte » parmi les identifications. Nous savions qu’il y en avait dans le bois au fond du jardin, nous les entendons régulièrement la nuit, mais là, nous savions qu’elles étaient tout près. Nous nous sommes donc mis à écouter et à observer avec des jumelles, jusqu’à apercevoir deux jeunes chouettes accompagnées de leur mère.  
 Je suis allé chercher mon téléobjectif, et me voilà, tel [Vincent Munier](https://www.vincentmunier.com/vincent-munier/) dans « [La Panthère des Neiges](https://www.netflix.com/watch/81497741) », tentant de capturer une image.
 
-{{< photo src="cover" alt="Le « Shazam » des oiseaux">}}
+{{< photo src="chouette.webp" alt="Le « Shazam » des oiseaux">}}
 
 Soyons honnêtes, je suis loin d’avoir le talent de Vincent Munier, mais pouvoir observer ce qui se passe dans son jardin, c’est finalement quelque chose de formidable.
 
