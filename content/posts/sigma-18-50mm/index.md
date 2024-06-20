@@ -54,6 +54,6 @@ Si j’aime bien les appareils compacts comme [mon X100V](https://gregorymignard
 J’avoue avoir été surpris par la polyvalence et la réactivité du Sigma. C’est clairement l’objectif qui me réconcilie avec les zooms. Pour autant, je prends un plaisir fou à utiliser des optiques fixes, anciennes ou récentes, mais je comprends désormais totalement l’intérêt de posséder un bon zoom transtandard dans son sac.  
 Que ce soit en mer sur un bateau, dans mon caisson étanche ou à bord d’une montgolfière, [le Sigma 18-50mm f/2.8](https://dp.gt/a/nhqp5tnkh) est devenu mon arme redoutable pour ce genre de shoot. Je peux rapidement changer l’angle de mes cadrages sans avoir à changer d’objectif sans réel compromis sur la qualité de mes images.
 
-{{< video src="sigma" type="video/webm" preload="auto" >}}
+{{< photo src="sigma.gif" alt="Sigma 18-50mm f/2.8">}}
 
 Que ce soit en photo ou en vidéo, [le Sigma 18-50mm f/2.8](https://dp.gt/a/nhqp5tnkh) a su trouver sa place au sein de mon setup et m’accompagne désormais dans tous mes projets.
