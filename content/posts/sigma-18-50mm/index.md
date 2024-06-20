@@ -36,14 +36,15 @@ Une fois n’est pas coutume, j’ai passé beaucoup de temps à choisir un zoom
 
 ### Le Sigma 18-50mm f/2.8 DC DN｜Contemporary
 
-{{< photo src="cover" alt="Sigma 18-50mm f/2.8">}}
+{{< photo src="coverbis.webp" alt="Sigma 18-50mm f/2.8">}}
+*La taille hallucinante du Sigma à côté d’une pellicule et d’une carte CFexpress.*
 
 Après ce benchmark, j’ai commandé [le Sigma 18-50mm f/2.8](https://dp.gt/a/nhqp5tnkh) et je l’ai reçu juste avant de partir en voyage au Maroc. J’avais beau savoir qu’il était léger et compact, la surprise était grande quand je l’ai pris en main pour la première fois, il est vraiment minuscule, au point de ne pas sembler sérieux. Et pourtant !  
 Si j’aime bien les appareils compacts comme [mon X100V](https://gregorymignard.com/fujifilm-x100v/) en voyage, je me suis dis que c’était une bonne occasion de le monter sur mon [X-H2S](https://dp.gt/a/358hf1vyq) pour le tester et documenter mon voyage au Maroc.
 
-{{< photo src="maroc_1" alt="Sigma 18-50mm f/2.8">}}
+{{< photo src="maroc_1.webp" alt="Sigma 18-50mm f/2.8">}}
 
-{{< photo src="maroc_3" alt="Sigma 18-50mm f/2.8">}}
+{{< photo src="maroc_3.webp" alt="Sigma 18-50mm f/2.8">}}
 
 {{< photoset always="2" >}}
 {{< photo src="maroc_5.webp" alt="Sigma 18-50mm f/2.8">}}
