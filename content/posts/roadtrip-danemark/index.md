@@ -34,11 +34,11 @@ Après deux journées de route intenses depuis notre Finistère, notre voyage au
 {{< photo src="roadtrip-danemark_47.webp" alt="Roadtrip au Danemark en camping-car">}}
 {{</ photoset >}}
 
-{{< photo src="roadtrip-danemark_50.webp" alt="Roadtrip au Danemark en camping-car">}}
+{{< photo class="vertical" src="roadtrip-danemark_50.webp" alt="Roadtrip au Danemark en camping-car">}}
 
 Au bout de quelques jours, nous prenons la route du Jutland central pour nous installer près de Nørre Lyngvig, sur un immense cordon dunaire face à la mer du Nord. Nous profitons des plages de ce petit bout du “Coldwater Hawaii” pour chercher des morceaux d’ambre et visiter la ville de pêcheurs de Hvide Sande.
 
-{{< photo class="vertical" src="roadtrip-danemark_8.webp" alt="Roadtrip au Danemark en camping-car" >}}
+{{< photo src="roadtrip-danemark_8.webp" alt="Roadtrip au Danemark en camping-car" >}}
 
 {{< photo src="cover" alt="Roadtrip au Danemark en camping-car">}}
 
@@ -50,7 +50,7 @@ Au bout de quelques jours, nous prenons la route du Jutland central pour nous in
 
 {{< photo src="roadtrip-danemark_5.webp" alt="Roadtrip au Danemark en camping-car">}}
 
-{{< photo class="roadtrip-danemark_6.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
+{{< photo class="vertical" src="roadtrip-danemark_6.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
 
 {{< photoset always="2" >}}
 {{< photo src="roadtrip-danemark_11.webp" alt="Roadtrip au Danemark en camping-car">}}
@@ -64,22 +64,22 @@ Le Danemark est pensé pour les déplacements à vélo, et chaque coup de pédal
 {{< photo src="roadtrip-danemark_53.webp" alt="Roadtrip au Danemark en camping-car">}}
 {{</ photoset >}}
 
-{{< photo class="roadtrip-danemark_21.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
+{{< photo src="roadtrip-danemark_21.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
 
 Après cette étape ludique, nous nous installons sur la côte de la mer Baltique, près de la jolie petite ville de Kerteminde. Après quelques tâches logistiques (nettoyage du van, lessives, plein d’eau, etc.), nous profitons de belles balades à vélo le long de cette jolie côte.
 
-{{< photo class="roadtrip-danemark_24.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
+{{< photo src="roadtrip-danemark_24.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
 
 {{< photoset always="2" >}}
 {{< photo src="roadtrip-danemark_25.webp" alt="Roadtrip au Danemark en camping-car">}}
 {{< photo src="roadtrip-danemark_27.webp" alt="Roadtrip au Danemark en camping-car">}}
 {{</ photoset >}}
 
-{{< photo class="roadtrip-danemark_30.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
+{{< photo src="roadtrip-danemark_30.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
 
 Pour continuer notre périple danois, nous décidons de faire une étape à Copenhague. Avec notre fourgon aménagé, nous redoutons toujours les villes, rarement adaptées. Cependant, à Copenhague, des solutions existent comme [le City Camp](https://www.citycamp.dk/francias), un grand terrain où les vans et camping-cars peuvent se poser autant de temps qu’ils le souhaitent pour 35€/jour. Cela n’a pas le charme d’un spot nature ou d’un camping mignon, mais c’est sécurisé, fonctionnel et à 2 km du centre-ville. Avec nos vélos, c’est le camp de base parfait pour explorer la capitale danoise.
 
-{{< photo class="roadtrip-danemark_33.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
+{{< photo class="vertical" src="roadtrip-danemark_33.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
 
 {{< photoset always="2" >}}
 {{< photo src="roadtrip-danemark_31.webp" alt="Roadtrip au Danemark en camping-car">}}
@@ -104,7 +104,7 @@ Nous ne sommes pas déçus, Copenhague est une capitale à taille humaine, super
 {{< photo src="roadtrip-danemark_64.webp" alt="Roadtrip au Danemark en camping-car">}}
 {{</ photoset >}}
 
-{{< photo class="roadtrip-danemark_62.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
+{{< photo src="roadtrip-danemark_62.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
 
 {{< photoset always="2" >}}
 {{< photo src="roadtrip-danemark_57.webp" alt="Roadtrip au Danemark en camping-car">}}
@@ -123,7 +123,7 @@ Nous ne sommes pas déçus, Copenhague est une capitale à taille humaine, super
 
 On dit souvent que le Danemark est sans intérêt par rapport à la Suède et à la Norvège. Nous ne connaissons pas encore ces deux pays voisins, mais nous pouvons clairement affirmer notre coup de cœur pour le Danemark. Peut-être que les paysages sont moins grandioses, mais c’est un pays très charmant et agréable à visiter. Et encore, nous n’en avons découvert qu’une infime partie pour cette fois.
 
-{{< photo class="roadtrip-danemark_54.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
+{{< photo class="vertical" src="roadtrip-danemark_54.webp" src="webp.jpg" alt="Roadtrip au Danemark en camping-car" >}}
 
 ### En Bref
 
