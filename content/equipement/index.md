@@ -44,8 +44,9 @@ resources:
 - [Zoom F3 Field Recorder](https://dp.gt/a/wan28fm7)
 - [Zoom H1n](https://dp.gt/a/cbxe7g4am)
 - [EarSight Thumb](https://immersivesoundscapes.com/fr/earsight-thumb-microphones/#!/EARSIGHT-THUMB-Stereo-pair/p/502321903) (stereo version)
-- [Rode VideoMic NTG](https://dp.gt/a/mlxro1dw)
-- [Rode Lavalier GO](https://dp.gt/a/8y0z68zlf)
+- [Røde VideoMic NTG](https://dp.gt/a/mlxro1dw)
+- [Røde Lavalier GO](https://dp.gt/a/8y0z68zlf)
+- [Hollyland Lark M2](https://dp.gt/a/fdk7wd7l)
 
 <div style="max-width: 57rem!important;margin: auto;margin-bottom: 35px;background-color: #ffefe6;padding:42px; text-align:left;">
      <p style="margin-bottom: 10px;">
