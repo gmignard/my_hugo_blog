@@ -1,7 +1,6 @@
 ---
 title: Peak Design Travel Backpack 30L
-subtitle: Le sac photo parfait ?
-seotitle: "Peak Design Travel Backpack 30L, le sac photo parfait ?"
+seotitle: "Peak Design Travel Backpack 30L : le sac photo parfait — Grégory Mignard"
 date: 2024-08-20 09:00:00 +0200
 slug: "peakdesign-travel-backpack30"
 categories:
@@ -13,6 +12,7 @@ resources:
   name: "cover"
 - src: "*.webp"
 ---
+
 
 Bon, [j’ai trouvé le sac parfait](https://gregorymignard.com/goruck-gr1-21l) pour mes petites aventures du quotidien, mais je n’ai jamais réussi à trouver satisfaction avec le sac destiné à transporter mon équipement photo et vidéo.  
 J’ai dû acheter genre 4 ou 5 sacs différents depuis que j’ai commencé à faire de la photo, principalement des Lowepro. Soit ils étaient trop petits, soit trop grands, et le dernier en date, un [Lowepro ProTactic 450 AW](https://dp.gt/a/6665nz54p), était tout simplement inconfortable. Il offrait un volume intéressant (25 litres) et pouvait contenir une grande quantité de matériel, mais niveau confort et style, ce n’était vraiment pas ça. Malgré ses défauts, je l’ai quand même conservé pendant des années.  
