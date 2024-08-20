@@ -33,7 +33,7 @@ Ce qui m’a d’abord tapé dans l’œil, c’est son design minimaliste. Fran
 Mais ce qui m’a vraiment bluffé, c’est sa polyvalence. Un jour, c’est un sac de tournage ultra complet, et le lendemain, il se transforme en parfaite valise de cabine pour un week-end improvisé. En gros, c’est un sac modulable qui s’adapte à toutes les situations. Il suffit de le composer en fonction de ses besoins et le tour est joué.  
 Je n’ai pas envie de m’attarder sur toutes les caractéristiques de ce sac, mais si vous voulez en savoir plus, je vous recommande cette vidéo de Pack Hacker qui résume tout ce qu’on doit savoir sur ce sac. Elle donne un bon aperçu de ses fonctionnalités et de son utilisation au quotidien.
 
-<div>{{< youtube giCVE_Jz_0U&t=125s >}}</div>
+<div>{{< youtube QnTfpSaeNOu5fkhh >}}</div>
 
 En remplaçant mon vieux Lowepro, je voulais aussi gagner en confort. Pari gagné avec ce sac, même s’il y en a qui sont meilleurs en termes de confort en portage (je pense aux [Shimoda](https://dp.gt/a/ujqfopqu8), [Haize](https://haize-project.com) ou [F-Stop](https://dp.gt/a/gykbetdkc)). En revanche, ce sac est tellement malin de partout que ça compense la différence de confort avec les cadors du marché sur ce domaine.    
 Ce qui est dingue avec ce sac, c’est la facilité d’accès à mes affaires. Son ouverture clamshell est ultra pratique, et avec mes Camera Cube V2 en Small et Medium, je suis prêt à répondre à tous mes besoins.  
