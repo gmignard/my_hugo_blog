@@ -31,7 +31,7 @@ Et c’est chez Peak Design que j’ai trouvé mon bonheur avec le [Travel Backp
 
 Ce qui m’a d’abord tapé dans l’œil, c’est son design minimaliste. Franchement, il ne fait pas « sac photo », et c’est juste parfait ! Un look aussi bien adapté à la ville qu’à la nature, conçu avec des matériaux de qualité ultra durables.  
 Mais ce qui m’a vraiment bluffé, c’est sa polyvalence. Un jour, c’est un sac de tournage ultra complet, et le lendemain, il se transforme en parfaite valise de cabine pour un week-end improvisé. En gros, c’est un sac modulable qui s’adapte à toutes les situations. Il suffit de le composer en fonction de ses besoins et le tour est joué.  
-Je n’ai pas envie de m’attarder sur toutes les caractéristiques de ce sac, mais si vous voulez en savoir plus, je vous recommande [cette vidéo de Pack Hacker](https://youtu.be/giCVE_Jz_0U?si=M0PmKM0k5wz_elUU) qui résume tout ce qu’on doit savoir sur ce sac. Elle donne un bon aperçu de ses fonctionnalités et de son utilisation au quotidien. Sinon, voici un bref aperçu du modèle :
+Je n’ai pas envie de m’attarder sur toutes les caractéristiques de ce sac, mais si vous voulez en savoir plus, je vous recommande [cette vidéo de Pack Hacker](https://youtu.be/giCVE_Jz_0U?si=M0PmKM0k5wz_elUU) qui résume tout ce qu’on doit savoir sur ce sac. Elle donne un bon aperçu de ses fonctionnalités et de son utilisation au quotidien.
 
 <div>{{< youtube giCVE_Jz_0U >}}</div>
 
