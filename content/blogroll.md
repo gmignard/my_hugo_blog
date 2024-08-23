@@ -30,3 +30,4 @@ resources:
 - https://www.gohiromoto.com
 - https://www.jamesbarkman.com
 - https://jeffjohnsonstories.com
+- https://matthew-tufts.com
