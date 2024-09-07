@@ -12,12 +12,11 @@ resources:
 ### Appareils
 
 - [Fuji X-H2S](https://dp.gt/a/96cbwbtsa) → [*Mon setup vidéo Run & Gun*](https://gregorymignard.com/setup-video-fuji-xh2s/)
-- [Fuji X100V](https://prf.hn/l/9OpGNw1) → [*L’excellence au quotidien*](https://gregorymignard.com/fujifilm-x100v/)
 - [Dji Air 3](https://dp.gt/a/s0jvpf19d)
 - [Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/)
 - [Nikon FM2n](https://gregorymignard.com/nikon-fm2/)
 - [Nikonos V](https://gregorymignard.com/nikonos-v/)
-- [Konica Big Mini](https://gregorymignard.com/konica-big-mini-bm-302)
+- Contax T2
 - Canon 514 XL
 - [iPhone 15 Pro](https://amzn.to/44wS7Ig) → [*Ma recette pour photographier à l’iPhone*](https://gregorymignard.com/recette-photographie-iphone/)
 
@@ -54,13 +53,13 @@ resources:
      🙏 Merci</p>
 </div>
 
-### Applications
+### Softwares
 
-- Montage vidéo : [Final Cut Pro X](https://www.apple.com/fr/final-cut-pro/)
+- Montage vidéo : [Final Cut Pro X](https://www.apple.com/fr/final-cut-pro/) + [DaVinci Resolve Studio](https://www.blackmagicdesign.com/fr/products/davinciresolve/studio)
 - Éditeur photo : [Lightroom CC](https://lightroom.adobe.com/) + [Pixelmator Pro](https://www.pixelmator.com/pro/)
 
 ### Blog
 
-- Rédaction : [iA Writer](https://ia.net/writer/fr)
+- Rédaction : [Bear](https://bear.app)
 - Moteur de blog : [Hugo](https://gohugo.io)
 - Hébergement : [Netlify](https://www.netlify.com)
