@@ -26,7 +26,7 @@ resources:
 - [Nikkor AF-D 35mm f/2](https://prf.hn/l/Oqn0enN)
 - Nikkor pré-Ai 55mm f/1.2
 - Nikkor pré-Ai 85mm f/1.8
-- Nikkor AF-D 28-105mm f/3.5-4.5 Macro
+- Nikkor AF-D 28-105mm f/3.5-4.5 Macro
 - [Sigma X 18-50mm f/2.8](https://dp.gt/a/mmfzseo04)
 - [Viltrox X 23mm f/1.4](https://dp.gt/a/0zn0zsco)
 - [Viltrox X 56mm f/1.4](https://dp.gt/a/vnmets4r7)
