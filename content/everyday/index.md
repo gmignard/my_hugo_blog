@@ -1,6 +1,6 @@
 ---
 title: "Everyday."
-subtitle: "Avec mon appareil toujours à portée de main, je saisis les aventures de mon quotidien."
+subtitle: "Appareil à portée de main, je capture des fragments de vie et d’aventure."
 seotitle: "Everyday - Aventures du quotidien - Grégory Mignard"
 type: "grid"
 resources:
