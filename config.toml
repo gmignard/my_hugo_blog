@@ -45,7 +45,7 @@ paginate = 12
   domain = "Grégory Mignard"
   instagram = "gregmignard"
   threads = "gregmignard"
-  mastodon = "@gregmignard"
+  bluesky = "@gregorymignard.com"
   youtube = "captainyvon"
 
 [params.tinyletter]
