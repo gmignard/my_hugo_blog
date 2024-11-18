@@ -28,8 +28,6 @@ Et finalement, une fois sur le village du Vendée Globe pour débuter le tournag
 Dimanche 10 novembre, 08h09, c'est à notre tour d'appareiller et de remonter le chenal devant près de 500 000 spectateurs venus encourager les skippers. Cette remontée du chenal, c'était un concentré d'émotions. Impossible de vraiment décrire ce que j'ai ressenti, mais c'était clairement l'un des jours les plus forts de ma vie.  
 13h02, le coup de canon du départ est donné. J'avais quitté l'Imoca une heure plus tôt, et depuis, je vis au rythme du Vendée Globe, scrutant chaque jour la position des bateaux et les stratégies des skippers. Comme au bon vieux temps, sauf que cette fois, j'ai eu la chance d'écrire une petite partie de l'histoire de cette édition.
 
-{{< photo src="cover" alt="À chacun son Vendée Globe">}}
-
 {{< photoset always="2" >}}
 {{< photo src="allin_1.webp" alt="À chacun son Vendée Globe">}}
 {{< photo src="allin_2.webp" alt="À chacun son Vendée Globe">}}
