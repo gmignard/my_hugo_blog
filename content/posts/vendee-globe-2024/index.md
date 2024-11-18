@@ -1,8 +1,7 @@
 ---
 title: À chacun son Vendée Globe
-subtitle: 
 seotitle: "À chacun son Vendée Globe — Grégory Mignard"
-date:  09:00:00 +0200
+date:  2024-11-18 15:00:00 +0200
 slug: "vendee-globe-2024"
 categories:
 - journal
