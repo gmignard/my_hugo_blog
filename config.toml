@@ -53,11 +53,11 @@ paginate = 12
   description = "Une lettre mensuelle à lire avec une tasse de café où l'on parle de prendre son temps, créativité, vélo et tous les sujets qui nous passionnent."
 
 [[menu.main]]
-  name = "Frames"
-  title = "Home"
+  name = "Work"
+  title = "Réalisations"
   weight = 1
-  identifier = "frames"
-  url = "/"
+  identifier = "work"
+  url = "https://captainyvon.fr"
 [[menu.main]]
   name = "Snaps"
   title = "Des photos du quotidien"
@@ -65,15 +65,9 @@ paginate = 12
   identifier = "everyday"
   url = "/everyday"
 [[menu.main]]
-  name = "Work"
-  title = "Réalisations"
-  weight = 3
-  identifier = "work"
-  url = "https://captainyvon.fr"
-[[menu.main]]
   name = "Journal"
   title = "Récits & Technique"
-  weight = 4
+  weight = 3
   identifier = "journal"
   url = "/posts/"
 [[menu.main]]
