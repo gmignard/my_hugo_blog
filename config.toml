@@ -26,11 +26,11 @@ paginate = 12
   tags = []
 
   sansSerifFont = "PT Serif"
-  titleFont = "PT Serif"
-  bodyFont = "Roboto"
+  titleFont = "Poppins"
+  bodyFont = "PT Serif"
 
   hasLogo = true
-  accentColor = "#4A85A7"
+  accentColor = "#000000"
   heroHeader = false
 
 [taxonomies]
