@@ -9,7 +9,7 @@
   --onyx: #323232;
   --accent: {{ .Site.Params.accentColor }};
   --white-text: #FAFAFA;
-  --white-background: #F3F3F3;
+  --white-background: #DBD7D2;
   --max-width: 74rem;
   --light-gray: rgba(0,0,0,0.3);
   --gap: 18px;
@@ -53,7 +53,7 @@ svg {
 
 body {
   height: 100%;
-  background-color: #F5F3F0;
+  background-color: var(--white-background);
   color: var(--onyx);
   font-weight: 300;
   margin: 0;
