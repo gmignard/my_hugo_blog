@@ -25,12 +25,12 @@ paginate = 12
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
 
-  sansSerifFont = "Jost"
+  sansSerifFont = "PT Serif"
   titleFont = "Poppins"
-  bodyFont = "DM Mono"
+  bodyFont = "PT Serif"
 
   hasLogo = true
-  accentColor = "#4A85A7"
+  accentColor = "#000000"
   heroHeader = false
 
 [taxonomies]
@@ -44,8 +44,8 @@ paginate = 12
   email = "hello@gregorymignard.com"
   domain = "Grégory Mignard"
   instagram = "gregmignard"
+  threads = "gregmignard"
   bluesky = "@gregorymignard.com"
-  youtube = "captainyvon"
 
 [params.tinyletter]
   username = "captainyvon"
@@ -53,27 +53,27 @@ paginate = 12
   description = "Une lettre mensuelle à lire avec une tasse de café où l'on parle de prendre son temps, créativité, vélo et tous les sujets qui nous passionnent."
 
 [[menu.main]]
-  name = "Everyday"
-  title = "Des photos du quotidien"
+  name = "Work"
+  title = "Réalisations"
   weight = 1
+  identifier = "work"
+  url = "https://captainyvon.fr"
+[[menu.main]]
+  name = "Snaps"
+  title = "Des photos du quotidien"
+  weight = 2
   identifier = "everyday"
   url = "/everyday"
 [[menu.main]]
-  name = "Films"
-  title = "Réalisations"
-  weight = 2
-  identifier = "films"
-  url = "/films"
-[[menu.main]]
-  name = "Blog"
+  name = "Journal"
   title = "Récits & Technique"
   weight = 3
-  identifier = "blog"
+  identifier = "journal"
   url = "/posts/"
 [[menu.main]]
   name = "Info"
   title = "Info"
-  weight = 4
+  weight = 5
   identifier = "info"
   url = "/info"
 
