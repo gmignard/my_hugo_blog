@@ -55,7 +55,7 @@
       margin: 0;
       padding: 0;
       li:not(:first-of-type)::before {
-        content: "•";
+        content: " ";
         Margin: 0 10px;
       }
     }
@@ -65,8 +65,7 @@
     a {
       font-family:  var(--sans-serif-font);
       font-weight: normal;
-      font-size: 0.98rem;
-      text-transform: lowercase;
+      font-size: 1.05rem;
     }
   }
 }
