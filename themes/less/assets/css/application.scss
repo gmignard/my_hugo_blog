@@ -12,7 +12,7 @@
   --white-background: #DBD7D2;
   --max-width: 74rem;
   --light-gray: rgba(0,0,0,0.3);
-  --gap: 18px;
+  --gap: 30px;
 }
 
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
