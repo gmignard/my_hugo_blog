@@ -14,8 +14,18 @@
       </div>
     </header>
 {{ else }}
-    <header class="main_header lg:container lg:max-w-4xl mx-8 lg:mx-auto">
+    <header class="main_header lg:container lg:max-w-5xl mx-8 lg:mx-auto">
       <div class="mx-4 lg:mx-0 justify-between flex md:flex-row flex-col gap-4 items-center">
+        <span class="title">
+          <a href="/">
+            {{ if .Site.Params.hasLogo }}
+              <img src="/logo.svg" />
+            {{ else }}
+              {{ .Site.Title }}
+            {{ end }}
+          </a>
+        </span>
+        <div class="flex lg:flex-row flex-col gap-8 items-center">
         <input id="burger" type="checkbox" />
 
         <label class="burger_label" for="burger">
@@ -26,16 +36,8 @@
 
         {{ partial "main_menu" . }}
 
-        <span class="title">
-          <a href="/">
-            {{ if .Site.Params.hasLogo }}
-              <img src="/logo.svg" />
-            {{ else }}
-              {{ .Site.Title }}
-            {{ end }}
-          </a>
-        </span>
         {{ partial "social_icons" . }}
+        </div>
       </div>
     </header>
 {{ end }}
