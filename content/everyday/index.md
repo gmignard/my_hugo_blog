@@ -1,7 +1,7 @@
 ---
-title: "Everyday."
-subtitle: "Fragments de vie et d’aventure."
-seotitle: "Everyday - Fragments de vie et d’aventure - Grégory Mignard"
+title: "Snaps."
+subtitle: "Moments d’un quotidien (extra)ordinaire."
+seotitle: "Snaps - Moments d’un quotidien (extra)ordinaire. - Grégory Mignard"
 type: "grid"
 resources:
 - src: "*.jpg"
