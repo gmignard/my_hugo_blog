@@ -1,13 +1,13 @@
 <footer class="w-full p-12 text-sm">
- <div class="container max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-4">
-    <div class="text-l max-w-4xl" style="text-align:left;">
-  © {{ now.Format "2006"}} {{ $.Site.Params.social.domain }} 🤙</br>
-  <a href="mailto:{{ $.Site.Params.social.email }}">hello@gregorymignard.com</a>
+ <div class="container max-w-4xl w-full mx-auto flex flex-col justify-between md:flex-row gap-4">
+   <div class="text-left">
+     © {{ now.Format "2006"}} {{ $.Site.Params.social.domain }} 🤙</br>
+     <a href="mailto:{{ $.Site.Params.social.email }}">hello@gregorymignard.com</a>
   </div>
-  <div class="w-36" style="text-align:center;">
-    <a href="https://www.onepercentfortheplanet.fr" target="_blank" ><img src="/1ftp.svg" alt="1% for The Planet" width="143" height="60"></a>
+  <div class="text-center">
+    <a class="w-36 block" href="https://www.onepercentfortheplanet.fr" target="_blank" ><img src="/1ftp.svg" alt="1% for The Planet" width="143" height="60"></a>
   </div>
-  <div style="text-align:right;">
+  <div class="md:text-right">
     <!--Should be template -->
     <ul>
       <li><a href="/blogroll">Blogroll</a></li>
