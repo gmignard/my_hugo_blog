@@ -1,24 +1,17 @@
 <footer class="w-full p-12 text-sm">
- <div class="container max-w-4xl mx-auto grid grid-cols-1 lg:grid-cols-4 gap-4">
-  <div class="w-36">
-    <a href="https://www.onepercentfortheplanet.fr" target="_blank" ><img src="/1ftp.png" alt="1% for The Planet" width="143" height="60"></a>
+ <div class="container max-w-4xl w-full mx-auto flex flex-col justify-between md:flex-row gap-4">
+   <div class="text-left">
+     © {{ now.Format "2006"}} {{ $.Site.Params.social.domain }} 🤙</br>
+     <a href="mailto:{{ $.Site.Params.social.email }}">hello@gregorymignard.com</a>
   </div>
-  <div>
+  <div class="text-center">
+    <a class="w-36 block" href="https://www.onepercentfortheplanet.fr" target="_blank" ><img src="/1ftp.svg" alt="1% for The Planet" width="143" height="60"></a>
+  </div>
+  <div class="md:text-right">
     <!--Should be template -->
-    <ul>
-      <li><a href="/blogroll">Blogroll</a></li>
-      <li><a href="/equipement/">Outils</a></li>
-      <li><a href="mailto:{{ $.Site.Params.social.email }}">hello@gregorymignard.com</a></li>
+    <a href="/blogroll">Blogroll</a></br>
+    <a href="/equipement/">Outils</a>
   </div>
-  <div>
-    <!--Should be template -->
-    <ul>
-      <li><a href="https://captainyvon.fr/" target="_blank">Captain Yvon Studio</a></li>
-      <li><a href="http://slowisbeautiful.cool" target="_blank">Slow is Beautiful</a></li>
-  </div>
-  <div class="text-l max-w-4xl">
-  © {{ now.Format "2006"}} {{ $.Site.Params.social.domain }}</br>
-  Merci pour votre visite 🤙
-  </div>
+
  </div>
 </footer>

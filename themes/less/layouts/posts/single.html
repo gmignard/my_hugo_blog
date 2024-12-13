@@ -1,9 +1,9 @@
 {{ define "main" }}
 {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
-<div class="max-w-4xl md:mx-auto text-left">
+<div class="max-w-4xl my-12 md:mx-auto text-center">
   <div class="mx-4 md:mx-0">
     <span class="date text-base opacity-25"> Le {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
-    <h1 class="text-4xl my-2">{{ .Params.emoji}} {{ .Title }}</h1>
+    <h1 class="text-5xl my-2">{{ .Params.emoji}} {{ .Title }}</h1>
     <h3 class="date text-base opacity-25 italic">{{ .Params.subtitle }}</h3>
   </div>
 </div>
@@ -20,7 +20,7 @@
   {{if .Params.gear }}
     <p class="center t12"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
   {{ end }}
-<p style="mb-8 mt-12">Envie d’échanger sur le sujet ? Rejoins-moi sur <a href="https://instagram.com/{{ .Site.Params.social.instagram }}" target="_blank">Instagram</a> & <a href="https://bsky.app/profile/gregorymignard.com" target="_blank">Bluesky</a>.
+<p style="mb-8 mt-12">Envie d’échanger sur le sujet ? Rejoins-moi sur <a href="https://instagram.com/{{ .Site.Params.social.instagram }}" target="_blank">Instagram</a>, <a href="https://www.threads.net/{{ .Site.Params.social.threads }}" target="_blank">Threads</a> & <a href="https://bsky.app/profile/gregorymignard.com" target="_blank">Bluesky</a>.
 </p>
 
 </div>

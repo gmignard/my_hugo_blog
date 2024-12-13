@@ -9,10 +9,10 @@
   --onyx: #323232;
   --accent: {{ .Site.Params.accentColor }};
   --white-text: #FAFAFA;
-  --white-background: #F3F3F3;
+  --white-background: #DBD7D2;
   --max-width: 74rem;
   --light-gray: rgba(0,0,0,0.3);
-  --gap: 18px;
+  --gap: 30px;
 }
 
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
@@ -53,6 +53,7 @@ svg {
 
 body {
   height: 100%;
+  background-color: var(--white-background);
   color: var(--onyx);
   font-weight: 300;
   margin: 0;
@@ -64,7 +65,7 @@ body {
 a {
   color: inherit;
   text-decoration: none;
-  border-bottom: 2px solid #e4e4e4;
+  border-bottom: 2px solid #C6C3C0;
 }
 
 a:hover {
