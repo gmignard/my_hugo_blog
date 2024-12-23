@@ -39,7 +39,7 @@ resources:
 .21 - Décrocher un tournage dans le département de mon enfance.  
 .22 - Décrocher un tournage à Saint Pierre-et-Miquelon.  
 .23 - Reprendre un abonnement à Surfer’s Journal.  
-.24 - Tester le bain nordique chez Douarenn.  
+.24 - Tester le bain nordique chez [Douarenn](https://douarenn.fr/).  
 .25 - Voir des bébés chouettes dans notre jardin. 🦉  
 .26 - Emmener [Yannick](https://yannickschutz.com) pour sa première mission photo pro.  
 .27 - Avoir 40 ans.  
