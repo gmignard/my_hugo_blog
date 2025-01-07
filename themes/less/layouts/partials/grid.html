@@ -4,6 +4,7 @@
   {{ range $cindex, $images := $columns }}
     {{ $subwidth := 0 }}
     {{ range $images.Images }}
+    {{ fmt.Warnf "Image: %s width: %d height: %d" .Image.RelPermalink .Image.Width .Image.Height }}
       {{ $subwidth =  add $subwidth (div (float .Image.Height) .Image.Width) }}
     {{ end }}
     {{ $width = add $width (div 1.0 $subwidth) }}
