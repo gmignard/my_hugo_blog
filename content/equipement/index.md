@@ -32,8 +32,8 @@ resources:
 - [Viltrox X 23mm f/1.4](https://dp.gt/a/0zn0zsco)
 - [Viltrox X 56mm f/1.4](https://dp.gt/a/vnmets4r7)
 - [Fujinon 100-400mm f/4.5-5.6](https://dp.gt/a/ix5lozvps)
-- Mamiya Sekor 80mm f/2.8
-- Mamiya Sekor 150mm f/4
+- Mamiya Sekor 80mm f/2.8
+- Mamiya Sekor 150mm f/4
 
 ### Accessoires
 
