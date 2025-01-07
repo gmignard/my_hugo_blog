@@ -16,7 +16,8 @@ resources:
 - [Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/)
 - [Nikon FM2n](https://gregorymignard.com/nikon-fm2/)
 - [Nikonos V](https://gregorymignard.com/nikonos-v/)
-- Contax T2
+- Mamiya m645 1000s
+- [Contax T2](https://gregorymignard.com/contax-t2/)
 - Canon 514 XL
 - [iPhone 15 Pro](https://amzn.to/44wS7Ig) → [*Ma recette pour photographier à l’iPhone*](https://gregorymignard.com/recette-photographie-iphone/)
 
@@ -31,6 +32,8 @@ resources:
 - [Viltrox X 23mm f/1.4](https://dp.gt/a/0zn0zsco)
 - [Viltrox X 56mm f/1.4](https://dp.gt/a/vnmets4r7)
 - [Fujinon 100-400mm f/4.5-5.6](https://dp.gt/a/ix5lozvps)
+- Mamiya Sekor 80mm f/2.8
+- Mamiya Sekor 150mm f/4
 
 ### Accessoires
 
@@ -58,7 +61,7 @@ resources:
 
 ### Post-production
 
-- Mac Mini M1 + Studio Display
+- Mac Mini M4 Pro + Studio Display
 - Montage vidéo : [Final Cut Pro X](https://www.apple.com/fr/final-cut-pro/) + [DaVinci Resolve Studio](https://www.blackmagicdesign.com/fr/products/davinciresolve/studio)
 - Éditeur photo : [Lightroom CC](https://lightroom.adobe.com/) + [Pixelmator Pro](https://www.pixelmator.com/pro/)
 
