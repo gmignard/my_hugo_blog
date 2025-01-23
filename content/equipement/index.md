@@ -42,6 +42,7 @@ resources:
 - [Stabilisateur Dji Ronin-SC](https://prf.hn/l/DLGyaba)
 - [Moniteur externe Atomos Shinobi](https://dp.gt/a/cuqwspjz)
 - [Cage Tilta](https://dp.gt/a/ca4zz6v8) → [*Voir mon setup vidéo complet*](https://gregorymignard.com/setup-video-fuji-xh2s/)
+- [Kit NiSi Swift ND Variable](https://dp.gt/a/s5bfrk68j)
 - [Peak Design Travel Backpack 30L](https://dp.gt/a/qrjqwrrdc) → [*Lire mon test*](https://gregorymignard.com/peakdesign-travel-backpack30/)
 
 ### Audio
