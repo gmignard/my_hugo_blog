@@ -23,22 +23,22 @@ Comme toujours, j’ai fait des images. [Contaxt T2](https://gregorymignard.com/
 {{< photo src="whenapplegetgrainy_1.webp" alt="When Apple Gets Grainy">}}
 
 {{< photoset always="2" >}}
-{{< photo src="whenapplegetgrainy_2" alt="When Apple Gets Grainy">}}
-{{< photo src="whenapplegetgrainy_3" alt="When Apple Gets Grainy">}}
+{{< photo src="whenapplegetgrainy_2.webp" alt="When Apple Gets Grainy">}}
+{{< photo src="whenapplegetgrainy_3.webp" alt="When Apple Gets Grainy">}}
 {{</ photoset >}}
 
 {{< photo class="vertical" src="whenapplegetgrainy_4.webp" alt="When Apple Gets Grainy">}}
 
 {{< photoset always="2" >}}
-{{< photo src="whenapplegetgrainy_5" alt="When Apple Gets Grainy">}}
-{{< photo src="whenapplegetgrainy_6" alt="When Apple Gets Grainy">}}
+{{< photo src="whenapplegetgrainy_5.webp" alt="When Apple Gets Grainy">}}
+{{< photo src="whenapplegetgrainy_6.webp" alt="When Apple Gets Grainy">}}
 {{</ photoset >}}
 
 {{< photo class="vertical" src="whenapplegetgrainy_7.webp" alt="When Apple Gets Grainy">}}
 
 {{< photoset always="2" >}}
-{{< photo src="whenapplegetgrainy_8" alt="When Apple Gets Grainy">}}
-{{< photo src="whenapplegetgrainy_9" alt="When Apple Gets Grainy">}}
+{{< photo src="whenapplegetgrainy_8.webp" alt="When Apple Gets Grainy">}}
+{{< photo src="whenapplegetgrainy_9.webp" alt="When Apple Gets Grainy">}}
 {{</ photoset >}}
 
 {{< photo src="whenapplegetgrainy_10.webp" alt="When Apple Gets Grainy">}}
@@ -53,7 +53,7 @@ Comme toujours, j’ai fait des images. [Contaxt T2](https://gregorymignard.com/
 - Découvrir les expositions du [MoMa](https://www.moma.org)
 - Manger un burger chez [Harlem Shake](https://harlemshake.com)
 - Regarder les appareils d'occasion chez [K&M Camera](https://kmcamera.com)
-- Terminer certaines journée, avec les enfants, à la plaine de jeux de [Battery Park](https://en.wikipedia.org/wiki/The_Battery_(Manhattan)
+- Terminer certaines journée, avec les enfants, à la plaine de jeux de [Battery Park](https://en.wikipedia.org/wiki/The_Battery_(Manhattan))
 - Marcher sur la [High Line](https://fr.wikipedia.org/wiki/High_Line)
 
 {{< photo src="whenapplegetgrainy_13.webp" alt="When Apple Gets Grainy">}}
