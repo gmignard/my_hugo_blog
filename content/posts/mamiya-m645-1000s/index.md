@@ -14,8 +14,8 @@ resources:
 - src: "*.webp"
 ---
 
-Ce que j’aime avec la photographie argentique, c’est le plaisir d’utiliser des appareils anciens, issus d’une autre époque, qui rendent l’expérience encore plus plaisante. Et si j’ai toujours plus ou moins photographié en 135, ce n’est vraiment qu’à ~[mon retour à la pratique argentique](https://gregorymignard.com/de-la-peloche-dans-le-frigo/)~ que je me suis intéressé au moyen format.  
-À l’époque, je n’y connaissais pas grand-chose, et la grosse tendance allait au ~[Mamiya 7](https://www.kenrockwell.com/mamiya/7.htm)~, un boîtier magnifique, qui me faisait clairement envie, mais je n’avais pas envie de mettre un budget aussi conséquent. Alors, je me suis plongé dans les abysses du web à la recherche d’un boîtier moyen format plus accessible, avec une gueule un peu inspirée du Mamiya 7.  
+Ce que j’aime avec la photographie argentique, c’est le plaisir d’utiliser des appareils anciens, issus d’une autre époque, qui rendent l’expérience encore plus plaisante. Et si j’ai toujours plus ou moins photographié en 135, ce n’est vraiment qu’à [mon retour à la pratique argentique](https://gregorymignard.com/de-la-peloche-dans-le-frigo/) que je me suis intéressé au moyen format.  
+À l’époque, je n’y connaissais pas grand-chose, et la grosse tendance allait au [Mamiya 7](https://www.kenrockwell.com/mamiya/7.htm), un boîtier magnifique, qui me faisait clairement envie, mais je n’avais pas envie de mettre un budget aussi conséquent. Alors, je me suis plongé dans les abysses du web à la recherche d’un boîtier moyen format plus accessible, avec une gueule un peu inspirée du Mamiya 7.  
 C’est comme ça que je me suis rapidement retrouvé avec un [Fuji GW690iii](https://www.35mmc.com/12/01/2021/fuji-gw690iii-review-of-the-texas-leica/). Sauf qu’au bout de deux rouleaux, il a fini par prendre la poussière. Je l’ai revendu, comme j’ai revendu mon stock de films 120, concluant que le moyen format, finalement, ce n’était pas pour moi. Je pouvais très bien tout faire en 135.
 
 {{< photo src="cover" alt="Retour au 120mm avec le Mamiya m645">}}
@@ -53,7 +53,7 @@ Ce que j’aime aussi, c’est son histoire. Avant d’appartenir à mon père, 
 Puis à l’occasion [d’une petite aventure en début d’année](https://gregorymignard.com/vers-lequilibre/), j’en profite pour faire deux rouleaux avec ce Mamiya et le coup de cœur se confirme.  
 Je partage cette joie avec mon père, heureux pour moi qui m’annoncera quelques semaines plus tard, à l’occasion de mon anniversaire, que je peux garder l’appareil. Il m’appartient désormais.
 
-*Toutes les photos de cet article ont été prises avec le Mamiya m645 1000s. Je n’ai volontairement pas abordé les aspects techniques de l’appareil, mais si le sujet vous intéresse, vous trouverez ~[beaucoup d’informations ici](https://beyondtheaperture.com/2020/07/review-mamiya-645-1000s-medium-format-film-camera/)~, ainsi qu’une vidéo pour prolonger l’expérience :*
+*Toutes les photos de cet article ont été prises avec le Mamiya m645 1000s. Je n’ai volontairement pas abordé les aspects techniques de l’appareil, mais si le sujet vous intéresse, vous trouverez [beaucoup d’informations ici](https://beyondtheaperture.com/2020/07/review-mamiya-645-1000s-medium-format-film-camera/), ainsi qu’une vidéo pour prolonger l’expérience :*
 
 <div>{{< youtube 4w6mmCW-otw >}}</div>
 
