@@ -16,7 +16,7 @@ resources:
 - [Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/)
 - [Nikon FM2n](https://gregorymignard.com/nikon-fm2/)
 - [Nikonos V](https://gregorymignard.com/nikonos-v/)
-- Mamiya m645 1000s
+- [Mamiya m645 1000s](https://gregorymignard.com/mamiya-m645-1000s/)
 - [Contax T2](https://gregorymignard.com/contax-t2/)
 - Canon 514 XL
 - [iPhone 15 Pro](https://amzn.to/44wS7Ig) → [*Ma recette pour photographier à l’iPhone*](https://gregorymignard.com/recette-photographie-iphone/)
