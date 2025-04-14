@@ -20,7 +20,7 @@ C’est comme ça que je me suis rapidement retrouvé avec un [Fuji GW690iii](ht
 
 {{< photo src="cover" alt="Retour au 120mm avec le Mamiya m645">}}
 
-Mais les années ont passé, et l’envie de moyen format a refait surface. Ne sachant pas si c’était juste un nouveau passage ou une envie plus durable, je n’y ai pas vraiment prêté attention. Sauf qu’un an plus tard, le désir était toujours là. Je me suis donc dit qu’il était peut-être temps d’envisager sérieusement la recherche d’un boîtier moyen format — mais sans me précipiter. Je voulais prendre le temps de bien cerner mes besoins et mes envies. C’est comme ça que je suis arrivé à cette petite shortlist de candidats :
+Mais les années ont passé, et l’envie de moyen format a refait surface. Ne sachant pas si c’était juste un nouveau passage ou une envie plus durable, je n’y ai pas vraiment prêté attention. Sauf qu’un an plus tard, le désir était toujours là. Je me suis donc dit qu’il était peut-être temps d’envisager sérieusement la recherche d’un boîtier moyen format — mais sans me précipiter. Je voulais prendre le temps de bien cerner mes besoins et mes envies. C’est comme ça que je suis arrivé à cette petite shortlist de candidats :
 * *Asahi Pentax 67* : un vieux rêve.
 * *Fuji GA645* : un boîtier mignon, qu’on pourrait qualifier de point & shoot moyen format.
 * *Plaubel Makina 67* : un magnifique 6x7 dans un format ultra transportable.
