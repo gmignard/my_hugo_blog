@@ -45,7 +45,7 @@ Je ne sais pas combien de kilomètres on a déjà faits ensemble. Je ne les comp
 
 {{< photo src="le-bon-velo_6.webp" alt="Le bon vélo">}}
 
+{{< photo src="cover" alt="Le bon vélo">}}
+
 Je ne fais pas du vélo. Je prends l’air. Je m’évade.  
 Alors oui, il n’est pas parfait. Mais pour moi, c’est **le bon vélo**.
-
-{{< photo src="cover" alt="Le bon vélo">}}
