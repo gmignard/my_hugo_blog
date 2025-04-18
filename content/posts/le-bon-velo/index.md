@@ -49,3 +49,5 @@ Je ne sais pas combien de kilomètres on a déjà faits ensemble. Je ne les comp
 
 Je ne fais pas du vélo. Je prends l’air. Je m’évade.  
 Alors oui, il n’est pas parfait. Mais pour moi, c’est **le bon vélo**.
+
+*Photos additionnelles : [Jeremy Janin](https://jeremyjanin.com).*
