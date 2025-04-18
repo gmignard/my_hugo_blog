@@ -4,6 +4,7 @@ seotitle: "Vers l'équilibre — Grégory Mignard"
 date:  2025-02-07 13:00:00 +0200
 slug: "vers-lequilibre"
 categories:
+- aventures
 - journal
 tags: ["équilibre", "travail", "famille", "bien-être", "santé mentale", "projets", "nature", "créativité", "Mindful Journey", "réflexions personnelles", "pause", "procrastination", "Finistère", "retour à l'essentiel", "photographie", "surf", "temps pour soi"]
 description: "Retour sur une année intense, entre projets passionnants et quête d’équilibre. Se reconnecter à l’essentiel pour mieux avancer."
