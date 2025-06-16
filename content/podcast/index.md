@@ -11,8 +11,18 @@ resources:
 ---
 
 {{< columns before="true" src="cover.webp" >}}
-<p>L’atelier sonore de Jeremy & Grégory, deux amis réalisateurs aux mille passions : argentique, vidéo,
-outdoor, dadlife, DIY… Ce podcast c'est notre espace pour ralentir et mieux nous comprendre. On y
-explore ce qui nous fait vibrer, faire mieux avec moins, et rester curieux.
-Nous sommes fondateurs de Captain Yvon Studio Entre deux tournages, Slow Is Beautiful c'est
-notre espace de réflexion personnelle et professionnelle.</p>{{</columns>}}
+<blockquote>
+<p>L'atelier sonore</p>
+</blockquote>
+
+
+<p><a href="https://slowisbeautiful.substack.com" target="_blank" >Slow is Beautiful</a>, c'est l'atelier sonore que j'anime avec <a href="https://jeremyjanin.com" target="_blank" >Jeremy</a>. Ensemble, nous partageons nos mille passions : argentique, vidéo, outdoor, surf, vdélo, dadlife, DIY…</p><br>
+
+<p>Ce podcast est notre espace privilégié pour ralentir, mieux nous comprendre et explorer ce qui nous fait vibrer. Notre envie est simple : faire mieux avec moins, rester curieux, et vous livrer avec sincérité nos réflexions personnelles et professionnelles, entre deux tournages pour notre studio Captain Yvon.</p><br>
+
+<p>Vous pouvez nous retrouver sur toutes les plateformes d'écoute habituelles :</p><br>
+<br>
+<p>→ Apple Podcasts<br>
+→ Spotify<br>
+→ Deezer<br>
+→ Substack</p>{{</columns>}}
