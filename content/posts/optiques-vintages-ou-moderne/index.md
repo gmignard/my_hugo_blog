@@ -1,7 +1,7 @@
 ---
-title: "Optiques vintages ou moderne ?"
-subtitle: "Pourquoi j’ai revu ma copie sur les optiques vintage"
-seotitle: "Optiques vintages ou moderne ? — Grégory Mignard"
+title: "Optiques vintages ou modernes ?"
+subtitle: "Pourquoi j’ai revu ma copie sur les optiques vintages"
+seotitle: "Optiques vintages ou modernes ? — Grégory Mignard"
 date: 2025-06-16 10:05:37 +0200
 slug: "optiques-vintages-ou-moderne"
 categories:
