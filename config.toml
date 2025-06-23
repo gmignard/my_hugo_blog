@@ -44,7 +44,6 @@ paginate = 12
   email = "hello@gregorymignard.com"
   domain = "Grégory Mignard"
   instagram = "gregmignard"
-  bluesky = "@gregorymignard.com"
 
 [params.tinyletter]
   username = "captainyvon"
