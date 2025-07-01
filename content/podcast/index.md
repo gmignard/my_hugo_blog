@@ -19,9 +19,5 @@ resources:
 <p>Retrouvez-nous chaque mois sur toutes les plateformes d'écoute habituelles :</p>
 <p>→ <a href="https://podcasts.apple.com/us/podcast/slow-is-beautiful/id1823679391" target="_blank" >Apple Podcasts</a><br>
 → <a href="https://open.spotify.com/show/5RUY6tFs6KbL5AqJjfdGsr" target="_blank" >Spotify</a><br>
+→ <a href="https://overcast.fm/itunes1823679391/slow-is-beautiful" target="_blank" >Overcast</a><br>
 → <a href="https://slowisbeautiful.substack.com/podcast" target="_blank" >Substack</a></p>{{</columns>}}
-
-
-
-
-
