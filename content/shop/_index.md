@@ -5,6 +5,6 @@ description: "Des prints à vendre sur du beau papier"
 grid: true
 menu:
   main:
-    weight: 4
+    weight: 5
 linktitle: "Shop"
 ---

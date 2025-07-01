@@ -69,9 +69,15 @@ paginate = 12
   identifier = "journal"
   url = "/posts/"
 [[menu.main]]
+  name = "Podcast"
+  title = "Podcast"
+  weight = 4
+  identifier = "podcast"
+  url = "/podcast"  
+[[menu.main]]
   name = "Info"
   title = "Info"
-  weight = 5
+  weight = 6
   identifier = "info"
   url = "/info"
 
