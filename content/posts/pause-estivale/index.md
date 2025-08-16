@@ -73,5 +73,3 @@ Des moments éloignés des écrans où le temps passe autrement. Plus lentement.
 ***
 
 Pour savoir avec quoi je suis parti cet été, je vous invite à (re)découvrir le second épisode de mon podcast, « [Le rituel du sac d'été](https://slowisbeautiful.substack.com/p/ep2-summer-bags) ».
-
-<div class="substack-post-embed"><p lang="fr">EP2 - Summer bags par Slow is Beautiful</p><p></p><a data-post-link href="https://slowisbeautiful.substack.com/p/ep2-summer-bags">Lire sur Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
