@@ -1,7 +1,7 @@
 ---
 title: "Pause Estivale"
 seotitle: "Pause Estivale — Grégory Mignard"
-date: 2025-08-16 20:40:09 +0200
+date: 2025-08-16 14:40:09 +0200
 slug: "pause-estivale"
 categories:
 - aventures
