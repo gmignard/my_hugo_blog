@@ -10,13 +10,12 @@ resources:
 
 ## Des chouettes blogs.
 
-- https://yannickschutz.com
 - https://jeremyjanin.com
 - https://yvesquere.com
 - https://aliashade.com
 - https://francischouquet.com
+- https://yannickschutz.com
 - https://midnowhere.co.uk
-- https://ronsbikesblog.com
 - https://fieldmag.com
 - https://pannier.cc
 
@@ -24,10 +23,12 @@ resources:
 
 - https://jamesbowden.net
 - https://nickpumphrey.art
-- https://cedricschanze.com
-- http://ryantatar.com
 - https://chrismcclean.co.uk
-- https://www.gohiromoto.com
-- https://www.jamesbarkman.com
 - https://jeffjohnsonstories.com
+- https://hannesbecker.com
+- https://dylangordon.com
+- https://studiojensassur.com
+- https://www.gohiromoto.com
+- https://cedricschanze.com
+- https://jamesbarkman.com
 - https://matthew-tufts.com

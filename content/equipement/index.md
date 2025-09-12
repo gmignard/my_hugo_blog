@@ -15,10 +15,8 @@ resources:
 - [Dji Air 3](https://dp.gt/a/s0jvpf19d)
 - [Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/)
 - [Nikon FM2n](https://gregorymignard.com/nikon-fm2/)
-- [Nikonos V](https://gregorymignard.com/nikonos-v/)
 - [Mamiya m645 1000s](https://gregorymignard.com/mamiya-m645-1000s/)
 - [Contax T2](https://gregorymignard.com/contax-t2/)
-- Canon 514 XL
 - [iPhone 15 Pro](https://amzn.to/44wS7Ig) → [*Ma recette pour photographier à l’iPhone*](https://gregorymignard.com/recette-photographie-iphone/)
 
 ### Objectifs
@@ -30,6 +28,7 @@ resources:
 - Nikkor AF-D 28-105mm f/3.5-4.5 Macro
 - [Sigma X 18-50mm f/2.8](https://dp.gt/a/mmfzseo04)
 - [Viltrox X 23mm f/1.4](https://dp.gt/a/0zn0zsco)
+- [Fuji XF 33mm f/1.4](https://dp.gt/a/6oaicye68)
 - [Viltrox X 56mm f/1.4](https://dp.gt/a/vnmets4r7)
 - [Fujinon 100-400mm f/4.5-5.6](https://dp.gt/a/ix5lozvps)
 - Mamiya Sekor 80mm f/2.8
@@ -68,6 +67,6 @@ resources:
 
 ### Blog
 
-- Rédaction : [Bear](https://bear.app)
+- Rédaction : [iA Writer](https://ia.net/writer)
 - Moteur de blog : [Hugo](https://gohugo.io)
 - Hébergement : [Netlify](https://www.netlify.com)
