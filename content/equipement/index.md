@@ -31,6 +31,7 @@ resources:
 - [Fuji XF 33mm f/1.4](https://dp.gt/a/6oaicye68)
 - [Viltrox X 56mm f/1.4](https://dp.gt/a/vnmets4r7)
 - [Fujinon 100-400mm f/4.5-5.6](https://dp.gt/a/ix5lozvps)
+- Mamiya Sekor 55mm f/2.8
 - Mamiya Sekor 80mm f/2.8
 - Mamiya Sekor 150mm f/4
 
@@ -38,7 +39,7 @@ resources:
 
 - [Caisson étanche Aquatech EDGE](https://www.photospecialist.fr/aquatech-edge-fujifilm-x-h2s-orange-12436597)
 - [Caisson étanche Joby SeaPal](https://dp.gt/a/hskhtrlzr)
-- [Stabilisateur Dji Ronin-SC](https://prf.hn/l/DLGyaba)
+- [Stabilisateur Dji RS4 Mini](https://dp.gt/a/qctcdeddr)
 - [Moniteur externe Atomos Shinobi](https://dp.gt/a/cuqwspjz)
 - [Cage Tilta](https://dp.gt/a/ca4zz6v8) → [*Voir mon setup vidéo complet*](https://gregorymignard.com/setup-video-fuji-xh2s/)
 - [Kit NiSi Swift ND Variable](https://dp.gt/a/s5bfrk68j)
