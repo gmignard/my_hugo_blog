@@ -3,29 +3,9 @@
 
 <div style="max-width: 57rem!important;margin: auto;margin-bottom: 60px;background-color: #F3F3F3;padding:42px; text-align:left;">
 
-<h3 style="margin-bottom: -15px;">{{ .Site.Params.tinyletter.title }}</h3>
+<h3 style="margin-bottom: -15px;">🎙️ {{ .Site.Params.tinyletter.title }}</h3>
       </br>
       <p style="margin-bottom: 20px;">
       {{ .Site.Params.tinyletter.description }} <a href="https://slowisbeautiful.substack.com" target="_blank">En savoir plus →</a></br></p>
-
-<div id="custom-substack-embed"> </div>
-
-<script>
-  window.CustomSubstackWidget = {
-    substackUrl: "slowisbeautiful.substack.com",
-    placeholder: "exemple@gmail.com",
-    buttonText: "S'abonner",
-    theme: "custom",
-    colors: {
-      primary: "#000000",
-      input: "#FFFFFF",
-      email: "#787878",
-      text: "#FFFFFF",
-    }
-  };
-</script>
-<script src="https://substackapi.com/widget.js" async></script>
-
-</div>
 
 {{ end }}
