@@ -12,6 +12,7 @@ resources:
 ### Appareils
 
 - [Fuji X-H2S](https://dp.gt/a/96cbwbtsa) → [*Mon setup vidéo Run & Gun*](https://gregorymignard.com/setup-video-fuji-xh2s/)
+- [Fuji X-E5](https://dp.gt/a/l40v10yie)
 - [Dji Air 3](https://dp.gt/a/s0jvpf19d)
 - [Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/)
 - [Nikon FM2n](https://gregorymignard.com/nikon-fm2/)
@@ -63,7 +64,7 @@ resources:
 
 ### Post-production
 
-- Mac Mini M4 Pro + Studio Display
+- Mac Mini M4 Pro + Studio Display / Macbook Air M4
 - Montage vidéo : [Final Cut Pro X](https://www.apple.com/fr/final-cut-pro/) + [DaVinci Resolve Studio](https://www.blackmagicdesign.com/fr/products/davinciresolve/studio)
 - Éditeur photo : [Lightroom CC](https://lightroom.adobe.com/) + [Pixelmator Pro](https://www.pixelmator.com/pro/)
 
