@@ -29,8 +29,8 @@ resources:
 - Nikkor AF-D 28-105mm f/3.5-4.5 Macro
 - [Sigma X 18-50mm f/2.8](https://dp.gt/a/mmfzseo04)
 - [Viltrox X 23mm f/1.4](https://dp.gt/a/0zn0zsco)
+- [Fuji XF 27mm f/2.8](https://dp.gt/a/g8nubf1rk)
 - [Fuji XF 33mm f/1.4](https://dp.gt/a/6oaicye68)
-- [Viltrox X 56mm f/1.4](https://dp.gt/a/vnmets4r7)
 - [Viltrox X 75mm f/1.2](https://dp.gt/a/23f79gmpl)
 - [Fujinon 100-400mm f/4.5-5.6](https://dp.gt/a/ix5lozvps)
 - Mamiya Sekor 55mm f/2.8
