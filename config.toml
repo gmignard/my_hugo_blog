@@ -44,6 +44,7 @@ paginate = 12
   email = "hello@gregorymignard.com"
   domain = "Grégory Mignard"
   instagram = "gregmignard"
+  threads = "gregmignard"
   linkedin = "gmignard"
 
 [params.tinyletter]
