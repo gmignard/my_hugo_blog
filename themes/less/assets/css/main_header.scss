@@ -71,15 +71,17 @@
   }
   .main_menu li {
     list-style-type: none;
-    position: relative;
     a {
       font-family:  var(--sans-serif-font);
       font-weight: normal;
       font-size: 1.05rem;
       display: inline-block;
-      transition: transform 0.2s ease;
+      padding-left: 0;
+      padding-right: 3px;
+      transition: padding 0.2s ease;
       &:hover {
-        transform: translateX(3px);
+        padding-left: 3px;
+        padding-right: 0;
       }
     }
   }
