@@ -1,8 +1,7 @@
 ---
-title: "Now"
+title: "/now"
 seotitle: "Now - Grégory Mignard"
 description: "Ce que je fais en ce moment"
-type: "about"
 ---
 
 ## Ce que je fais en ce moment
