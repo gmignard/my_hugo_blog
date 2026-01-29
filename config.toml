@@ -25,9 +25,9 @@ paginate = 12
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
 
-  sansSerifFont = "PT Serif"
-  titleFont = "Poppins"
-  bodyFont = "PT Serif"
+  sansSerifFont = "Space Grotesk"
+  titleFont = "Space Grotesk"
+  bodyFont = "Inter"
 
   hasLogo = true
   accentColor = "#000000"

@@ -15,9 +15,7 @@
   --gap: 30px;
 }
 
-@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
-@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.bodyFont " " "+" }}:400,400i,600');
-@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.sansSerifFont " " "+" }}');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap');
 @import "helpers";
 @import "form";
 @import "main_header";
@@ -191,6 +189,8 @@ table {
   font-weight: 100;
   font-size: 0.6rem;
   text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 .site-title {
   @media only screen and (max-width: 667px) {
