@@ -206,6 +206,7 @@ table {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  flex-shrink: 0;
 }
 .site-title {
   @media only screen and (max-width: 667px) {
