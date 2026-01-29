@@ -495,3 +495,17 @@ span.link-subtitle {
   left: calc(var(--gap, 18px) * 0.5);
   top: calc(var(--gap, 18px) * 0.5);
 }
+
+/* Easter egg - scroll reward */
+.scroll-reward {
+  text-align: center;
+  padding: 4rem 1rem;
+  opacity: 0.6;
+  font-size: 0.9rem;
+  font-family: var(--sans-serif-font);
+}
+
+.scroll-reward a {
+  display: inline-block;
+  margin-top: 0.5rem;
+}
