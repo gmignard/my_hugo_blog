@@ -70,16 +70,19 @@ a:hover {
   border-bottom-color: var(--accent);
 }
 
-/* Hover effect pour liens dans les articles */
-.post a:not(.nav-item) {
+/* Hover effect pour liens dans le contenu */
+.post a:not(.nav-item),
+[data-pswp] a:not(.nav-item) {
   transition: background-color 0.2s ease;
   padding: 0 2px;
   margin: 0 -2px;
   border-radius: 2px;
 }
 
-.post a:not(.nav-item):hover {
-  background-color: rgba(0, 0, 0, 0.06);
+.post a:not(.nav-item):hover,
+[data-pswp] a:not(.nav-item):hover {
+  background-color: rgba(0, 0, 0, 0.12);
+  border-bottom-color: transparent;
 }
 
 ul {
