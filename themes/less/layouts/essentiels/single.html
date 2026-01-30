@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="essentiels-page max-w-2xl mx-8 md:mx-auto my-12">
+
+  {{/* En-tête */}}
+  <header class="essentiels-header text-center mb-12">
+    <hr class="mx-auto w-16 border-current mb-8">
+    <h1 class="text-3xl md:text-4xl mb-4">Essentiels</h1>
+    <p class="text-lg opacity-70">Les trucs que j'utilise au quotidien,<br>pour créer, bouger, bien démarrer la journée.</p>
+    <hr class="mx-auto w-16 border-current mt-8">
+  </header>
+
+  {{/* Contenu */}}
+  <div class="essentiels-content">
+    {{ .Content }}
+  </div>
+
+  {{/* Disclaimer affiliés */}}
+  <footer class="essentiels-footer text-center mt-12 pt-8 border-t border-gray-300">
+    <p class="text-sm opacity-60">
+      Liens affiliés : certains liens me rapportent<br>
+      une petite commission, sans surcoût pour toi.
+    </p>
+  </footer>
+
+</div>
+{{ end }}

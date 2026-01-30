@@ -7,38 +7,11 @@
     <p class="journal-tagline text-xl md:text-2xl mt-3">Pensées, récits et explorations.</p>
   </div>
 
-  {{/* Article featured - le plus récent */}}
-  {{ $featured := index .RegularPages 0 }}
-  {{ if $featured }}
-    {{ $image := $featured.Resources.GetMatch "cover" | default (index ($featured.Resources.ByType "image") 0) }}
-    <article class="featured-article mb-8">
-      {{ if $image }}
-        {{ $large := $image.Fill "1400x600 center" }}
-        <a href="{{ $featured.Permalink }}" class="featured-image-link">
-          <img src="{{ $large.Permalink }}" alt="{{ $featured.Title }}" class="featured-image w-full">
-        </a>
-      {{ end }}
-      <div class="featured-meta mt-4">
-        <h2 class="featured-title text-xl md:text-2xl mb-2">
-          <a href="{{ $featured.Permalink }}">{{ $featured.Params.emoji }} {{ $featured.Title }}</a>
-        </h2>
-        <span class="featured-date text-sm opacity-50">
-          {{ $featured.Date.Day }} {{ index .Site.Data.mois (printf "%d" $featured.Date.Month) }} {{ $featured.Date.Year }}
-          {{ with $featured.Params.categories }}
-            • {{ index . 0 }}
-          {{ end }}
-        </span>
-      </div>
-    </article>
-  {{ end }}
-
-  <hr class="my-8 border-gray-300">
+  <hr class="my-8 border-current">
 
   {{/* Timeline des articles groupés par année */}}
-  {{ $pages := after 1 .RegularPages }}
-
   <div class="timeline">
-    {{ range $pages.GroupByDate "2006" }}
+    {{ range .RegularPages.GroupByDate "2006" }}
       <div class="timeline-year mb-10">
         <h3 class="year-header text-2xl font-bold mb-4 pb-2 border-b border-current">{{ .Key }}</h3>
         <ul class="timeline-posts">

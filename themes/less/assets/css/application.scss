@@ -662,3 +662,65 @@ span.link-subtitle {
     transition: opacity 0.2s ease;
   }
 }
+
+/* Page Essentiels */
+.essentiels-page {
+  .essentiels-header {
+    h1 {
+      font-family: var(--title-font);
+    }
+    hr {
+      border: 0;
+      border-top: 1px solid;
+    }
+  }
+
+  .essentiels-content {
+    h3 {
+      font-family: var(--title-font);
+      font-size: 1.25rem;
+      text-align: center;
+      margin-top: 3rem;
+      margin-bottom: 1.5rem;
+      padding-top: 2rem;
+      border-top: 1px solid rgba(0,0,0,0.15);
+
+      &:first-child {
+        border-top: none;
+        padding-top: 0;
+        margin-top: 0;
+      }
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    li {
+      padding: 0.4rem 0;
+      font-family: var(--sans-serif-font);
+      font-size: 0.95rem;
+
+      strong {
+        font-weight: 500;
+
+        a {
+          border-bottom: none;
+        }
+      }
+
+      a {
+        border-bottom: none;
+      }
+    }
+  }
+
+  .essentiels-footer {
+    hr {
+      border: 0;
+      border-top: 1px solid;
+    }
+  }
+}

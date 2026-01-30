@@ -9,67 +9,58 @@ resources:
 - src: "*.webp"
 ---
 
-### Appareils
+### Capturer
 
-- [Fuji X-H2S](https://dp.gt/a/96cbwbtsa) → [*Mon setup vidéo Run & Gun*](https://gregorymignard.com/setup-video-fuji-xh2s/)
-- [Fuji X-E5](https://dp.gt/a/l40v10yie)
-- [Dji Air 3](https://dp.gt/a/s0jvpf19d)
-- [Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/)
-- [Nikon FM2n](https://gregorymignard.com/nikon-fm2/)
-- [Mamiya m645 1000s](https://gregorymignard.com/mamiya-m645-1000s/)
-- [Contax T2](https://gregorymignard.com/contax-t2/)
-- [iPhone 15 Pro](https://amzn.to/44wS7Ig) → [*Ma recette pour photographier à l’iPhone*](https://gregorymignard.com/recette-photographie-iphone/)
+- **[Fuji X-H2S](https://dp.gt/a/96cbwbtsa)** · boîtier principal
+- **[Fuji X-E5](https://dp.gt/a/l40v10yie)** · daily carry
+- **[Dji Air 3](https://dp.gt/a/s0jvpf19d)** · drone
+- **[Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/)** · argentique 35mm
+- **[Nikon FM2n](https://gregorymignard.com/nikon-fm2/)** · argentique mécanique
+- **[Mamiya m645 1000s](https://gregorymignard.com/mamiya-m645-1000s/)** · moyen format
+- **[Contax T2](https://gregorymignard.com/contax-t2/)** · compact argentique
+- **[iPhone 15 Pro](https://amzn.to/44wS7Ig)** · toujours dans la poche
 
 ### Objectifs
 
-- [Nikkor Ai 24mm f/2.8](https://prf.hn/l/RlyeLMp)
-- [Nikkor AF-D 35mm f/2](https://prf.hn/l/Oqn0enN)
-- Nikkor pré-Ai 55mm f/1.2
-- Nikkor pré-Ai 85mm f/1.8
-- Nikkor AF-D 28-105mm f/3.5-4.5 Macro
-- [Sigma X 18-50mm f/2.8](https://dp.gt/a/mmfzseo04)
-- [Viltrox X 23mm f/1.4](https://dp.gt/a/0zn0zsco)
-- [Fuji XF 27mm f/2.8](https://dp.gt/a/g8nubf1rk)
-- [Fuji XF 33mm f/1.4](https://dp.gt/a/6oaicye68)
-- [Viltrox X 75mm f/1.2](https://dp.gt/a/23f79gmpl)
-- [Fujinon 100-400mm f/4.5-5.6](https://dp.gt/a/ix5lozvps)
-- Mamiya Sekor 55mm f/2.8
-- Mamiya Sekor 80mm f/2.8
-- Mamiya Sekor 150mm f/4
+- **[Fuji XF 27mm f/2.8](https://dp.gt/a/g8nubf1rk)** · pancake à tout faire
+- **[Fuji XF 33mm f/1.4](https://dp.gt/a/6oaicye68)** · standard lumineux
+- **[Sigma X 18-50mm f/2.8](https://dp.gt/a/mmfzseo04)** · zoom polyvalent
+- **[Viltrox X 23mm f/1.4](https://dp.gt/a/0zn0zsco)** · grand angle
+- **[Viltrox X 75mm f/1.2](https://dp.gt/a/23f79gmpl)** · portraits
+- **[Fujinon 100-400mm](https://dp.gt/a/ix5lozvps)** · animalier
+- **[Nikkor Ai 24mm f/2.8](https://prf.hn/l/RlyeLMp)** · vintage wide
+- **[Nikkor AF-D 35mm f/2](https://prf.hn/l/Oqn0enN)** · vintage standard
+- **Nikkor pré-Ai 55mm f/1.2** · vintage portrait
+- **Mamiya Sekor 80mm f/2.8** · moyen format
 
 ### Accessoires
 
-- [Caisson étanche Aquatech EDGE](https://www.photospecialist.fr/aquatech-edge-fujifilm-x-h2s-orange-12436597)
-- [Caisson étanche Joby SeaPal](https://dp.gt/a/hskhtrlzr)
-- [Stabilisateur Dji RS4 Mini](https://dp.gt/a/qctcdeddr)
-- [Moniteur externe Atomos Shinobi](https://dp.gt/a/cuqwspjz)
-- [Cage Tilta](https://dp.gt/a/ca4zz6v8) → [*Voir mon setup vidéo complet*](https://gregorymignard.com/setup-video-fuji-xh2s/)
-- [Kit NiSi Swift ND Variable](https://dp.gt/a/s5bfrk68j)
-- [Peak Design Travel Backpack 30L](https://dp.gt/a/qrjqwrrdc) → [*Lire mon test*](https://gregorymignard.com/peakdesign-travel-backpack30/)
+- **[Aquatech EDGE](https://www.photospecialist.fr/aquatech-edge-fujifilm-x-h2s-orange-12436597)** · caisson waterhousing
+- **[Joby SeaPal](https://dp.gt/a/hskhtrlzr)** · caisson compact
+- **[Dji RS4 Mini](https://dp.gt/a/qctcdeddr)** · stabilisateur
+- **[Atomos Shinobi](https://dp.gt/a/cuqwspjz)** · moniteur externe
+- **[Cage Tilta](https://dp.gt/a/ca4zz6v8)** · cage vidéo
+- **[NiSi Swift ND](https://dp.gt/a/s5bfrk68j)** · filtres variables
+- **[Peak Design 30L](https://dp.gt/a/qrjqwrrdc)** · sac photo voyage
 
 ### Audio
 
-- [Zoom F3 Field Recorder](https://dp.gt/a/wan28fm7)
-- [Zoom H1n](https://dp.gt/a/cbxe7g4am)
-- [EarSight Thumb](https://immersivesoundscapes.com/fr/earsight-thumb-microphones/#!/EARSIGHT-THUMB-Stereo-pair/p/502321903) (stereo version)
-- [Røde VideoMic NTG](https://dp.gt/a/mlxro1dw)
-- [Røde Lavalier GO](https://dp.gt/a/8y0z68zlf)
-- [Hollyland Lark M2](https://dp.gt/a/fdk7wd7l)
+- **[Zoom F3](https://dp.gt/a/wan28fm7)** · field recorder pro
+- **[Zoom H1n](https://dp.gt/a/cbxe7g4am)** · enregistreur compact
+- **[EarSight Thumb](https://immersivesoundscapes.com/fr/earsight-thumb-microphones/#!/EARSIGHT-THUMB-Stereo-pair/p/502321903)** · micros binauraux
+- **[Røde VideoMic NTG](https://dp.gt/a/mlxro1dw)** · micro shotgun
+- **[Hollyland Lark M2](https://dp.gt/a/fdk7wd7l)** · micro sans fil
 
-<div style="max-width: 57rem!important;margin: auto;margin-bottom: 35px;color: #b5b5b5;background-color: #313131;padding:42px; text-align:left;">
-     <p style="margin-bottom: 10px;">
-     Les liens de cette page renvoie en partie vers les boutiques <a href="https://dp.gt/a/hwciruzn7" target="_blank"><B>Digit-Photo</B></a> & <a href="https://prf.hn/l/p3qB2P5" target="_blank"><B>MPB</B></a>. Cette affiliation ne change rien pour vous, mais c’est un soutien énorme pour moi. Pensez à utiliser le code créateur « <B>GREGMIGNARD</B> » au moment de valider votre commande chez Digit-Photo.</br>
-     🙏 Merci</p>
-</div>
+### Monter & éditer
 
-### Post-production
+- **Mac Mini M4 Pro** · station de travail
+- **[Final Cut Pro](https://www.apple.com/fr/final-cut-pro/)** · montage rapide
+- **[DaVinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve/studio)** · étalonnage
+- **[Lightroom](https://lightroom.adobe.com/)** · tri et édition photo
+- **[Pixelmator Pro](https://www.pixelmator.com/pro/)** · retouche
 
-- Mac Mini M4 Pro + Studio Display / Macbook Air M4
-- Montage vidéo : [Final Cut Pro X](https://www.apple.com/fr/final-cut-pro/) + [DaVinci Resolve Studio](https://www.blackmagicdesign.com/fr/products/davinciresolve/studio)
-- Éditeur photo : [Lightroom CC](https://lightroom.adobe.com/) + [Pixelmator Pro](https://www.pixelmator.com/pro/)
+### Écrire & publier
 
-### Blog
-
-- Rédaction : [iA Writer](https://ia.net/writer)
-- Moteur de blog : [Hugo](https://gohugo.io)
-- Hébergement : [Netlify](https://www.netlify.com)
+- **[iA Writer](https://ia.net/writer)** · rédaction
+- **[Hugo](https://gohugo.io)** · générateur de site
+- **[Netlify](https://www.netlify.com)** · hébergement
