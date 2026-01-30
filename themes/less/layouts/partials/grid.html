@@ -4,11 +4,14 @@
   {{ range $cindex, $images := $columns }}
     {{ $subwidth := 0 }}
     {{ range $images.Images }}
-      {{/* Dimensions: utilise les dimensions de l'image, ou 16:9 par défaut pour les vidéos */}}
+      {{/* Dimensions: image réelle ou ratio vidéo (défaut 16:9) */}}
       {{ $isVideo := default false .IsVideo }}
-      {{ $imgWidth := 1920 }}
-      {{ $imgHeight := 1080 }}
-      {{ if not $isVideo }}
+      {{ $imgWidth := 16 }}
+      {{ $imgHeight := 9 }}
+      {{ if $isVideo }}
+        {{ $imgWidth = default 16 .VideoWidth }}
+        {{ $imgHeight = default 9 .VideoHeight }}
+      {{ else }}
         {{ $imgWidth = .Image.Width }}
         {{ $imgHeight = .Image.Height }}
       {{ end }}
@@ -20,9 +23,12 @@
       {{ $div := 0 }}
       {{ range $images.Images }}
         {{ $isVideo := default false .IsVideo }}
-        {{ $imgWidth := 1920 }}
-        {{ $imgHeight := 1080 }}
-        {{ if not $isVideo }}
+        {{ $imgWidth := 16 }}
+        {{ $imgHeight := 9 }}
+        {{ if $isVideo }}
+          {{ $imgWidth = default 16 .VideoWidth }}
+          {{ $imgHeight = default 9 .VideoHeight }}
+        {{ else }}
           {{ $imgWidth = .Image.Width }}
           {{ $imgHeight = .Image.Height }}
         {{ end }}
@@ -33,9 +39,12 @@
         <div class="md:flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
           {{ range $images.Images }}
             {{ $isVideo := default false .IsVideo }}
-            {{ $imgWidth := 1920 }}
-            {{ $imgHeight := 1080 }}
-            {{ if not $isVideo }}
+            {{ $imgWidth := 16 }}
+            {{ $imgHeight := 9 }}
+            {{ if $isVideo }}
+              {{ $imgWidth = default 16 .VideoWidth }}
+              {{ $imgHeight = default 9 .VideoHeight }}
+            {{ else }}
               {{ $imgWidth = .Image.Width }}
               {{ $imgHeight = .Image.Height }}
             {{ end }}
@@ -56,9 +65,12 @@
         <div class="flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
           {{ range $images.Images }}
               {{ $isVideo := default false .IsVideo }}
-              {{ $imgWidth := 1920 }}
-              {{ $imgHeight := 1080 }}
-              {{ if not $isVideo }}
+              {{ $imgWidth := 16 }}
+              {{ $imgHeight := 9 }}
+              {{ if $isVideo }}
+                {{ $imgWidth = default 16 .VideoWidth }}
+                {{ $imgHeight = default 9 .VideoHeight }}
+              {{ else }}
                 {{ $imgWidth = .Image.Width }}
                 {{ $imgHeight = .Image.Height }}
               {{ end }}

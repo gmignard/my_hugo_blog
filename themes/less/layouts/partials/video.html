@@ -1,6 +1,8 @@
 {{/* Partial pour afficher une vidéo en loop dans la grille */}}
 {{ $src := .Image }}
-{{ $ratio := 56.25 }}{{/* 16:9 par défaut = 9/16 * 100 */}}
+{{ $videoWidth := default 16 .VideoWidth }}
+{{ $videoHeight := default 9 .VideoHeight }}
+{{ $ratio := div (mul 100.0 $videoHeight) $videoWidth }}
 
 {{ if $src }}
   <div style="padding-bottom: {{ $ratio }}%" class="relative box-border block">
