@@ -607,8 +607,27 @@ span.link-subtitle {
 .article-post {
   overflow: visible;
 
-  figure,
-  .gallery {
+  /* Photoset: le conteneur déborde, mais pas les images internes */
+  .photoset {
+    @media only screen and (min-width: 812px) {
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      width: calc(100% + 10rem);
+      max-width: none;
+    }
+
+    p, p img {
+      position: static !important;
+      left: auto !important;
+      transform: none !important;
+      width: auto !important;
+    }
+  }
+
+  /* Figure et gallery standards */
+  figure:not(.photoset figure),
+  .gallery:not(.photoset .gallery) {
     @media only screen and (min-width: 812px) {
       position: relative;
       left: 50%;
@@ -618,7 +637,8 @@ span.link-subtitle {
     }
   }
 
-  p:has(> img) {
+  /* Images seules dans un paragraphe (hors photoset) */
+  > p:has(> img) {
     @media only screen and (min-width: 812px) {
       position: relative;
       left: 50%;
@@ -627,7 +647,7 @@ span.link-subtitle {
     }
   }
 
-  p img {
+  > p > img {
     @media only screen and (min-width: 812px) {
       display: block;
       width: 100% !important;
