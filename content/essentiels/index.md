@@ -10,6 +10,12 @@ resources:
 - src: "*.webp"
 ---
 
+### Rituels
+
+- **[Fuji X-H2S](https://dp.gt/a/96cbwbtsa)** *boîtier principal*
+- **[Fuji X-E5](https://dp.gt/a/l40v10yie)** *daily carry*
+- **[Brother Deluxe 800](https://dp.gt/a/s0jvpf19d)** *Machine à écrire*
+
 ### Capturer
 
 - **[Fuji X-H2S](https://dp.gt/a/96cbwbtsa)** *boîtier principal*
@@ -54,8 +60,9 @@ resources:
 
 ### Monter & éditer
 
-- **Mac Mini M4 Pro** *station de travail*
-- **[Final Cut Pro](https://www.apple.com/fr/final-cut-pro/)** *montage rapide*
+- **Mac Mini M4 Pro + Studio Display** *station de travail*
+- **Macbook Air M4** *station de travail mobile*
+- **[Final Cut Pro](https://www.apple.com/fr/final-cut-pro/)** *montage*
 - **[DaVinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve/studio)** *étalonnage*
 - **[Lightroom](https://lightroom.adobe.com/)** *tri et édition photo*
 - **[Pixelmator Pro](https://www.pixelmator.com/pro/)** *retouche*
