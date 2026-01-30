@@ -517,3 +517,48 @@ span.link-subtitle {
   height: auto;
   display: block;
 }
+
+/* Journal list - Phase 5 */
+.journal-list {
+  .featured-article {
+    .featured-image-link {
+      border-bottom: none;
+      display: block;
+    }
+    .featured-image {
+      transition: opacity 0.3s ease;
+      &:hover {
+        opacity: 0.9;
+      }
+    }
+    .featured-title a {
+      border-bottom: none;
+      font-family: var(--title-font);
+    }
+    .featured-date {
+      font-family: var(--sans-serif-font);
+    }
+  }
+
+  .timeline {
+    .year-header {
+      font-family: var(--title-font);
+    }
+    .timeline-item {
+      .timeline-link {
+        border-bottom: none;
+        text-decoration: none;
+      }
+      .timeline-date {
+        font-family: var(--sans-serif-font);
+        font-variant-numeric: tabular-nums;
+      }
+      .timeline-category {
+        font-family: var(--sans-serif-font);
+      }
+      .timeline-title {
+        font-family: var(--serif-font);
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{{ define "main" }}
+<div class="journal-list max-w-4xl mx-8 lg:mx-auto">
+
+  {{/* Article featured - le plus récent */}}
+  {{ $featured := index .RegularPages 0 }}
+  {{ if $featured }}
+    {{ $image := $featured.Resources.GetMatch "cover" | default (index ($featured.Resources.ByType "image") 0) }}
+    <article class="featured-article mb-16">
+      {{ if $image }}
+        {{ $large := $image.Fill "1400x600 center" }}
+        <a href="{{ $featured.Permalink }}" class="featured-image-link">
+          <img src="{{ $large.Permalink }}" alt="{{ $featured.Title }}" class="featured-image w-full">
+        </a>
+      {{ end }}
+      <div class="featured-meta text-center mt-6">
+        <h2 class="featured-title text-3xl md:text-4xl mb-2">
+          <a href="{{ $featured.Permalink }}">{{ $featured.Params.emoji }} {{ $featured.Title }}</a>
+        </h2>
+        <span class="featured-date text-sm opacity-50">
+          {{ $featured.Date.Day }} {{ index .Site.Data.mois (printf "%d" $featured.Date.Month) }} {{ $featured.Date.Year }}
+          {{ with $featured.Params.categories }}
+            • {{ index . 0 }}
+          {{ end }}
+        </span>
+      </div>
+    </article>
+  {{ end }}
+
+  <hr class="my-12 border-gray-300">
+
+  {{/* Timeline des articles groupés par année */}}
+  {{ $pages := after 1 .RegularPages }}
+  {{ $byYear := dict }}
+  {{ range $pages }}
+    {{ $year := .Date.Format "2006" }}
+    {{ $existing := index $byYear $year | default slice }}
+    {{ $byYear = merge $byYear (dict $year (append $existing .)) }}
+  {{ end }}
+
+  <div class="timeline">
+    {{ range $year, $posts := $byYear }}
+      <div class="timeline-year mb-10">
+        <h3 class="year-header text-2xl font-bold mb-4 pb-2 border-b border-gray-300">{{ $year }}</h3>
+        <ul class="timeline-posts">
+          {{ range $posts }}
+            <li class="timeline-item py-2 hover:bg-black/5 transition-colors rounded px-2 -mx-2">
+              <a href="{{ .Permalink }}" class="timeline-link flex items-baseline gap-4">
+                <span class="timeline-date text-sm opacity-50 w-16 flex-shrink-0">
+                  {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) | truncate 3 "" }}
+                </span>
+                <span class="timeline-category text-xs uppercase tracking-wide opacity-40 w-20 flex-shrink-0">
+                  {{ with .Params.categories }}{{ index . 0 }}{{ end }}
+                </span>
+                <span class="timeline-title flex-grow">
+                  {{ .Params.emoji }} {{ .Title }}
+                </span>
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+  </div>
+
+  {{/* Pagination */}}
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}
