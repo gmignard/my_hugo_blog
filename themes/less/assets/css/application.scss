@@ -610,20 +610,28 @@ span.link-subtitle {
   figure,
   .gallery {
     @media only screen and (min-width: 812px) {
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
       width: calc(100% + 10rem);
-      margin-left: -5rem;
-      margin-right: -5rem;
       max-width: none;
+    }
+  }
+
+  p:has(> img) {
+    @media only screen and (min-width: 812px) {
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      width: calc(100% + 10rem);
     }
   }
 
   p img {
     @media only screen and (min-width: 812px) {
       display: block;
-      width: calc(100% + 10rem) !important;
+      width: 100% !important;
       max-width: none !important;
-      margin-left: -5rem;
-      margin-right: -5rem;
     }
   }
 }
