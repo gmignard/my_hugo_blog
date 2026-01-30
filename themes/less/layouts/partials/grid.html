@@ -4,9 +4,14 @@
   {{ range $cindex, $images := $columns }}
     {{ $subwidth := 0 }}
     {{ range $images.Images }}
-      {{/* Dimensions par défaut 16:9 pour les vidéos */}}
-      {{ $imgWidth := cond .IsVideo 1920 .Image.Width }}
-      {{ $imgHeight := cond .IsVideo 1080 .Image.Height }}
+      {{/* Dimensions: utilise les dimensions de l'image, ou 16:9 par défaut pour les vidéos */}}
+      {{ $isVideo := default false .IsVideo }}
+      {{ $imgWidth := 1920 }}
+      {{ $imgHeight := 1080 }}
+      {{ if not $isVideo }}
+        {{ $imgWidth = .Image.Width }}
+        {{ $imgHeight = .Image.Height }}
+      {{ end }}
       {{ $subwidth = add $subwidth (div (float $imgHeight) $imgWidth) }}
     {{ end }}
     {{ $width = add $width (div 1.0 $subwidth) }}
@@ -14,25 +19,35 @@
   {{ range $cindex, $images := $columns }}
       {{ $div := 0 }}
       {{ range $images.Images }}
-        {{ $imgWidth := cond .IsVideo 1920 .Image.Width }}
-        {{ $imgHeight := cond .IsVideo 1080 .Image.Height }}
+        {{ $isVideo := default false .IsVideo }}
+        {{ $imgWidth := 1920 }}
+        {{ $imgHeight := 1080 }}
+        {{ if not $isVideo }}
+          {{ $imgWidth = .Image.Width }}
+          {{ $imgHeight = .Image.Height }}
+        {{ end }}
         {{ $div = add $div (div (float $imgHeight) $imgWidth) }}
       {{ end }}
       {{ $colwidth := div (div 1.0 $div) $width }}
       {{ if (eq (len $columns) 1) }}
         <div class="md:flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
           {{ range $images.Images }}
-            {{ $imgWidth := cond .IsVideo 1920 .Image.Width }}
-            {{ $imgHeight := cond .IsVideo 1080 .Image.Height }}
+            {{ $isVideo := default false .IsVideo }}
+            {{ $imgWidth := 1920 }}
+            {{ $imgHeight := 1080 }}
+            {{ if not $isVideo }}
+              {{ $imgWidth = .Image.Width }}
+              {{ $imgHeight = .Image.Height }}
+            {{ end }}
             {{ if .Blank  }}
               <div style="padding-bottom: {{ div (mul 100.0 $imgHeight) $imgWidth -}}%" class="relative md:block hidden"></div>
             {{ else }}
               {{ if isset . "Link" }}
                 <a href="{{ .Link }}">
-                  {{ if .IsVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
+                  {{ if $isVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
                 </a>
               {{ else }}
-                {{ if .IsVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
+                {{ if $isVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
               {{ end }}
             {{ end }}
           {{ end }}
@@ -40,8 +55,13 @@
       {{ else }}
         <div class="flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
           {{ range $images.Images }}
-              {{ $imgWidth := cond .IsVideo 1920 .Image.Width }}
-              {{ $imgHeight := cond .IsVideo 1080 .Image.Height }}
+              {{ $isVideo := default false .IsVideo }}
+              {{ $imgWidth := 1920 }}
+              {{ $imgHeight := 1080 }}
+              {{ if not $isVideo }}
+                {{ $imgWidth = .Image.Width }}
+                {{ $imgHeight = .Image.Height }}
+              {{ end }}
               {{ $dimension := div (div (mul 100.0 $imgHeight) $imgWidth) $div }}
               <div style="flex: 1 0  {{ $dimension -}}%">
                 {{ if .Blank  }}
@@ -49,10 +69,10 @@
                 {{ else }}
                   {{ if isset . "Link" }}
                     <a href="{{ .Link }}">
-                      {{ if .IsVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
+                      {{ if $isVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
                     </a>
                   {{ else }}
-                    {{ if .IsVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
+                    {{ if $isVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
                   {{ end }}
                 {{ end }}
               </div>
