@@ -544,6 +544,10 @@ span.link-subtitle {
     .year-header {
       font-family: var(--title-font);
     }
+    .timeline-posts {
+      list-style: none;
+      padding-left: 0;
+    }
     .timeline-item {
       .timeline-link {
         border-bottom: none;
