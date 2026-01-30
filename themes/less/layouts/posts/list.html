@@ -30,19 +30,13 @@
 
   {{/* Timeline des articles groupés par année */}}
   {{ $pages := after 1 .RegularPages }}
-  {{ $byYear := dict }}
-  {{ range $pages }}
-    {{ $year := .Date.Format "2006" }}
-    {{ $existing := index $byYear $year | default slice }}
-    {{ $byYear = merge $byYear (dict $year (append $existing .)) }}
-  {{ end }}
 
   <div class="timeline">
-    {{ range $year, $posts := $byYear }}
+    {{ range $pages.GroupByDate "2006" }}
       <div class="timeline-year mb-10">
-        <h3 class="year-header text-2xl font-bold mb-4 pb-2 border-b border-gray-300">{{ $year }}</h3>
+        <h3 class="year-header text-2xl font-bold mb-4 pb-2 border-b border-gray-300">{{ .Key }}</h3>
         <ul class="timeline-posts">
-          {{ range $posts }}
+          {{ range .Pages }}
             <li class="timeline-item py-2 hover:bg-black/5 transition-colors rounded px-2 -mx-2">
               <a href="{{ .Permalink }}" class="timeline-link flex items-baseline gap-4">
                 <span class="timeline-date text-sm opacity-50 w-16 flex-shrink-0">
