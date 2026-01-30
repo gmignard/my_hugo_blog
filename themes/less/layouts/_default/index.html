@@ -1,8 +1,29 @@
 {{ define "main" }}
 {{ $allimages := slice }}
+{{/* Récupérer les images */}}
 {{ range sort (.Resources.ByType "image") "Name" "desc"}}
-  {{ $allimages = $allimages | append (dict "Image" .  ) }}
+  {{ $allimages = $allimages | append (dict "Image" . "IsVideo" false "VideoWidth" 0 "VideoHeight" 0) }}
 {{ end }}
+{{/* Récupérer les vidéos avec détection du ratio par suffixe _WxH */}}
+{{ range sort (.Resources.ByType "video") "Name" "desc"}}
+  {{ $name := .Name }}
+  {{ $videoWidth := 16 }}
+  {{ $videoHeight := 9 }}
+  {{/* Chercher le pattern _WxH dans le nom (ex: video_9x16.mp4) */}}
+  {{ $ratioMatch := findRE "_([0-9]+)x([0-9]+)\\." $name }}
+  {{ if $ratioMatch }}
+    {{ $ratioStr := index $ratioMatch 0 }}
+    {{ $ratioStr = replaceRE "^_|\\.$" "" $ratioStr }}
+    {{ $parts := split $ratioStr "x" }}
+    {{ if eq (len $parts) 2 }}
+      {{ $videoWidth = int (index $parts 0) }}
+      {{ $videoHeight = int (index $parts 1) }}
+    {{ end }}
+  {{ end }}
+  {{ $allimages = $allimages | append (dict "Image" . "IsVideo" true "VideoWidth" $videoWidth "VideoHeight" $videoHeight) }}
+{{ end }}
+{{/* Trier le tout par nom */}}
+{{ $allimages = sort $allimages "Image.Name" "desc" }}
 {{ $rows := dict }}
 {{ $columns := dict }}
 {{ range $index, $img := $allimages }}
