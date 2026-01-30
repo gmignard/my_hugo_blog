@@ -3,6 +3,7 @@ title: "Essentiels - Grégory Mignard"
 seotitle: "Essentiels - Grégory Mignard"
 date: 2024-05-05T22:57:50+02:00
 draft: false
+type: essentiels
 resources:
 - src: "cover.webp"
   name: "cover"
