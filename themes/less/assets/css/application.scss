@@ -605,15 +605,25 @@ span.link-subtitle {
 
 /* Images qui débordent du texte */
 .article-post {
+  overflow: visible;
+
   figure,
-  .gallery,
-  > p > img,
-  > img {
+  .gallery {
     @media only screen and (min-width: 812px) {
       width: calc(100% + 6rem);
       margin-left: -3rem;
       margin-right: -3rem;
       max-width: none;
+    }
+  }
+
+  p img {
+    @media only screen and (min-width: 812px) {
+      width: calc(100% + 6rem);
+      max-width: none;
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
     }
   }
 }

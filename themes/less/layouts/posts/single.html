@@ -8,7 +8,7 @@
     <a href="/{{ index . 0 | urlize }}/" class="article-category text-sm uppercase tracking-widest opacity-50">{{ index . 0 }}</a>
   {{ end }}
 
-  <hr class="article-separator my-6 w-36 border-gray-300">
+  <hr class="article-separator my-6 w-full border-gray-300">
 
   {{/* Titre */}}
   <h1 class="article-title text-2xl md:text-4xl my-4">{{ .Params.emoji }} {{ .Title }}</h1>
@@ -21,7 +21,7 @@
   {{/* Date */}}
   <p class="article-date text-sm opacity-50 mt-6">{{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
 
-  <hr class="article-separator my-6 w-36 border-gray-300">
+  <hr class="article-separator my-6 w-full border-gray-300">
 </header>
 
 {{/* Contenu de l'article */}}

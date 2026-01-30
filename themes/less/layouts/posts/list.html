@@ -4,7 +4,7 @@
   {{/* Intro Journal */}}
   <div class="journal-intro mb-12">
     <span class="journal-label text-base uppercase tracking-widest opacity-50">Journal</span>
-    <p class="journal-tagline text-lg md:text-xl mt-3 opacity-70">Pensées, récits et explorations.</p>
+    <p class="journal-tagline text-xl md:text-2xl mt-3">Pensées, récits et explorations.</p>
   </div>
 
   {{/* Article featured - le plus récent */}}
@@ -40,7 +40,7 @@
   <div class="timeline">
     {{ range $pages.GroupByDate "2006" }}
       <div class="timeline-year mb-10">
-        <h3 class="year-header text-2xl font-bold mb-4 pb-2 border-b border-gray-300">{{ .Key }}</h3>
+        <h3 class="year-header text-2xl font-bold mb-4 pb-2 border-b border-current">{{ .Key }}</h3>
         <ul class="timeline-posts">
           {{ range .Pages }}
             <li class="timeline-item py-2 hover:bg-black/5 transition-colors rounded px-2 -mx-2">
