@@ -589,6 +589,7 @@ span.link-subtitle {
   .article-separator {
     border: 0;
     border-top: 1px solid;
+    margin-left: 0;
   }
   .article-title {
     font-family: var(--title-font);
@@ -599,6 +600,21 @@ span.link-subtitle {
   }
   .article-date {
     font-family: var(--sans-serif-font);
+  }
+}
+
+/* Images qui débordent du texte */
+.article-post {
+  figure,
+  .gallery,
+  > p > img,
+  > img {
+    @media only screen and (min-width: 812px) {
+      width: calc(100% + 6rem);
+      margin-left: -3rem;
+      margin-right: -3rem;
+      max-width: none;
+    }
   }
 }
 
