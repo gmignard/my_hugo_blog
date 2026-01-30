@@ -520,6 +520,16 @@ span.link-subtitle {
 
 /* Journal list - Phase 5 */
 .journal-list {
+  .journal-intro {
+    .journal-label {
+      font-family: var(--sans-serif-font);
+    }
+    .journal-tagline {
+      font-family: var(--title-font);
+      font-weight: 500;
+    }
+  }
+
   .featured-article {
     .featured-image-link {
       border-bottom: none;
@@ -530,6 +540,9 @@ span.link-subtitle {
       &:hover {
         opacity: 0.9;
       }
+    }
+    .featured-meta {
+      text-align: left;
     }
     .featured-title a {
       border-bottom: none;
@@ -564,5 +577,34 @@ span.link-subtitle {
         font-family: var(--serif-font);
       }
     }
+  }
+}
+
+/* Article single - Phase 6 */
+.article-header {
+  .article-category {
+    font-family: var(--sans-serif-font);
+    border-bottom: none;
+  }
+  .article-separator {
+    border: 0;
+    border-top: 1px solid;
+  }
+  .article-title {
+    font-family: var(--title-font);
+    font-weight: 600;
+  }
+  .article-chapo {
+    font-family: var(--serif-font);
+  }
+  .article-date {
+    font-family: var(--sans-serif-font);
+  }
+}
+
+.article-nav {
+  a {
+    border-bottom: none;
+    transition: opacity 0.2s ease;
   }
 }

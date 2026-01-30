@@ -1,6 +1,12 @@
 {{ define "main" }}
 <div class="journal-list max-w-4xl mx-8 lg:mx-auto">
 
+  {{/* Intro Journal */}}
+  <div class="journal-intro mb-12">
+    <span class="journal-label text-sm uppercase tracking-widest opacity-50">Journal</span>
+    <h1 class="journal-tagline text-2xl md:text-3xl mt-4">Pensées, récits et explorations.</h1>
+  </div>
+
   {{/* Article featured - le plus récent */}}
   {{ $featured := index .RegularPages 0 }}
   {{ if $featured }}
@@ -12,8 +18,8 @@
           <img src="{{ $large.Permalink }}" alt="{{ $featured.Title }}" class="featured-image w-full">
         </a>
       {{ end }}
-      <div class="featured-meta text-center mt-6">
-        <h2 class="featured-title text-3xl md:text-4xl mb-2">
+      <div class="featured-meta mt-4">
+        <h2 class="featured-title text-xl md:text-2xl mb-2">
           <a href="{{ $featured.Permalink }}">{{ $featured.Params.emoji }} {{ $featured.Title }}</a>
         </h2>
         <span class="featured-date text-sm opacity-50">
@@ -26,7 +32,7 @@
     </article>
   {{ end }}
 
-  <hr class="my-12 border-gray-300">
+  <hr class="my-12 border-gray-400">
 
   {{/* Timeline des articles groupés par année */}}
   {{ $pages := after 1 .RegularPages }}
@@ -34,7 +40,7 @@
   <div class="timeline">
     {{ range $pages.GroupByDate "2006" }}
       <div class="timeline-year mb-10">
-        <h3 class="year-header text-2xl font-bold mb-4 pb-2 border-b border-gray-300">{{ .Key }}</h3>
+        <h3 class="year-header text-2xl font-bold mb-4 pb-2 border-b-2 border-gray-400">{{ .Key }}</h3>
         <ul class="timeline-posts">
           {{ range .Pages }}
             <li class="timeline-item py-2 hover:bg-black/5 transition-colors rounded px-2 -mx-2">
