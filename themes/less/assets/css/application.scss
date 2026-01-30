@@ -610,20 +610,20 @@ span.link-subtitle {
   figure,
   .gallery {
     @media only screen and (min-width: 812px) {
-      width: calc(100% + 6rem);
-      margin-left: -3rem;
-      margin-right: -3rem;
+      width: calc(100% + 10rem);
+      margin-left: -5rem;
+      margin-right: -5rem;
       max-width: none;
     }
   }
 
   p img {
     @media only screen and (min-width: 812px) {
-      width: calc(100% + 6rem);
-      max-width: none;
-      position: relative;
-      left: 50%;
-      transform: translateX(-50%);
+      display: block;
+      width: calc(100% + 10rem) !important;
+      max-width: none !important;
+      margin-left: -5rem;
+      margin-right: -5rem;
     }
   }
 }
