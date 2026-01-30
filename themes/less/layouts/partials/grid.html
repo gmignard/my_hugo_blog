@@ -4,30 +4,35 @@
   {{ range $cindex, $images := $columns }}
     {{ $subwidth := 0 }}
     {{ range $images.Images }}
-    {{ fmt.Warnf "Image: %s width: %d height: %d" .Image.RelPermalink .Image.Width .Image.Height }}
-      {{ $subwidth =  add $subwidth (div (float .Image.Height) .Image.Width) }}
+      {{/* Dimensions par défaut 16:9 pour les vidéos */}}
+      {{ $imgWidth := cond .IsVideo 1920 .Image.Width }}
+      {{ $imgHeight := cond .IsVideo 1080 .Image.Height }}
+      {{ $subwidth = add $subwidth (div (float $imgHeight) $imgWidth) }}
     {{ end }}
     {{ $width = add $width (div 1.0 $subwidth) }}
   {{ end }}
   {{ range $cindex, $images := $columns }}
       {{ $div := 0 }}
       {{ range $images.Images }}
-        {{ $div = add $div (div (float .Image.Height) .Image.Width) }}
+        {{ $imgWidth := cond .IsVideo 1920 .Image.Width }}
+        {{ $imgHeight := cond .IsVideo 1080 .Image.Height }}
+        {{ $div = add $div (div (float $imgHeight) $imgWidth) }}
       {{ end }}
       {{ $colwidth := div (div 1.0 $div) $width }}
       {{ if (eq (len $columns) 1) }}
         <div class="md:flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
           {{ range $images.Images }}
+            {{ $imgWidth := cond .IsVideo 1920 .Image.Width }}
+            {{ $imgHeight := cond .IsVideo 1080 .Image.Height }}
             {{ if .Blank  }}
-              <div style="padding-bottom: {{ div (mul 100.0 .Image.Height) .Image.Width -}}%" class="relative md:block hidden"></div>
+              <div style="padding-bottom: {{ div (mul 100.0 $imgHeight) $imgWidth -}}%" class="relative md:block hidden"></div>
             {{ else }}
-
               {{ if isset . "Link" }}
                 <a href="{{ .Link }}">
-                  {{ partial "photo" . }}
+                  {{ if .IsVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
                 </a>
               {{ else }}
-                {{ partial "photo" . }}
+                {{ if .IsVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
               {{ end }}
             {{ end }}
           {{ end }}
@@ -35,17 +40,19 @@
       {{ else }}
         <div class="flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
           {{ range $images.Images }}
-              {{ $dimension := div (div (mul 100.0 .Image.Height ) .Image.Width) $div }}
+              {{ $imgWidth := cond .IsVideo 1920 .Image.Width }}
+              {{ $imgHeight := cond .IsVideo 1080 .Image.Height }}
+              {{ $dimension := div (div (mul 100.0 $imgHeight) $imgWidth) $div }}
               <div style="flex: 1 0  {{ $dimension -}}%">
                 {{ if .Blank  }}
-                  <div style="padding-bottom: {{ div (mul 100.0 .Image.Height) .Image.Width -}}%" class="relative md:block hidden"></div>
+                  <div style="padding-bottom: {{ div (mul 100.0 $imgHeight) $imgWidth -}}%" class="relative md:block hidden"></div>
                 {{ else }}
                   {{ if isset . "Link" }}
                     <a href="{{ .Link }}">
-                      {{ partial "photo" . }}
+                      {{ if .IsVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
                     </a>
                   {{ else }}
-                    {{ partial "photo" . }}
+                    {{ if .IsVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
                   {{ end }}
                 {{ end }}
               </div>

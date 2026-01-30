@@ -1,0 +1,16 @@
+{{/* Partial pour afficher une vidéo en loop dans la grille */}}
+{{ $src := .Image }}
+{{ $ratio := 56.25 }}{{/* 16:9 par défaut = 9/16 * 100 */}}
+
+{{ if $src }}
+  <div style="padding-bottom: {{ $ratio }}%" class="relative box-border block">
+    <video
+      autoplay
+      loop
+      muted
+      playsinline
+      class="absolute top-0 left-0 w-full h-full object-cover"
+      src="{{ $src.RelPermalink }}">
+    </video>
+  </div>
+{{ end }}
