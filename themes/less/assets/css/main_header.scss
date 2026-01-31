@@ -19,7 +19,16 @@
   .title {
     margin: 0;
     font-size: 1.6rem;
-    a img { width: inherit; height: 80px; margin-bottom: -8px; color: var(--onyx);}
+    a img {
+      width: inherit;
+      height: 80px;
+      margin-bottom: -8px;
+      color: var(--onyx);
+      transition: transform 0.1s ease;
+      &:hover {
+        animation: glitch 0.3s ease;
+      }
+    }
     @media only screen and (min-width: 812px) {
       margin-top: 5px;
       top: 12px;
@@ -66,6 +75,14 @@
       font-family:  var(--sans-serif-font);
       font-weight: normal;
       font-size: 1.05rem;
+      display: inline-block;
+      padding-left: 0;
+      padding-right: 3px;
+      transition: padding 0.2s ease;
+      &:hover {
+        padding-left: 3px;
+        padding-right: 0;
+      }
     }
   }
 }
@@ -96,4 +113,13 @@
     font-family: var(--sans-serif-font);
     font-size: 1.4rem;
   }
+}
+
+@keyframes glitch {
+  0% { transform: translate(0, 0); }
+  20% { transform: translate(-2px, 1px); }
+  40% { transform: translate(2px, -1px); }
+  60% { transform: translate(-1px, -1px); }
+  80% { transform: translate(1px, 1px); }
+  100% { transform: translate(0, 0); }
 }

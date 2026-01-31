@@ -15,9 +15,7 @@
   --gap: 30px;
 }
 
-@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
-@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.bodyFont " " "+" }}:400,400i,600');
-@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.sansSerifFont " " "+" }}');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap');
 @import "helpers";
 @import "form";
 @import "main_header";
@@ -70,6 +68,21 @@ a {
 
 a:hover {
   border-bottom-color: var(--accent);
+}
+
+/* Hover effect pour liens dans le contenu */
+.post a:not(.nav-item),
+[data-pswp] a:not(.nav-item) {
+  transition: background-color 0.2s ease;
+  padding: 0 2px;
+  margin: 0 -2px;
+  border-radius: 2px;
+}
+
+.post a:not(.nav-item):hover,
+[data-pswp] a:not(.nav-item):hover {
+  background-color: rgba(0, 0, 0, 0.12);
+  border-bottom-color: transparent;
 }
 
 ul {
@@ -191,6 +204,9 @@ table {
   font-weight: 100;
   font-size: 0.6rem;
   text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  flex-shrink: 0;
 }
 .site-title {
   @media only screen and (max-width: 667px) {
@@ -473,9 +489,273 @@ span.link-subtitle {
 .hidden {
   display: none;
 }
-.mgrid img {
+.mgrid img,
+.mgrid video {
   width: calc(100% - var(--gap, 18px));
   height: calc(100% - var(--gap, 18px));
   left: calc(var(--gap, 18px) * 0.5);
   top: calc(var(--gap, 18px) * 0.5);
+}
+
+/* Easter egg - scroll reward */
+.scroll-reward {
+  text-align: center;
+  padding: 4rem 1rem;
+  opacity: 0.6;
+  font-size: 0.9rem;
+  font-family: var(--sans-serif-font);
+}
+
+.scroll-reward a {
+  display: inline-block;
+  margin-top: 0.5rem;
+}
+
+/* Video loop shortcode */
+.video-loop {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Journal list - Phase 5 */
+.journal-list {
+  .journal-intro {
+    .journal-label {
+      font-family: var(--sans-serif-font);
+    }
+    .journal-tagline {
+      font-family: var(--title-font);
+      font-weight: 500;
+    }
+  }
+
+  .featured-article {
+    .featured-image-link {
+      border-bottom: none;
+      display: block;
+    }
+    .featured-image {
+      transition: opacity 0.3s ease;
+      &:hover {
+        opacity: 0.9;
+      }
+    }
+    .featured-meta {
+      text-align: left;
+    }
+    .featured-title a {
+      border-bottom: none;
+      font-family: var(--title-font);
+    }
+    .featured-date {
+      font-family: var(--sans-serif-font);
+    }
+  }
+
+  .timeline {
+    .year-header {
+      font-family: var(--title-font);
+    }
+    .timeline-posts {
+      list-style: none;
+      padding-left: 0;
+    }
+    .timeline-item {
+      .timeline-link {
+        border-bottom: none;
+        text-decoration: none;
+      }
+      .timeline-date {
+        font-family: var(--sans-serif-font);
+        font-variant-numeric: tabular-nums;
+      }
+      .timeline-category {
+        font-family: var(--sans-serif-font);
+      }
+      .timeline-title {
+        font-family: var(--serif-font);
+      }
+    }
+  }
+}
+
+/* Article single - Phase 6 */
+.article-header {
+  .article-category {
+    font-family: var(--sans-serif-font);
+    border-bottom: none;
+  }
+  .article-separator {
+    border: 0;
+    border-top: 1px solid;
+    margin-left: 0;
+  }
+  .article-title {
+    font-family: var(--title-font);
+    font-weight: 600;
+  }
+  .article-chapo {
+    font-family: var(--serif-font);
+  }
+  .article-date {
+    font-family: var(--sans-serif-font);
+  }
+}
+
+/* Images qui débordent du texte */
+.article-post {
+  overflow: visible;
+
+  /* Photoset: le conteneur déborde, mais pas les images internes */
+  .photoset {
+    @media only screen and (min-width: 812px) {
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      width: calc(100% + 10rem);
+      max-width: none;
+    }
+
+    p, p img {
+      position: static !important;
+      left: auto !important;
+      transform: none !important;
+      width: auto !important;
+    }
+  }
+
+  /* Figure et gallery standards */
+  figure:not(.photoset figure),
+  .gallery:not(.photoset .gallery) {
+    @media only screen and (min-width: 812px) {
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      width: calc(100% + 10rem);
+      max-width: none;
+    }
+  }
+
+  /* Images seules dans un paragraphe (hors photoset) */
+  > p:has(> img) {
+    @media only screen and (min-width: 812px) {
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      width: calc(100% + 10rem);
+    }
+  }
+
+  > p > img {
+    @media only screen and (min-width: 812px) {
+      display: block;
+      width: 100% !important;
+      max-width: none !important;
+    }
+  }
+}
+
+.article-nav {
+  a {
+    border-bottom: none;
+    transition: opacity 0.2s ease;
+  }
+}
+
+/* Page Essentiels */
+.essentiels-page {
+  .essentiels-header {
+    h1 {
+      font-family: var(--title-font);
+    }
+    hr {
+      border: 0;
+      border-top: 1px solid;
+    }
+  }
+
+  .essentiels-content {
+    h3 {
+      font-family: var(--title-font);
+      font-size: 1.25rem;
+      text-align: left;
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid currentColor;
+
+      &:first-child {
+        margin-top: 0;
+      }
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    li {
+      display: flex;
+      align-items: baseline;
+      padding: 0.35rem 0;
+      font-family: var(--sans-serif-font);
+      font-size: 0.9rem;
+
+      strong {
+        font-weight: 500;
+        flex-shrink: 0;
+
+        a {
+          border-bottom: none;
+        }
+      }
+
+      /* Points de suite */
+      &::before {
+        content: "";
+        flex-grow: 1;
+        border-bottom: 1px dotted rgba(0,0,0,0.3);
+        margin: 0 0.5rem;
+        min-width: 1rem;
+        order: 2;
+      }
+
+      em {
+        flex-shrink: 0;
+        font-style: normal;
+        opacity: 0.6;
+        order: 3;
+      }
+
+      strong {
+        order: 1;
+      }
+
+      a {
+        border-bottom: none;
+      }
+    }
+  }
+
+  .essentiels-footer {
+    hr {
+      border: 0;
+      border-top: 1px solid;
+    }
+  }
+
+  /* Hover effect sur les liens (comme les articles) */
+  .essentiels-content a {
+    transition: background-color 0.2s ease;
+    padding: 0 2px;
+    margin: 0 -2px;
+    border-radius: 2px;
+    border-bottom: none;
+
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.12);
+    }
+  }
 }

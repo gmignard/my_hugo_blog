@@ -1,13 +1,31 @@
 {{ define "main" }}
 {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
-<div class="max-w-4xl my-12 md:mx-auto text-center">
-  <div class="mx-4 md:mx-0">
-    <span class="date text-base opacity-25"> Le {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
-    <h1 class="text-5xl my-2">{{ .Params.emoji}} {{ .Title }}</h1>
-    <h3 class="date text-base opacity-25 italic">{{ .Params.subtitle }}</h3>
-  </div>
-</div>
-<div data-pswp class="main post max-w-4xl md:mx-auto">
+
+{{/* En-tête enrichi */}}
+<header class="article-header max-w-4xl my-12 mx-8 md:mx-auto text-left">
+  {{/* Catégorie */}}
+  {{ with .Params.categories }}
+    <a href="/{{ index . 0 | urlize }}/" class="article-category text-sm uppercase tracking-widest opacity-50">{{ index . 0 }}</a>
+  {{ end }}
+
+  <hr class="article-separator my-6 w-full border-gray-300">
+
+  {{/* Titre */}}
+  <h1 class="article-title text-2xl md:text-4xl my-4">{{ .Params.emoji }} {{ .Title }}</h1>
+
+  {{/* Chapô optionnel */}}
+  {{ with .Params.subtitle }}
+    <p class="article-chapo text-base opacity-70 italic">{{ . }}</p>
+  {{ end }}
+
+  {{/* Date */}}
+  <p class="article-date text-sm opacity-50 mt-6">{{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
+
+  <hr class="article-separator my-6 w-full border-gray-300">
+</header>
+
+{{/* Contenu de l'article */}}
+<div data-pswp class="main post article-post max-w-4xl mx-8 md:mx-auto">
   {{ if .IsTranslated }}
     {{ range .Translations }}
     <p class="translation en">
@@ -15,14 +33,37 @@
     </p>
     {{ end}}
   {{ end }}
+
   {{ partial "gallery.html" . }}
+
   {{.Content}}
+
   {{if .Params.gear }}
     <p class="center t12"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
   {{ end }}
-<p style="mb-8 mt-12">Envie d’échanger sur le sujet ? Rejoins-moi sur <a href="https://instagram.com/{{ .Site.Params.social.instagram }}" target="_blank">Instagram</a> & <a href="https://linkedin.com/in/{{ .Site.Params.social.linkedin }}" target="_blank">Linkedin</a>.
-</p>
 
+  <hr class="my-8 border-gray-200">
+  <p class="text-sm opacity-70">
+    PS: Pour prolonger → mon podcast <a href="/podcast/">Slow is Beautiful</a><br>
+    et <a href="/essentiels/">ma page essentiels</a> pour les curieux.
+  </p>
 </div>
-{{ partial "tinyletter.html" . }}
+
+{{/* Navigation prev/next */}}
+<nav class="article-nav max-w-4xl mx-8 md:mx-auto my-12">
+  <hr class="my-8 border-gray-300">
+  <div class="flex justify-between items-center">
+    {{ with .PrevInSection }}
+      <a href="{{ .Permalink }}" class="nav-prev text-sm opacity-70 hover:opacity-100">← {{ .Title | truncate 30 }}</a>
+    {{ else }}
+      <span></span>
+    {{ end }}
+    {{ with .NextInSection }}
+      <a href="{{ .Permalink }}" class="nav-next text-sm opacity-70 hover:opacity-100">{{ .Title | truncate 30 }} →</a>
+    {{ else }}
+      <span></span>
+    {{ end }}
+  </div>
+</nav>
+
 {{ end }}

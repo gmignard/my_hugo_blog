@@ -1,0 +1,39 @@
+{{ define "main" }}
+<div class="journal-list max-w-4xl mx-8 lg:mx-auto">
+
+  {{/* Intro Journal */}}
+  <div class="journal-intro mb-12">
+    <span class="journal-label text-base uppercase tracking-widest opacity-50">Journal</span>
+    <p class="journal-tagline text-xl md:text-2xl mt-3">Pensées, récits et explorations.</p>
+  </div>
+
+  <hr class="my-8 border-current">
+
+  {{/* Timeline des articles groupés par année */}}
+  <div class="timeline">
+    {{ range .RegularPages.GroupByDate "2006" }}
+      <div class="timeline-year mb-10">
+        <h3 class="year-header text-2xl font-bold mb-4 pb-2 border-b border-current">{{ .Key }}</h3>
+        <ul class="timeline-posts">
+          {{ range .Pages }}
+            <li class="timeline-item py-2 hover:bg-black/5 transition-colors rounded px-2 -mx-2">
+              <a href="{{ .Permalink }}" class="timeline-link flex items-baseline gap-4">
+                <span class="timeline-date text-sm opacity-50 w-16 flex-shrink-0">
+                  {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) | truncate 3 "" }}
+                </span>
+                <span class="timeline-category text-xs uppercase tracking-wide opacity-40 w-20 flex-shrink-0">
+                  {{ with .Params.categories }}{{ index . 0 }}{{ end }}
+                </span>
+                <span class="timeline-title flex-grow">
+                  {{ .Params.emoji }} {{ .Title }}
+                </span>
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}

@@ -25,9 +25,9 @@ paginate = 12
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
 
-  sansSerifFont = "PT Serif"
-  titleFont = "Poppins"
-  bodyFont = "PT Serif"
+  sansSerifFont = "Space Grotesk"
+  titleFont = "Space Grotesk"
+  bodyFont = "Inter"
 
   hasLogo = true
   accentColor = "#000000"
@@ -70,12 +70,6 @@ paginate = 12
   weight = 3
   identifier = "journal"
   url = "/posts/"
-[[menu.main]]
-  name = "Podcast"
-  title = "Podcast"
-  weight = 4
-  identifier = "podcast"
-  url = "/podcast"  
 [[menu.main]]
   name = "Info"
   title = "Info"
