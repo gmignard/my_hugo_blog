@@ -10,8 +10,8 @@
     {{ $xs := printf "%s0x%s0" $width $height }}
     {{ $md := printf "%s00x%s00" (mul $width 2) (mul $height 2) }}
   {{ end }}
-  {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
-  {{ $small := $src.Resize (printf "%s webp" $md) }}
+  {{ $lqip := $src.Resize (printf "%s webp q90" $xs) }}
+  {{ $small := $src.Resize (printf "%s webp q90" $md) }}
   {{ if eq $src.MediaType.SubType "gif" }}
     {{ $lqip = $src.Resize (printf "%s" $xs) }}
     {{ $small = $src }}
