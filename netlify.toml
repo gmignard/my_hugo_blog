@@ -1,13 +1,19 @@
+[build]
+  command = "hugo --gc --minify"
+
 [context.production.environment]
-  HUGO_VERSION = "0.92.0"
+  HUGO_VERSION = "0.139.0"
+  HUGO_ENV = "production"
+
 [context.deploy-preview]
-  command = "hugo -b $DEPLOY_PRIME_URL -v -D -E -F"
+  command = "hugo -b $DEPLOY_PRIME_URL --gc --minify -D -F"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.92.0"
+  HUGO_VERSION = "0.139.0"
+
 [context.branch-deploy]
-  command = "hugo -b $DEPLOY_PRIME_URL -v -D -E -F"
+  command = "hugo -b $DEPLOY_PRIME_URL --gc --minify -D -F"
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.92.0"
+  HUGO_VERSION = "0.139.0"
 
 [[headers]]
   for = "*.js" # js files should be set this way
