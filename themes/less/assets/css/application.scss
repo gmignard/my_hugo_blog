@@ -565,6 +565,30 @@ span.link-subtitle {
       .timeline-link {
         border-bottom: none;
         text-decoration: none;
+
+        /* Mobile: affichage empilé */
+        @media (max-width: 767px) {
+          display: block;
+
+          .timeline-date,
+          .timeline-category {
+            display: inline;
+            width: auto;
+            font-size: 0.75rem;
+          }
+
+          .timeline-date::after {
+            content: "·";
+            margin: 0 0.35rem;
+            opacity: 0.4;
+          }
+
+          .timeline-title {
+            display: block;
+            margin-top: 0.25rem;
+            font-size: 1rem;
+          }
+        }
       }
       .timeline-date {
         font-family: var(--sans-serif-font);
@@ -697,40 +721,74 @@ span.link-subtitle {
     }
 
     li {
-      display: flex;
-      align-items: baseline;
-      padding: 0.35rem 0;
       font-family: var(--sans-serif-font);
       font-size: 0.9rem;
 
-      strong {
-        font-weight: 500;
-        flex-shrink: 0;
+      /* Mobile: affichage empilé */
+      @media (max-width: 767px) {
+        display: block;
+        padding: 0.75rem 0;
+        border-bottom: 1px solid rgba(0,0,0,0.1);
 
-        a {
+        &:last-child {
           border-bottom: none;
+        }
+
+        strong {
+          display: block;
+          font-weight: 600;
+          margin-bottom: 0.25rem;
+
+          a {
+            border-bottom: none;
+          }
+        }
+
+        em {
+          display: block;
+          font-style: normal;
+          opacity: 0.6;
+          font-size: 0.85rem;
+        }
+
+        /* Masquer les points de suite sur mobile */
+        &::before {
+          display: none;
         }
       }
 
-      /* Points de suite */
-      &::before {
-        content: "";
-        flex-grow: 1;
-        border-bottom: 1px dotted rgba(0,0,0,0.3);
-        margin: 0 0.5rem;
-        min-width: 1rem;
-        order: 2;
-      }
+      /* Desktop: affichage en ligne avec points de suite */
+      @media (min-width: 768px) {
+        display: flex;
+        align-items: baseline;
+        padding: 0.35rem 0;
 
-      em {
-        flex-shrink: 0;
-        font-style: normal;
-        opacity: 0.6;
-        order: 3;
-      }
+        strong {
+          font-weight: 500;
+          flex-shrink: 0;
+          order: 1;
 
-      strong {
-        order: 1;
+          a {
+            border-bottom: none;
+          }
+        }
+
+        /* Points de suite */
+        &::before {
+          content: "";
+          flex-grow: 1;
+          border-bottom: 1px dotted rgba(0,0,0,0.3);
+          margin: 0 0.5rem;
+          min-width: 1rem;
+          order: 2;
+        }
+
+        em {
+          flex-shrink: 0;
+          font-style: normal;
+          opacity: 0.6;
+          order: 3;
+        }
       }
 
       a {
