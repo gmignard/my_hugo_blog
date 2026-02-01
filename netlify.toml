@@ -1,5 +1,6 @@
 [build]
   command = "hugo --gc --minify"
+  functions = "api"
 
 [context.production.environment]
   HUGO_VERSION = "0.139.0"
@@ -27,8 +28,6 @@
   for = "*.css" # css files too
   [headers.values]
     Cache-Control = "public, max-age=31536000"
-[build]
-  functions = "api"
 [[redirects]]
   from = "/api/*"
   to= "/.netlify/functions/:splat"
