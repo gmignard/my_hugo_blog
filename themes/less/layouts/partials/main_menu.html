@@ -3,7 +3,7 @@
   <ul>
     {{ range $index, $element  := .Site.Menus.main }}
     <li>
-      <a class="nav-item{{if or ($currentPage.IsMenuCurrent "main" $element) ($currentPage.HasMenuCurrent "main" $element) }} active{{end}}" href="{{ $element.URL }}" title="{{ $element.Title }}">{{ $element.Name }}</a>
+      <a class="nav-item{{if or ($currentPage.IsMenuCurrent "main" $element) ($currentPage.HasMenuCurrent "main" $element) }} active{{end}}" href="{{ $element.URL }}" title="{{ $element.Title }}"{{ if eq $element.Identifier "work" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $element.Name }}</a>
       </li>
     {{ end }}
   </ul>

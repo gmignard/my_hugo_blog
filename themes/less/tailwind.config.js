@@ -6,10 +6,10 @@ const classes = JSON.parse(fs.readFileSync("./hugo_stats.json"))["htmlElements"]
 module.exports = {
    content: {
     files: [
-      './themes/simple/layouts/**/*.html',
+      './themes/less/layouts/**/*.html',
       './content/**/*.md',
       './public/**/*.html',
-      './themes/simple/assets/**/*.js',
+      './themes/less/assets/**/*.js',
       './hugo_stats.json'
     ],
   },

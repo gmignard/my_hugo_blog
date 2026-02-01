@@ -1,13 +1,20 @@
+[build]
+  command = "hugo --gc --minify"
+  functions = "api"
+
 [context.production.environment]
-  HUGO_VERSION = "0.92.0"
+  HUGO_VERSION = "0.123.8"
+  HUGO_ENV = "production"
+
 [context.deploy-preview]
-  command = "hugo -b $DEPLOY_PRIME_URL -v -D -E -F"
+  command = "hugo -b $DEPLOY_PRIME_URL --gc --minify -D -F"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.92.0"
+  HUGO_VERSION = "0.123.8"
+
 [context.branch-deploy]
-  command = "hugo -b $DEPLOY_PRIME_URL -v -D -E -F"
+  command = "hugo -b $DEPLOY_PRIME_URL --gc --minify -D -F"
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.92.0"
+  HUGO_VERSION = "0.123.8"
 
 [[headers]]
   for = "*.js" # js files should be set this way
@@ -21,8 +28,6 @@
   for = "*.css" # css files too
   [headers.values]
     Cache-Control = "public, max-age=31536000"
-[build]
-  functions = "api"
 [[redirects]]
   from = "/api/*"
   to= "/.netlify/functions/:splat"
