@@ -3,37 +3,32 @@ name: Everyday
 on:
   push:
     paths:
-      - .github/workflows/daily.yml # Only run a new workflow every time this file (flat.yaml) file changes
-  workflow_dispatch: # Required even though this is currently empty
+      - .github/workflows/everyday.yaml
+  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" # Run this workflow every 5 minutes
+    - cron: "0 * * * *" # Run this workflow every hour
 
 jobs:
   daily:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0' # Not needed with a .ruby-version file
+          ruby-version: '3.0'
       - name: Fetch Everyday album
         run: |
-          rm content/everyday/*.jpg
+          rm -f content/everyday/*.jpg
           ruby bin/download-lr.rb ${{ secrets.LIGHTROOM_SPACE_ID }} ${{ secrets.LIGHTROOM_ALBUM_ID }}
-      - name: Commit files
-        id: commit
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
           git add -A content/everyday/
-          git commit -m "Sync the everyday album" || echo "nothing to do and it is fine"
-          git pull origin ${{ github.ref }}
-          echo "::set-output name=push::true"
-        shell: bash
-      - name: Push changes
-        if: steps.commit.outputs.push == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Sync the everyday album"
+            git push
+          fi
