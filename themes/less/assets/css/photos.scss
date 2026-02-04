@@ -13,6 +13,19 @@ figure {
   }
 }
 
+/* Éviter la double marge entre figure et photoset */
+figure + .photoset,
+.photoset + figure {
+  margin-top: 0 !important;
+}
+
+@media only screen and (max-width: 812px) {
+  figure + .photoset,
+  .photoset + figure {
+    margin-top: 0 !important;
+  }
+}
+
 .photoset {
   display: grid;
   grid-gap: 25px;
