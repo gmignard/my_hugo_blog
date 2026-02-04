@@ -16,14 +16,14 @@
 	align-content: flex-start;
 
 	.item {
-		height: 50vh;
+		height: 40vh;
     width: auto;
     @media only screen and (max-width: 812px) {
       width: 100%;
       height: auto;
     }
 		flex-grow: 1;
-		outline: 6px solid var(--white-background);
+		outline: 2px solid var(--white-background);
 		position: relative;
 		background-size: 100%;
 

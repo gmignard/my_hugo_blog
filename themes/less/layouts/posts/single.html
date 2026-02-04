@@ -3,21 +3,18 @@
 
 {{/* En-tête enrichi */}}
 <header class="article-header max-w-4xl my-12 mx-8 md:mx-auto text-left">
-  {{/* Catégorie */}}
-  {{ with .Params.categories }}
-    <a href="/{{ index . 0 | urlize }}/" class="article-category text-sm uppercase tracking-widest opacity-50">{{ index . 0 }}</a>
-  {{ end }}
+  {{/* Date et Catégorie sur la même ligne */}}
+  <p class="article-meta text-sm uppercase tracking-widest opacity-50">
+    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ with .Params.categories }} / {{ index . 0 }}{{ end }}
+  </p>
 
   {{/* Titre */}}
   <h1 class="article-title text-2xl md:text-4xl my-4 mt-6">{{ .Params.emoji }} {{ .Title }}</h1>
 
   {{/* Chapô optionnel */}}
   {{ with .Params.subtitle }}
-    <p class="article-chapo text-lg opacity-80 italic mt-2">{{ . }}</p>
+    <p class="article-chapo text-base opacity-70 italic mt-2">{{ . }}</p>
   {{ end }}
-
-  {{/* Date */}}
-  <p class="article-date text-xs opacity-40 mt-6">{{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
 
   <hr class="article-separator my-6 w-full border-gray-300">
 </header>
