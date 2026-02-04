@@ -19,6 +19,12 @@ figure {
   grid-template-columns: repeat(3, 1fr);
   margin-top: 0;
   margin-bottom: 25px;
+
+  /* Supprimer les marges des figures à l'intérieur du photoset */
+  figure {
+    margin: 0 !important;
+  }
+
   &.always-2 {
     grid-template-columns: repeat(2, 1fr);
   }
