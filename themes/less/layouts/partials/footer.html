@@ -1,18 +1,43 @@
-<footer class="w-full p-12 text-sm">
- <div class="container max-w-4xl w-full mx-auto flex flex-col justify-between md:flex-row gap-4">
-   <div class="text-left">
-     © {{ now.Format "2006"}} {{ $.Site.Params.social.domain }} 🤙</br>
-     <a href="mailto:{{ $.Site.Params.social.email }}">hello@gregorymignard.com</a>
-  </div>
-  <div class="text-center">
-    <a class="w-36 block" href="https://www.onepercentfortheplanet.fr" target="_blank" ><img src="/1ftp.svg" alt="1% for The Planet" width="143" height="60"></a>
-  </div>
-  <div class="md:text-right">
-    <a href="/blogroll">Blogroll</a></br>
-    <a href="/essentiels/">Essentiels</a></br>
-    <a href="/shop/">Shop</a></br>
-    <a href="/podcast/">Podcast</a>
+<footer class="w-full text-sm">
+  <!-- Séparateur -->
+  <div class="footer-separator max-w-4xl mx-auto px-8">
+    <hr class="border-t border-gray-300" style="border: 0; border-top: 1px solid rgba(0,0,0,0.2);">
   </div>
 
- </div>
+  <div class="container max-w-4xl w-full mx-auto px-8 py-12">
+    <!-- Phrase signature -->
+    <p class="footer-signature text-center italic opacity-60 mb-8" style="font-size: 0.9em;">
+      Finistère Nord, Bretagne.
+    </p>
+
+    <!-- Ligne email/liens -->
+    <div class="flex flex-col md:flex-row justify-between items-center gap-4 mb-6">
+      <div class="footer-email">
+        <a href="mailto:{{ $.Site.Params.social.email }}">hello@gregorymignard.com</a>
+      </div>
+      <div class="footer-links">
+        <a href="/blogroll">Blogroll</a>
+        <span class="mx-2 opacity-40">·</span>
+        <a href="/essentiels/">Essentiels</a>
+        <span class="mx-2 opacity-40">·</span>
+        <a href="/shop/">Shop</a>
+        <span class="mx-2 opacity-40">·</span>
+        <a href="/podcast/">Podcast</a>
+        <span class="mx-2 opacity-40">·</span>
+        <a href="https://gregorymignard.com/posts/index.xml">RSS</a>
+      </div>
+    </div>
+
+    <!-- Ligne copyright/badge -->
+    <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+      <div class="footer-copyright opacity-60">
+        © {{ now.Format "2006" }} Grégory Mignard
+      </div>
+      <div class="footer-badge">
+        <a class="block" href="https://www.onepercentfortheplanet.fr" target="_blank">
+          <img src="/1ftp.svg" alt="1% for The Planet" width="120" height="50">
+        </a>
+      </div>
+    </div>
+  </div>
 </footer>

@@ -12,7 +12,7 @@
   --white-background: #DBD7D2;
   --max-width: 74rem;
   --light-gray: rgba(0,0,0,0.3);
-  --gap: 30px;
+  --gap: 14px;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap');
@@ -491,10 +491,10 @@ span.link-subtitle {
 }
 .mgrid img,
 .mgrid video {
-  width: calc(100% - var(--gap, 18px));
-  height: calc(100% - var(--gap, 18px));
-  left: calc(var(--gap, 18px) * 0.5);
-  top: calc(var(--gap, 18px) * 0.5);
+  width: calc(100% - var(--gap, 14px));
+  height: calc(100% - var(--gap, 14px));
+  left: calc(var(--gap, 14px) * 0.5);
+  top: calc(var(--gap, 14px) * 0.5);
 }
 
 /* Easter egg - scroll reward */
