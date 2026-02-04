@@ -2,7 +2,7 @@
 {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
 
 {{/* En-tête enrichi */}}
-<header class="article-header max-w-4xl my-12 mx-8 md:mx-auto text-left">
+<header class="article-header my-12 mx-8 md:mx-auto text-left" style="max-width: 825px;">
   {{/* Date et Catégorie sur la même ligne */}}
   <p class="article-meta text-sm uppercase tracking-widest opacity-50" style="font-family: var(--sans-serif-font);">
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ with .Params.categories }} / <a href="/{{ index . 0 | urlize }}/" class="hover:opacity-100">{{ index . 0 }}</a>{{ end }}
@@ -20,7 +20,7 @@
 </header>
 
 {{/* Contenu de l'article */}}
-<div data-pswp class="main post article-post max-w-4xl mx-8 md:mx-auto">
+<div data-pswp class="main post article-post mx-8 md:mx-auto" style="max-width: 825px;">
   {{ if .IsTranslated }}
     {{ range .Translations }}
     <p class="translation en">
@@ -45,7 +45,7 @@
 </div>
 
 {{/* Navigation prev/next */}}
-<nav class="article-nav max-w-4xl mx-8 md:mx-auto my-12">
+<nav class="article-nav mx-8 md:mx-auto my-12" style="max-width: 825px;">
   <hr class="my-8 border-gray-300">
   <div class="flex justify-between items-center">
     {{ with .PrevInSection }}
