@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
-<div data-pswp class="main post mx-8 lg:max-w-4xl lg:mx-auto">
+<div data-pswp class="main post mx-8 lg:mx-auto" style="max-width: 825px;">
   {{.Content}}
 </p>
 

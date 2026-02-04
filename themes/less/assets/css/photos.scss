@@ -1,27 +1,37 @@
+/* Utiliser uniquement margin-bottom pour éviter les doubles marges */
 figure {
-  margin-top: 0.5rem !important;
-  margin: 0;
+  margin-top: 0 !important;
+  margin-bottom: 25px !important;
+  margin-left: 0;
+  margin-right: 0;
   p {
     margin-top: 10px;
     margin-bottom: 0;
   }
   @media only screen and (max-width: 812px) {
-    margin-top: 0.5rem !important;
-    margin-bottom: 0;
+    margin-bottom: 16px !important;
   }
 }
 
 .photoset {
   display: grid;
-  grid-gap: 0.6rem;
+  grid-gap: 25px;
   grid-template-columns: repeat(3, 1fr);
+  margin-top: 0;
+  margin-bottom: 25px;
+
+  /* Supprimer les marges des figures à l'intérieur du photoset */
+  figure {
+    margin: 0 !important;
+  }
+
   &.always-2 {
     grid-template-columns: repeat(2, 1fr);
   }
   @media only screen and (max-width: 812px) {
     margin-top: 0;
-    margin-bottom: 0;
-    grid-gap: 0.5rem;
+    margin-bottom: 16px;
+    grid-gap: 16px;
   }
   &.max-4 {
     grid-template-columns: repeat(4, 1fr);

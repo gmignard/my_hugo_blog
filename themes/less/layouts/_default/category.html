@@ -1,11 +1,38 @@
 {{ define "main" }}
-<div class="xl:max-w-6xl mx-8 xl:mx-auto">
-  <div class="grid md:grid-cols-2 gap-12">
-    {{ range $index, $post := (.Paginator 12).Pages }}
-      {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
+<div class="journal-list mx-8 lg:mx-auto" style="max-width: 825px;">
+
+  {{/* En-tête de catégorie */}}
+  <div class="journal-intro mb-12">
+    <span class="journal-label text-base uppercase tracking-widest opacity-50">{{ .Title }}</span>
+    {{ with .Description }}
+      <p class="journal-tagline text-xl md:text-2xl mt-3">{{ . }}</p>
     {{ end }}
   </div>
-</div>
-  {{ template "_internal/pagination.html" . }}
-{{ end }}
 
+  <hr class="my-8 border-current">
+
+  {{/* Timeline des articles groupés par année */}}
+  <div class="timeline">
+    {{ range .Pages.GroupByDate "2006" }}
+      <div class="timeline-year mb-10">
+        <h3 class="year-header text-2xl font-bold mb-4 pb-2 border-b border-current">{{ .Key }}</h3>
+        <ul class="timeline-posts">
+          {{ range .Pages }}
+            <li class="timeline-item py-2 hover:bg-black/5 transition-colors rounded px-2 -mx-2">
+              <a href="{{ .Permalink }}" class="timeline-link flex items-baseline gap-4">
+                <span class="timeline-date text-sm opacity-50 w-16 flex-shrink-0">
+                  {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) | truncate 3 "" }}
+                </span>
+                <span class="timeline-title flex-grow">
+                  {{ .Params.emoji }} {{ .Title }}
+                </span>
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}

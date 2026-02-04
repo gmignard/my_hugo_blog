@@ -2,30 +2,25 @@
 {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
 
 {{/* En-tête enrichi */}}
-<header class="article-header max-w-4xl my-12 mx-8 md:mx-auto text-left">
-  {{/* Catégorie */}}
-  {{ with .Params.categories }}
-    <a href="/{{ index . 0 | urlize }}/" class="article-category text-sm uppercase tracking-widest opacity-50">{{ index . 0 }}</a>
-  {{ end }}
-
-  <hr class="article-separator my-6 w-full border-gray-300">
+<header class="article-header my-12 mx-8 md:mx-auto text-left" style="max-width: 825px;">
+  {{/* Date et Catégorie sur la même ligne */}}
+  <p class="article-meta text-sm uppercase tracking-widest opacity-50" style="font-family: var(--sans-serif-font);">
+    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ with .Params.categories }} / <a href="/{{ index . 0 | urlize }}/" class="hover:opacity-100">{{ index . 0 }}</a>{{ end }}
+  </p>
 
   {{/* Titre */}}
-  <h1 class="article-title text-2xl md:text-4xl my-4">{{ .Params.emoji }} {{ .Title }}</h1>
+  <h1 class="article-title text-xl md:text-3xl my-4 mt-6">{{ .Params.emoji }} {{ .Title }}</h1>
 
   {{/* Chapô optionnel */}}
   {{ with .Params.subtitle }}
-    <p class="article-chapo text-base opacity-70 italic">{{ . }}</p>
+    <p class="article-chapo text-base opacity-50 italic mt-2">{{ . }}</p>
   {{ end }}
-
-  {{/* Date */}}
-  <p class="article-date text-sm opacity-50 mt-6">{{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
 
   <hr class="article-separator my-6 w-full border-gray-300">
 </header>
 
 {{/* Contenu de l'article */}}
-<div data-pswp class="main post article-post max-w-4xl mx-8 md:mx-auto">
+<div data-pswp class="main post article-post mx-8 md:mx-auto" style="max-width: 825px;">
   {{ if .IsTranslated }}
     {{ range .Translations }}
     <p class="translation en">
@@ -50,7 +45,7 @@
 </div>
 
 {{/* Navigation prev/next */}}
-<nav class="article-nav max-w-4xl mx-8 md:mx-auto my-12">
+<nav class="article-nav mx-8 md:mx-auto my-12" style="max-width: 825px;">
   <hr class="my-8 border-gray-300">
   <div class="flex justify-between items-center">
     {{ with .PrevInSection }}
