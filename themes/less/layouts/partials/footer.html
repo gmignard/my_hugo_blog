@@ -4,40 +4,40 @@
     <hr style="border: 0; border-top: 1px solid rgba(0,0,0,0.2);">
   </div>
 
-  <div class="mx-8 lg:mx-auto py-12" style="max-width: 825px;">
+  <div class="mx-8 lg:mx-auto py-12 text-center" style="max-width: 825px;">
     <!-- Phrase signature -->
-    <p class="footer-signature text-center italic opacity-60 mb-8" style="font-size: 0.9em;">
+    <p class="footer-signature italic opacity-60 mb-6" style="font-size: 0.9em;">
       Finistère Nord, Bretagne.
     </p>
 
-    <!-- Ligne email/liens -->
-    <div class="flex flex-col md:flex-row justify-between items-center gap-4 mb-6">
-      <div class="footer-email">
-        <a href="mailto:{{ $.Site.Params.social.email }}">hello@gregorymignard.com</a>
-      </div>
-      <div class="footer-links flex items-center gap-2">
-        <a href="/blogroll">Blogroll</a>
-        <span class="opacity-40">·</span>
-        <a href="/essentiels/">Essentiels</a>
-        <span class="opacity-40">·</span>
-        <a href="/shop/">Shop</a>
-        <span class="opacity-40">·</span>
-        <a href="/podcast/">Podcast</a>
-        <span class="opacity-40">·</span>
-        <a href="https://gregorymignard.com/posts/index.xml">RSS</a>
-      </div>
+    <!-- Liens -->
+    <div class="footer-links flex justify-center items-center gap-2 mb-6">
+      <a href="/blogroll">Blogroll</a>
+      <span class="opacity-40">·</span>
+      <a href="/essentiels/">Essentiels</a>
+      <span class="opacity-40">·</span>
+      <a href="/shop/">Shop</a>
+      <span class="opacity-40">·</span>
+      <a href="/podcast/">Podcast</a>
+      <span class="opacity-40">·</span>
+      <a href="https://gregorymignard.com/posts/index.xml">RSS</a>
     </div>
 
-    <!-- Ligne copyright/badge -->
-    <div class="flex flex-col md:flex-row justify-between items-center gap-4">
-      <div class="footer-copyright opacity-60">
-        © {{ now.Format "2006" }} Grégory Mignard
-      </div>
-      <div class="footer-badge">
-        <a class="block" href="https://www.onepercentfortheplanet.fr" target="_blank">
-          <img src="/1ftp.svg" alt="1% for The Planet" style="height: 35px; width: auto;">
-        </a>
-      </div>
+    <!-- Email -->
+    <p class="footer-email opacity-60 mb-2" style="font-family: var(--serif-font); font-size: 0.85em;">
+      <a href="mailto:{{ $.Site.Params.social.email }}">hello@gregorymignard.com</a>
+    </p>
+
+    <!-- Copyright -->
+    <p class="footer-copyright opacity-60 mb-6" style="font-family: var(--serif-font); font-size: 0.85em;">
+      © {{ now.Format "2006" }} Grégory Mignard
+    </p>
+
+    <!-- Badge 1% -->
+    <div class="footer-badge">
+      <a class="inline-block" href="https://www.onepercentfortheplanet.fr" target="_blank">
+        <img src="/1ftp.svg" alt="1% for The Planet" style="height: 35px; width: auto;">
+      </a>
     </div>
   </div>
 </footer>
