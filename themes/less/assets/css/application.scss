@@ -692,6 +692,56 @@ span.link-subtitle {
     }
   }
 
+  /* Vidéos YouTube embed */
+  .video-embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    margin-top: 0 !important;
+    margin-bottom: 25px !important;
+    @media only screen and (min-width: 812px) {
+      left: 50%;
+      transform: translateX(-50%);
+      width: calc(100% + 10rem);
+      max-width: none;
+    }
+    @media only screen and (max-width: 812px) {
+      margin-bottom: 16px !important;
+    }
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  /* Supprimer les marges des paragraphes vides entre les éléments photo/video */
+  > p:empty,
+  > p:has(> br:only-child) {
+    margin: 0 !important;
+    padding: 0 !important;
+    display: none;
+  }
+
+  /* Éviter double marge entre éléments adjacents */
+  figure + figure,
+  figure + .photoset,
+  .photoset + figure,
+  .photoset + .photoset,
+  .video-loop + figure,
+  .video-loop + .photoset,
+  figure + .video-loop,
+  .photoset + .video-loop,
+  .video-embed + figure,
+  .video-embed + .photoset,
+  figure + .video-embed,
+  .photoset + .video-embed {
+    margin-top: 0 !important;
+  }
+
   > p > img {
     @media only screen and (min-width: 812px) {
       display: block;
