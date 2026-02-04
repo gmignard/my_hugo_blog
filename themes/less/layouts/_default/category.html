@@ -1,4 +1,17 @@
 {{ define "main" }}
+
+{{/* En-tête de catégorie - même style que les articles */}}
+<header class="article-header max-w-4xl my-12 mx-8 md:mx-auto text-left">
+  <h1 class="article-title text-2xl md:text-4xl my-4">{{ .Title }}</h1>
+
+  {{ with .Description }}
+    <p class="article-chapo text-base opacity-70 italic mt-2">{{ . }}</p>
+  {{ end }}
+
+  <hr class="article-separator my-6 w-full border-gray-300">
+</header>
+
+{{/* Grille d'articles */}}
 <div class="xl:max-w-6xl mx-8 xl:mx-auto">
   <div class="grid md:grid-cols-2 gap-12">
     {{ range $index, $post := (.Paginator 12).Pages }}
@@ -6,6 +19,7 @@
     {{ end }}
   </div>
 </div>
-  {{ template "_internal/pagination.html" . }}
-{{ end }}
 
+{{ template "_internal/pagination.html" . }}
+
+{{ end }}

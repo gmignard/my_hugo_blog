@@ -4,8 +4,8 @@
 {{/* En-tête enrichi */}}
 <header class="article-header max-w-4xl my-12 mx-8 md:mx-auto text-left">
   {{/* Date et Catégorie sur la même ligne */}}
-  <p class="article-meta text-sm uppercase tracking-widest opacity-50">
-    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ with .Params.categories }} / {{ index . 0 }}{{ end }}
+  <p class="article-meta text-sm uppercase tracking-widest opacity-50" style="font-family: var(--sans-serif-font);">
+    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ with .Params.categories }} / <a href="/{{ index . 0 | urlize }}/" class="hover:opacity-100">{{ index . 0 }}</a>{{ end }}
   </p>
 
   {{/* Titre */}}
