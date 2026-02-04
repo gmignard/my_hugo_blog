@@ -742,6 +742,19 @@ span.link-subtitle {
     margin-top: 0 !important;
   }
 
+  /* Espacement après un titre suivi d'une image/photoset */
+  h2 + figure,
+  h2 + .photoset,
+  h2 + p:has(> img),
+  h3 + figure,
+  h3 + .photoset,
+  h3 + p:has(> img),
+  h4 + figure,
+  h4 + .photoset,
+  h4 + p:has(> img) {
+    margin-top: 20px !important;
+  }
+
   > p > img {
     @media only screen and (min-width: 812px) {
       display: block;
