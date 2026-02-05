@@ -694,13 +694,11 @@ span.link-subtitle {
 
   /* Vidéos YouTube embed */
   .video-embed {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
+    aspect-ratio: 16 / 9;
     margin-top: 0 !important;
     margin-bottom: 25px !important;
     @media only screen and (min-width: 812px) {
+      position: relative;
       left: 50%;
       transform: translateX(-50%);
       width: calc(100% + 15rem);
@@ -710,17 +708,13 @@ span.link-subtitle {
       margin-bottom: 16px !important;
     }
     iframe {
-      position: absolute;
-      top: 0;
-      left: 0;
       width: 100%;
       height: 100%;
     }
   }
 
   /* Supprimer les marges des paragraphes vides entre les éléments photo/video */
-  > p:empty,
-  > p:has(> br:only-child) {
+  > p:empty {
     margin: 0 !important;
     padding: 0 !important;
     display: none;
