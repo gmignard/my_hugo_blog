@@ -2,7 +2,7 @@
 {{ $allimages := slice }}
 {{/* Récupérer les images */}}
 {{ range sort (.Resources.ByType "image") "Name" "desc"}}
-  {{ $allimages = $allimages | append (dict "Image" . "IsVideo" false "VideoWidth" 0 "VideoHeight" 0) }}
+  {{ $allimages = $allimages | append (dict "Image" . "Name" .Name "IsVideo" false "VideoWidth" 0 "VideoHeight" 0) }}
 {{ end }}
 {{/* Récupérer les vidéos avec détection du ratio par suffixe _WxH */}}
 {{ range sort (.Resources.ByType "video") "Name" "desc"}}
@@ -20,10 +20,10 @@
       {{ $videoHeight = int (index $parts 1) }}
     {{ end }}
   {{ end }}
-  {{ $allimages = $allimages | append (dict "Image" . "IsVideo" true "VideoWidth" $videoWidth "VideoHeight" $videoHeight) }}
+  {{ $allimages = $allimages | append (dict "Image" . "Name" .Name "IsVideo" true "VideoWidth" $videoWidth "VideoHeight" $videoHeight) }}
 {{ end }}
-{{/* Trier le tout par nom */}}
-{{ $allimages = sort $allimages "Image.Name" "desc" }}
+{{/* Trier le tout par nom en utilisant la clé directe "Name" */}}
+{{ $allimages = sort $allimages "Name" "desc" }}
 {{ $rows := dict }}
 {{ $columns := dict }}
 {{ range $index, $img := $allimages }}
