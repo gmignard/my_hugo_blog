@@ -29,6 +29,8 @@ jobs:
         with:
           hugo-version: '0.123.8'
           extended: true
+      - name: Install ImageMagick
+        run: sudo apt-get install -y imagemagick
       - name: Clean up existing 0-byte images
         run: |
           count=$(find content/everyday -name "*.jpg" -size 0 | wc -l)
