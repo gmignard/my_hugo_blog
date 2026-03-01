@@ -6,7 +6,7 @@ on:
       - .github/workflows/everyday.yaml
   workflow_dispatch:
   schedule:
-    - cron: "0 6 1,15 * *" # Run on the 1st and 15th of each month
+    - cron: "0 * * * *" # Run this workflow every hour
 
 jobs:
   daily:
@@ -17,47 +17,17 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.0'
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'yarn'
-      - name: Install dependencies
-        run: yarn install --frozen-lockfile
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: '0.123.8'
-          extended: true
-      - name: Install ImageMagick
-        run: sudo apt-get install -y imagemagick
-      - name: Clean up existing 0-byte images
-        run: |
-          count=$(find content/everyday -name "*.jpg" -size 0 | wc -l)
-          if [ "$count" -gt 0 ]; then
-            find content/everyday -name "*.jpg" -size 0 -delete
-            echo "Deleted $count 0-byte image(s)"
-          else
-            echo "No 0-byte images found"
-          fi
       - name: Fetch Everyday album
         run: |
           rm -f content/everyday/*.jpg
           ruby bin/download-lr.rb ${{ secrets.LIGHTROOM_SPACE_ID }} ${{ secrets.LIGHTROOM_ALBUM_ID }}
-      - name: Test Hugo build
-        run: |
-          if ! hugo --minify; then
-            echo "Hugo build FAILED - aborting commit to avoid wasting Netlify build minutes"
-            exit 1
-          fi
-          echo "Hugo build succeeded"
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
           git add -A content/everyday/
           if git diff --staged --quiet; then
-            echo "Aucun changement détecté, skip du commit"
+            echo "No changes to commit"
           else
             git commit -m "Sync the everyday album"
             git push
