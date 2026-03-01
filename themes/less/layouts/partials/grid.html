@@ -12,10 +12,8 @@
         {{ $imgWidth = default 16 .VideoWidth }}
         {{ $imgHeight = default 9 .VideoHeight }}
       {{ else }}
-        {{ if and (gt .Image.Width 0) (gt .Image.Height 0) }}
-          {{ $imgWidth = .Image.Width }}
-          {{ $imgHeight = .Image.Height }}
-        {{ end }}
+        {{ $imgWidth = .Image.Width }}
+        {{ $imgHeight = .Image.Height }}
       {{ end }}
       {{ $subwidth = add $subwidth (div (float $imgHeight) $imgWidth) }}
     {{ end }}
@@ -31,10 +29,8 @@
           {{ $imgWidth = default 16 .VideoWidth }}
           {{ $imgHeight = default 9 .VideoHeight }}
         {{ else }}
-          {{ if and (gt .Image.Width 0) (gt .Image.Height 0) }}
-            {{ $imgWidth = .Image.Width }}
-            {{ $imgHeight = .Image.Height }}
-          {{ end }}
+          {{ $imgWidth = .Image.Width }}
+          {{ $imgHeight = .Image.Height }}
         {{ end }}
         {{ $div = add $div (div (float $imgHeight) $imgWidth) }}
       {{ end }}
@@ -49,10 +45,8 @@
               {{ $imgWidth = default 16 .VideoWidth }}
               {{ $imgHeight = default 9 .VideoHeight }}
             {{ else }}
-              {{ if and (gt .Image.Width 0) (gt .Image.Height 0) }}
-                {{ $imgWidth = .Image.Width }}
-                {{ $imgHeight = .Image.Height }}
-              {{ end }}
+              {{ $imgWidth = .Image.Width }}
+              {{ $imgHeight = .Image.Height }}
             {{ end }}
             {{ if .Blank  }}
               <div style="padding-bottom: {{ div (mul 100.0 $imgHeight) $imgWidth -}}%" class="relative md:block hidden"></div>
@@ -77,10 +71,8 @@
                 {{ $imgWidth = default 16 .VideoWidth }}
                 {{ $imgHeight = default 9 .VideoHeight }}
               {{ else }}
-                {{ if and (gt .Image.Width 0) (gt .Image.Height 0) }}
-                  {{ $imgWidth = .Image.Width }}
-                  {{ $imgHeight = .Image.Height }}
-                {{ end }}
+                {{ $imgWidth = .Image.Width }}
+                {{ $imgHeight = .Image.Height }}
               {{ end }}
               {{ $dimension := div (div (mul 100.0 $imgHeight) $imgWidth) $div }}
               <div style="flex: 1 0  {{ $dimension -}}%">
