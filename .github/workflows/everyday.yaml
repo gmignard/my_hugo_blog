@@ -6,7 +6,7 @@ on:
       - .github/workflows/everyday.yaml
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" # Run this workflow every hour
+    - cron: "0 6 * * *" # Run once a day at 6:00 UTC
 
 jobs:
   daily:
@@ -21,14 +21,16 @@ jobs:
         run: |
           rm -f content/everyday/*.jpg
           ruby bin/download-lr.rb ${{ secrets.LIGHTROOM_SPACE_ID }} ${{ secrets.LIGHTROOM_ALBUM_ID }}
+      - name: Remove empty images
+        run: find content/everyday -name "*.jpg" -size 0 -delete
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
           git add -A content/everyday/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Sync the everyday album"
-            git push
+          if git diff --cached --quiet; then
+            echo "Aucun changement, skip"
+            exit 0
           fi
+          git commit -m "Sync the everyday album"
+          git push
