@@ -2,9 +2,12 @@
 {{ $src := .Image }}
 {{ $videoWidth := default 16 .VideoWidth }}
 {{ $videoHeight := default 9 .VideoHeight }}
-{{ $ratio := div (mul 100.0 $videoHeight) $videoWidth }}
+{{ $ratio := 0.0 }}
+{{ if gt $videoWidth 0 }}
+  {{ $ratio = div (mul 100.0 $videoHeight) $videoWidth }}
+{{ end }}
 
-{{ if $src }}
+{{ if and $src (gt $ratio 0.0) }}
   <div style="padding-bottom: {{ $ratio }}%" class="relative box-border block">
     <video
       autoplay

@@ -1,7 +1,7 @@
 {{/* get file that matches the filename as specified as src="" in shortcode */}}
 {{ $src := .Image }}
 
-{{ if $src }}
+{{ if and $src (gt $src.Width 0) (gt $src.Height 0) }}
   {{ $xs := "20x" }}
   {{ $md := "800x" }}
   {{ if .Ratio }}

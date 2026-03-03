@@ -15,7 +15,12 @@ class Downloader
     assets = JSON.parse(resp)["resources"]
     assets #.sort_by { |a| DateTime.parse(a["payload"]["captureDate"]) }
       .each_with_index do |a,i|
-        `wget -O content/everyday/#{i.to_s.rjust(3, "0")}.jpg https://photos.adobe.io/v2/spaces/#{@space_id}/#{a["asset"]["links"]["/rels/rendition_type/2048"]["href"]}`
+        filename = "content/everyday/#{i.to_s.rjust(3, "0")}.jpg"
+        `wget -O #{filename} https://photos.adobe.io/v2/spaces/#{@space_id}/#{a["asset"]["links"]["/rels/rendition_type/2048"]["href"]}`
+        if File.exist?(filename) && File.size(filename) == 0
+          File.delete(filename)
+          puts "⚠️ Fichier vide supprimé : #{filename}"
+        end
       end
   end
 

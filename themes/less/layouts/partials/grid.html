@@ -15,9 +15,13 @@
         {{ $imgWidth = .Image.Width }}
         {{ $imgHeight = .Image.Height }}
       {{ end }}
-      {{ $subwidth = add $subwidth (div (float $imgHeight) $imgWidth) }}
+      {{ if and (gt $imgWidth 0) (gt $imgHeight 0) }}
+        {{ $subwidth = add $subwidth (div (float $imgHeight) $imgWidth) }}
+      {{ end }}
     {{ end }}
-    {{ $width = add $width (div 1.0 $subwidth) }}
+    {{ if gt $subwidth 0.0 }}
+      {{ $width = add $width (div 1.0 $subwidth) }}
+    {{ end }}
   {{ end }}
   {{ range $cindex, $images := $columns }}
       {{ $div := 0 }}
@@ -32,8 +36,11 @@
           {{ $imgWidth = .Image.Width }}
           {{ $imgHeight = .Image.Height }}
         {{ end }}
-        {{ $div = add $div (div (float $imgHeight) $imgWidth) }}
+        {{ if and (gt $imgWidth 0) (gt $imgHeight 0) }}
+          {{ $div = add $div (div (float $imgHeight) $imgWidth) }}
+        {{ end }}
       {{ end }}
+      {{ if and (gt $div 0.0) (gt $width 0.0) }}
       {{ $colwidth := div (div 1.0 $div) $width }}
       {{ if (eq (len $columns) 1) }}
         <div class="md:flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
@@ -48,6 +55,7 @@
               {{ $imgWidth = .Image.Width }}
               {{ $imgHeight = .Image.Height }}
             {{ end }}
+            {{ if and (gt $imgWidth 0) (gt $imgHeight 0) }}
             {{ if .Blank  }}
               <div style="padding-bottom: {{ div (mul 100.0 $imgHeight) $imgWidth -}}%" class="relative md:block hidden"></div>
             {{ else }}
@@ -58,6 +66,7 @@
               {{ else }}
                 {{ if $isVideo }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
               {{ end }}
+            {{ end }}
             {{ end }}
           {{ end }}
         </div>
@@ -74,6 +83,7 @@
                 {{ $imgWidth = .Image.Width }}
                 {{ $imgHeight = .Image.Height }}
               {{ end }}
+              {{ if and (gt $imgWidth 0) (gt $imgHeight 0) }}
               {{ $dimension := div (div (mul 100.0 $imgHeight) $imgWidth) $div }}
               <div style="flex: 1 0  {{ $dimension -}}%">
                 {{ if .Blank  }}
@@ -88,8 +98,10 @@
                   {{ end }}
                 {{ end }}
               </div>
+              {{ end }}
           {{ end }}
         </div>
+      {{ end }}
       {{ end }}
     {{ end }}
   {{ end }}
