@@ -20,11 +20,7 @@ jobs:
         with:
           ruby-version: '3.0'
       - name: Fetch Everyday album
-        run: |
-          rm -f content/everyday/*.jpg
-          ruby bin/download-lr.rb ${{ secrets.LIGHTROOM_SPACE_ID }} ${{ secrets.LIGHTROOM_ALBUM_ID }}
-      - name: Remove empty images
-        run: find content/everyday -name "*.jpg" -size 0 -delete
+        run: ruby bin/download-lr.rb ${{ secrets.LIGHTROOM_SPACE_ID }} ${{ secrets.LIGHTROOM_ALBUM_ID }}
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
