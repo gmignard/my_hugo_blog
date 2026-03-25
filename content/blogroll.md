@@ -8,6 +8,8 @@ resources:
 - src: "*.webp"
 ---
 
+## Blogroll
+
 Les blogs n'ont pas disparu, mais les algorithmes les ont enfouis. La blogroll, c'est un peu l'antidote : une liste de gens dont j'aime lire les mots ou regarder les images. Des amis, des inspirations, des univers dans lesquels je reviens régulièrement.
 Si vous tenez un blog qui pourrait me plaire, envoyez-le moi.
 
