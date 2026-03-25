@@ -8,19 +8,18 @@ resources:
 - src: "*.webp"
 ---
 
-## Des chouettes blogs.
+Les blogs n'ont pas disparu, mais les algorithmes les ont enfouis. La blogroll, c'est un peu l'antidote : une liste de gens dont j'aime lire les mots ou regarder les images. Des amis, des inspirations, des univers dans lesquels je reviens régulièrement.
+Si vous tenez un blog qui pourrait me plaire, envoyez-le moi.
 
 - https://jeremyjanin.com
 - https://yvesquere.com
 - https://aliashade.com
-- https://francischouquet.com
-- https://yannickschutz.com
 - https://midnowhere.co.uk
 - https://fieldmag.com
 - https://pannier.cc
-
-## Des inspirations.
-
+- https://www.penaddict.com
+- https://baty.net
+- https://andrewlavers.co.uk
 - https://jamesbowden.net
 - https://nickpumphrey.art
 - https://chrismcclean.co.uk
