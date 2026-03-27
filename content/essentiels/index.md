@@ -12,8 +12,9 @@ resources:
 
 ### Rituels
 
-- **[Louise Carmen Honoré](https://louisecarmen.com/products/capsule-honore)** *Journaling & explorations créatives*
-- **[Stylo Plume MUJI](https://amzn.to/4rgl7Os) + [Kaweco Midnight Blue](https://amzn.to/4k7zLFs)** *Écriture posée*
+- **Carnets [Midori](https://papeterie-makkura.fr/fr/carnets/435-carnets-a5-light-ligne-md-paper-4902805152204.html?affp=23340) & [Tomoe River](https://papeterie-makkura.fr/fr/carnets/6938-carnet-tomoe-river-sanzen-a5-dot-grid-52g-4909171855517.html?affp=23340) avec couverture [Louise Carmen Honoré](https://louisecarmen.com/products/capsule-honore)** *Journaling & explorations créatives*
+- **[Stylo Plume Kaweco BRASS Sport](https://papeterie-makkura.fr/fr/stylos-plume/6228-3446-stylo-plume-kaweco-brass-sport.html?affp=23340#/taille_de_la_plume-f_fin) + [Kaweco Midnight Blue](https://papeterie-makkura.fr/fr/cartouches-d-encre/6196-cartouches-encre-kaweco-bleu-de-minuit-4250278602246.html?affp=23340)** *Écriture posée*
+- **[Stylo Plume MUJI](https://amzn.to/4sCHPSg) + [Kaweco Smeokey Grey](https://papeterie-makkura.fr/fr/cartouches-d-encre/6203-cartouches-encre-kaweco-gris-fume-4250278611323.html?affp=23340)** *Écriture alternative*
 - **Brother Deluxe 800** *Traitement de texte déconnecté*
 - **[DAK](https://www.dakcoffeeroasters.com) + [La Fumisterie](https://la-fumisterie.com)** *Torréfactions du moment*
 - **[Kindle Paperwhite](https://amzn.to/4abCut5)** *Plaisir de lire*
