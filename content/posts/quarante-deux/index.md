@@ -20,6 +20,8 @@ Plutôt que de procrastiner devant un écran, je prends ma chienne et un apparei
 Je croise Yoann qui part surfer pendant que je marche le long du GR34. Je m'écarte un peu du sentier pour fouiller ce que l'océan a laissé derrière lui. Les rochers sont glissants, l'écume de la dernière marée est encore là. Je rentre avec deux bouées qui finiront dans le jardin.
 La brume ne s'est pas levée. Mais celle de mon esprit, oui.
 
+Aujourd'hui, j'ai eu quarante deux ans.
+
 {{< photo src="42_1.webp" alt="Quarante Deux" >}}
 
 {{< photo src="42_3.webp" alt="Quarante Deux" >}}
