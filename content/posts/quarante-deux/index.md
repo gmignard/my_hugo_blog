@@ -1,7 +1,7 @@
 ---
 title: "Quarante Deux"
 seotitle: "Quarante Deux — Grégory Mignard"
-date: 2026-03-31 14:30:13 +0100
+date: 2026-03-31 13:30:13 +0100
 slug: "quarante-deux"
 categories:
 - journal
