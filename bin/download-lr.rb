@@ -30,7 +30,7 @@ class Downloader
       end
 
       puts "⬇️ Téléchargement de #{File.basename(filename)}"
-      url = "https://photos.adobe.io/v2/spaces/#{@space_id}/#{a['asset']['links']['/rels/rendition_type/2048']['href']}"
+      url = "https://lightroom.adobe.com/v2/spaces/#{@space_id}/#{a['asset']['links']['/rels/rendition_type/2048']['href']}"
       data = download_with_retry(url, File.basename(filename))
 
       if data
