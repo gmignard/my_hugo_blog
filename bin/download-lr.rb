@@ -31,17 +31,14 @@ class Downloader
 
       puts "⬇️ Téléchargement de #{File.basename(filename)}"
       url = "https://photos.adobe.io/v2/spaces/#{@space_id}/#{a['asset']['links']['/rels/rendition_type/2048']['href']}"
-      `wget -q -O #{filename} #{url}`
+      data = download_with_retry(url, File.basename(filename))
 
-      if File.exist?(filename) && File.size(filename) > 0
+      if data
+        File.open(filename, "wb") { |f| f.write(data) }
         @stats[:downloaded] += 1
       else
         puts "⚠️ Échec téléchargement #{File.basename(filename)} (403/timeout), fichier local conservé si existant"
         @stats[:failed] += 1
-        # Remove empty file left by failed download, but don't remove a pre-existing valid file
-        if File.exist?(filename) && File.size(filename) == 0
-          File.delete(filename)
-        end
       end
     end
 
@@ -57,6 +54,51 @@ class Downloader
 
     # Summary
     puts "\nBilan : #{@stats[:present]} présentes, #{@stats[:downloaded]} téléchargées, #{@stats[:failed]} échecs, #{@stats[:deleted]} supprimées"
+  end
+
+  def download_with_retry(url, label, max_retries: 2)
+    attempts = 0
+    loop do
+      attempts += 1
+      data, code = fetch_following_redirects(url)
+      puts "🔍 [DEBUG] #{label} → #{url} → HTTP #{code}"
+
+      if code == 200 && data && !data.empty?
+        return data
+      end
+
+      if attempts < max_retries
+        puts "🔄 Retry #{attempts}/#{max_retries - 1} dans 2s..."
+        sleep 2
+      else
+        return nil
+      end
+    end
+  end
+
+  def fetch_following_redirects(url, redirect_limit: 5)
+    raise "Trop de redirections" if redirect_limit == 0
+
+    uri = URI(url)
+    http = Net::HTTP.new(uri.host, uri.port)
+    http.use_ssl = (uri.scheme == "https")
+    http.open_timeout = 10
+    http.read_timeout = 30
+
+    request = Net::HTTP::Get.new(uri)
+    request["User-Agent"] = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+    response = http.request(request)
+
+    case response
+    when Net::HTTPRedirection
+      location = response["location"]
+      fetch_following_redirects(location, redirect_limit: redirect_limit - 1)
+    when Net::HTTPSuccess
+      [response.body, response.code.to_i]
+    else
+      [nil, response.code.to_i]
+    end
   end
 
   def asset_url
