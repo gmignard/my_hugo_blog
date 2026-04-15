@@ -127,18 +127,43 @@ Lire au soleil me fait du bien. Les plaisirs simples de la vie. Écouter les ois
 
 Pendant quatre bonnes heures, [François Vecchi](https://www.instagram.com/unehistoiredescalade/) enchaîne différents blocs jusqu'à voir le soleil se coucher. Il y a quelque chose de fascinant à regarder un grimpeur lire la roche, chercher la prise, tomber, recommencer. La patience, la lecture du terrain, le rapport au corps et à la pierre. La lumière est magique, ce qui aide à composer, normalement, de bonnes images.
 
-{{< photoset always="2" >}}
-{{< photo src="image_1.webp" alt="Description">}}
-{{< photo src="image_2.webp" alt="Description">}}
+{{< photoset max="3" >}}
+  {{< photo src="bloc_francois_3.webp" alt="Le tempo de Meneham" >}}
+  {{< photo src="bloc_francois_2.webp" alt="Le tempo de Meneham" >}}
+  {{< photo src="bloc_francois_1.webp" alt="Le tempo de Meneham" >}}
 {{</ photoset >}}
 
-[photoset : François Vecchi sur les blocs au coucher de soleil]
+{{< photo src="bloc_francois_6.webp" alt="Le tempo de Meneham">}}
+
+{{< photoset always="2" >}}
+{{< photo src="bloc_francois_8.webp" alt="Le tempo de Meneham">}}
+{{< photo src="bloc_francois_7.webp" alt="Le tempo de Meneham">}}
+{{</ photoset >}}
+
+{{< photoset always="2" >}}
+{{< photo src="bloc_francois_4.webp" alt="Le tempo de Meneham">}}
+{{< photo src="bloc_francois_5.webp" alt="Le tempo de Meneham">}}
+{{</ photoset >}}
 
 Le lendemain, dernier réveil dans ce camp de base. On commençait presque à se sentir chez nous. C'est le signe que la magie a opéré : on a trouvé la lenteur et la paix qu'on était venus chercher.
 
 Après un dernier petit-déjeuner, le seul pris à l'intérieur (il fait bien frais ce matin), il est temps de plier bagages et de rendre les clés du gîte. La tristesse sera de courte durée, car on croise la route de [Nico Mettil](https://www.instagram.com/le.tyblokeur/), grimpeur de blocs qui bosse à la crêperie Beurre Salé à Brest. Mais là n'est pas le sujet : il est venu grimper, et nous, photographier.
 
-[photoset : Nico Mettil / blocs à marée basse]
+{{< photo src="bloc_nico_1.webp" alt="Le tempo de Meneham">}}
+
+{{< photo src="bloc_nico_2.webp" alt="Le tempo de Meneham">}}
+
+{{< photoset always="2" >}}
+{{< photo src="bloc_nico_3.webp" alt="Le tempo de Meneham">}}
+{{< photo src="bloc_nico_5.webp" alt="Le tempo de Meneham">}}
+{{</ photoset >}}
+
+{{< photo src="bloc_nico_4.webp" alt="Le tempo de Meneham">}}
+
+{{< photoset always="2" >}}
+{{< photo src="bloc_nico_6.webp" alt="Le tempo de Meneham">}}
+{{< photo src="bloc_nico_7.webp" alt="Le tempo de Meneham">}}
+{{</ photoset >}}
 
 Contrairement à la veille, la mer est basse et on profite d'explorer des blocs habituellement inaccessibles. Grain de Café, Carte Postale, Les Salomons. Des noms de blocs qui racontent des histoires, des joies, des blessures. Chaque voie a son caractère, son histoire, ses cicatrices. Et les grimpeurs qui les parcourent y ajoutent les leurs.
 
@@ -149,5 +174,7 @@ Enfin, un dernier repas au [Bistrot des Légendes](https://www.bistrotdeslegende
 Quatre jours, c'est court. Mais c'est suffisant pour comprendre quelque chose de simple : on n'a pas besoin d'aller loin pour se sentir ailleurs. Meneham est à quarante minutes de chez moi et pourtant, j'ai eu le sentiment de revenir d'un vrai voyage. Il a suffi de s'installer quelque part, de regarder la mer monter et descendre, de marcher sans but, de laisser le lieu faire le reste.
 
 On repart apaisés et ressourcés. Avec des images plein les cartes et des souvenirs plein la tête. Et cette certitude, encore une fois, que la lenteur n'est pas un luxe. C'est un choix.
+
+{{< photo src="fin.webp" alt="Le tempo de Meneham">}}
 
 Photos additionnelles: [Jeremy Janin](https://jeremyjanin.com)
