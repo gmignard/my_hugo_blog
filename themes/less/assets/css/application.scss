@@ -503,9 +503,14 @@ span.link-subtitle {
   font-weight: 400;
   color: var(--onyx);
   opacity: 0.55;
-  margin: 0 0 1.5rem;
-  padding: 0 1.5rem;
+  max-width: 825px;
+  margin: 0 auto 1.5rem;
+  padding: 0 2rem;
   text-align: left;
+
+  @media (min-width: 1024px) {
+    padding: 0;
+  }
 }
 
 .tagline-wave {
@@ -513,7 +518,7 @@ span.link-subtitle {
   vertical-align: middle;
   fill: none;
   stroke: currentColor;
-  stroke-width: 2;
+  stroke-width: 1;
   overflow: visible;
   margin-left: 0.4rem;
 }
