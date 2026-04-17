@@ -511,7 +511,7 @@ span.link-subtitle {
 }
 
 .tagline-sub {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   display: flex;
@@ -520,18 +520,17 @@ span.link-subtitle {
   gap: 0.75rem;
 }
 
-.tagline-sub::before,
-.tagline-sub::after {
-  content: "";
+.tagline-wave {
   display: block;
-  width: 2rem;
-  height: 1px;
-  background-color: currentColor;
   flex-shrink: 0;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1;
+  overflow: visible;
 }
 
 .tagline-main {
-  font-size: 0.95rem;
+  font-size: 1.1rem;
   font-style: italic;
 }
 
