@@ -3,7 +3,7 @@
   <ul>
     {{ range $index, $element  := .Site.Menus.main }}
     <li{{ if eq $element.Identifier "work" }} class="nav-work-item"{{ end }}>
-      <a class="nav-item{{if or ($currentPage.IsMenuCurrent "main" $element) ($currentPage.HasMenuCurrent "main" $element) }} active{{end}}" href="{{ $element.URL }}" title="{{ $element.Title }}"{{ if eq $element.Identifier "work" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $element.Name }}{{ if eq $element.Identifier "work" }}<span class="nav-ext-icon">⤴</span><span class="nav-tooltip">Mon studio de production</span>{{ end }}</a>
+      <a class="nav-item{{if or ($currentPage.IsMenuCurrent "main" $element) ($currentPage.HasMenuCurrent "main" $element) }} active{{end}}" href="{{ $element.URL }}" title="{{ $element.Title }}"{{ if eq $element.Identifier "work" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $element.Name }}{{ if eq $element.Identifier "work" }}<span class="nav-ext-icon">↗</span><span class="nav-tooltip">Mon studio de production</span>{{ end }}</a>
       </li>
     {{ end }}
   </ul>
