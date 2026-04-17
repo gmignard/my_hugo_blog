@@ -497,6 +497,18 @@ span.link-subtitle {
   top: calc(var(--gap, 18px) * 0.5);
 }
 
+.homepage-tagline {
+  text-align: center;
+  font-family: var(--sans-serif-font);
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: var(--onyx);
+  opacity: 0.55;
+  letter-spacing: 0.03em;
+  margin: 0 auto 1.5rem;
+  padding: 0 1.5rem;
+}
+
 /* Easter egg - scroll reward */
 .scroll-reward {
   text-align: center;
