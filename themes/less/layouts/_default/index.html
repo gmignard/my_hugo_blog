@@ -35,7 +35,10 @@
     {{ $columns := dict }}
   {{ end }}
 {{ end }}
-  <p class="homepage-tagline">Réalisateur &amp; photographe. Je fais des images qui durent.</p>
+  <p class="homepage-tagline">
+    <span class="tagline-sub">Réalisateur &amp; photographe.</span>
+    <span class="tagline-main">Je fais des images qui durent.</span>
+  </p>
 
   <div data-pswp class="w-full px-6">
     {{ partial "grid" $rows }}

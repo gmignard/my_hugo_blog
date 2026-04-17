@@ -500,13 +500,24 @@ span.link-subtitle {
 .homepage-tagline {
   text-align: center;
   font-family: var(--sans-serif-font);
-  font-size: 0.875rem;
   font-weight: 400;
   color: var(--onyx);
   opacity: 0.55;
-  letter-spacing: 0.03em;
   margin: 0 auto 1.5rem;
   padding: 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.tagline-sub {
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+}
+
+.tagline-main {
+  font-size: 0.95rem;
+  font-style: italic;
 }
 
 /* Easter egg - scroll reward */
