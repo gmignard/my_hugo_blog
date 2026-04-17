@@ -502,7 +502,7 @@ span.link-subtitle {
 }
 
 .nav-ext-icon {
-  font-size: 0.55em;
+  font-size: 0.85em;
   vertical-align: super;
   margin-left: 0.15em;
   opacity: 0.7;
@@ -555,6 +555,21 @@ span.link-subtitle {
   stroke: var(--onyx);
   stroke-width: 1;
   opacity: 0.4;
+}
+
+.article-post hr {
+  height: 12px;
+  width: 50px;
+  margin: 2rem auto;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 50 12' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M 0,6 C 3,1 7,0 11,5 C 15,10 18,11 23,6 C 27,1 31,0 36,5 C 40,10 44,10 50,7' fill='none' stroke='%23323232' stroke-width='1'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 50px 12px;
+  opacity: 0.4;
+
+  &::after {
+    content: none;
+  }
 }
 
 .article-ps {
