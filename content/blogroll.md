@@ -15,6 +15,7 @@ Si vous tenez un blog qui pourrait me plaire, envoyez-le moi.
 
 - https://jeremyjanin.com
 - https://yvesquere.com
+- https://colinebeal.com
 - https://aliashade.com
 - https://lazybea.rs
 - https://midnowhere.co.uk
