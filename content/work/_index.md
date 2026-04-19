@@ -11,7 +11,7 @@ url: "/work/"
 
 punchline: "Il y a toujours une histoire à raconter."
 
-bio: "Réalisateur et photographe, spécialisé dans le documentaire. Du Finistère Nord jusqu'aux histoires qu'il faut aller chercher ailleurs."
+bio: "Je suis réalisateur et photographe, spécialisé dans le documentaire, du Finistère Nord jusqu'aux histoires qu'il faut aller chercher ailleurs."
 
 awards: "Plus de vingt sélections et prix en festivals depuis 2019."
 
