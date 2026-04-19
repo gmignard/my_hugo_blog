@@ -23,6 +23,15 @@ signature: "Un projet à raconter ? [hello@gregorymignard.com](mailto:hello@greg
 # ─────────────────────────────────────────────────────────────────────
 
 projects:
+
+    - title: "Tides of Time"
+    description: "Dans un monde qui consomme et jette, un homme restaure une vieille planche de surf. Une méditation sur notre rapport au temps."
+    context: "Captain Yvon Originals — 2025"
+    link_label: "Voir le film →"
+    link_url: "https://captainyvon.fr"
+    image: "tides-of-time.webp"
+    alt: "Tides of Time"
+    variant: "full"
   - title: "Vendée Globe 2024"
     description: "Trois mois dans l'intimité d'Éric Bellion, avant le plus grand tour du monde à la voile en solitaire."
     context: "Stand As One — 2024"
@@ -30,17 +39,7 @@ projects:
     link_url: "https://captainyvon.fr"
     image: "vendee-globe.webp"
     alt: "Vendée Globe 2024"
-    variant: "full"
-
-  - title: "Tides of Time"
-    description: "Dans un monde qui consomme et jette, un homme restaure une vieille planche de surf. Une méditation sur notre rapport au temps."
-    context: "Captain Yvon Originals — 2025"
-    link_label: "Voir le film →"
-    link_url: "https://captainyvon.fr"
-    image: "tides-of-time.webp"
-    alt: "Tides of Time"
     variant: "left"
-
   - title: "Immersion"
     description: "Documentaire de 52 minutes. Léa Brassy, surfeuse et apnéiste, à la rencontre de six habitants de la Manche qui vivent par et pour la mer."
     context: "Attitude Manche — 2021"
