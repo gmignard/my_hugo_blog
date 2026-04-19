@@ -11,9 +11,10 @@ url: "/work/"
 
 punchline: "Il y a toujours une histoire à raconter."
 
-bio: "Je suis réalisateur et photographe, spécialisé dans le documentaire, du Finistère Nord jusqu'aux histoires qu'il faut aller chercher ailleurs."
+bio: |
+  Je suis réalisateur et photographe. Je documente des savoir-faire, des aventures, des territoires...
 
-awards: "Plus de vingt sélections et prix en festivals depuis 2019."
+  Basé en Finistère Nord, je vais chercher les histoires partout où elles m'attendent.
 
 signature: "Un projet à raconter ? [hello@gregorymignard.com](mailto:hello@gregorymignard.com)"
 

@@ -71,11 +71,18 @@
   font-family: var(--serif-font);
   font-size: 1.25rem;
   line-height: 1.5;
-  margin: 0;
   max-width: 60ch;
 
   @media (min-width: 812px) {
     font-size: 1.5rem;
+  }
+
+  p {
+    margin: 0 0 1rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
   }
 }
 
@@ -190,16 +197,6 @@
   }
 }
 
-/* --- 6. Ligne distinctions ---------------------------------------------- */
-.work-awards {
-  font-family: var(--serif-font);
-  font-style: italic;
-  font-size: 0.85rem;
-  opacity: 0.6;
-  text-align: center;
-  margin: 2.5rem 0 0;
-}
-
 /* --- 7. Bloc Écosystème (format identique à /essentiels/) --------------- */
 .work-ecosystem {
   padding: 0.5rem 0 1rem;
@@ -278,13 +275,6 @@
   text-align: center;
   padding: 0.5rem 0 4rem;
 
-  p {
-    font-family: var(--serif-font);
-    font-size: 1rem;
-    opacity: 0.75;
-    margin: 0;
-  }
-
   a {
     border-bottom: 1px solid rgba(0,0,0,0.3);
     padding-bottom: 2px;
@@ -292,5 +282,19 @@
     &:hover {
       border-bottom-color: var(--accent);
     }
+  }
+}
+
+.outro-line {
+  font-family: var(--quote-font);
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  color: inherit;
+  margin: 0;
+
+  @media (min-width: 812px) {
+    font-size: 2rem;
   }
 }

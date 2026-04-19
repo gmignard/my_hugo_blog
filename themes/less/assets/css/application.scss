@@ -169,16 +169,16 @@ blockquote {
   font-family: var(--quote-font);
   font-weight: 400;
   font-style: normal;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   line-height: 1.5;
-  margin-left: 1.5rem;
+  margin-left: 2.5rem;
   padding: 0;
   border: 0;
   color: inherit;
 
   @media (max-width: 812px) {
-    font-size: 1.2rem;
-    margin-left: 1rem;
+    font-size: 1.35rem;
+    margin-left: 1.5rem;
   }
 }
 
