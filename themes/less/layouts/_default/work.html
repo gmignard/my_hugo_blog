@@ -10,8 +10,8 @@
 
 {{/* 1. Bloc leader anthracite full-bleed avec header clair et loop vidéo */}}
 <section class="work-hero">
-  {{ partial "header_light" . }}
-  <div class="work-hero-media">
+  {{ partial "header" . }}
+  <div class="work-hero-media mx-8 lg:mx-auto" style="max-width: 825px;">
     <video class="work-reel"
            autoplay loop muted playsinline preload="auto"
            {{ with $cover }}poster="{{ .RelPermalink }}"{{ end }}>

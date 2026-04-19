@@ -2,8 +2,6 @@
    Page Work
    ========================================================================== */
 
-/* Le body de la page work : on remonte le hero sous le header par défaut
-   (le baseof custom n'affiche pas le header global, donc rien à compenser) */
 .work-body {
   margin: 0;
 }
@@ -12,108 +10,48 @@
 .work-hero {
   background-color: #1a1a1a;
   width: 100%;
-  height: 70vh;
-  min-height: 420px;
   display: flex;
   flex-direction: column;
   overflow: hidden;
+  padding-bottom: 1.25rem;
 
   @media (max-width: 812px) {
-    height: 50vh;
-    min-height: 320px;
+    padding-bottom: 0.75rem;
   }
 }
 
-/* Header clair (logo + menu blancs) */
-.work-header {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  flex-shrink: 0;
-
-  .title a img {
-    width: inherit;
-    height: 80px;
-    margin-bottom: -8px;
-  }
-
+/* Header en mode sombre : reprend le partial standard, surcharge les couleurs */
+.header--dark {
   a, a:visited {
-    color: var(--white-text);
-    border: 0;
-    background-image: none;
-    font-weight: 300;
+    color: #DBD7D3;
   }
   a:hover {
     color: #ffffff;
-    border: 0;
-    background-image: none;
   }
 
-  .main_menu {
-    font-weight: 100;
-    font-size: 0.6rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-
-    ul {
-      display: flex;
-      justify-content: center;
-      margin: 0;
-      padding: 0;
-      list-style: none;
-
-      @media (min-width: 812px) {
-        li:not(:first-of-type)::before {
-          content: " ";
-          margin: 0 15px;
-        }
-      }
-    }
-
-    li {
-      list-style-type: none;
-      a {
-        font-family: var(--sans-serif-font);
-        font-weight: normal;
-        font-size: 0.9rem;
-        color: var(--white-text);
-        display: inline-block;
-        padding-right: 3px;
-        transition: padding 0.2s ease;
-
-        &:hover {
-          padding-left: 3px;
-          padding-right: 0;
-        }
-      }
-    }
+  .main_menu li a {
+    color: #DBD7D3;
+    &:hover { color: #ffffff; }
   }
 
   .social svg {
-    fill: var(--white-text);
-    transition: all .4s ease-in-out;
-    &:hover {
-      fill: #ffffff;
-    }
+    fill: #DBD7D3;
+    &:hover { fill: #ffffff; }
   }
 }
 
-/* Zone vidéo centrée avec padding généreux */
+/* Loop vidéo : même largeur que le header (825px), marges verticales resserrées */
 .work-hero-media {
-  flex: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 2.5rem 4rem;
+  padding: 1rem 0 0;
 
   @media (max-width: 812px) {
-    padding: 1.25rem 1.25rem 2rem;
+    padding: 0.5rem 1rem 0;
   }
 }
 
 .work-reel {
   display: block;
   width: 100%;
-  max-width: 1100px;
   aspect-ratio: 2.39 / 1;
   object-fit: cover;
   background-color: #000;
