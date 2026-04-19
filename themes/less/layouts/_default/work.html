@@ -29,19 +29,20 @@
 {{/* 5. Bloc Projets */}}
 <section class="work-projects mx-8 md:mx-auto" style="max-width: 1100px;">
   {{ range .Params.projects }}
+    {{ $project := . }}
     {{ $classes := "work-project--full" }}
     {{ if eq .variant "left" }}{{ $classes = "work-project--split work-project--left" }}{{ end }}
     {{ if eq .variant "right" }}{{ $classes = "work-project--split work-project--right" }}{{ end }}
     <article class="work-project {{ $classes }}">
       <div class="work-project-media">
-        {{ with $page.Resources.GetMatch .image }}<img src="{{ .RelPermalink }}" alt="{{ $.alt }}" loading="lazy">{{ end }}
+        {{ with $page.Resources.GetMatch .image }}<img src="{{ .RelPermalink }}" alt="{{ $project.alt }}" loading="lazy">{{ end }}
       </div>
       <div class="work-project-body">
         <h2 class="work-project-title">{{ .title }}</h2>
         <p class="work-project-desc">{{ .description }}</p>
         <p class="work-project-meta">{{ .context }}</p>
         {{ with .link_url }}
-          <p class="work-project-link"><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ $.link_label }}</a></p>
+          <p class="work-project-link"><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ $project.link_label }}</a></p>
         {{ end }}
       </div>
     </article>
