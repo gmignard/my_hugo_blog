@@ -1,0 +1,154 @@
+{{ define "main" }}
+{{ $cover := .Resources.GetMatch "cover" }}
+{{ $reel := .Resources.GetMatch "reel" }}
+{{ $vendeeGlobe := .Resources.GetMatch "vendee-globe.webp" }}
+{{ $tidesOfTime := .Resources.GetMatch "tides-of-time.webp" }}
+{{ $immersion := .Resources.GetMatch "immersion.webp" }}
+{{ $saintPierre := .Resources.GetMatch "saint-pierre.webp" }}
+{{ $slowIsBeautiful := .Resources.GetMatch "slow-is-beautiful.webp" }}
+{{ $ferdamenn := .Resources.GetMatch "ferdamenn.webp" }}
+
+{{/* 1. Bloc leader anthracite full-bleed avec header clair et loop vidéo */}}
+<section class="work-hero">
+  {{ partial "header_light" . }}
+  <div class="work-hero-media">
+    <video class="work-reel"
+           autoplay loop muted playsinline preload="auto"
+           {{ with $cover }}poster="{{ .RelPermalink }}"{{ end }}>
+      {{ with $reel }}<source src="{{ .RelPermalink }}" type="video/mp4">{{ end }}
+    </video>
+  </div>
+</section>
+
+{{/* 2 & 3. Zone texte haute : punchline + mini bio */}}
+<section class="work-intro mx-8 md:mx-auto" style="max-width: 825px;">
+  <h1 class="work-punchline">Il y a toujours une histoire à raconter.</h1>
+  <p class="work-bio">Réalisateur et photographe, spécialisé dans le documentaire. Du Finistère Nord jusqu'aux histoires qu'il faut aller chercher ailleurs.</p>
+</section>
+
+{{/* 4. Vague séparatrice */}}
+<div class="work-wave-wrap">
+  <svg class="work-wave" viewBox="0 0 50 12" width="50" height="12" aria-hidden="true"><path d="M 0,6 C 3,1 7,0 11,5 C 15,10 18,11 23,6 C 27,1 31,0 36,5 C 40,10 44,10 50,7"/></svg>
+</div>
+
+{{/* 5. Bloc Projets */}}
+<section class="work-projects mx-8 md:mx-auto" style="max-width: 825px;">
+
+  {{/* Projet 1 — PLEINE LARGEUR */}}
+  <article class="work-project work-project--full">
+    <div class="work-project-media">
+      {{ with $vendeeGlobe }}<img src="{{ .RelPermalink }}" alt="Vendée Globe 2024" loading="lazy">{{ end }}
+    </div>
+    <div class="work-project-body">
+      <h2 class="work-project-title">Vendée Globe 2024</h2>
+      <p class="work-project-desc">Trois mois dans l'intimité d'Éric Bellion, avant le plus grand tour du monde à la voile en solitaire.</p>
+      <p class="work-project-meta">Stand As One — 2024</p>
+      <p class="work-project-link"><a href="https://captainyvon.fr" target="_blank" rel="noopener noreferrer">Voir le film →</a></p>
+    </div>
+  </article>
+
+  {{/* Projet 2 — IMAGE GAUCHE / TEXTE DROITE */}}
+  <article class="work-project work-project--split work-project--left">
+    <div class="work-project-media">
+      {{ with $tidesOfTime }}<img src="{{ .RelPermalink }}" alt="Tides of Time" loading="lazy">{{ end }}
+    </div>
+    <div class="work-project-body">
+      <h2 class="work-project-title">Tides of Time</h2>
+      <p class="work-project-desc">Dans un monde qui consomme et jette, un homme restaure une vieille planche de surf. Une méditation sur notre rapport au temps.</p>
+      <p class="work-project-meta">Captain Yvon Originals — 2025</p>
+      <p class="work-project-link"><a href="https://captainyvon.fr" target="_blank" rel="noopener noreferrer">Voir le film →</a></p>
+    </div>
+  </article>
+
+  {{/* Projet 3 — PLEINE LARGEUR */}}
+  <article class="work-project work-project--full">
+    <div class="work-project-media">
+      {{ with $immersion }}<img src="{{ .RelPermalink }}" alt="Immersion" loading="lazy">{{ end }}
+    </div>
+    <div class="work-project-body">
+      <h2 class="work-project-title">Immersion</h2>
+      <p class="work-project-desc">Documentaire de 52 minutes. Léa Brassy, surfeuse et apnéiste, à la rencontre de six habitants de la Manche qui vivent par et pour la mer.</p>
+      <p class="work-project-meta">Attitude Manche — 2021</p>
+      <p class="work-project-link"><a href="https://captainyvon.fr" target="_blank" rel="noopener noreferrer">Voir le film →</a></p>
+    </div>
+  </article>
+
+  {{/* Projet 4 — IMAGE DROITE / TEXTE GAUCHE */}}
+  <article class="work-project work-project--split work-project--right">
+    <div class="work-project-media">
+      {{ with $saintPierre }}<img src="{{ .RelPermalink }}" alt="Saint-Pierre-et-Miquelon" loading="lazy">{{ end }}
+    </div>
+    <div class="work-project-body">
+      <h2 class="work-project-title">Saint-Pierre-et-Miquelon</h2>
+      <p class="work-project-desc">Un film et une série de portraits sur le plus atypique des territoires français, pour donner envie à de nouvelles familles de venir s'y installer.</p>
+      <p class="work-project-meta">Commande territoriale — 2024</p>
+      <p class="work-project-link"><a href="https://captainyvon.fr" target="_blank" rel="noopener noreferrer">Voir le film →</a></p>
+    </div>
+  </article>
+
+  {{/* Projet 5 — PLEINE LARGEUR */}}
+  <article class="work-project work-project--full">
+    <div class="work-project-media">
+      {{ with $slowIsBeautiful }}<img src="{{ .RelPermalink }}" alt="Slow is Beautiful" loading="lazy">{{ end }}
+    </div>
+    <div class="work-project-body">
+      <h2 class="work-project-title">Slow is Beautiful</h2>
+      <p class="work-project-desc">Un podcast co-animé avec Jeremy Janin, où l'on explore les passions qui prennent leur temps.</p>
+      <p class="work-project-meta">Podcast — depuis 2025</p>
+      <p class="work-project-link"><a href="https://slowisbeautiful.substack.com/podcast" target="_blank" rel="noopener noreferrer">Écouter les épisodes →</a></p>
+    </div>
+  </article>
+
+  {{/* Projet 6 — IMAGE GAUCHE / TEXTE DROITE */}}
+  <article class="work-project work-project--split work-project--left">
+    <div class="work-project-media">
+      {{ with $ferdamenn }}<img src="{{ .RelPermalink }}" alt="Ferðamenn" loading="lazy">{{ end }}
+    </div>
+    <div class="work-project-body">
+      <h2 class="work-project-title">Ferðamenn</h2>
+      <p class="work-project-desc">Zine photographique, 76 pages, tiré à 100 exemplaires. Mon premier objet imprimé, né d'un voyage en Islande avec Yves.</p>
+      <p class="work-project-meta">Auto-édition — 2023</p>
+      <p class="work-project-link"><a href="https://gregorymignard.com/shop/ferdamenn" target="_blank" rel="noopener noreferrer">Voir le projet →</a></p>
+    </div>
+  </article>
+
+  {{/* 6. Ligne distinctions */}}
+  <p class="work-awards">Plus de vingt sélections et prix en festivals depuis 2019.</p>
+</section>
+
+{{/* Vague séparatrice */}}
+<div class="work-wave-wrap">
+  <svg class="work-wave" viewBox="0 0 50 12" width="50" height="12" aria-hidden="true"><path d="M 0,6 C 3,1 7,0 11,5 C 15,10 18,11 23,6 C 27,1 31,0 36,5 C 40,10 44,10 50,7"/></svg>
+</div>
+
+{{/* 7. Bloc Écosystème */}}
+<section class="work-ecosystem mx-8 md:mx-auto" style="max-width: 825px;">
+  <ul class="work-ecosystem-list">
+    <li>
+      <strong><a href="https://captainyvon.fr" target="_blank" rel="noopener noreferrer">Captain Yvon Studio</a></strong>
+      <span class="work-ecosystem-dash">—</span>
+      <em>Mon studio de production, avec Jeremy Janin</em>
+    </li>
+    <li>
+      <strong><a href="https://aunord.fr" target="_blank" rel="noopener noreferrer">AuNord</a></strong>
+      <span class="work-ecosystem-dash">—</span>
+      <em>Plusieurs métiers, une même bannière</em>
+    </li>
+    <li>
+      <strong><a href="https://www.onepercentfortheplanet.fr" target="_blank" rel="noopener noreferrer">1% for the Planet</a></strong>
+      <span class="work-ecosystem-dash">—</span>
+      <em>1% de mon chiffre d'affaires pour des associations environnementales</em>
+    </li>
+  </ul>
+</section>
+
+{{/* Vague séparatrice */}}
+<div class="work-wave-wrap">
+  <svg class="work-wave" viewBox="0 0 50 12" width="50" height="12" aria-hidden="true"><path d="M 0,6 C 3,1 7,0 11,5 C 15,10 18,11 23,6 C 27,1 31,0 36,5 C 40,10 44,10 50,7"/></svg>
+</div>
+
+{{/* 8. Signature de fin */}}
+<section class="work-signature mx-8 md:mx-auto" style="max-width: 825px;">
+  <p><em>Un projet à raconter ? <a href="mailto:hello@gregorymignard.com">hello@gregorymignard.com</a></em></p>
+</section>
+{{ end }}

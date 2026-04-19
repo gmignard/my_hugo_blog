@@ -53,10 +53,10 @@ paginate = 12
 
 [[menu.main]]
   name = "Work"
-  title = "Réalisations"
+  title = "Work"
   weight = 1
   identifier = "work"
-  url = "https://captainyvon.fr"
+  url = "/work/"
 [[menu.main]]
   name = "Snaps"
   title = "Des photos du quotidien"

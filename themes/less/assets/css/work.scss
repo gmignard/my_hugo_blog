@@ -1,0 +1,329 @@
+/* ==========================================================================
+   Page Work
+   ========================================================================== */
+
+/* Le body de la page work : on remonte le hero sous le header par défaut
+   (le baseof custom n'affiche pas le header global, donc rien à compenser) */
+.work-body {
+  margin: 0;
+}
+
+/* --- 1. Bloc leader anthracite full-bleed ------------------------------- */
+.work-hero {
+  background-color: #1a1a1a;
+  width: 100%;
+  height: 70vh;
+  min-height: 420px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+
+  @media (max-width: 812px) {
+    height: 50vh;
+    min-height: 320px;
+  }
+}
+
+/* Header clair (logo + menu blancs) */
+.work-header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  flex-shrink: 0;
+
+  .title a img {
+    width: inherit;
+    height: 80px;
+    margin-bottom: -8px;
+  }
+
+  a, a:visited {
+    color: var(--white-text);
+    border: 0;
+    background-image: none;
+    font-weight: 300;
+  }
+  a:hover {
+    color: #ffffff;
+    border: 0;
+    background-image: none;
+  }
+
+  .main_menu {
+    font-weight: 100;
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+
+    ul {
+      display: flex;
+      justify-content: center;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+
+      @media (min-width: 812px) {
+        li:not(:first-of-type)::before {
+          content: " ";
+          margin: 0 15px;
+        }
+      }
+    }
+
+    li {
+      list-style-type: none;
+      a {
+        font-family: var(--sans-serif-font);
+        font-weight: normal;
+        font-size: 0.9rem;
+        color: var(--white-text);
+        display: inline-block;
+        padding-right: 3px;
+        transition: padding 0.2s ease;
+
+        &:hover {
+          padding-left: 3px;
+          padding-right: 0;
+        }
+      }
+    }
+  }
+
+  .social svg {
+    fill: var(--white-text);
+    transition: all .4s ease-in-out;
+    &:hover {
+      fill: #ffffff;
+    }
+  }
+}
+
+/* Zone vidéo centrée avec padding généreux */
+.work-hero-media {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2.5rem 4rem;
+
+  @media (max-width: 812px) {
+    padding: 1.25rem 1.25rem 2rem;
+  }
+}
+
+.work-reel {
+  display: block;
+  width: 100%;
+  max-width: 1100px;
+  aspect-ratio: 2.39 / 1;
+  object-fit: cover;
+  background-color: #000;
+}
+
+/* --- 2 & 3. Zone texte haute -------------------------------------------- */
+.work-intro {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  text-align: left;
+
+  @media (max-width: 812px) {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+}
+
+.work-punchline {
+  font-family: var(--title-font);
+  font-weight: 400;
+  font-size: 2.4rem;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  max-width: 65ch;
+  margin: 0 0 2rem;
+
+  @media (min-width: 812px) {
+    font-size: 3.2rem;
+  }
+}
+
+.work-bio {
+  font-family: var(--serif-font);
+  font-size: 1rem;
+  line-height: 1.6;
+  max-width: 60ch;
+  margin: 0;
+  opacity: 0.85;
+}
+
+/* --- 4. Vague séparatrice ----------------------------------------------- */
+.work-wave-wrap {
+  text-align: center;
+  padding: 3.5rem 0;
+}
+
+.work-wave {
+  display: inline-block;
+  fill: none;
+  stroke: var(--onyx);
+  stroke-width: 1;
+  opacity: 0.4;
+}
+
+/* --- 5. Bloc Projets ---------------------------------------------------- */
+.work-projects {
+  padding-bottom: 2rem;
+}
+
+.work-project {
+  margin-bottom: 5rem;
+
+  @media (min-width: 812px) {
+    margin-bottom: 6rem;
+  }
+}
+
+.work-project-media {
+  margin-bottom: 1.25rem;
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+  }
+}
+
+.work-project-title {
+  font-family: var(--title-font);
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 1.2;
+  margin: 0 0 0.5rem;
+
+  @media (min-width: 812px) {
+    font-size: 1.65rem;
+  }
+}
+
+.work-project-desc {
+  font-family: var(--serif-font);
+  font-style: italic;
+  font-size: 1rem;
+  line-height: 1.55;
+  margin: 0 0 0.75rem;
+  opacity: 0.85;
+}
+
+.work-project-meta {
+  font-family: var(--sans-serif-font);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.55;
+  margin: 0 0 0.75rem;
+}
+
+.work-project-link {
+  font-family: var(--sans-serif-font);
+  font-size: 0.85rem;
+  margin: 0;
+
+  a {
+    border-bottom: 1px solid rgba(0,0,0,0.25);
+    padding-bottom: 2px;
+    transition: border-color 0.2s ease;
+
+    &:hover {
+      border-bottom-color: var(--accent);
+    }
+  }
+}
+
+/* Alternance gauche/droite (desktop) */
+@media (min-width: 812px) {
+  .work-project--split {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    gap: 2.5rem;
+    align-items: center;
+
+    .work-project-media {
+      margin-bottom: 0;
+    }
+  }
+
+  .work-project--left {
+    .work-project-media { grid-column: 1; grid-row: 1; }
+    .work-project-body  { grid-column: 2; grid-row: 1; }
+  }
+
+  .work-project--right {
+    grid-template-columns: 40% 60%;
+    .work-project-body  { grid-column: 1; grid-row: 1; }
+    .work-project-media { grid-column: 2; grid-row: 1; }
+  }
+}
+
+/* --- 6. Ligne distinctions ---------------------------------------------- */
+.work-awards {
+  font-family: var(--serif-font);
+  font-style: italic;
+  font-size: 0.85rem;
+  opacity: 0.6;
+  text-align: center;
+  margin: 3rem 0 0;
+}
+
+/* --- 7. Bloc Écosystème ------------------------------------------------- */
+.work-ecosystem {
+  padding: 1rem 0 2rem;
+}
+
+.work-ecosystem-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    font-family: var(--sans-serif-font);
+    font-size: 0.95rem;
+    margin-bottom: 1.25rem;
+
+    &:last-child { margin-bottom: 0; }
+
+    strong {
+      font-weight: 600;
+      a { border-bottom: none; }
+    }
+
+    em {
+      font-style: italic;
+      opacity: 0.7;
+    }
+  }
+}
+
+.work-ecosystem-dash {
+  margin: 0 0.5rem;
+  opacity: 0.4;
+}
+
+/* --- 8. Signature de fin ------------------------------------------------ */
+.work-signature {
+  text-align: center;
+  padding: 1rem 0 4rem;
+
+  p {
+    font-family: var(--serif-font);
+    font-size: 1rem;
+    opacity: 0.75;
+    margin: 0;
+  }
+
+  a {
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+    padding-bottom: 2px;
+
+    &:hover {
+      border-bottom-color: var(--accent);
+    }
+  }
+}

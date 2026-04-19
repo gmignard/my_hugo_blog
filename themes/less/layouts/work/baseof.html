@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  {{ partial "head" .}}
+  <body class="leading-loose work-body">
+    {{ block "main" . }}{{ end }}
+    {{ partial "footer" . }}
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+    {{ $.Scratch.Set "jslibs" slice }}
+    {{ $libs := slice "js/photoswipe.js" "js/photoswipe-ui-default.js" "js/photoswipe-simplify.js" "js/lazyload.min.js" "js/main.js" }}
+    {{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }}
+    {{ if hugo.IsServer }}
+      <script src="{{ $js.RelPermalink }}"></script>
+    {{ else }} {{ $js := $js | minify | fingerprint "sha512"}}
+      <script src="{{ $js.RelPermalink }}"></script>
+    {{ end }}
+  </body>
+</html>

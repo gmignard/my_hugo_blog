@@ -26,6 +26,7 @@
 @import "navigation";
 @import "photogrid";
 @import "shop";
+@import "work";
 
 html {
   height: 100%;
@@ -495,53 +496,6 @@ span.link-subtitle {
   height: calc(100% - var(--gap, 18px));
   left: calc(var(--gap, 18px) * 0.5);
   top: calc(var(--gap, 18px) * 0.5);
-}
-
-.nav-work-item {
-  position: relative;
-}
-
-.nav-ext-icon {
-  font-size: 0.55em;
-  vertical-align: super;
-  margin-left: 0.15em;
-  opacity: 0.7;
-}
-
-.nav-tooltip {
-  position: absolute;
-  top: calc(100% + 8px);
-  left: 50%;
-  transform: translateX(-50%);
-  background-color: var(--onyx);
-  color: var(--white-text);
-  font-size: 0.65rem;
-  letter-spacing: 0.03em;
-  white-space: nowrap;
-  padding: 0.4rem 0.75rem;
-  border-radius: 4px;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.2s ease;
-  z-index: 10;
-
-  &::before {
-    content: "";
-    position: absolute;
-    bottom: 100%;
-    left: 50%;
-    transform: translateX(-50%);
-    border: 5px solid transparent;
-    border-bottom-color: var(--onyx);
-  }
-
-  @media (max-width: 812px) {
-    display: none;
-  }
-}
-
-.nav-work-item:hover .nav-tooltip {
-  opacity: 1;
 }
 
 .article-end {
