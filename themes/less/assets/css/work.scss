@@ -73,7 +73,6 @@
   font-size: 2.4rem;
   line-height: 1.15;
   letter-spacing: -0.01em;
-  max-width: 65ch;
   margin: 0 0 2rem;
 
   @media (min-width: 812px) {
@@ -85,7 +84,6 @@
   font-family: var(--serif-font);
   font-size: 1rem;
   line-height: 1.6;
-  max-width: 60ch;
   margin: 0;
   opacity: 0.85;
 }
@@ -174,13 +172,12 @@
   }
 }
 
-/* Alternance gauche/droite + quinconce (desktop) */
+/* Alternance gauche/droite : image qui change de côté (quinconce visuel) */
 @media (min-width: 812px) {
   .work-project--split {
     display: grid;
     gap: 3rem;
     align-items: center;
-    width: calc(100% - 3rem);
 
     .work-project-media {
       margin-bottom: 0;
@@ -189,8 +186,6 @@
 
   .work-project--left {
     grid-template-columns: 60% 40%;
-    margin-left: 0;
-    margin-right: auto;
 
     .work-project-media { grid-column: 1; grid-row: 1; }
     .work-project-body  { grid-column: 2; grid-row: 1; }
@@ -198,8 +193,6 @@
 
   .work-project--right {
     grid-template-columns: 40% 60%;
-    margin-left: auto;
-    margin-right: 0;
 
     .work-project-body  { grid-column: 1; grid-row: 1; }
     .work-project-media { grid-column: 2; grid-row: 1; }
