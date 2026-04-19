@@ -10,17 +10,15 @@
 .work-hero {
   background-color: #1a1a1a;
   width: 100%;
-  display: flex;
-  flex-direction: column;
   overflow: hidden;
-  padding-bottom: 1.25rem;
+  padding-bottom: 3.75rem;
 
   @media (max-width: 812px) {
-    padding-bottom: 0.75rem;
+    padding-bottom: 2.25rem;
   }
 }
 
-/* Header en mode sombre : reprend le partial standard, surcharge les couleurs */
+/* Header en mode sombre : reprend le partial standard (825px), surcharge les couleurs */
 .header--dark {
   a, a:visited {
     color: #DBD7D3;
@@ -40,12 +38,12 @@
   }
 }
 
-/* Loop vidéo : même largeur que le header (825px), marges verticales resserrées */
+/* Loop vidéo : 1280px centré, marges verticales généreuses autour */
 .work-hero-media {
-  padding: 1rem 0 0;
+  margin-top: 3rem;
 
   @media (max-width: 812px) {
-    padding: 0.5rem 1rem 0;
+    margin-top: 1.5rem;
   }
 }
 
@@ -60,12 +58,12 @@
 /* --- 2 & 3. Zone texte haute -------------------------------------------- */
 .work-intro {
   padding-top: 5rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2.25rem;
   text-align: left;
 
   @media (max-width: 812px) {
     padding-top: 3rem;
-    padding-bottom: 2rem;
+    padding-bottom: 1.5rem;
   }
 }
 
@@ -95,7 +93,7 @@
 /* --- 4. Vague séparatrice ----------------------------------------------- */
 .work-wave-wrap {
   text-align: center;
-  padding: 3.5rem 0;
+  padding: 2.25rem 0;
 }
 
 .work-wave {
@@ -108,7 +106,7 @@
 
 /* --- 5. Bloc Projets ---------------------------------------------------- */
 .work-projects {
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
 }
 
 .work-project {
@@ -125,7 +123,8 @@
     display: block;
     width: 100%;
     height: auto;
-    border-radius: 0;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
   }
 }
 
@@ -175,13 +174,13 @@
   }
 }
 
-/* Alternance gauche/droite (desktop) */
+/* Alternance gauche/droite + quinconce (desktop) */
 @media (min-width: 812px) {
   .work-project--split {
     display: grid;
-    grid-template-columns: 60% 40%;
-    gap: 2.5rem;
+    gap: 3rem;
     align-items: center;
+    width: calc(100% - 3rem);
 
     .work-project-media {
       margin-bottom: 0;
@@ -189,12 +188,19 @@
   }
 
   .work-project--left {
+    grid-template-columns: 60% 40%;
+    margin-left: 0;
+    margin-right: auto;
+
     .work-project-media { grid-column: 1; grid-row: 1; }
     .work-project-body  { grid-column: 2; grid-row: 1; }
   }
 
   .work-project--right {
     grid-template-columns: 40% 60%;
+    margin-left: auto;
+    margin-right: 0;
+
     .work-project-body  { grid-column: 1; grid-row: 1; }
     .work-project-media { grid-column: 2; grid-row: 1; }
   }
@@ -207,12 +213,12 @@
   font-size: 0.85rem;
   opacity: 0.6;
   text-align: center;
-  margin: 3rem 0 0;
+  margin: 2.5rem 0 0;
 }
 
-/* --- 7. Bloc Écosystème ------------------------------------------------- */
+/* --- 7. Bloc Écosystème (format identique à /essentiels/) --------------- */
 .work-ecosystem {
-  padding: 1rem 0 2rem;
+  padding: 0.5rem 0 1rem;
 }
 
 .work-ecosystem-list {
@@ -222,32 +228,71 @@
 
   li {
     font-family: var(--sans-serif-font);
-    font-size: 0.95rem;
-    margin-bottom: 1.25rem;
+    font-size: 0.9rem;
 
-    &:last-child { margin-bottom: 0; }
+    /* Mobile: empilé */
+    @media (max-width: 767px) {
+      display: block;
+      padding: 0.75rem 0;
+      border-bottom: 1px solid rgba(0,0,0,0.1);
 
-    strong {
-      font-weight: 600;
-      a { border-bottom: none; }
+      &:last-child { border-bottom: none; }
+
+      strong {
+        display: block;
+        font-weight: 600;
+        margin-bottom: 0.25rem;
+        a { border-bottom: none; }
+      }
+
+      em {
+        display: block;
+        font-style: normal;
+        opacity: 0.6;
+        font-size: 0.85rem;
+      }
     }
 
-    em {
-      font-style: italic;
-      opacity: 0.7;
+    /* Desktop: ligne avec points de suite */
+    @media (min-width: 768px) {
+      display: flex;
+      align-items: baseline;
+      padding: 0.35rem 0;
+
+      strong {
+        font-weight: 500;
+        flex-shrink: 0;
+        order: 1;
+        a { border-bottom: none; }
+      }
+
+      &::before {
+        content: "";
+        flex-grow: 1;
+        border-bottom: 1px dotted rgba(0,0,0,0.3);
+        margin: 0 0.5rem;
+        min-width: 1rem;
+        order: 2;
+      }
+
+      em {
+        flex-shrink: 0;
+        font-style: normal;
+        opacity: 0.6;
+        order: 3;
+      }
+    }
+
+    a {
+      border-bottom: none;
     }
   }
-}
-
-.work-ecosystem-dash {
-  margin: 0 0.5rem;
-  opacity: 0.4;
 }
 
 /* --- 8. Signature de fin ------------------------------------------------ */
 .work-signature {
   text-align: center;
-  padding: 1rem 0 4rem;
+  padding: 0.5rem 0 4rem;
 
   p {
     font-family: var(--serif-font);
