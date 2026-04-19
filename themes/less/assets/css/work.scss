@@ -67,25 +67,16 @@
   }
 }
 
-.work-punchline {
-  font-family: var(--title-font);
-  font-weight: 400;
-  font-size: 2.4rem;
-  line-height: 1.15;
-  letter-spacing: -0.01em;
-  margin: 0 0 2rem;
-
-  @media (min-width: 812px) {
-    font-size: 3.2rem;
-  }
-}
-
 .work-bio {
   font-family: var(--serif-font);
-  font-size: 1rem;
-  line-height: 1.6;
+  font-size: 1.25rem;
+  line-height: 1.5;
   margin: 0;
-  opacity: 0.85;
+  max-width: 60ch;
+
+  @media (min-width: 812px) {
+    font-size: 1.5rem;
+  }
 }
 
 /* --- 4. Vague séparatrice ----------------------------------------------- */
@@ -185,14 +176,14 @@
   }
 
   .work-project--left {
-    grid-template-columns: 60% 40%;
+    grid-template-columns: 3fr 2fr;
 
     .work-project-media { grid-column: 1; grid-row: 1; }
     .work-project-body  { grid-column: 2; grid-row: 1; }
   }
 
   .work-project--right {
-    grid-template-columns: 40% 60%;
+    grid-template-columns: 2fr 3fr;
 
     .work-project-body  { grid-column: 1; grid-row: 1; }
     .work-project-media { grid-column: 2; grid-row: 1; }

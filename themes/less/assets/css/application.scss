@@ -6,6 +6,7 @@
   --serif-font: "{{ .Site.Params.bodyFont }}", serif;
   --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
   --sans-serif-font: "{{ .Site.Params.sansSerifFont }}", sans-serif;
+  --quote-font: "Fraunces", Georgia, serif;
   --onyx: #323232;
   --accent: {{ .Site.Params.accentColor }};
   --white-text: #FAFAFA;
@@ -15,7 +16,7 @@
   --gap: 30px;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400&family=Space+Mono:wght@400;700&family=Inter:wght@400;500;600&display=swap');
 @import "helpers";
 @import "form";
 @import "main_header";
@@ -165,12 +166,35 @@ footer {
 
 blockquote {
   @apply mb-12;
-  font-family: var(--sans-serif-font);
-  font-size: 2.1rem;
-  line-height: 45px;
-  letter-spacing: -1px;
-  padding-left: 60px;
-  padding-right: 70px;
+  font-family: var(--quote-font);
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.4rem;
+  line-height: 1.5;
+  margin-left: 1.5rem;
+  padding: 0;
+  border: 0;
+  color: inherit;
+
+  @media (max-width: 812px) {
+    font-size: 1.2rem;
+    margin-left: 1rem;
+  }
+}
+
+/* Accroche éditoriale type "hero quote" */
+.hero-quote {
+  font-family: var(--quote-font);
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  margin: 0 0 2rem;
+
+  @media (min-width: 812px) {
+    font-size: 3rem;
+  }
 }
 
 b {
