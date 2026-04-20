@@ -11,7 +11,7 @@ url: "/work/"
 
 punchline: "Il y a toujours une histoire à raconter."
 
-bio: "Je suis réalisateur et photographe. Je documente des savoir-faire, des aventures, des territoires...<br>Basé en Finistère Nord, je vais chercher les histoires partout où elles m'attendent."
+bio: "Je suis réalisateur et photographe. Je documente des aventures, des savoir-faire, des territoires...<br>Basé en Finistère Nord, je vais chercher les histoires partout où elles m'attendent."
 
 signature: "Un projet à raconter ? [hello@gregorymignard.com](mailto:hello@gregorymignard.com)"
 
