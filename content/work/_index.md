@@ -47,7 +47,7 @@ projects:
     link_url: "https://captainyvon.fr"
     image: "immersion.webp"
     alt: "Immersion"
-    variant: "full"
+    variant: "right"
 
   - title: "Saint-Pierre-et-Miquelon"
     description: "Un film et une série de portraits sur le plus atypique des territoires français, pour donner envie à de nouvelles familles de venir s'y installer."
@@ -56,7 +56,7 @@ projects:
     link_url: "https://captainyvon.fr"
     image: "saint-pierre.webp"
     alt: "Saint-Pierre-et-Miquelon"
-    variant: "right"
+    variant: "full"
 
   - title: "Slow is Beautiful"
     description: "Un podcast co-animé avec Jeremy Janin, où l'on explore les passions qui prennent leur temps."
@@ -65,7 +65,7 @@ projects:
     link_url: "https://slowisbeautiful.substack.com/podcast"
     image: "slow-is-beautiful.webp"
     alt: "Slow is Beautiful"
-    variant: "full"
+    variant: "left"
 
   - title: "Ferðamenn"
     description: "Zine photographique, 76 pages, tiré à 100 exemplaires. Mon premier objet imprimé, né d'un voyage en Islande avec Yves."
@@ -74,7 +74,7 @@ projects:
     link_url: "https://gregorymignard.com/shop/ferdamenn"
     image: "ferdamenn.webp"
     alt: "Ferðamenn"
-    variant: "left"
+    variant: "right"
 
 # ─────────────────────────────────────────────────────────────────────
 # Bloc Écosystème
