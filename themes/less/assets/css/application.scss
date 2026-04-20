@@ -172,6 +172,7 @@ blockquote {
   font-size: 1.6rem;
   line-height: 1.5;
   margin-left: 2.5rem;
+  margin-right: 2.5rem;
   padding: 0;
   border: 0;
   color: inherit;
@@ -179,6 +180,18 @@ blockquote {
   @media (max-width: 812px) {
     font-size: 1.35rem;
     margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
+}
+
+/* Force blockquote indent inside .main wrappers (beats .main > :not(.fullwidth) auto margins) */
+.main > blockquote:not(.fullwidth) {
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+
+  @media (max-width: 812px) {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
   }
 }
 
