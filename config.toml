@@ -53,7 +53,7 @@ paginate = 12
 
 [[menu.main]]
   name = "Work"
-  title = "Work"
+  title = "Mes films et projets documentaires"
   weight = 1
   identifier = "work"
   url = "/work/"

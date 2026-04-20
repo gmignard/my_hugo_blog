@@ -1,9 +1,12 @@
 ---
 title: "Work"
-seotitle: "Work — Grégory Mignard"
-description: "Les récits que je réalise et photographie. Documentaire, océan, portraits et territoires."
+seotitle: "Réalisateur et photographe dans le Finistère — Grégory Mignard"
+description: "Films, photos, podcast, édition — une sélection de récits documentaires réalisés en Bretagne et ailleurs par Grégory Mignard, basé en Finistère Nord."
+keywords: ["réalisateur", "photographe", "documentaire", "Finistère", "Bretagne", "océan", "course au large", "Captain Yvon", "AuNord"]
 layout: "work"
 url: "/work/"
+images:
+- cover.webp
 
 # ─────────────────────────────────────────────────────────────────────
 # Textes éditables de la page
@@ -28,7 +31,7 @@ projects:
     link_label: "Voir le film →"
     link_url: "https://captainyvon.fr"
     image: "tides-of-time.webp"
-    alt: "Tides of Time"
+    alt: "Tides of Time — film de Grégory Mignard sur la restauration d'une vieille planche de surf"
     variant: "full"
 
   - title: "Vendée Globe 2024"
@@ -37,16 +40,16 @@ projects:
     link_label: "Voir le film →"
     link_url: "https://captainyvon.fr"
     image: "vendee-globe.webp"
-    alt: "Vendée Globe 2024"
+    alt: "Vendée Globe 2024 — documentaire réalisé par Grégory Mignard sur la préparation d'Éric Bellion"
     variant: "left"
-    
+
   - title: "Immersion"
     description: "Documentaire de 52 minutes. Léa Brassy, surfeuse et apnéiste, à la rencontre de six habitants de la Manche qui vivent par et pour la mer."
     context: "Attitude Manche — 2021"
     link_label: "Voir le film →"
     link_url: "https://captainyvon.fr"
     image: "immersion.webp"
-    alt: "Immersion"
+    alt: "Immersion — documentaire de 52 minutes réalisé par Grégory Mignard avec Léa Brassy"
     variant: "right"
 
   - title: "Saint-Pierre-et-Miquelon"
@@ -55,7 +58,7 @@ projects:
     link_label: "Voir le film →"
     link_url: "https://captainyvon.fr"
     image: "saint-pierre.webp"
-    alt: "Saint-Pierre-et-Miquelon"
+    alt: "Saint-Pierre-et-Miquelon — film d'attractivité réalisé par Grégory Mignard"
     variant: "full"
 
   - title: "Slow is Beautiful"
@@ -64,7 +67,7 @@ projects:
     link_label: "Écouter les épisodes →"
     link_url: "https://slowisbeautiful.substack.com/podcast"
     image: "slow-is-beautiful.webp"
-    alt: "Slow is Beautiful"
+    alt: "Slow is Beautiful — podcast co-animé par Grégory Mignard et Jeremy Janin"
     variant: "left"
 
   - title: "Ferðamenn"
@@ -73,7 +76,7 @@ projects:
     link_label: "Voir le projet →"
     link_url: "https://gregorymignard.com/shop/ferdamenn"
     image: "ferdamenn.webp"
-    alt: "Ferðamenn"
+    alt: "Ferðamenn — zine photographique de Grégory Mignard et Yves Quéré sur un voyage en Islande"
     variant: "right"
 
 # ─────────────────────────────────────────────────────────────────────
@@ -87,11 +90,11 @@ ecosystem:
 
   - name: "AuNord"
     url: "https://aunord.fr"
-    caption: "Plusieurs métiers, une même bannière"
+    caption: "Le collectif que j'ai rejoint en Finistère Nord"
 
   - name: "1% for the Planet"
     url: "https://www.onepercentfortheplanet.fr"
-    caption: "1% de mon chiffre d'affaires pour des associations environnementales"
+    caption: "Membre depuis 2022"
 
 resources:
 - src: "cover.webp"
