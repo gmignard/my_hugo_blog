@@ -34,3 +34,40 @@
     "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"Blog" ]
 }
 </script>
+{{- if eq .Section "work" }}
+{{- $cover := .Resources.GetMatch "cover" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Grégory Mignard",
+  "jobTitle": "Réalisateur et photographe",
+  "description": "Réalisateur et photographe documentaire basé en Finistère Nord, Bretagne.",
+  "url": "{{ .Site.BaseURL }}",
+  "image": "{{ with $cover }}{{ .Permalink }}{{ else }}{{ "/favicon.ico" | absURL }}{{ end }}",
+  "sameAs": [
+    "https://instagram.com/gregmignard",
+    "https://linkedin.com/in/gmignard",
+    "https://mastodon.social/@gregmignard",
+    "https://bsky.app/profile/gregorymignard.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "Bretagne",
+    "addressCountry": "FR"
+  },
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Captain Yvon Studio",
+      "url": "https://captainyvon.fr"
+    },
+    {
+      "@type": "Organization",
+      "name": "AuNord",
+      "url": "https://aunord.fr"
+    }
+  ]
+}
+</script>
+{{- end }}

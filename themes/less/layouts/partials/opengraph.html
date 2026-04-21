@@ -1,9 +1,18 @@
-<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:title" content="{{ with .Params.seotitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}" />
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
-{{ with .Params.images }}{{ range first 6 . -}}
-<meta property="og:image" content="{{ . | absURL }}" />
+{{- /* Image: prefer bundled 'cover' resource, then page images param, then auto-detected, then site default */ -}}
+{{- $cover := .Resources.GetMatch "cover" -}}
+{{- if $cover -}}
+<meta property="og:image" content="{{ $cover.Permalink }}" />
+{{ else }}{{ with .Params.images }}{{ range first 6 . -}}
+{{- $img := . -}}
+{{- with $.Resources.GetMatch $img -}}
+<meta property="og:image" content="{{ .Permalink }}" />
+{{ else -}}
+<meta property="og:image" content="{{ $img | absURL }}" />
+{{ end -}}
 {{ end }}{{ else -}}
 {{- $images := $.Resources.ByType "image" -}}
 {{- $featured := $images.GetMatch "*feature*" -}}
@@ -13,7 +22,7 @@
 {{ else -}}
 {{- with $.Site.Params.images -}}
 <meta property="og:image" content="{{ index . 0 | absURL }}"/>
-{{ end }}{{ end }}{{ end }}
+{{ end }}{{ end }}{{ end }}{{ end }}
 
 {{- if .IsPage }}
 {{- if not .PublishDate.IsZero }}<meta property="article:published_time" content="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTMLAttr }}"/>
@@ -26,8 +35,8 @@
 {{- end }}{{/* .IsPage */}}
 
 {{- with .Params.audio }}<meta property="og:audio" content="{{ . }}" />{{ end }}
-{{- with .Params.locale }}<meta property="og:locale" content="{{ . }}" />{{ end }}
-{{- with .Site.Params.title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
+<meta property="og:locale" content="{{ with .Params.locale }}{{ . }}{{ else }}fr_FR{{ end }}" />
+<meta property="og:site_name" content="{{ with .Site.Params.title }}{{ . }}{{ else }}{{ with .Site.Title }}{{ . }}{{ else }}{{ with .Site.Author.name }}{{ . }}{{ else }}Grégory Mignard{{ end }}{{ end }}{{ end }}" />
 {{- with .Params.videos }}
 {{- range . }}
 <meta property="og:video" content="{{ . | absURL }}" />

@@ -1,0 +1,52 @@
+{{- $title := .Title -}}
+{{- with .Params.seotitle }}{{ $title = . }}{{ end -}}
+
+{{- $desc := "" -}}
+{{- with .Description -}}
+  {{- $desc = . -}}
+{{- else -}}
+  {{- if .IsPage -}}
+    {{- $desc = .Summary -}}
+  {{- else -}}
+    {{- with .Site.Params.description -}}{{- $desc = . -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Image: prefer bundled 'cover' resource, then page images param, then auto-detected */ -}}
+{{- $imageURL := "" -}}
+{{- with .Resources.GetMatch "cover" -}}
+  {{- $imageURL = .Permalink -}}
+{{- else -}}
+  {{- with $.Params.images -}}
+    {{- $first := index . 0 -}}
+    {{- with $.Resources.GetMatch $first -}}
+      {{- $imageURL = .Permalink -}}
+    {{- else -}}
+      {{- $imageURL = $first | absURL -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $images := $.Resources.ByType "image" -}}
+    {{- $featured := $images.GetMatch "*feature*" -}}
+    {{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
+    {{- with $featured -}}
+      {{- $imageURL = .Permalink -}}
+    {{- else -}}
+      {{- with $.Site.Params.images -}}
+        {{- $imageURL = index . 0 | absURL -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $imageURL }}
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="{{ $imageURL }}" />
+{{- else }}
+<meta name="twitter:card" content="summary" />
+{{- end }}
+<meta name="twitter:title" content="{{ $title }}" />
+<meta name="twitter:description" content="{{ $desc }}" />
+{{- with .Site.Social.twitter }}
+<meta name="twitter:site" content="@{{ . }}" />{{ end }}
+{{- with .Params.author }}
+<meta name="twitter:creator" content="@{{ . }}" />{{ end }}

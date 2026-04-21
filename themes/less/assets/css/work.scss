@@ -1,0 +1,293 @@
+/* ==========================================================================
+   Page Work
+   ========================================================================== */
+
+.work-body {
+  margin: 0;
+}
+
+/* --- 1. Bloc leader anthracite full-bleed ------------------------------- */
+.work-hero {
+  background-color: #1a1a1a;
+  width: 100%;
+  overflow: hidden;
+  padding-bottom: 3.75rem;
+
+  @media (max-width: 812px) {
+    padding-bottom: 2.25rem;
+  }
+}
+
+/* Header en mode sombre : reprend le partial standard (825px), surcharge les couleurs */
+.header--dark {
+  a, a:visited {
+    color: #DBD7D3;
+  }
+  a:hover {
+    color: #ffffff;
+  }
+
+  .main_menu li a {
+    color: #DBD7D3;
+    &:hover { color: #ffffff; }
+  }
+
+  .social svg {
+    fill: #DBD7D3;
+    &:hover { fill: #ffffff; }
+  }
+}
+
+/* Loop vidéo : 1280px centré, marges verticales généreuses autour */
+.work-hero-media {
+  margin-top: 3rem;
+
+  @media (max-width: 812px) {
+    margin-top: 1.5rem;
+  }
+}
+
+.work-reel {
+  display: block;
+  width: 100%;
+  aspect-ratio: 2.39 / 1;
+  object-fit: cover;
+  background-color: #000;
+}
+
+/* --- 2 & 3. Zone texte haute -------------------------------------------- */
+.work-intro {
+  padding-top: 5rem;
+  padding-bottom: 2.25rem;
+  text-align: left;
+
+  @media (max-width: 812px) {
+    padding-top: 3rem;
+    padding-bottom: 1.5rem;
+  }
+}
+
+.work-bio {
+  font-family: var(--serif-font);
+  font-size: 1.25rem;
+  line-height: 1.5;
+  max-width: 60ch;
+  margin: 0;
+
+  @media (min-width: 812px) {
+    font-size: 1.5rem;
+  }
+}
+
+/* --- 4. Vague séparatrice ----------------------------------------------- */
+.work-wave-wrap {
+  text-align: center;
+  padding: 2.25rem 0;
+}
+
+.work-wave {
+  display: inline-block;
+  fill: none;
+  stroke: var(--onyx);
+  stroke-width: 1;
+  opacity: 0.4;
+}
+
+/* --- 5. Bloc Projets ---------------------------------------------------- */
+.work-projects {
+  padding-bottom: 1rem;
+}
+
+.work-project {
+  margin-bottom: 5rem;
+
+  @media (min-width: 812px) {
+    margin-bottom: 6rem;
+  }
+}
+
+.work-project-media {
+  margin-bottom: 1.25rem;
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+}
+
+.work-project-title {
+  font-family: var(--title-font);
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 1.2;
+  margin: 0 0 0.5rem;
+
+  @media (min-width: 812px) {
+    font-size: 1.65rem;
+  }
+}
+
+.work-project-desc {
+  font-family: var(--serif-font);
+  font-style: italic;
+  font-size: 1rem;
+  line-height: 1.55;
+  margin: 0 0 0.75rem;
+  opacity: 0.85;
+}
+
+.work-project-meta {
+  font-family: var(--sans-serif-font);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.55;
+  margin: 0 0 0.75rem;
+}
+
+.work-project-link {
+  font-family: var(--sans-serif-font);
+  font-size: 0.85rem;
+  margin: 0;
+
+  a {
+    border-bottom: 1px solid rgba(0,0,0,0.25);
+    padding-bottom: 2px;
+    transition: border-color 0.2s ease;
+
+    &:hover {
+      border-bottom-color: var(--accent);
+    }
+  }
+}
+
+/* Alternance gauche/droite : image qui change de côté (quinconce visuel) */
+@media (min-width: 812px) {
+  .work-project--split {
+    display: grid;
+    gap: 3rem;
+    align-items: center;
+
+    .work-project-media {
+      margin-bottom: 0;
+    }
+  }
+
+  .work-project--left {
+    grid-template-columns: 3fr 2fr;
+
+    .work-project-media { grid-column: 1; grid-row: 1; }
+    .work-project-body  { grid-column: 2; grid-row: 1; }
+  }
+
+  .work-project--right {
+    grid-template-columns: 2fr 3fr;
+
+    .work-project-body  { grid-column: 1; grid-row: 1; }
+    .work-project-media { grid-column: 2; grid-row: 1; }
+  }
+}
+
+/* --- 7. Bloc Écosystème (format identique à /essentiels/) --------------- */
+.work-ecosystem {
+  padding: 0.5rem 0 1rem;
+}
+
+.work-ecosystem-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    font-family: var(--sans-serif-font);
+    font-size: 0.9rem;
+
+    /* Mobile: empilé */
+    @media (max-width: 767px) {
+      display: block;
+      padding: 0.75rem 0;
+      border-bottom: 1px solid rgba(0,0,0,0.1);
+
+      &:last-child { border-bottom: none; }
+
+      strong {
+        display: block;
+        font-weight: 600;
+        margin-bottom: 0.25rem;
+        a { border-bottom: none; }
+      }
+
+      em {
+        display: block;
+        font-style: normal;
+        opacity: 0.6;
+        font-size: 0.85rem;
+      }
+    }
+
+    /* Desktop: ligne avec points de suite */
+    @media (min-width: 768px) {
+      display: flex;
+      align-items: baseline;
+      padding: 0.35rem 0;
+
+      strong {
+        font-weight: 500;
+        flex-shrink: 0;
+        order: 1;
+        a { border-bottom: none; }
+      }
+
+      &::before {
+        content: "";
+        flex-grow: 1;
+        border-bottom: 1px dotted rgba(0,0,0,0.3);
+        margin: 0 0.5rem;
+        min-width: 1rem;
+        order: 2;
+      }
+
+      em {
+        flex-shrink: 0;
+        font-style: normal;
+        opacity: 0.6;
+        order: 3;
+      }
+    }
+
+    a {
+      border-bottom: none;
+    }
+  }
+}
+
+/* --- 8. Signature de fin ------------------------------------------------ */
+.work-signature {
+  text-align: center;
+  padding: 0.5rem 0 4rem;
+
+  a {
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+    padding-bottom: 2px;
+
+    &:hover {
+      border-bottom-color: var(--accent);
+    }
+  }
+}
+
+.outro-line {
+  font-family: var(--quote-font);
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  color: inherit;
+  margin: 0;
+
+  @media (min-width: 812px) {
+    font-size: 2rem;
+  }
+}

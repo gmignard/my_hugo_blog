@@ -1,0 +1,79 @@
+{{ define "main" }}
+{{ $page := . }}
+{{ $cover := .Resources.GetMatch "cover" }}
+{{ $reel := .Resources.GetMatch "reel" }}
+
+{{/* 1. Bloc leader anthracite full-bleed avec header clair et loop vidéo */}}
+<section class="work-hero">
+  {{ partial "header" . }}
+  <div class="work-hero-media mx-4 lg:mx-auto" style="max-width: 1280px;">
+    <video class="work-reel"
+           autoplay loop muted playsinline preload="auto"
+           {{ with $cover }}poster="{{ .RelPermalink }}"{{ end }}>
+      {{ with $reel }}<source src="{{ .RelPermalink }}" type="video/mp4">{{ end }}
+    </video>
+  </div>
+</section>
+
+{{/* 2 & 3. Zone texte haute : punchline + mini bio */}}
+<section class="work-intro mx-8 md:mx-auto" style="max-width: 825px;">
+  <h1 class="hero-quote work-punchline">{{ .Params.punchline }}</h1>
+  <p class="work-bio">{{ .Params.bio | safeHTML }}</p>
+</section>
+
+{{/* Vague séparatrice */}}
+<div class="work-wave-wrap">
+  <svg class="work-wave" viewBox="0 0 50 12" width="50" height="12" aria-hidden="true"><path d="M 0,6 C 3,1 7,0 11,5 C 15,10 18,11 23,6 C 27,1 31,0 36,5 C 40,10 44,10 50,7"/></svg>
+</div>
+
+{{/* 5. Bloc Projets */}}
+<section class="work-projects mx-8 md:mx-auto" style="max-width: 1100px;">
+  {{ range .Params.projects }}
+    {{ $project := . }}
+    {{ $classes := "work-project--full" }}
+    {{ if eq .variant "left" }}{{ $classes = "work-project--split work-project--left" }}{{ end }}
+    {{ if eq .variant "right" }}{{ $classes = "work-project--split work-project--right" }}{{ end }}
+    <article class="work-project {{ $classes }}">
+      <div class="work-project-media">
+        {{ with $page.Resources.GetMatch .image }}<img src="{{ .RelPermalink }}" alt="{{ $project.alt }}" loading="lazy">{{ end }}
+      </div>
+      <div class="work-project-body">
+        <h2 class="work-project-title">{{ .title }}</h2>
+        <p class="work-project-desc">{{ .description }}</p>
+        <p class="work-project-meta">{{ .context }}</p>
+        {{ with .link_url }}
+          <p class="work-project-link"><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ $project.link_label }}</a></p>
+        {{ end }}
+      </div>
+    </article>
+  {{ end }}
+
+</section>
+
+{{/* Vague séparatrice */}}
+<div class="work-wave-wrap">
+  <svg class="work-wave" viewBox="0 0 50 12" width="50" height="12" aria-hidden="true"><path d="M 0,6 C 3,1 7,0 11,5 C 15,10 18,11 23,6 C 27,1 31,0 36,5 C 40,10 44,10 50,7"/></svg>
+</div>
+
+{{/* 7. Bloc Écosystème */}}
+<section class="work-ecosystem mx-8 md:mx-auto" style="max-width: 825px;">
+  <ul class="work-ecosystem-list">
+    {{ range .Params.ecosystem }}
+      <li>
+        <strong><a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a></strong>
+        <em>{{ .caption }}</em>
+      </li>
+    {{ end }}
+  </ul>
+</section>
+
+{{/* Vague séparatrice */}}
+<div class="work-wave-wrap">
+  <svg class="work-wave" viewBox="0 0 50 12" width="50" height="12" aria-hidden="true"><path d="M 0,6 C 3,1 7,0 11,5 C 15,10 18,11 23,6 C 27,1 31,0 36,5 C 40,10 44,10 50,7"/></svg>
+</div>
+
+{{/* 8. Signature de fin */}}
+<section class="work-signature mx-8 md:mx-auto" style="max-width: 825px;">
+  {{ with .Params.signature }}<p class="outro-line">{{ . | markdownify }}</p>{{ end }}
+</section>
+{{ end }}
