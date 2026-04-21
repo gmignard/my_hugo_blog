@@ -2,7 +2,7 @@
 title: Retraite à Meneham
 subtitle: Quatre jours au rythme du granit et des marées
 seotitle: "Retraite à Meneham — Grégory Mignard"
-date: 2026-04-09 13:00:00 +0200
+date: 2026-04-21 12:00:00 +0200
 slug: "retraite-meneham"
 categories:
 - aventures
@@ -17,8 +17,6 @@ resources:
 {{< photo src="cover" alt="Le tempo de Meneham">}}
 
 En regardant dans le dictionnaire, j'ai lu que la retraite est, entre autres, un lieu où l'on se retire pour vivre dans le calme ou la solitude. Point de solitude au programme cette fois, mais du calme, oui. Beaucoup de calme. Pendant quatre jours, [Meneham](https://www.meneham.bzh) serait notre camp de base, à [Jeremy](https://jeremyjanin.com) et moi.
-
-<div>{{< youtube VIDEO_ID >}}</div>
 
 Je connais bien Meneham. J'y vais en balade depuis des années, je connais ses sentiers, ses blocs de granit posés là comme des géants endormis, ses lumières changeantes selon les marées et les saisons. Mais c'est la première fois que je m'installe pour vivre au rythme du lieu. Vraiment y vivre. Pas juste passer, shooter quelques images et repartir.
 
