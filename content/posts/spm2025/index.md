@@ -1,12 +1,13 @@
 ---
-title: Saint-Pierre-et-Miquelon sous la neige
-subtitle: On savait qu'on reviendrait, on ne savait pas que ce serait sous la neige
+title: "Saint-Pierre-et-Miquelon sous la neige"
+subtitle: "On savait qu'on reviendrait, on ne savait pas que ce serait sous la neige"
 seotitle: "Saint-Pierre-et-Miquelon sous la neige — Grégory Mignard"
-date: 2025-04-26 16:00:00 +0200
+date: 2026-04-26 18:30:12 +0100
 slug: "spm2025"
 categories:
-- journal
-tags: ["Saint-Pierre-et-Miquelon", "SPM", "tournage", "hiver", "neige", "Miquelon", "île française", "Amérique du Nord", "voyage", "réalisateur", "documentaire", "Captain Yvon Studio"]
+- aventures
+- productions
+tags: ["Saint-Pierre-et-Miquelon", "voyage", "tournage", "documentaire", "Captain Yvon Studio", "île", "Miquelon", "Langlade", "archipel", "nature", "aventure", "carnet de voyage", "réalisateur", "photographe", "authenticité", "isolement"]
 description: "Retour à Saint-Pierre-et-Miquelon en mars 2025, en plein hiver. Tournage sous la neige, eau à -2°C, lièvre arctique et crêpes dans un tipi. Un territoire suspendu entre deux mondes."
 resources:
 - src: "cover.webp"
