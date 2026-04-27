@@ -16,6 +16,13 @@ punchline: "Il y a toujours une histoire à raconter."
 
 bio: "Je suis réalisateur et photographe. Je documente des aventures, des savoir-faire, des territoires...<br>Basé en Finistère Nord, je vais chercher les histoires partout où elles m'attendent."
 
+ecosystem_text: >
+  Ce que vous voyez ici est une petite sélection.
+  Le reste se trouve chez <a href="https://captainyvon.fr" target="_blank" rel="noopener noreferrer">Captain Yvon Studio</a>,
+  mon studio de production, et
+  <a href="https://aunord.fr" target="_blank" rel="noopener noreferrer">Aunord</a>,
+  le collectif que j'ai rejoint en Finistère Nord.
+
 signature: "Un projet à raconter ? [hello@gregorymignard.com](mailto:hello@gregorymignard.com)"
 
 # ─────────────────────────────────────────────────────────────────────

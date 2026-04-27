@@ -35,7 +35,13 @@
     {{ if eq .variant "right" }}{{ $classes = "work-project--split work-project--right" }}{{ end }}
     <article class="work-project {{ $classes }}">
       <div class="work-project-media">
-        {{ with $page.Resources.GetMatch .image }}<img src="{{ .RelPermalink }}" alt="{{ $project.alt }}" loading="lazy">{{ end }}
+        {{ with $page.Resources.GetMatch .image }}
+          {{ if $project.link_url }}
+            <a href="{{ $project.link_url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ $project.title }}"><img src="{{ .RelPermalink }}" alt="{{ $project.alt }}" loading="lazy"></a>
+          {{ else }}
+            <img src="{{ .RelPermalink }}" alt="{{ $project.alt }}" loading="lazy">
+          {{ end }}
+        {{ end }}
       </div>
       <div class="work-project-body">
         <h2 class="work-project-title">{{ .title }}</h2>
@@ -57,7 +63,7 @@
 
 {{/* 7. Bloc Écosystème */}}
 <section class="work-ecosystem mx-8 md:mx-auto" style="max-width: 825px;">
-  <p class="work-bio">Ce que vous voyez ici est une sélection. Le reste se trouve chez <a href="https://captainyvon.fr" target="_blank" rel="noopener noreferrer">Captain Yvon Studio</a>, mon studio avec Jeremy, et <a href="https://aunord.fr" target="_blank" rel="noopener noreferrer">AuNord</a>, le collectif que j'ai rejoint en Finistère Nord.</p>
+  <p class="work-bio">{{ .Params.ecosystem_text | safeHTML }}</p>
 </section>
 
 {{/* Vague séparatrice */}}

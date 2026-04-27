@@ -108,12 +108,23 @@
 
 .work-project-media {
   margin-bottom: 1.25rem;
+
+  a {
+    display: block;
+    border-bottom: none;
+
+    &:hover img {
+      opacity: 0.92;
+    }
+  }
+
   img {
     display: block;
     width: 100%;
     height: auto;
     aspect-ratio: 16 / 9;
     object-fit: cover;
+    transition: opacity 0.2s ease;
   }
 }
 
