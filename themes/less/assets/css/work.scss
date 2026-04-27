@@ -104,6 +104,10 @@
   @media (min-width: 812px) {
     margin-bottom: 6rem;
   }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
 }
 
 .work-project-media {
