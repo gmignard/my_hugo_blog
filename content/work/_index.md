@@ -79,23 +79,6 @@ projects:
     alt: "Ferðamenn — zine photographique de Grégory Mignard et Yves Quéré sur un voyage en Islande"
     variant: "right"
 
-# ─────────────────────────────────────────────────────────────────────
-# Bloc Écosystème
-# ─────────────────────────────────────────────────────────────────────
-
-ecosystem:
-  - name: "Captain Yvon Studio"
-    url: "https://captainyvon.fr"
-    caption: "Mon studio de production, avec Jeremy Janin"
-
-  - name: "AuNord"
-    url: "https://aunord.fr"
-    caption: "Le collectif que j'ai rejoint en Finistère Nord"
-
-  - name: "1% for the Planet"
-    url: "https://www.onepercentfortheplanet.fr"
-    caption: "Membre depuis 2022"
-
 resources:
 - src: "cover.webp"
   name: "cover"
