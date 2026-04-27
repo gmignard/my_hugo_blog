@@ -104,16 +104,31 @@
   @media (min-width: 812px) {
     margin-bottom: 6rem;
   }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
 }
 
 .work-project-media {
   margin-bottom: 1.25rem;
+
+  a {
+    display: block;
+    border-bottom: none;
+
+    &:hover img {
+      opacity: 0.92;
+    }
+  }
+
   img {
     display: block;
     width: 100%;
     height: auto;
     aspect-ratio: 16 / 9;
     object-fit: cover;
+    transition: opacity 0.2s ease;
   }
 }
 
@@ -190,77 +205,9 @@
   }
 }
 
-/* --- 7. Bloc Écosystème (format identique à /essentiels/) --------------- */
+/* --- 7. Bloc Écosystème ------------------------------------------------- */
 .work-ecosystem {
   padding: 0.5rem 0 1rem;
-}
-
-.work-ecosystem-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-
-  li {
-    font-family: var(--sans-serif-font);
-    font-size: 0.9rem;
-
-    /* Mobile: empilé */
-    @media (max-width: 767px) {
-      display: block;
-      padding: 0.75rem 0;
-      border-bottom: 1px solid rgba(0,0,0,0.1);
-
-      &:last-child { border-bottom: none; }
-
-      strong {
-        display: block;
-        font-weight: 600;
-        margin-bottom: 0.25rem;
-        a { border-bottom: none; }
-      }
-
-      em {
-        display: block;
-        font-style: normal;
-        opacity: 0.6;
-        font-size: 0.85rem;
-      }
-    }
-
-    /* Desktop: ligne avec points de suite */
-    @media (min-width: 768px) {
-      display: flex;
-      align-items: baseline;
-      padding: 0.35rem 0;
-
-      strong {
-        font-weight: 500;
-        flex-shrink: 0;
-        order: 1;
-        a { border-bottom: none; }
-      }
-
-      &::before {
-        content: "";
-        flex-grow: 1;
-        border-bottom: 1px dotted rgba(0,0,0,0.3);
-        margin: 0 0.5rem;
-        min-width: 1rem;
-        order: 2;
-      }
-
-      em {
-        flex-shrink: 0;
-        font-style: normal;
-        opacity: 0.6;
-        order: 3;
-      }
-    }
-
-    a {
-      border-bottom: none;
-    }
-  }
 }
 
 /* --- 8. Signature de fin ------------------------------------------------ */

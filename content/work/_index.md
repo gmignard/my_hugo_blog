@@ -16,6 +16,13 @@ punchline: "Il y a toujours une histoire à raconter."
 
 bio: "Je suis réalisateur et photographe. Je documente des aventures, des savoir-faire, des territoires...<br>Basé en Finistère Nord, je vais chercher les histoires partout où elles m'attendent."
 
+ecosystem_text: >
+  Ce que vous voyez ici est une petite sélection.
+  Le reste se trouve chez <a href="https://captainyvon.fr" target="_blank" rel="noopener noreferrer">Captain Yvon Studio</a>,
+  mon studio de production, et
+  <a href="https://aunord.fr" target="_blank" rel="noopener noreferrer">Aunord</a>,
+  le collectif que j'ai rejoint en Finistère Nord.
+
 signature: "Un projet à raconter ? [hello@gregorymignard.com](mailto:hello@gregorymignard.com)"
 
 # ─────────────────────────────────────────────────────────────────────
@@ -78,23 +85,6 @@ projects:
     image: "ferdamenn.webp"
     alt: "Ferðamenn — zine photographique de Grégory Mignard et Yves Quéré sur un voyage en Islande"
     variant: "right"
-
-# ─────────────────────────────────────────────────────────────────────
-# Bloc Écosystème
-# ─────────────────────────────────────────────────────────────────────
-
-ecosystem:
-  - name: "Captain Yvon Studio"
-    url: "https://captainyvon.fr"
-    caption: "Mon studio de production, avec Jeremy Janin"
-
-  - name: "AuNord"
-    url: "https://aunord.fr"
-    caption: "Le collectif que j'ai rejoint en Finistère Nord"
-
-  - name: "1% for the Planet"
-    url: "https://www.onepercentfortheplanet.fr"
-    caption: "Membre depuis 2022"
 
 resources:
 - src: "cover.webp"
