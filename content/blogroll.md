@@ -25,6 +25,8 @@ Si vous tenez un blog qui pourrait me plaire, envoyez-le moi.
 - https://baty.net
 - https://andrewlavers.co.uk
 - https://jamesbowden.net
+- https://www.abbihughes.com
+- https://www.lukegartside.com
 - https://www.ianefinch.com
 - https://nickpumphrey.art
 - https://chrismcclean.co.uk
