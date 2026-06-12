@@ -15,8 +15,8 @@ Si vous tenez un blog qui pourrait me plaire, envoyez-le moi.
 
 - https://jeremyjanin.com
 - https://yvesquere.com
+- https://forwardkrew.fr
 - https://colinebeal.com
-- https://aliashade.com
 - https://lazybea.rs
 - https://midnowhere.co.uk
 - https://fieldmag.com
@@ -30,6 +30,7 @@ Si vous tenez un blog qui pourrait me plaire, envoyez-le moi.
 - https://www.ianefinch.com
 - https://nickpumphrey.art
 - https://chrismcclean.co.uk
+- https://www.nickgreenphoto.com
 - https://jeffjohnsonstories.com
 - https://hannesbecker.com
 - https://dylangordon.com
