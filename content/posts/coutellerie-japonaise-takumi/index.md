@@ -21,7 +21,7 @@ Quand on me demande ce que je préfère dans mon métier, je n'hésite jamais à
 Entre autres, l'art de la coutellerie japonaise avec Takumi.
 Mais d'abord, un peu de contexte.
 
-C'est au détour d'un coup de fil d'un ami, un chef qui tient un comptoir à sushis renommé à Brest, que j'apprends l'existence de Takumi. J'apprends qu'il est coutelier, mais en raccrochant, je n'en sais pas beaucoup plus, si ce n'est qu'il exerce à quelques kilomètres de chez moi seulement. Inutile de dire que mon ami a semé une petite graine dans ma tête. Il faut que j'en sache plus et que je rencontre ce Takumi.  
+C'est au détour d'un coup de fil d'un ami, un chef qui tient un comptoir à sushis renommé à Brest, que j'apprends l'existence de [Takumi](https://www.instagram.com/takumi_coutellerie/). J'apprends qu'il est coutelier, mais en raccrochant, je n'en sais pas beaucoup plus, si ce n'est qu'il exerce à quelques kilomètres de chez moi seulement. Inutile de dire que mon ami a semé une petite graine dans ma tête. Il faut que j'en sache plus et que je rencontre ce Takumi.  
 Une petite recherche sur [Kagi](https://kagi.com) et je trouve quelques articles de presse locale ainsi qu'un compte Instagram qui me servira à entrer en contact avec lui.
 
 C’est ainsi que je suis rentré, un jeudi 22 janvier, dans l’univers de Takumi.
