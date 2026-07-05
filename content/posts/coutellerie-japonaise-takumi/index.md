@@ -16,7 +16,7 @@ resources:
 
 Quand on me demande ce que je préfère dans mon métier, je n'hésite jamais à répondre « les rencontres ». Car au-delà du fait de documenter et de raconter des histoires, je suis avant tout passionné par les gens passionnés. Qu'il s'agisse d'un surfeur, d'un pêcheur, d'un coutelier... Ce qui me plait le plus, c'est de me faire embarquer dans un univers raconté par celui qui le vit. Je suis curieux de nature et, forcément, cette curiosité animée d'un profond désir de rencontres me permet de documenter pas mal de choses.
 
-<div>{{< youtube 46swpGXso_k >}}</div>
+<div>{{< youtube tuNVPL3GDbU >}}</div>
 
 Entre autres, l'art de la coutellerie japonaise avec Takumi.
 Mais d'abord, un peu de contexte.
