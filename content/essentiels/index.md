@@ -32,6 +32,8 @@ resources:
 - **[Fuji X-H2S](https://dp.gt/a/96cbwbtsa)** *Le coeur de mon [setup vidéo Run & Gun](https://gregorymignard.com/setup-video-fuji-xh2s/)*
 - **[Fuji X-E5](https://dp.gt/a/l40v10yie)** *L’appareil du quotidien*
 - **[Dji Air 3](https://dp.gt/a/s0jvpf19d)** *Le drone du moment*
+- **[Dji Osmo Pocket 3](https://dp.gt/a/377gat7mb)** *La mini caméra surprenante*
+- **[Dji Osmo Action 6](https://dp.gt/a/l383k0nmg)** *Action Cam*
 - **[Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/)** *Un réflex argentique moderne*
 - **[Nikon FM2n](https://gregorymignard.com/nikon-fm2/)** *Une légende argentique*
 - **[Mamiya m645 1000s](https://gregorymignard.com/mamiya-m645-1000s/)** *Mon moyen format*
@@ -42,10 +44,8 @@ resources:
 - **[Nikkor Ai 24mm f/2.8](https://prf.hn/l/RlyeLMp)** *Optique vintage*
 - **[Nikkor AF-D 35mm f/2](https://prf.hn/l/Oqn0enN)** *Optique AF vintage*
 - **Nikkor pré-Ai 55mm f/1.2** *Optique vintage*
-- **Nikkor pré-Ai 85mm f/1.8** *Optique vintage*
 - **Nikkor AF-D 28-105mm f/3.5-4.5 Macro** *Un zoom pour le Nikon F100*
 - **[Sigma X 18-50mm f/2.8](https://dp.gt/a/mmfzseo04)** *Mon zoom tout terrain*
-- **[Viltrox X 23mm f/1.4](https://dp.gt/a/0zn0zsco)** *Un classique*
 - **[Fuji XF 27mm f/2.8](https://dp.gt/a/g8nubf1rk)** *Un pancake idéal avec le X-E5*
 - **[Fuji XF 33mm f/1.4](https://dp.gt/a/6oaicye68)** *Mon objectif favori*
 - **[Viltrox X 75mm f/1.2](https://dp.gt/a/23f79gmpl)** *Une optique très surprenante*
@@ -57,7 +57,6 @@ resources:
 ### Accessoires
 
 - **[Aquatech EDGE](https://www.photospecialist.fr/aquatech-edge-fujifilm-x-h2s-orange-12436597)** *Le caisson étanche du X-H2S*
-- **[Joby SeaPal](https://dp.gt/a/hskhtrlzr)** *Mon petit caisson étanche compact*
 - **[Dji RS4 Mini](https://dp.gt/a/qctcdeddr)** *Un stabilisateur compact*
 - **[Atomos Shinobi](https://dp.gt/a/cuqwspjz)** *Moniteur externe*
 - **[Cage Tilta](https://dp.gt/a/ca4zz6v8)** *Cage vidéo → [Voir mon setup vidéo complet](https://gregorymignard.com/setup-video-fuji-xh2s/)*
@@ -67,7 +66,6 @@ resources:
 ### Audio
 
 - **[Zoom F3](https://dp.gt/a/wan28fm7)** *Field recorder*
-- **[Zoom H1n](https://dp.gt/a/cbxe7g4am)** *Enregistreur compact*
 - **[EarSight Thumb](https://immersivesoundscapes.com/fr/earsight-thumb-microphones/#!/EARSIGHT-THUMB-Stereo-pair/p/502321903)** *micros binauraux*
 - **[Røde VideoMic NTG](https://dp.gt/a/mlxro1dw)** *Micro shotgun*
 - **[Hollyland Lark M2](https://dp.gt/a/fdk7wd7l)** *Micro sans fil*
