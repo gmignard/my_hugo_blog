@@ -11,6 +11,10 @@ paginate = 12
 [build]
   writeStats = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [author]
   name = "Grégory Mignard"
 
