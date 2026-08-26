@@ -71,8 +71,6 @@ Un jour de vent, on va au Diamant. Ça souffle fort et en passant devant l'étan
 Un matin, une douleur affreuse me lance au niveau des reins, assez violente pour filer aux urgences de l'hôpital. Verdict : colique néphrétique. Ce n'est pas exactement le genre d'expérience que j'étais venu chercher, mais comme tout ici, on n'attend pas. Prise en charge, examens, diagnostic, sortie. Quarante-cinq minutes montre en main. Ça change un peu de ce que je connais des urgences.
 Et comme il en faut plus pour gâcher une journée pareille, on part randonner dans la montagne dans la foulée. Je retrouve des sentiers que j'avais empruntés en mars 2025, dans le froid et la neige. Cette fois je suis en short et j'ai chaud. On traverse des petites rivières, on se sent seuls au monde, la vue sur la mer et l'Île aux Marins est magnifique. Être en montagne et entendre des goélands, c’est pas banal.
 
-{{< photo src="cover" alt="En rando sur les hauteurs de Saint-Pierre" >}}
-
 Sur la route du retour d'une autre randonnée, entre l'Anse à Pierre et l'Anse à Dinand, on passe devant la caserne des pompiers, garage entrouvert. Mon fils a 7 ans et une passion pour les pompiers, on se devait d'y passer une tête. On finit par papoter un bon moment avec le pompier de garde, qui nous raconte tout un tas de choses, de son métier à sa vie sur l'archipel. On était venus voir un camion, on repart avec une histoire. C'est un peu le principe ici.
 Un autre jour, c'est *La Belle Poule* qu'on retrouve à quai, venue de Brest et sur le point de terminer une mission de plusieurs mois à travers l'Atlantique. On la visite. Un peu de chez nous, ici, de l'autre côté de l'océan. Je crois que j'aurais adoré vivre ce genre de mission quand j'étais encore dans la Marine.
 
