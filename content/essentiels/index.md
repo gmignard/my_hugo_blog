@@ -32,7 +32,7 @@ resources:
 - **[Fuji X-H2S](https://dp.gt/a/96cbwbtsa)** *Le coeur de mon [setup vidéo Run & Gun](https://gregorymignard.com/setup-video-fuji-xh2s/)*
 - **[Fuji X-E5](https://dp.gt/a/l40v10yie)** *L’appareil du quotidien*
 - **[Dji Air 3](https://dp.gt/a/s0jvpf19d)** *Le drone du moment*
-- **[Dji Osmo Pocket 3](https://dp.gt/a/377gat7mb)** *La mini caméra surprenante*
+- **[Dji Osmo Pocket 4P](https://dp.gt/a/2eajb0pxm)** *Une mini caméra*
 - **[Dji Osmo Action 6](https://dp.gt/a/l383k0nmg)** *Action Cam*
 - **[Nikon F100](https://gregorymignard.com/le-maroc-avec-un-nikon-f100/)** *Un réflex argentique moderne*
 - **[Nikon FM2n](https://gregorymignard.com/nikon-fm2/)** *Une légende argentique*
