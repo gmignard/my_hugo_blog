@@ -57,7 +57,6 @@ resources:
 ### Accessoires
 
 - **[Aquatech EDGE](https://www.photospecialist.fr/aquatech-edge-fujifilm-x-h2s-orange-12436597)** *Le caisson étanche du X-H2S*
-- **[Dji RS4 Mini](https://dp.gt/a/qctcdeddr)** *Un stabilisateur compact*
 - **[Atomos Shinobi](https://dp.gt/a/cuqwspjz)** *Moniteur externe*
 - **[Cage Tilta](https://dp.gt/a/ca4zz6v8)** *Cage vidéo → [Voir mon setup vidéo complet](https://gregorymignard.com/setup-video-fuji-xh2s/)*
 - **[NiSi Swift ND](https://dp.gt/a/s5bfrk68j)** *Filtres variables*
