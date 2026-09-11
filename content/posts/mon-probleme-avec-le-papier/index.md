@@ -2,7 +2,7 @@
 title: Mon problème avec le papier
 subtitle: Et pas qu'avec le papier...
 seotitle: "Mon problème avec le papier — Grégory Mignard"
-date: 2026-09-11 10:00:00 +0200
+date: 2026-09-11 09:30:00 +0200
 slug: "mon-probleme-avec-le-papier"
 categories:
 - journal
