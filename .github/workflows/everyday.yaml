@@ -15,10 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0'
+          ruby-version: '3.4'
       - name: Fetch Everyday album
         run: ruby bin/download-lr.rb ${{ secrets.LIGHTROOM_SPACE_ID }} ${{ secrets.LIGHTROOM_ALBUM_ID }}
       - name: Commit and push changes
