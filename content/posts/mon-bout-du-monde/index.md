@@ -1,4 +1,17 @@
-
+---
+title: Mon bout du monde
+seotitle: "Mon bout du monde — Grégory Mignard"
+date: 2026-11-02 13:00:00 +0100
+slug: "mon-bout-du-monde"
+categories:
+- journal
+tags: ["Finistère", "Bretagne", "Tempête", "Lieu de vie", "Pêche", "Surf", "Kite", "Bellyboard", "Famille", "Happy Place"]
+description: "On part chercher le vent et le froid aux Lofoten ou en Islande, et on râle quand c'est notre quotidien. Éloge de mon bout du monde, tempêtes comprises."
+resources:
+- src: "cover.webp"
+  name: "cover"
+- src: "*.webp"
+---
 
 Il y a quelques jours, je suis allé pêcher avec mes enfants. Nous n’avons pas croisé la route du moindre poisson, mais nous avons passé un bon moment dehors, tous les trois. Il faisait beau, le décor était magnifique.
 
