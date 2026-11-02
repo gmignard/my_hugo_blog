@@ -17,7 +17,7 @@ Il y a quelques jours, je suis allé pêcher avec mes enfants. Nous n’avons pa
 
 {{< photo src="leurres.webp" alt="Mon bout du monde">}}
 
-C’est un endroit que je connais depuis l’enfance, et pourtant il me rend heureux. J’ai partagé une photo de cet instant à [Jeremy](https://jeremyjanin.com), qui m’a répondu un truc du genre : « Je suis tellement jaloux de ton accès à la nature… »  
+C’est un endroit que je connais depuis l’enfance, et pourtant il me rend heureux. J’ai partagé une photo de cet instant à [Jeremy](https://jeremyjanin.com), qui m’a répondu un truc du genre : « Je suis tellement jaloux de ton accès à la nature. »  
 Il a raison. Tout le monde n’a pas cette chance d’avoir un accès à la nature avec ce genre de décors. Je crois que je lui ai répondu quelque chose dans ce style : « J’essaye d’en garder cette pleine conscience, mais c’est tellement facile de banaliser son lieu de vie. »
 
 {{< photo src="cote_fleurs.webp" alt="Mon bout du monde">}}
