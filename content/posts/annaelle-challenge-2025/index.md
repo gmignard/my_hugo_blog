@@ -1,4 +1,18 @@
-
+---
+title: Là où la terre s’arrête
+subtitle: Deux jours sur Rosservo pour l’ultime Annaëlle Challenge
+seotitle: "Annaëlle Challenge : récit de l’ultime édition — Grégory Mignard"
+date: 2026-11-11 10:30:00 +0100
+slug: "annaelle-challenge-2025"
+categories:
+- aventures
+tags: ["Annaëlle Challenge", "Bodyboard", "Surf", "Finistère nord", "Rosservo", "Bretagne", "Tournage"]
+description: "Récit de deux jours sur l’île de Rosservo, au large du Finistère nord, pour la neuvième et dernière édition de l’Annaëlle Challenge, en novembre 2025."
+resources:
+- src: "cover.webp"
+  name: "cover"
+- src: "*.webp"
+---
 
 Il y a un an jour pour jour, je débarquais sur un îlot pas plus grand qu’un parking de supermarché, au large du Finistère nord, pour la dernière édition de l’Annaëlle Challenge. J’en suis revenu avec des images qui attendent leur moment.
 
